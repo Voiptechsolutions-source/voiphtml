@@ -1365,7 +1365,7 @@ function submitForm() {
 
 // Add a 1-second delay before redirecting
 setTimeout(function() {
-    window.location.href = "https://wa.me/+971504583131";
+    window.location.href = "thank-you.php";
 }, 1000);  // 1-second delay before redirection
 		   
 		   
@@ -1582,7 +1582,7 @@ function submitForm1() {
 
 			// Add a 1-second delay before redirecting - testing for tracking in google ad
 			setTimeout(function() {
-				window.location.href = "https://wa.me/+971504583131";
+				window.location.href = "thank-you.php";
 			}, 150);  // 1-second delay before redirection
 		
 			
