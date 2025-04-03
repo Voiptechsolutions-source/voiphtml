@@ -183,7 +183,7 @@
                 <div class="col-md-12 text-center header-left-content mt-5">
                     <h1>Thanks for submitting!</h1>
                     
-                    <p>Your message has been sent!</p>
+                    <p>You can reach us now</p>
 
 <a href="https://wa.me/+971504583131" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-inline-flex align-items-center  justify-content-center whats-btn ">
 <span class="">

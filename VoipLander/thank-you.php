@@ -276,7 +276,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="w-full  flex flex-col gap-y-3 items-center text-center md:text-left">
                     
                     <h1 class="text-white text-6xl md:text-8xl w-full text-center">Thanks for submitting!</h1>
-                    <p class="text-white text-xl font-semibold mb-4 w-full text-center">Your message has been sent!</p>
+                    <p class="text-white text-xl font-semibold mb-4 w-full text-center">You can reach us now</p>
 
                     <div class="flex flex-wrap gap-2 justify-center">
                         <a href="https://wa.me/+971504583131" target="_blank" class="bg-white text-[#e5462c] py-2 px-6 rounded-md text-3xl flex gap-2 items-center self-center md:self-start"><span class="flex items-center"><img src="images/whatsapp-icon.png" alt="" style="width: 30px"/></span> WhatsApp </a> 
