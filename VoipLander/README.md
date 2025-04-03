@@ -1,1 +1,1 @@
-This is folder2
+npx @tailwindcss/cli -i ./css/style.css -o ./css/out.css --watch   
