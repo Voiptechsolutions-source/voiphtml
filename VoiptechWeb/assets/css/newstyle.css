@@ -520,6 +520,30 @@ footer .contact-icons svg{
     .logo {
         margin-bottom: 15px;
     }
+    .about-banner .banner-content h1{
+        font-size: 60px;
+    }
+    .about-banner .banner-content h1 .text-sm {
+        font-size: 24px;
+        font-weight: normal;
+        line-height: 22px;
+    }
+    .about-banner .banner-content h1 span {
+        line-height: 55px;
+    }
+    .banner-content p {
+        font-size: 18px;
+        margin: 30px 0;
+    }
+    .biz-boxes ._box {
+        margin-bottom: 20px;
+    }
+    .vid-box .vid-thumb{
+        position: relative;
+        margin: 40px 0;
+        transform: translateX(-50%);
+    }
+    .who-we-are .banner-card{width: 100%;}
 }
 @media (max-width: 767.98px) {
     .banner-content h1 {
@@ -587,5 +611,8 @@ footer .contact-icons svg{
     }
     .telegramid {
         justify-content: center;
+    }
+    .about-banner .banner-content {
+        max-width: 100%;
     }
 }
