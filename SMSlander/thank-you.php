@@ -185,7 +185,7 @@
                     
                     <p>You can reach us now</p>
 
-<a href="https://wa.me/+971504583131" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-inline-flex align-items-center  justify-content-center whats-btn ">
+<a href="https://wa.me/+971559372131" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-inline-flex align-items-center  justify-content-center whats-btn ">
 <span class="">
   <img src="images/whatsapp-icon.png" class="w-50">
   </span> 
@@ -253,7 +253,7 @@ Call Us
                     <li><a href="https://www.facebook.com/VoIPTechSolutions" target="_blank"><img src="images/fb-icon.png" alt="" class="img-fluid"></a></li>
                     <li><a href="https://www.instagram.com/voiptechsolutions" target="_blank"><img src="images/insta-icon.png" class="img-fluid"></a></li>
                     <li><a href="https://www.linkedin.com/company/voiptechsolutions" target="_blank"><img src="images/linkedin-icon.png" class="img-fluid"></a></li>
-                    <li><a href="https://wa.me/+971504583131" target="_blank"><img src="images/whatsapp-icon.png" class="img-fluid"></a></li>
+                    <li><a href="https://wa.me/+971559372131" target="_blank"><img src="images/whatsapp-icon.png" class="img-fluid"></a></li>
                     <li><a href="tel:+917949107742" target="_blank"><img src="images/call-icon.png" class="img-fluid"></a></li>
                 </ul>
             </div>
@@ -371,7 +371,7 @@ Call Us
 
 <div class="position-fixed d-flex justify-content-center gap-4 align-items-center d-md-none col-12 bottom-0  p-2 z-11 floating-contact">
         <div><a href="tel:+917949107742" class="flex gap-2 items-center text-white pr-4 border-r-1 border-white font-semibold"> Call Us <img src="images/icons/ph-icn.png" alt=""></a></div>
-<div><a href="https://wa.me/+971504583131" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt=""></a></div>
+<div><a href="https://wa.me/+971559372131" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt=""></a></div>
 </div>
 
 

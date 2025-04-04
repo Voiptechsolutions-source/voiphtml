@@ -277,7 +277,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h5 class="text-white text-3xl md:text-5xl w-full">Switch to Our</h5>
                     <h1 class="text-white text-6xl md:text-8xl w-full">Call Center Solutions</h1>
                     <p class="text-white text-xl font-semibold mb-4 w-full">Cloud-based VoIP solutions for the modern business that is seamless, scalable, and affordable </p>
-                    <a href="https://wa.me/+971504583131" target="_blank" class="bg-white text-[#e5462c] py-2 px-6 rounded-md text-3xl flex gap-2 items-center self-center md:self-start">7 days free trial <span class="flex items-center"><img src="images/right-ang.png" alt="" class="w-[10px]"/></span></a> 
+                    <a href="https://wa.me/+971559372131" target="_blank" class="bg-white text-[#e5462c] py-2 px-6 rounded-md text-3xl flex gap-2 items-center self-center md:self-start">7 days free trial <span class="flex items-center"><img src="images/right-ang.png" alt="" class="w-[10px]"/></span></a> 
                     <div class="as-seen-on mt-2 text-white">
                         <p>As seen on</p>
                         <div class="flex gap-2 flex-wrap justify-center as-seen-on-logos">
@@ -714,7 +714,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a href="https://www.facebook.com/VoIPTechSolutions" target="_blank"><img src="images/icons/fb.png" alt="" class="w-9"/></a>
                         <a href="https://www.instagram.com/voiptechsolutions" target="_blank"><img src="images/icons/insta.png" alt="" class="w-9"/></a>
                         <a href="https://www.linkedin.com/company/voiptechsolutions" target="_blank"><img src="images/icons/linkedin.png" alt="" class="w-9"/></a>
-                        <a href="https://wa.me/+971504583131" target="_blank"><img src="images/icons/whatsapp.png" alt="" class="w-9"/></a>
+                        <a href="https://wa.me/+971559372131" target="_blank"><img src="images/icons/whatsapp.png" alt="" class="w-9"/></a>
                     </div>
                 </div>
                 <div class="text-white text-center lg:text-left">
@@ -873,7 +873,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- Mobile Contact Buttons -->
     <div class="fixed flex justify-center gap-4 items-center md:hidden w-full bottom-0 bg-[rgba(0,0,0,0.7)] p-2 z-11">
         <div ><a href="tel:+917949107742" class="flex gap-2 items-center text-white pr-4 border-r-1 border-white font-semibold"> Call Us <img src="images/icons/ph-icn.png" alt="" /></a></div>
-        <div ><a href="https://wa.me/+971504583131" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt="" /></a></div>
+        <div ><a href="https://wa.me/+971559372131" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt="" /></a></div>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
