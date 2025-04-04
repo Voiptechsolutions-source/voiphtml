@@ -233,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <li><a href="#" class="form-popup">Contact Us</a></li>
                                 </ul>
                             </div>
-                            <a href="#" class="hidden md:block bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a>
+                            <a href="https://wa.me/+971559372131" target="_blank" class="hidden md:block bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a>
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li><a href="https://www.voiptechsolutions.com/services/voip">Services</a></li>
                         <li><a href="https://www.voiptechsolutions.com/faq">FAQ</a></li>
                         <li><a href="#" class="form-popup">Contact Us</a></li>
-                        <li><a href="#" class=" bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a></li>
+                        <li><a href="https://wa.me/+971559372131" target="_blank" class=" bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a></li>
                     </ul>
                 </div>
             </nav>
