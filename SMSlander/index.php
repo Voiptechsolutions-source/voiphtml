@@ -257,7 +257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div> -->
                 <!-- Get Started Button -->
-                <a class="btn btn-primary ms-3" href="#dataform" >Get Started</a>
+                <a class="btn btn-primary ms-3" href="https://wa.me/+971559372131" target="_blank" >Get Started</a>
                 </div>
             </div>
         </nav>
