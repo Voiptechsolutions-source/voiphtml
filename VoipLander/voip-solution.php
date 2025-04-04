@@ -379,7 +379,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        
                         <button type="button" id="send_button" class=" w-full bg-[#ff6c24]  text-white py-2 rounded-md cursor-pointer">Get a Free Demo</button>
 						
-						<div class="thankyou-msg1"></div>
+					
                     </form>
 
                 </div>
@@ -848,7 +848,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <button type="button" onclick="generateCaptcha2()" class="w-full bg-[#333] md:w-1/2 text-white py-2 rounded-md cursor-pointer">Refresh CAPTCHA</button>
 
                 <button type="button" id="send_button1" class="bg-[#ff6c24] text-white py-2 rounded-md cursor-pointer">Get a Free Demo</button>
-				<div class="thankyou-msg2"></div>
+			
             </form>
         </div>
     </div>
@@ -1252,67 +1252,6 @@ if (!/^\d+$/.test(captcha1)) {
 }
 
 
-//        function submitForm() {
-
-//     // Get form data
-//     const formElement = document.getElementById('dataform'); // Fixed id reference
-//     const formData = new FormData(formElement);
-//     const jsonData = {};
-
-//     // Convert form data to JSON
-//     formData.forEach((value, key) => {
-//         jsonData[key] = value;
-//     });
-
-//     // Send data as JSON to the API
-//     fetch('https://voip.voiptechsolutions.com/api.php', {
-//         method: 'POST',
-//         headers: {
-//             'Content-Type': 'application/json'
-//         },
-//         body: JSON.stringify(jsonData)
-//     })
-//     .then(response => {
-//         // Check if the response is OK
-//         if (response.ok) {
-//             const contentType = response.headers.get('content-type');
-//             if (contentType && contentType.includes('application/json')) {
-//                 return response.json();
-//             } else {
-//                 throw new Error('Expected JSON response but received something else.');
-//             }
-//         } else {
-//             throw new Error(`HTTP Error: ${response.status}`);
-//         }
-//     })
-//     .then(data => {
-//         console.log('Success:', data);
-        
-//      //  alert('Thank You For Showing Interest, We Will Call You Soon!');
-//        // alert(data.message || 'Thank You For Showing Interest, We Will Call You Soon!');
-
-//         // Reset form on success
-//         if (data.status === 'success') {
-        
-          
-//             formElement.reset();
-// 			alert("Your Data Has Been Successfully Submitted.");
-//             window.location.href = "https://wa.me/917008220621";
-            
-//            // var myModal = new bootstrap.Modal(document.getElementById('contactusModal'));
-    
-//     // Show the modal using the API
-//    // myModal.show();
-          
-            
-            
-//         }
-//     })
-//     .catch(error => {
-//         console.error('Error:', error);
-//         alert('There was an error submitting the form. Please try again later.');
-//     });
-// }
 
 // Form submission function
 function submitForm() {
@@ -1356,13 +1295,7 @@ function submitForm() {
         console.log('Success:', data);
         if (data.status === 'success') {
             formElement.reset();
-			document.getElementsByClassName('thankyou-msg1')[0].innerText = 'Thank you! We have received your message and will get back to you Shortly.';
-			document.getElementsByClassName('thankyou-msg1')[0].style.display = 'block';
-			
-		setTimeout(function() {
-    alert('Your Data Has Been Successfully Submitted.');
-}, 200);  // Delay alert for 200 milliseconds
-
+		
 // Add a 1-second delay before redirecting
 setTimeout(function() {
     window.location.href = "thank-you.php";
@@ -1572,14 +1505,7 @@ function submitForm1() {
 
             formElement1.reset();  // Reset form
 			
-			document.getElementsByClassName('thankyou-msg2')[0] = 'Thank you! We have received your message and will get back to you Shortly.';
-			document.getElementsByClassName('thankyou-msg2')[0].style.display = 'block';
-			
-					  
-					setTimeout(function() {
-				alert('Your Data Has Been Successfully Submitted.');
-			}, 100);  // Delay alert for 200 milliseconds
-
+		
 			// Add a 1-second delay before redirecting - testing for tracking in google ad
 			setTimeout(function() {
 				window.location.href = "thank-you.php";
