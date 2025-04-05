@@ -28,6 +28,13 @@ html,body{
 .banner-content {
 	max-width: 620px;
 }
+.inner-banner .banner-content {
+	max-width: 770px;
+}
+.inner-banner .banner-content p {
+	font-size: 18px;
+	margin: 15px 0 30px;
+}
 .banner-content h1 {
 	font-size: 46px;
 	font-weight: 900;
@@ -102,6 +109,9 @@ section h2{
     padding: 80px 0;
 }
 .mt-80{margin-top: 80px;}
+.mb-80 {
+    margin-bottom: 80px;
+}
 ._feat-box h5 {
 	font-weight: 600;
 }
@@ -469,6 +479,73 @@ footer .contact-icons svg{
 	position: relative;
 	z-index: 9;
 	background: #fff;
+}
+#main #faq .card {
+    margin-bottom: 30px;
+    border: 0;
+  }
+  
+  #main #faq .card .card-header {
+    border: 0;
+    -webkit-box-shadow: 0 0 20px 0 rgba(213, 213, 213, 0.5);
+            box-shadow: 0 0 20px 0 rgba(213, 213, 213, 0.5);
+    border-radius: 2px;
+    padding: 0;
+  }
+  
+  #main #faq .card .card-header .btn-header-link {
+	display: flex;
+	text-align: left;
+	background: #fff;
+	color: var(--primary-color);
+	padding: 20px;
+	font-weight: bold;
+	border: 2px solid var(--primary-color);
+    align-items: center;
+    justify-content: space-between;
+}
+  
+  #main #faq .card .card-header .btn-header-link:after {
+    content: "";
+    float: right;
+    width: 16px;
+    height: 10px;
+    background: url("../images/icons/faq-open.png") no-repeat;
+    background-size: contain;
+    max-width: 16px;
+  min-width: 16px;
+  }
+  .accordion > .card > .card-header{
+    margin-bottom: 0 !important;
+  }
+  #main #faq .card .card-header .btn-header-link.collapsed {
+	background: #fff;
+	color: #000;
+	border: 2px solid #e8e8e8;
+}
+  
+  #main #faq .card .card-header .btn-header-link.collapsed:after {
+    background: url("../images/icons/faq-close.png") no-repeat;
+    background-size: contain;
+  width: 16px;
+  height: 10px;
+  max-width: 16px;
+  min-width: 16px;
+  }
+  
+  #main #faq .card .collapsing {
+    background: #fff;
+    line-height: 30px;
+  }
+  
+  #main #faq .card .collapse {
+    border: 0;
+  }
+  
+  #main #faq .card .collapse.show {
+	background: #fff;
+	line-height: 30px;
+	color: #777777;
 }
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
