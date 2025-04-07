@@ -606,6 +606,163 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
           </section>
+          <!-- FAQ Section -->
+           <section class="mt-10 mb-20 bg-linear-65 from-[#e5462c] to-[#ff6c24] py-24 text-white">
+            <div class="w-full px-3 xl:px-0 xl:w-6xl 2xl:w-7xl mx-auto relative z-9">
+                <h1 class="text-center font-semibold text-white text-4xl lg:text-6xl">Frequently Asked Questions</h1>
+                
+                <div class=" mt-10 grid grid-cols-1 lg:grid-cols-2 gap-4">
+                    <!-- FAQ Item 1 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            Can VoIP replace my traditional landline entirely?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        Yes, VoIP can fully replace landlines with internet-based calling, often with added features and cost savings.
+                        </div>
+                    </details>
+
+                    <!-- FAQ Item 2 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            Do I need special hardware to use VoIP?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        Not necessarily. You can use VoIP with a smartphone, laptop, or IP phone. Even standard phones work with an adapter.
+                        </div>
+                    </details>
+
+                    <!-- FAQ Item 3 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            What happens to my VoIP service during a power outage?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        VoIP relies on internet and power. A backup power source or mobile data connection ensures continuity.
+                        </div>
+                    </details>
+
+                    <!-- FAQ Item 4 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            Can I use my existing number with VoIP?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        Yes, most providers support number porting, letting you keep your current business or personal number.
+                        </div>
+                    </details>
+                    <!-- FAQ Item 5 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            Is call quality better on VoIP?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        With a stable internet connection, VoIP often offers HD call quality, surpassing traditional phone clarity.
+                        </div>
+                    </details>
+
+                    <!-- FAQ Item 6 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            Can I make emergency calls using VoIP?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        Some VoIP providers support E911 services, but it’s important to verify this before relying on VoIP for emergencies.
+                        </div>
+                    </details>
+
+                    <!-- FAQ Item 7 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            Can I record VoIP calls?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        Yes, VoIP systems often offer built-in call recording for quality assurance and legal compliance.
+                        </div>
+                    </details>
+
+                    <!-- FAQ Item 8 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            Does VoIP work with CRM tools?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        Absolutely. Many VoIP systems integrate with CRMs like Salesforce, HubSpot, and Zoho for seamless workflows.
+                        </div>
+                    </details>
+
+                    <!-- FAQ Item 9 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            Can VoIP scale with my business?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        VoIP is extremely scalable—just add more users or features as your team grows without new hardware.
+                        </div>
+                    </details>
+
+                    <!-- FAQ Item 10 -->
+                    <details class="group bg-white rounded-lg shadow-sm">
+                        <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
+                            How secure is a VoIP phone system?
+                            <span class="group-open:rotate-180 transition-transform">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </span>
+                        </summary>
+                        <div class="p-4 pt-0 text-gray-600">
+                        With encryption, firewalls, and secure data centers, VoIP can be highly secure—just ensure your provider follows best practices.
+                        </div>
+                    </details>
+                </div>
+            </div>
+           </section>
           <!-- Testimonials -->
            <section class="mt-10 mb-20">
                 <div class="w-full px-3 xl:px-0 xl:w-6xl 2xl:w-7xl mx-auto relative z-9">
