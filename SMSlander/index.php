@@ -264,17 +264,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container get-start-section">
             <!-- Get Started Form -->
             <div class="row header-content">
-                <div class="col-md-6 text-left header-left-content mt-5">
+                <div class="col-md-6 text-left header-left-content mt-4">
                     <h1>Never Miss A Message</h1>
                     <h2>Stay Synced, Stay Connected</h2>
                     <p>Get the most robust SMS communication platform with VolPTech! Automate, schedule, and send perfect messages instantly—bulk SMS, two-way messaging, or global reach.</p>
+                    
 
-<a href="https://wa.me/+971559372131" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-flex align-items-center gap-2 col-12 col-md-8 col-lg-6 col-xxl-5  justify-content-center">
- 7 Days Free Trial
-  <span class="d-flex align-items-center">
-    <img src="images/right-ang.png" alt="" class="w-25">
-  </span>
-</a>        </div>
+                <a href="https://wa.me/+971559372131" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-flex align-items-center gap-2 col-12 col-md-8 col-lg-6 col-xxl-5  justify-content-center">
+                7 Days Free Trial
+                <span class="d-flex align-items-center">
+                    <img src="images/right-ang.png" alt="" class="w-25">
+                </span>
+                </a>      
+                <div class="as-seen-on">
+                        <p>As seen on</p>
+                        <div class="flex gap-2 flex-wrap justify-center as-seen-on-logos">
+                            <img src="images/logos/enterpreneur.png" alt="Enterpreneur" class="img-fluid" width="100" height="31">
+                            <img src="images/logos/ht.png" alt="Hindustan Times" class="img-fluid" width="140" height="28">
+                            <img src="images/logos/ndtv.png" alt="NDTV" class="img-fluid" width="80" height="20">
+                            <img src="images/logos/toi.png" alt="Times of India" class="img-fluid" width="80" height="57">
+                        </div>
+                    </div>  
+            </div>
                 <div class="col-md-6 right-header-form">
                     <div class="get-started-form">
                          <form id="dataform" method="post" enctype="multipart/form-data" class=""> 

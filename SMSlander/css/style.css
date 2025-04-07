@@ -116,15 +116,27 @@ body {
 .header-section h2 {
     font-size: 2rem;
     font-weight: 300;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .header-section p {
     font-size: 1.2rem;
     font-weight: 400;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
-
+.as-seen-on {
+	margin-top: 10px;
+}
+.as-seen-on p {
+	font-size: 16px;
+}
+.as-seen-on-logos {
+    position: relative;
+    align-items: end;
+    top: -10px;
+    flex-wrap: wrap;
+    justify-content: left;
+}
 .header-section .btn-primary {
     background-color: var(--primary-color);
     border-color: var(--primary-color);
@@ -1048,10 +1060,14 @@ ul.contact-col li {margin-bottom: 2px;}
     .bottom-bg-header{
         left: -100px;
     }
+    .header-section{background-size: 115%;}
 }
 @media (max-width: 1200px){
     .bottom-bg-header{
         left: -190px;
+    }
+    .header-section {
+        background-size: 150%;
     }
 }
 @media (max-width: 991.98px) {
