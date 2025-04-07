@@ -669,88 +669,110 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="faq-item">
                 <input type="checkbox" id="faq1" class="faq-toggle">
                 <label for="faq1" class="faq-question">
-                    <h3>What is Bulk SMS, and how can it help my business?</h3>
+                    <h3>What’s the difference between Bulk SMS and Marketing SMS?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Bulk SMS allows you to send messages to thousands of customers instantly. It's perfect for promotions, alerts, reminders, and notifications.</p>
+                    <p>Bulk SMS refers to sending large volumes of messages, while Marketing SMS is specifically targeted to promote products, offers, or events.</p>
                 </div>
             </div>
             <!-- FAQ 2 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq2" class="faq-toggle">
                 <label for="faq2" class="faq-question">
-                    <h3>How does Marketing SMS work?</h3>
+                    <h3>Can I automate birthday or anniversary messages for customers?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Marketing SMS helps you promote products, announce offers, and engage customers directly via text, ensuring high open and response rates.</p>
+                    <p>Yes! With our Automated SMS service, you can schedule recurring messages like birthdays, anniversaries, or renewal reminders.</p>
                 </div>
             </div>
             <!-- FAQ 3 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq3" class="faq-toggle">
                 <label for="faq3" class="faq-question">
-                    <h3>Can I schedule and automate SMS campaigns?</h3>
+                    <h3>How can Bulk SMS help with customer retention?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes! Our platform lets you schedule messages in advance and automate campaigns, saving time and improving efficiency.</p>
+                    <p>Bulk SMS helps keep your customers engaged with regular updates, exclusive deals, and timely notifications—improving brand recall and loyalty.</p>
                 </div>
             </div>
             <!-- FAQ 4 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq4" class="faq-toggle">
                 <label for="faq4" class="faq-question">
-                    <h3>Does VoIPTech support Two-Way SMS?</h3>
+                    <h3>Can I segment my SMS audience for targeted marketing?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Absolutely! Two-Way SMS enables real-time customer interactions, allowing recipients to respond and engage with your business instantly.</p>
+                    <p>Absolutely. You can create different contact groups and send personalized messages to each segment for better engagement.</p>
                 </div>
             </div>
             <!-- FAQ 5 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq5" class="faq-toggle">
                 <label for="faq5" class="faq-question">
-                    <h3>Can I send messages to international numbers?</h3>
+                    <h3>Do you support SMS API integration with our system?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes! Our global SMS service allows you to send messages to customers worldwide with reliable delivery.</p>
+                    <p>Yes, we offer developer-friendly SMS APIs that can easily integrate with CRMs, websites, or apps for real-time messaging.</p>
                 </div>
             </div>
             <!-- FAQ 6 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq6" class="faq-toggle">
                 <label for="faq6" class="faq-question">
-                    <h3>How secure is VoIPTech’s SMS service?</h3>
+                    <h3>Is it possible to send automated alerts for things like payment confirmations or shipping updates?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>We use encrypted communication channels and secure gateways to ensure your messages remain private and compliant with industry regulations.</p>
+                    <p>Yes, our Automated SMS feature can send transactional messages triggered by customer actions or system events.</p>
                 </div>
             </div>
             <!-- FAQ 7 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq7" class="faq-toggle">
                 <label for="faq7" class="faq-question">
-                    <h3>Can I track the performance of my SMS campaigns?</h3>
+                    <h3>Can I preview or test an SMS campaign before sending it to everyone?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes! Our detailed analytics provide insights on delivery rates, engagement, and response tracking to optimize your messaging strategy.</p>
+                    <p>Yes, we allow test sends so you can review formatting, links, and content before launching your full campaign.</p>
                 </div>
             </div>
             <!-- FAQ 8 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq8" class="faq-toggle">
                 <label for="faq8" class="faq-question">
-                    <h3>How do I get started with VoIPTech’s SMS services?</h3>
+                    <h3>Are there any limits to how many messages I can send at once?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Just contact us, and we’ll help you set up your SMS solution quickly and hassle-free. No technical expertise required!</p>
+                    <p>No strict limits! We support high-volume messaging with reliable delivery, whether you're sending hundreds or hundreds of thousands.</p>
+                </div>
+            </div>
+            <!-- FAQ 9 -->
+            <div class="faq-item">
+                <input type="checkbox" id="faq9" class="faq-toggle">
+                <label for="faq9" class="faq-question">
+                    <h3>Can I track how many people read or clicked on my SMS messages?</h3>
+                    <span class="faq-icon">+</span>
+                </label>
+                <div class="faq-answer">
+                    <p>Yes, our analytics dashboard shows delivery, open rates (if enabled), and link clicks for each campaign.</p>
+                </div>
+            </div>
+            <!-- FAQ 10 -->
+            <div class="faq-item">
+                <input type="checkbox" id="faq10" class="faq-toggle">
+                <label for="faq10" class="faq-question">
+                    <h3>How quickly can I launch my first SMS campaign?</h3>
+                    <span class="faq-icon">+</span>
+                </label>
+                <div class="faq-answer">
+                    <p>You can get started within minutes. Just upload your contacts, craft your message, and hit send—or schedule it for later.</p>
                 </div>
             </div>
         </div>
