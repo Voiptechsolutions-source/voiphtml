@@ -8,7 +8,10 @@
 html,body{
     font-family: "Poppins", sans-serif;
 }
-
+a{color: var(--primary-color);}
+.rounded-xl {
+	border-radius: 20px;
+}
 .bg-orange{
     background-color: var(--primary-color) !important;
     color: white;
@@ -676,6 +679,97 @@ aside .nav-pills .nav-link.active:after{
 	border-top: 1px solid #d7d7d7;
 	border-bottom: 1px solid #d7d7d7;
 }
+.privacy-policy h2{font-size: 28px;}
+.privacy-policy h3{font-size: 24px;}
+.address-box .address-header {
+	background: #fb8976;
+	text-align: center;
+	color: #fff;
+	padding: 16px 0 8px;
+	border-radius: 15px 15px 0 0;
+}
+.address-box .loc-icn {
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	background: #fff;
+	border-radius: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	top: -34px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.address-box .loc-icn img {
+	width: 19px;
+	height: 22px;
+}
+.address-blocks {
+	margin-top: 60px;
+}
+.address-box {
+	box-shadow: 5px 0 38px rgba(0,0,0,0.16);
+	border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 50px;
+    min-height: 190px;
+}
+.address-box .address-body {
+	padding: 15px;
+}
+.address-box:hover .address-header{
+    background: var(--primary-color);
+}
+.contact-form .form-control {
+	background: #f5f5f5;
+	border: 0;
+	padding: 25px 10px;
+}
+.contact-info-box {
+	box-shadow: 1px 10px 16px rgba(0,0,0,0.18);
+	margin-bottom: 40px;
+	border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
+.contact-info-box ._box-icn {
+	text-align: center;
+}
+.contact-info-box ._box-icn img {
+	width: 40px;
+}
+.contact-info-box h4 {
+	text-align: center;
+	margin: 20px 0;
+}
+.call-box {
+	background: #f7f7f7;
+	padding: 15px;
+	margin-bottom: 20px;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+}
+.call-box a{color: #000;}
+.socio-app {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.socio-app a {
+	color: #000;
+}
+.socio-app img {
+	width: 30px;
+}
+.contact-socio a img {
+	width: 40px;
+}
+.contact-socio {
+	justify-content: center;
+	gap: 8px;
+}
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
@@ -753,6 +847,7 @@ aside .nav-pills .nav-link.active:after{
     .related-post {
         margin-bottom: 40px;
     }
+    .address-box{min-height: auto;}
 }
 @media (max-width: 767.98px) {
     .banner-content h1 {
