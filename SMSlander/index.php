@@ -292,16 +292,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                          
                             <div class="mb-3 text-left">
                                 <lable class="text-left line-height">Full Name</lable>
-                                <input type="text" id="full_name" name="full_name" class="form-control">
+                                <input type="text" id="full_name" name="full_name" placeholder="Full Name" class="form-control">
                             </div>
                             <div class="mb-3 text-left">
                                 <lable class="text-left line-height">Email ID</lable>
-                                <input type="email" id="email" name="email" class="form-control">
+                                <input type="email" id="email" name="email" placeholder="Official Email Id" class="form-control">
                             </div>
                             <div class="mb-3 text-left">
                                 <lable class="text-left line-height">Phone Number</lable>
                                 <div class="d-flex flex-row nuber-select">
-                                <select class="form-control country-code" id="country_code" name="country_code" style="width: 90px;">
+                                <select class="form-control country-code" id="country_code"  name="country_code" style="width: 90px;">
                                     <option value="+91">🇮🇳 +91</option>
                                     <option value="+1">🇺🇸 +1</option>
                                     <option value="+1">🇨🇦 +1</option>
@@ -331,7 +331,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <!-- Add more country codes as needed -->
                                 </select>
                                 <i class="angle-down country-arrow"><img src="images/arrow-icon.png" alt=""></i>
-                                <input type="tel" name="contact_no" id="contact_no" oninput="validateContactNumber(event)"  class="form-control" maxlength="12">
+                                <input type="tel" name="contact_no" placeholder="WhatsApp Number/ Phone Number" id="contact_no" oninput="validateContactNumber(event)"  class="form-control" maxlength="12">
 
                             </div>
                             </div>
@@ -359,7 +359,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="mb-3 text-left">
                                 <lable class="text-left line-height">SMS Services</lable>
-                                <select class="form-select" id="sms_services" name="services">
+                                <select class="form-select" id="sms_services" name="services" >
 									<option value="">Select Service</option>   
                                     <option value="marketing sms">Marketing SMS</option>   
                                     <option value="bulk sms">Bulk SMS</option>      
@@ -371,7 +371,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="mb-3 text-left">
                                 <lable  class="text-left line-height">Explain More About Requirements</lable>
-                                <textarea name="message" id="message" class="form-control" rows="3"></textarea>
+                                <textarea name="message" placeholder="Describe your need" id="message" class="form-control" rows="3"></textarea>
                             </div>
                              <div class="mb-3 text-left">
                                   <p id="captcha1" class="text-xl fw-bold mb-2"></p>

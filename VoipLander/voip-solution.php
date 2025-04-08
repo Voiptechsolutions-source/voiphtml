@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.css" rel="stylesheet" />
+
     
     <link rel="stylesheet" href="css/out.css">
     <link rel="stylesheet" href="css/custom.css?v=<?php echo time(); ?>">
@@ -611,8 +613,194 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="w-full px-3 xl:px-0 xl:w-6xl 2xl:w-7xl mx-auto relative z-9">
                 <h1 class="text-center font-semibold text-white text-4xl lg:text-6xl">Frequently Asked Questions</h1>
                 
-                <div class=" mt-10 grid grid-cols-1 lg:grid-cols-2 gap-4">
-                    <!-- FAQ Item 1 -->
+                <!-- New FAQ -->
+
+                <div id="accordion-collapse" data-accordion="collapse" class=" mt-10 grid grid-cols-1 lg:grid-cols-2 gap-x-4">
+                    <!-- Faq Left Side 1-5 -->
+                    <div>
+                        <!-- Faq Item 1-->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-1">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-1" aria-expanded="true" aria-controls="accordion-collapse-body-1">
+                                <span>Can VoIP replace my traditional landline entirely?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-1" class="hidden" aria-labelledby="accordion-collapse-heading-1">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">Yes, VoIP can fully replace landlines with internet-based calling, often with added features and cost savings.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Faq Item 2-->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-2">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-2" aria-expanded="true" aria-controls="accordion-collapse-body-2">
+                                <span>Do I need special hardware to use VoIP?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-2" class="hidden" aria-labelledby="accordion-collapse-heading-2">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">Not necessarily. You can use VoIP with a smartphone, laptop, or IP phone. Even standard phones work with an adapter.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Faq Item 3 -->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-3">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-3" aria-expanded="true" aria-controls="accordion-collapse-body-3">
+                                <span>What happens to my VoIP service during a power outage?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-3" class="hidden" aria-labelledby="accordion-collapse-heading-3">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">VoIP relies on internet and power. A backup power source or mobile data connection ensures continuity.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Faq Item 4 -->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-4">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-4" aria-expanded="true" aria-controls="accordion-collapse-body-4">
+                                <span>Can I use my existing number with VoIP?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-4" class="hidden" aria-labelledby="accordion-collapse-heading-4">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">Yes, most providers support number porting, letting you keep your current business or personal number.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Faq Item 5 -->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-5">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-5" aria-expanded="true" aria-controls="accordion-collapse-body-5">
+                                <span>Is call quality better on VoIP?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-5" class="hidden" aria-labelledby="accordion-collapse-heading-5">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">With a stable internet connection, VoIP often offers HD call quality, surpassing traditional phone clarity.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Faq Left Side 6-10 -->
+                    <div>
+                        <!-- Faq Item 6-->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-6">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-6" aria-expanded="true" aria-controls="accordion-collapse-body-6">
+                                <span>Can I make emergency calls using VoIP?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-6" class="hidden" aria-labelledby="accordion-collapse-heading-6">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">Some VoIP providers support E911 services, but it’s important to verify this before relying on VoIP for emergencies.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Faq Item 7-->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-7">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-7" aria-expanded="true" aria-controls="accordion-collapse-body-7">
+                                <span>Can I record VoIP calls?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-7" class="hidden" aria-labelledby="accordion-collapse-heading-7">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">Yes, VoIP systems often offer built-in call recording for quality assurance and legal compliance.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Faq Item 8 -->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-8">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-8" aria-expanded="true" aria-controls="accordion-collapse-body-8">
+                                <span>Does VoIP work with CRM tools?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-8" class="hidden" aria-labelledby="accordion-collapse-heading-8">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">Absolutely. Many VoIP systems integrate with CRMs like Salesforce, HubSpot, and Zoho for seamless workflows.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Faq Item 9 -->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-9 ">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-9" aria-expanded="true" aria-controls="accordion-collapse-body-9">
+                                <span>Can VoIP scale with my business?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-9" class="hidden" aria-labelledby="accordion-collapse-heading-9">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">VoIP is extremely scalable—just add more users or features as your team grows without new hardware.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Faq Item 10 -->
+                        <div class="mb-4">
+                            <h2 id="accordion-collapse-heading-10">
+                                <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-900  rounded-xl  bg-white gap-3 cursor-pointer" data-accordion-target="#accordion-collapse-body-10" aria-expanded="true" aria-controls="accordion-collapse-body-10">
+                                <span>How secure is a VoIP phone system?</span>
+                                <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                                </svg>
+                                </button>
+                            </h2>
+                            <div id="accordion-collapse-body-10" class="hidden" aria-labelledby="accordion-collapse-heading-10">
+                                <div class="p-5 bg-white rounded-xl mt-2">
+                                <p class="mb-2 text-gray-500 dark:text-gray-400">With encryption, firewalls, and secure data centers, VoIP can be highly secure—just ensure your provider follows best practices.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+
+
+
+
+
+                <!-- <div class=" mt-10 grid grid-cols-1 lg:grid-cols-2 gap-4">
+                    
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             Can VoIP replace my traditional landline entirely?
@@ -627,7 +815,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </details>
 
-                    <!-- FAQ Item 2 -->
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             Do I need special hardware to use VoIP?
@@ -642,7 +829,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </details>
 
-                    <!-- FAQ Item 3 -->
+                   
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             What happens to my VoIP service during a power outage?
@@ -657,7 +844,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </details>
 
-                    <!-- FAQ Item 4 -->
+                    
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             Can I use my existing number with VoIP?
@@ -671,7 +858,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Yes, most providers support number porting, letting you keep your current business or personal number.
                         </div>
                     </details>
-                    <!-- FAQ Item 5 -->
+                    
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             Is call quality better on VoIP?
@@ -686,7 +873,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </details>
 
-                    <!-- FAQ Item 6 -->
+                   
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             Can I make emergency calls using VoIP?
@@ -701,7 +888,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </details>
 
-                    <!-- FAQ Item 7 -->
+                    
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             Can I record VoIP calls?
@@ -716,7 +903,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </details>
 
-                    <!-- FAQ Item 8 -->
+                    
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             Does VoIP work with CRM tools?
@@ -731,7 +918,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </details>
 
-                    <!-- FAQ Item 9 -->
+                    
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             Can VoIP scale with my business?
@@ -746,7 +933,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </details>
 
-                    <!-- FAQ Item 10 -->
+                    
                     <details class="group bg-white rounded-lg shadow-sm">
                         <summary class="flex justify-between items-center p-4 cursor-pointer text-gray-900 font-medium">
                             How secure is a VoIP phone system?
@@ -760,7 +947,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         With encryption, firewalls, and secure data centers, VoIP can be highly secure—just ensure your provider follows best practices.
                         </div>
                     </details>
-                </div>
+                </div> -->
             </div>
            </section>
           <!-- Testimonials -->
@@ -1034,6 +1221,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
+
 
  
        <!--
