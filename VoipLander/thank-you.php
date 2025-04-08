@@ -233,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <li><a href="#" class="form-popup">Contact Us</a></li>
                                 </ul>
                             </div>
-                            <a href="https://wa.me/+971559372131" target="_blank" class="hidden md:block bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a>
+                            <a href="https://wa.me/+918917657317" target="_blank" class="hidden md:block bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a>
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li><a href="https://www.voiptechsolutions.com/services/voip">Services</a></li>
                         <li><a href="https://www.voiptechsolutions.com/faq">FAQ</a></li>
                         <li><a href="#" class="form-popup">Contact Us</a></li>
-                        <li><a href="https://wa.me/+971559372131" target="_blank" class=" bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a></li>
+                        <li><a href="https://wa.me/+918917657317" target="_blank" class=" bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a></li>
                     </ul>
                 </div>
             </nav>
@@ -279,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p class="text-white text-xl font-semibold mb-4 w-full text-center">You can reach us now</p>
 
                     <div class="flex flex-wrap gap-2 justify-center">
-                        <a href="https://wa.me/+971559372131" target="_blank" class="bg-white text-[#e5462c] py-2 px-6 rounded-md text-3xl flex gap-2 items-center self-center md:self-start"><span class="flex items-center"><img src="images/whatsapp-icon.png" alt="" style="width: 30px"/></span> WhatsApp </a> 
+                        <a href="https://wa.me/+918917657317" target="_blank" class="bg-white text-[#e5462c] py-2 px-6 rounded-md text-3xl flex gap-2 items-center self-center md:self-start"><span class="flex items-center"><img src="images/whatsapp-icon.png" alt="" style="width: 30px"/></span> WhatsApp </a> 
                         <a href="tel:+917949107742" target="_blank" class="bg-white text-[#e5462c] py-2 px-6 rounded-md text-3xl flex gap-2 items-center self-center md:self-start"><span class="flex items-center"><img src="images/call-icon.png" alt="" style="width: 30px"/></span> Call Us </a> 
                     </div>
 
@@ -302,7 +302,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- Mobile Contact Buttons -->
     <div class="fixed flex justify-center gap-4 items-center md:hidden w-full bottom-0 bg-[rgba(0,0,0,0.7)] p-2 z-11">
         <div ><a href="tel:+917949107742" class="flex gap-2 items-center text-white pr-4 border-r-1 border-white font-semibold"> Call Us <img src="images/icons/ph-icn.png" alt="" /></a></div>
-        <div ><a href="https://wa.me/+971559372131" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt="" /></a></div>
+        <div ><a href="https://wa.me/+918917657317" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt="" /></a></div>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -310,7 +310,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  
        <!--
 <div class="whatsapp-popup">
-        <a href="https://wa.me/+971504583131" target="_blank">
+        <a href="https://wa.me/+918917657317" target="_blank">
             <i class="fab fa-whatsapp"></i>
         </a>
     </div>
@@ -752,7 +752,7 @@ function submitForm() {
 
 // Add a 1-second delay before redirecting
 setTimeout(function() {
-    window.location.href = "https://wa.me/+971559372131";
+    window.location.href = "https://wa.me/+918917657317";
 }, 1000);  // 1-second delay before redirection
 		   
 		   
@@ -969,7 +969,7 @@ function submitForm1() {
 
 			// Add a 1-second delay before redirecting - testing for tracking in google ad
 			setTimeout(function() {
-				window.location.href = "https://wa.me/+971559372131";
+				window.location.href = "https://wa.me/+918917657317";
 			}, 150);  // 1-second delay before redirection
 		
 			
