@@ -257,7 +257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div> -->
                 <!-- Get Started Button -->
-                <a class="btn btn-primary ms-3" href="https://wa.me/+971559372131" target="_blank" >Get Started</a>
+                <a class="btn btn-primary ms-3" href="https://wa.link/voiptech" target="_blank" >Get Started</a>
                 </div>
             </div>
         </nav>
@@ -270,7 +270,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Get the most robust SMS communication platform with VolPTech! Automate, schedule, and send perfect messages instantly—bulk SMS, two-way messaging, or global reach.</p>
                     
 
-                <a href="https://wa.me/+971559372131" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-flex align-items-center gap-2 col-12 col-md-8 col-lg-6 col-xxl-5  justify-content-center">
+                <a href="https://wa.link/voiptech" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-flex align-items-center gap-2 col-12 col-md-8 col-lg-6 col-xxl-5  justify-content-center">
                 7 Days Free Trial
                 <span class="d-flex align-items-center">
                     <img src="images/right-ang.png" alt="" class="w-25">
@@ -885,7 +885,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li><a href="https://www.facebook.com/VoIPTechSolutions" target="_blank"><img src="images/fb-icon.png" alt="" class="img-fluid"></a></li>
                     <li><a href="https://www.instagram.com/voiptechsolutions" target="_blank"><img src="images/insta-icon.png" class="img-fluid"></a></li>
                     <li><a href="https://www.linkedin.com/company/voiptechsolutions" target="_blank"><img src="images/linkedin-icon.png" class="img-fluid"></a></li>
-                    <li><a href="https://wa.me/+971559372131" target="_blank"><img src="images/whatsapp-icon.png" class="img-fluid"></a></li>
+                    <li><a href="https://wa.link/voiptech" target="_blank"><img src="images/whatsapp-icon.png" class="img-fluid"></a></li>
                     <li><a href="tel:+917949107742" target="_blank"><img src="images/call-icon.png" class="img-fluid"></a></li>
                 </ul>
             </div>
@@ -1019,12 +1019,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="position-fixed d-flex justify-content-center gap-4 align-items-center d-md-none col-12 bottom-0  p-2 z-11 floating-contact">
         <div><a href="tel:+917949107742" class="flex gap-2 items-center text-white pr-4 border-r-1 border-white font-semibold"> Call Us <img src="images/icons/ph-icn.png" alt=""></a></div>
-<div><a href="https://wa.me/+971559372131" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt=""></a></div>
+<div><a href="https://wa.link/voiptech" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt=""></a></div>
 </div>
 
 
 <!-- <div class="whatsapp-popup">
-        <a href="https://wa.me/+971504583131" target="_blank">
+        <a href="https://wa.link/voiptech" target="_blank">
             <i class="fab fa-whatsapp"></i>
         </a>
     </div> -->
@@ -1227,7 +1227,7 @@ function submitForm() {
         if (data.status === 'success') {
             document.getElementById('dataform').reset();
             //alert("Your Data Has Been Successfully Submitted.");
-            // window.location.href = "https://wa.me/+971504583131";
+            // window.location.href = "https://wa.link/voiptech";
             window.location.href = "thank-you.php";
         } else {
             alert("Submission failed. Please try again.");
@@ -1355,7 +1355,7 @@ function submitForm2() {
         if (data.status === 'success') {
            // alert("Your Data Has Been Successfully Submitted.");
             document.getElementById('dataform2').reset();
-           // window.location.href = "https://wa.me/+971504583131";
+           // window.location.href = "https://wa.link/voiptech";
            window.location.href = "thank-you.php";
         }
     })
