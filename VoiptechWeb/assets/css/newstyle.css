@@ -770,6 +770,10 @@ aside .nav-pills .nav-link.active:after{
 	justify-content: center;
 	gap: 8px;
 }
+.msn-logo{
+    position: relative;
+    top: -4px;
+}
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
