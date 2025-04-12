@@ -904,6 +904,10 @@ aside .nav-pills .nav-link.active:after{
 	font-size: 26px;
 	font-weight: 600;
 }
+.contact-box-header a:hover{
+    color: #fff;
+    text-decoration: none;
+}
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
