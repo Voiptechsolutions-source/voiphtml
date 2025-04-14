@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 708 954" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="items" transform="matrix(1.09419,0,0,1.09419,-33.3683,-46.6178)">
+        <g id="blend">
+            <g id="g-root-cp_1_shape-1_1d14gmi1cw4glg-fill" transform="matrix(1,0,0,1,35.5,103.816)">
+                <g id="cp_1_shape-1_1d14gmi1cw4glg-fill">
+                    <g>
+                        <path d="M214,352.184L46,352.183C26.118,352.183 10,336.081 10,316.199L10,316.184L250,316.184C250,336.066 233.882,352.184 214,352.184ZM254.6,28.375L250,28.375L250,160.184L10,160.184C10,140.302 26.118,124.505 46,124.505L172,124.505C213.07,124.505 238,94.374 238,55.034L238,28.374L233.32,28.374C232.54,28.374 232.05,27.524 232.44,26.844L243.163,10.632C243.559,10.033 244.439,10.034 244.833,10.635L255.48,26.844C255.88,27.525 255.39,28.375 254.6,28.375ZM250,160.184L250,316.184L10,316.184L10,160.184L250,160.184Z" style="fill:rgb(67,221,147);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_3_shape-3_zqafca1cw4f0m-fill" transform="matrix(1,0,0,1,35,410)">
+                <g id="cp_3_shape-3_zqafca1cw4f0m-fill">
+                    <g>
+                        <path d="M214,64.321C244,64.321 268,46 268,10L280,10L280,100.306L10,100.306C10,80.423 26.118,64.321 46,64.321L214,64.321Z" style="fill:rgb(166,218,55);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_3_shape-3_1_metwyy1cw4glk-fill" transform="matrix(1,0,0,1,287.303,104)">
+                <g id="cp_3_shape-3_1_metwyy1cw4glk-fill">
+                    <g>
+                        <path d="M27.697,316L15.697,316L15.697,160L27.697,160L27.697,316ZM32.297,28.191L27.697,28.191L27.697,160L15.697,160L15.697,28.191L11.017,28.191C10.237,28.191 9.747,27.341 10.137,26.661L20.86,10.448C21.256,9.849 22.136,9.851 22.53,10.451L33.177,26.661C33.577,27.341 33.087,28.191 32.297,28.191Z" style="fill:rgb(166,218,55);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_5_shape-5_93zvoq1cw4f0q-fill" transform="matrix(1,0,0,1,317.303,104)">
+                <g id="cp_5_shape-5_93zvoq1cw4f0q-fill">
+                    <g>
+                        <path d="M27.697,316L15.697,316L15.697,160L27.697,160L27.697,316ZM32.297,28.191L27.697,28.191L27.697,160L15.697,160L15.697,28.191L11.017,28.191C10.237,28.191 9.747,27.341 10.137,26.661L20.86,10.448C21.256,9.849 22.136,9.851 22.53,10.451L33.177,26.661C33.577,27.341 33.087,28.191 32.297,28.191Z" style="fill:rgb(247,148,56);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_2_shape-2_1utnfai1cw4gek-fill" transform="matrix(1,0,0,1,407.878,103.816)">
+                <g id="cp_2_shape-2_1utnfai1cw4gek-fill">
+                    <g>
+                        <path d="M51.622,352.184L219.622,352.184C239.504,352.184 255.622,336.081 255.622,316.199L255.622,316.184L15.622,316.184C15.622,336.066 31.74,352.184 51.622,352.184ZM11.022,28.375L15.622,28.375L15.622,160.184L255.622,160.184C255.622,140.302 239.505,124.505 219.623,124.505L93.622,124.505C52.552,124.505 27.622,94.374 27.622,55.034L27.622,28.374L32.302,28.374C33.082,28.374 33.572,27.524 33.182,26.844L22.459,10.632C22.063,10.033 21.184,10.034 20.79,10.635L10.142,26.844C9.742,27.525 10.232,28.375 11.022,28.375ZM15.622,160.184L15.622,316.184L255.622,316.184L255.622,160.184L15.622,160.184Z" style="fill:rgb(26,195,251);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_4_shape-4_1hite0a1cw4etq-fill" transform="matrix(1,0,0,1,383,410)">
+                <g id="cp_4_shape-4_1hite0a1cw4etq-fill">
+                    <g>
+                        <path d="M76,64.321C46,64.321 22,46 22,10L10,10L10,100.306L280,100.306C280,80.423 263.882,64.321 244,64.321L76,64.321Z" style="fill:rgb(255,231,17);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_4_shape-4_1_18n6dre1cw4ge8-fill" transform="matrix(1,0,0,1,377.383,104)">
+                <g id="cp_4_shape-4_1_18n6dre1cw4ge8-fill">
+                    <g>
+                        <path d="M15.623,316L27.623,316L27.623,160L15.623,160L15.623,316ZM11.022,28.191L15.622,28.191L15.622,160L27.622,160L27.622,28.191L32.302,28.191C33.082,28.191 33.572,27.341 33.182,26.661L22.459,10.448C22.063,9.849 21.184,9.851 20.79,10.451L10.142,26.661C9.742,27.341 10.232,28.191 11.022,28.191Z" style="fill:rgb(255,231,17);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_6_shape-6_vccch61cw4ete-fill" transform="matrix(1,0,0,1,347.383,104)">
+                <g id="cp_6_shape-6_vccch61cw4ete-fill">
+                    <g>
+                        <path d="M15.623,316L27.623,316L27.623,160L15.623,160L15.623,316ZM11.022,28.191L15.622,28.191L15.622,160L27.622,160L27.622,28.191L32.302,28.191C33.082,28.191 33.572,27.341 33.182,26.661L22.459,10.448C22.063,9.849 21.184,9.851 20.79,10.451L10.142,26.661C9.742,27.341 10.232,28.191 11.022,28.191Z" style="fill:rgb(251,103,98);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_3_shape-3_2_i0vu3u1cw4gec-fill" transform="matrix(1,0,0,1,35,500)">
+                <g id="cp_3_shape-3_2_i0vu3u1cw4gec-fill">
+                    <g>
+                        <path d="M280,10L280,141.979L10,141.979L10,10L280,10ZM244,178.008L46,178.008C26.118,178.008 10,161.905 10,142.023L10,142.008L280,142.008C280,161.89 263.882,178.008 244,178.008Z" style="fill:rgb(166,218,55);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_5_shape-5_1_4g27fu1cw5tdy-fill" transform="matrix(1,0,0,1,323,410)">
+                <g id="cp_5_shape-5_1_4g27fu1cw5tdy-fill">
+                    <g>
+                        <rect x="10" y="10" width="12" height="222" style="fill:rgb(247,148,56);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_5_shape-5_2_8pbe1cw5u68-fill" transform="matrix(1,0,0,1,35,632)">
+                <g id="cp_5_shape-5_2_8pbe1cw5u68-fill">
+                    <g>
+                        <path d="M244,64.137C274,64.137 298,45.878 298,10L310,10L310,100L10,100C10,80.185 26.118,64.137 46,64.137L244,64.137Z" style="fill:rgb(247,148,56);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_4_shape-4_2_1lpw8x61cw5vk2-fill" transform="matrix(1,0,0,1,383,500)">
+                <g id="cp_4_shape-4_2_1lpw8x61cw5vk2-fill">
+                    <g>
+                        <path d="M10,10L10,142L280,142L280,10L10,10ZM46,178L244,178C263.882,178 280,161.898 280,142.016L280,142L10,142C10,161.882 26.118,178 46,178Z" style="fill:rgb(255,231,17);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_6_shape-6_1_18f27my1cw5tz8-fill" transform="matrix(1,0,0,1,353,410)">
+                <g id="cp_6_shape-6_1_18f27my1cw5tz8-fill">
+                    <g>
+                        <rect x="10" y="10" width="12" height="222" style="fill:rgb(251,103,98);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_6_shape-6_2_v3lp9m1cw5vk6-fill" transform="matrix(1,0,0,1,353,632)">
+                <g id="cp_6_shape-6_2_v3lp9m1cw5vk6-fill">
+                    <g>
+                        <path d="M76,64.321C46,64.321 22,46 22,10L10,10L10,100.306L310,100.306C310,80.423 293.882,64.321 274,64.321L76,64.321Z" style="fill:rgb(251,103,98);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_5_shape-5_3_hsrnze1cw5tzc-fill" transform="matrix(1,0,0,1,35,722)">
+                <g id="cp_5_shape-5_3_hsrnze1cw5tzc-fill">
+                    <g>
+                        <path d="M310,10L310,118L10,118L10,10L310,10ZM274,154.008L46,154.008C26.118,154.008 10,137.882 10,118L310,118C310,137.882 293.882,154.008 274,154.008Z" style="fill:rgb(247,148,56);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_6_shape-6_3_4hb5m21cw5vka-fill" transform="matrix(1,0,0,1,353,722)">
+                <g id="cp_6_shape-6_3_4hb5m21cw5vka-fill">
+                    <g>
+                        <path d="M10,10L10,118L310,118L310,10L10,10ZM46,154L274,154C293.882,154 310,137.898 310,118.016L310,118L10,118C10,137.882 26.118,154 46,154Z" style="fill:rgb(251,103,98);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_extensiv_qunf3e1cw785j-fill" transform="matrix(1,0,0,1,461,362)">
+                <g id="tx_extensiv_qunf3e1cw785j-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,16.6,31.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">Extensive reach for</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,24.87,49.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">international call</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,39.88,67.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">termination.</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_ensuresh_8z02zu1cw5tse-fill" transform="matrix(1,0,0,1,65.5,362)">
+                <g id="tx_ensuresh_8z02zu1cw5tse-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,12.72,28.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">Ensures high-quality voice</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,17.97,46.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">transmission and clarity<tspan x="155.61px " y="0px ">.</tspan></text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_globalte_6hg6i1cw795a-fill" transform="matrix(1,0,0,1,443,302)">
+                <g id="tx_globalte_6hg6i1cw795a-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,13.21,34)">
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Global T<tspan x="78.516px 89.639px " y="0px 0px ">er</tspan>mination</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,56.31,58)">
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Coverage</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_protects_zk1oh61cwfo5d-fill" transform="matrix(1,0,0,1,395,806)">
+                <g id="tx_protects_zk1oh61cwfo5d-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,17.4,28.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">Protects calls with secure SIP</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,82.67,46.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">protocols.</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_realtime_1lpw8x61cwa0hz-fill" transform="matrix(1,0,0,1,98,548)">
+                <g id="tx_realtime_1lpw8x61cwa0hz-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,13.18,34)">
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Real-T<tspan x="60.762px 66.318px " y="0px 0px ">im</tspan>e Call</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,30.33,58)">
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Monitoring</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_seamless_hte52i1cwbhmz-fill" transform="matrix(1,0,0,1,440,548)">
+                <g id="tx_seamless_hte52i1cwbhmz-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,12.94,34)">
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Seamless Dialer</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,36.36,58)">
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Integration</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_monitorc_qns7561cwa1a8-fill" transform="matrix(1,0,0,1,68,608)">
+                <g id="tx_monitorc_qns7561cwa1a8-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,16.53,28.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">Monitor calls in real-time for</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,42.5,46.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">better management.</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_easyinte_1cxdm3u1cwbfv0-fill" transform="matrix(1,0,0,1,416,608)">
+                <g id="tx_easyinte_1cxdm3u1cwbfv0-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,12.97,28.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">Easy integration with existing</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,59.65,46.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">dialer systems.</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_premiumq_zlamne1cw5tsd-fill" transform="matrix(1,0,0,1,71.5,302)">
+                <g id="tx_premiumq_zlamne1cw5tsd-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,16.5,34)">
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Premium Quality</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,59.95,58)">
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Routes</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_unifiedv_1q7l6ay1cw5tsc-fill">
+            </g>
+            <g transform="matrix(1,0,0,1,91.83,804)">
+                <g id="g-root-tx_flexible_1hckn561cwcwec-fill">
+                    <g id="tx_flexible_1hckn561cwcwec-fill">
+                        <g>
+                            <g>
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Flexible Billing Options</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,418.06,804)">
+                <g id="g-root-tx_securesi_1um5q961cwfnd4-fill">
+                    <g id="tx_securesi_1um5q961cwfnd4-fill">
+                        <g>
+                            <g>
+                                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(44,44,44);">Secure SIP<tspan x="104.141px 109.697px " y="0px 0px "> P</tspan>rotocols</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-tx_customiz_dfg27e1cwcuth-fill" transform="matrix(1,0,0,1,65,806)">
+                <g id="tx_customiz_dfg27e1cwcuth-fill">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,13,28.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">Customizable billing to suit diverse</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,106.82,46.2)">
+                                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15px;fill:rgb(44,44,44);">needs.</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_1_shape-1_1d14gmi1cw4glg-stroke" transform="matrix(1,0,0,1,35.5,103.816)">
+                <g id="cp_1_shape-1_1d14gmi1cw4glg-stroke">
+                    <g>
+                        <path d="M10,160.184C10,140.301 26.118,124.321 46,124.321L172,124.321C213.07,124.321 238,94.191 238,54.851L238,28.191L233.32,28.191C232.54,28.191 232.05,27.341 232.44,26.661L243.163,10.448C243.559,9.849 244.439,9.851 244.833,10.451L255.48,26.661C255.88,27.341 255.39,28.191 254.6,28.191L250,28.191L250,160.184M250,316.184C250,336.066 233.882,352.191 214,352.191L46,352.191C26.118,352.191 10,336.081 10,316.199L10,316.184M250,316.184L250,160.184M10,160.184L10,316.184" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_3_shape-3_zqafca1cw4f0m-stroke" transform="matrix(1,0,0,1,35,410)">
+                <g id="cp_3_shape-3_zqafca1cw4f0m-stroke">
+                    <g>
+                        <path d="M268,10C268,46 244,64.321 214,64.321L46,64.321C26.118,64.321 10,80.423 10,100.306M280,100.306L280,10" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_3_shape-3_1_metwyy1cw4glk-stroke" transform="matrix(1,0,0,1,287.303,104)">
+                <g id="cp_3_shape-3_1_metwyy1cw4glk-stroke">
+                    <g>
+                        <path d="M15.697,160L15.697,316M27.697,316L27.697,160M15.697,160L15.697,28.191L11.017,28.191C10.237,28.191 9.747,27.341 10.137,26.661L20.86,10.448C21.256,9.849 22.136,9.851 22.53,10.451L33.177,26.661C33.577,27.341 33.087,28.191 32.297,28.191L27.697,28.191L27.697,160" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_5_shape-5_93zvoq1cw4f0q-stroke" transform="matrix(1,0,0,1,317.303,104)">
+                <g id="cp_5_shape-5_93zvoq1cw4f0q-stroke">
+                    <g>
+                        <path d="M15.697,160L15.697,316M27.697,316L27.697,160M15.697,160L15.697,28.191L11.017,28.191C10.237,28.191 9.747,27.341 10.137,26.661L20.86,10.448C21.256,9.849 22.136,9.851 22.53,10.451L33.177,26.661C33.577,27.341 33.087,28.191 32.297,28.191L27.697,28.191L27.697,160" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_2_shape-2_1utnfai1cw4gek-stroke" transform="matrix(1,0,0,1,407.878,103.816)">
+                <g id="cp_2_shape-2_1utnfai1cw4gek-stroke">
+                    <g>
+                        <path d="M255.622,160.184C255.622,140.301 239.505,124.321 219.623,124.321L93.622,124.321C52.552,124.321 27.622,94.191 27.622,54.851L27.622,28.191L32.302,28.191C33.082,28.191 33.572,27.341 33.182,26.661L22.459,10.448C22.063,9.849 21.184,9.851 20.79,10.451L10.142,26.661C9.742,27.341 10.232,28.191 11.022,28.191L15.622,28.191L15.622,160.184M15.622,316.184C15.622,336.066 31.74,352.184 51.622,352.184L219.623,352.183C239.505,352.183 255.622,336.081 255.622,316.199L255.622,316.184M15.622,316.184L15.622,160.184M255.622,160.184L255.622,316.184" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_4_shape-4_1hite0a1cw4etq-stroke" transform="matrix(1,0,0,1,383,410)">
+                <g id="cp_4_shape-4_1hite0a1cw4etq-stroke">
+                    <g>
+                        <path d="M22,10C22,46 46,64.321 76,64.321L244,64.321C263.882,64.321 280,80.423 280,100.306M10,100.306L10,10" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_4_shape-4_1_18n6dre1cw4ge8-stroke" transform="matrix(1,0,0,1,377.383,104)">
+                <g id="cp_4_shape-4_1_18n6dre1cw4ge8-stroke">
+                    <g>
+                        <path d="M27.622,160L27.622,316M15.622,316L15.622,160M27.622,160L27.622,28.191L32.302,28.191C33.082,28.191 33.572,27.341 33.182,26.661L22.459,10.448C22.063,9.849 21.184,9.851 20.79,10.451L10.142,26.661C9.742,27.341 10.232,28.191 11.022,28.191L15.622,28.191L15.622,160" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_6_shape-6_vccch61cw4ete-stroke" transform="matrix(1,0,0,1,347.383,104)">
+                <g id="cp_6_shape-6_vccch61cw4ete-stroke">
+                    <g>
+                        <path d="M27.622,160L27.622,316M15.622,316L15.622,160M27.622,160L27.622,28.191L32.302,28.191C33.082,28.191 33.572,27.341 33.182,26.661L22.459,10.448C22.063,9.849 21.184,9.851 20.79,10.451L10.142,26.661C9.742,27.341 10.232,28.191 11.022,28.191L15.622,28.191L15.622,160" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_3_shape-3_2_i0vu3u1cw4gec-stroke" transform="matrix(1,0,0,1,35,500)">
+                <g id="cp_3_shape-3_2_i0vu3u1cw4gec-stroke">
+                    <g>
+                        <path d="M280,141.979L280,10M10,10L10,142M280,142.008C280,161.89 263.882,178.008 244,178.008L46,178.008C26.118,178.008 10,161.905 10,142.023L10,142.008" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_5_shape-5_1_4g27fu1cw5tdy-stroke" transform="matrix(1,0,0,1,323,410)">
+                <g id="cp_5_shape-5_1_4g27fu1cw5tdy-stroke">
+                    <g>
+                        <path d="M10,10L10,232M22,232L22,10" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_5_shape-5_2_8pbe1cw5u68-stroke" transform="matrix(1,0,0,1,35,632)">
+                <g id="cp_5_shape-5_2_8pbe1cw5u68-stroke">
+                    <g>
+                        <path d="M298,10C298,45.878 274,64.137 244,64.137L46,64.137C26.118,64.137 10,80.185 10,100M310,100L310,10" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_4_shape-4_2_1lpw8x61cw5vk2-stroke" transform="matrix(1,0,0,1,383,500)">
+                <g id="cp_4_shape-4_2_1lpw8x61cw5vk2-stroke">
+                    <g>
+                        <path d="M10,142L10,10M280,10L280,142M10,142C10,161.882 26.118,178.008 46,178.008L244,178.008C263.882,178.008 280,161.898 280,142.016L280,142" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_6_shape-6_1_18f27my1cw5tz8-stroke" transform="matrix(1,0,0,1,353,410)">
+                <g id="cp_6_shape-6_1_18f27my1cw5tz8-stroke">
+                    <g>
+                        <path d="M22,10L22,232M10,232L10,10" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_6_shape-6_2_v3lp9m1cw5vk6-stroke" transform="matrix(1,0,0,1,353,632)">
+                <g id="cp_6_shape-6_2_v3lp9m1cw5vk6-stroke">
+                    <g>
+                        <path d="M22,10C22,46 46,64.321 76,64.321L274,64.321C293.882,64.321 310,80.423 310,100.306M10,100.306L10,10" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_5_shape-5_3_hsrnze1cw5tzc-stroke" transform="matrix(1,0,0,1,35,722)">
+                <g id="cp_5_shape-5_3_hsrnze1cw5tzc-stroke">
+                    <g>
+                        <path d="M310,118L310,10M10,10L10,118M310,118C310,137.882 293.882,154.008 274,154.008L46,154.008C26.118,154.008 10,137.882 10,118" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-cp_6_shape-6_3_4hb5m21cw5vka-stroke" transform="matrix(1,0,0,1,353,722)">
+                <g id="cp_6_shape-6_3_4hb5m21cw5vka-stroke">
+                    <g>
+                        <path d="M10,118L10,10M310,10L310,118M10,118C10,137.882 26.118,154.008 46,154.008L274,154.008C293.882,154.008 310,137.898 310,118.016L310,118" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-ic_live_1hnhm1cwa1a9-stroke" transform="matrix(1,0,0,1,146,488)">
+                <g id="ic_live_1hnhm1cwa1a9-stroke">
+                    <g>
+                        <path d="M57,34C56.997,45.589 48.368,55.363 36.869,56.803C25.369,58.242 14.597,50.896 11.738,39.665C8.88,28.434 14.828,16.831 25.616,12.598C36.404,8.364 48.657,12.823 54.2,23C56.041,26.374 57.004,30.157 57,34ZM44.034,23C42.166,17.967 38.623,13.73 34,11C29.377,13.73 25.834,17.967 23.966,23M23.964,45C25.834,50.033 29.377,54.27 34,57C38.841,54.492 42.504,50.182 44.2,45M16.564,19L51.436,19M16.564,49L51.436,49M29,39L29,29M33,29L33,32.4C33.001,34.749 33.697,37.045 35,39C36.303,37.045 36.999,34.749 37,32.4L37,29M21,29L21,37C21,38.105 21.895,39 23,39L25,39M45,39L43,39C41.895,39 41,38.105 41,37L41,31C41,29.895 41.895,29 43,29L45,29M41,35L45,35" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-ic_3_1ly0f1m1cw79jc-stroke" transform="matrix(1,0,0,1,509.5,242)">
+                <g id="ic_3_1ly0f1m1cw79jc-stroke">
+                    <g>
+                        <path d="M57,33.882C57.007,46.627 46.681,56.963 33.936,56.97C21.137,56.757 10.901,46.269 11,33.468C11.01,21.241 20.786,11.262 33.01,11C33.342,10.986 33.674,10.98 34.01,10.98C40.102,10.947 45.956,13.346 50.272,17.646C54.588,21.946 57.01,27.79 57,33.882L57,33.882ZM33.01,11C21.01,24 21.01,40.96 33.01,56.96M35.01,11C47.01,24 47.01,40.954 35.01,56.954M14.772,20.968L53.04,20.968M11.006,32.968L57,32.968M13.97,44.968L54.17,44.968" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-ic_stra_1cy036y1cw5udj-stroke" transform="matrix(1,0,0,1,131.5,242)">
+                <g id="ic_stra_1cy036y1cw5udj-stroke">
+                    <g>
+                        <path d="M26,11L12,57M42,11L56,57M34,49L34,57M34,33L34,41M34,19L34,25M34,11L34,13" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-ic_flex_1lu9kiy1cwcume-stroke" transform="matrix(1,0,0,1,161,710)">
+                <g id="ic_flex_1lu9kiy1cwcume-stroke">
+                    <g>
+                        <path d="M18.4,40.834C16.912,40.521 15.89,39.149 16.016,37.634C15.839,36.04 16.948,34.589 18.532,34.34C28.818,34.353 38.909,31.537 47.702,26.2C48.34,25.841 49.109,25.801 49.781,26.092C50.452,26.383 50.949,26.971 51.124,27.682C51.766,29.23 51.288,31.016 49.958,32.036C40.511,37.793 29.663,40.84 18.6,40.842C18.536,40.842 18.468,40.84 18.4,40.834ZM37.972,37.666C40.514,38.626 43.098,39.744 45.734,40.962M38.78,44.772C31.898,41.93 25.394,40.172 18.938,40.822M19,26.582C17.512,26.269 16.49,24.897 16.616,23.382C16.439,21.788 17.548,20.337 19.132,20.088C29.417,20.103 39.509,17.289 48.302,11.954C48.94,11.595 49.709,11.555 50.381,11.846C51.052,12.137 51.549,12.725 51.724,13.436C52.371,14.986 51.893,16.778 50.56,17.8C41.112,23.555 30.263,26.6 19.2,26.6C19.136,26.6 19.068,26.588 19,26.582ZM38.572,23.414C41.114,24.374 43.698,25.492 46.334,26.71M39.38,30.52C32.498,27.678 26,25.912 19.538,26.57M19.388,56.338C17.894,56.145 16.794,54.843 16.854,53.338C16.605,51.74 17.626,50.218 19.2,49.844C29.536,49.03 39.461,45.437 47.922,39.444C48.523,39.031 49.284,38.929 49.973,39.168C50.661,39.407 51.195,39.96 51.41,40.656C52.118,42.181 51.73,43.991 50.458,45.092C41.373,51.551 30.711,55.433 19.6,56.328C19.526,56.334 19.458,56.338 19.388,56.338ZM41.48,50.438L48.26,50.438C49.716,50.631 50.754,51.949 50.6,53.41C50.752,54.87 49.715,56.187 48.26,56.38L19.388,56.38" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-ic_1_1lse59m1cwfn62-stroke" transform="matrix(1,0,0,1,479,710)">
+                <g id="ic_1_1lse59m1cwfn62-stroke">
+                    <g>
+                        <path d="M31,37L13,37C11.895,37 11,36.105 11,35L11,21C11,19.895 11.895,19 13,19L55,19C56.105,19 57,19.895 57,21L57,31.042M19,24L19,32M22.346,25.806L15.656,30.194M22.328,30.22L15.672,25.78M31,24L31,32M34.346,25.806L27.656,30.194M34.328,30.22L27.672,25.78M39,41.002L53,41.002C53,41.002 55,41.002 55,43.002L55,55C55,55 55,57 53,57L39,57C39,57 37,57 37,55L37,43.002C37,43.002 37,41.002 39,41.002M43.5,49.126C43.5,50.507 44.619,51.626 46,51.626C47.381,51.626 48.5,50.507 48.5,49.126C48.5,47.745 47.381,46.626 46,46.626C44.619,46.626 43.5,47.745 43.5,49.126M51,38C51,35.239 48.761,33 46,33C43.239,33 41,35.239 41,38L41,41L51,41L51,38Z" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="g-root-ic_puzz_hv9kbu1cwbgn9-stroke" transform="matrix(1,0,0,1,494,488)">
+                <g id="ic_puzz_hv9kbu1cwbgn9-stroke">
+                    <g>
+                        <path d="M12,39L18,39C18,39 19,39 19,40L19,54C19,54 19,55 18,55L12,55C12,55 11,55 11,54L11,40C11,40 11,39 12,39M19,52.126C40,59.126 33,59.126 57,47.126C55.619,45.265 53.222,44.466 51,45.126L42.366,47.86M19,41L25,41C29.706,41 33,45 34,45L41,45C43,45 43,49 41,49L30,49M45.142,32.8C43.58,31.238 43.58,28.704 45.142,27.142C46.704,25.58 49.238,25.58 50.8,27.142C51.191,27.53 51.496,27.995 51.696,28.508C51.819,28.823 52.093,29.054 52.423,29.123C52.754,29.192 53.097,29.089 53.336,28.85L56.458,25.728C57.239,24.947 57.239,23.681 56.458,22.9L53.258,19.7C55.13,19.193 56.369,17.417 56.197,15.485C56.025,13.553 54.492,12.023 52.56,11.854C50.628,11.686 48.854,12.927 48.35,14.8L45.15,11.6C44.369,10.819 43.103,10.819 42.322,11.6L39.422,14.498C39.209,14.71 39.104,15.007 39.134,15.306C39.164,15.605 39.327,15.874 39.578,16.04C40.93,16.936 41.607,18.559 41.292,20.15C40.978,21.74 39.734,22.984 38.144,23.298C36.553,23.613 34.93,22.936 34.034,21.584C33.868,21.333 33.599,21.17 33.3,21.14C33.001,21.11 32.704,21.215 32.492,21.428L29.586,24.314C28.805,25.095 28.805,26.361 29.586,27.142L40.9,38.456C41.681,39.237 42.947,39.237 43.728,38.456L46.85,35.332C47.089,35.093 47.191,34.751 47.122,34.421C47.053,34.09 46.822,33.817 46.508,33.694C45.995,33.494 45.53,33.19 45.142,32.8Z" style="fill:none;stroke:rgb(44,44,44);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

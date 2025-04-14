@@ -43,6 +43,10 @@ a{color: var(--primary-color);}
 	font-weight: 900;
 	line-height: 50px;
 }
+.service-detail-banner .banner-content h1 {
+	font-size: 40px;
+	line-height: 44px;
+}
 .stars ._star {
 	width: 20px;
 }
