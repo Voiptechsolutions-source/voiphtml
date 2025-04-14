@@ -908,6 +908,10 @@ aside .nav-pills .nav-link.active:after{
     color: #fff;
     text-decoration: none;
 }
+.banner-content-container {
+	gap: 15px;
+}
+
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
@@ -929,6 +933,11 @@ aside .nav-pills .nav-link.active:after{
         border-left: .3em solid transparent;
         transform: translateX(-50%);
         left: 50%;
+    }
+    .banner-content-container .banner-content {
+        max-width: 620px;
+        min-width: 620px;
+        width: 620px;
     }
 }
 @media(max-width: 1200px){

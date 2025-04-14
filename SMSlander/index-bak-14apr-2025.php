@@ -669,110 +669,110 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="faq-item">
                 <input type="checkbox" id="faq1" class="faq-toggle">
                 <label for="faq1" class="faq-question">
-                    <h3>Can we send SMS messages to international numbers for marketing campaigns?</h3>
+                    <h3>What’s the difference between Bulk SMS and Marketing SMS?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes, our service supports SMS delivery to over 200 countries, allowing you to reach global markets.</p>
+                    <p>Bulk SMS refers to sending large volumes of messages, while Marketing SMS is specifically targeted to promote products, offers, or events.</p>
                 </div>
             </div>
             <!-- FAQ 2 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq2" class="faq-toggle">
                 <label for="faq2" class="faq-question">
-                    <h3>How do you prevent SMS messages from being marked as spam?</h3>
+                    <h3>Can I automate birthday or anniversary messages for customers?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>We use advanced filtering techniques, white-listing, and compliance with local regulations to ensure your messages are not flagged as spam.</p>
+                    <p>Yes! With our Automated SMS service, you can schedule recurring messages like birthdays, anniversaries, or renewal reminders.</p>
                 </div>
             </div>
             <!-- FAQ 3 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq3" class="faq-toggle">
                 <label for="faq3" class="faq-question">
-                    <h3>Can I create and manage shortcodes for easier SMS marketing campaigns?</h3>
+                    <h3>How can Bulk SMS help with customer retention?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes, you can lease dedicated shortcodes for branding and easier access to your SMS campaigns.</p>
+                    <p>Bulk SMS helps keep your customers engaged with regular updates, exclusive deals, and timely notifications—improving brand recall and loyalty.</p>
                 </div>
             </div>
             <!-- FAQ 4 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq4" class="faq-toggle">
                 <label for="faq4" class="faq-question">
-                    <h3>Can I use your SMS service for customer feedback and surveys?</h3>
+                    <h3>Can I segment my SMS audience for targeted marketing?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes, you can send SMS-based surveys, polls, and feedback requests to customers and collect responses in real-time.</p>
+                    <p>Absolutely. You can create different contact groups and send personalized messages to each segment for better engagement.</p>
                 </div>
             </div>
             <!-- FAQ 5 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq5" class="faq-toggle">
                 <label for="faq5" class="faq-question">
-                    <h3>What reporting capabilities do you offer for SMS marketing campaigns?</h3>
+                    <h3>Do you support SMS API integration with our system?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>We provide detailed reports on delivery success, read rates, bounce rates, and engagement metrics for each SMS campaign.</p>
+                    <p>Yes, we offer developer-friendly SMS APIs that can easily integrate with CRMs, websites, or apps for real-time messaging.</p>
                 </div>
             </div>
             <!-- FAQ 6 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq6" class="faq-toggle">
                 <label for="faq6" class="faq-question">
-                    <h3>How do I manage opt-in and opt-out lists for SMS marketing?</h3>
+                    <h3>Is it possible to send automated alerts for things like payment confirmations or shipping updates?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Our platform includes tools for managing subscriber lists, ensuring compliance with opt-in/opt-out requirements and removing unsubscribed numbers.</p>
+                    <p>Yes, our Automated SMS feature can send transactional messages triggered by customer actions or system events.</p>
                 </div>
             </div>
             <!-- FAQ 7 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq7" class="faq-toggle">
                 <label for="faq7" class="faq-question">
-                    <h3>Can I automate follow-up SMS messages based on customer interactions?</h3>
+                    <h3>Can I preview or test an SMS campaign before sending it to everyone?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes, we offer automation tools that can send follow-up SMS based on customer actions such as clicks, replies, or purchases.</p>
+                    <p>Yes, we allow test sends so you can review formatting, links, and content before launching your full campaign.</p>
                 </div>
             </div>
             <!-- FAQ 8 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq8" class="faq-toggle">
                 <label for="faq8" class="faq-question">
-                    <h3>Do you support bulk SMS for event notifications and reminders?</h3>
+                    <h3>Are there any limits to how many messages I can send at once?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes, our service is ideal for sending bulk SMS notifications for events, appointments, sales, and other time-sensitive communications.</p>
+                    <p>No strict limits! We support high-volume messaging with reliable delivery, whether you're sending hundreds or hundreds of thousands.</p>
                 </div>
             </div>
             <!-- FAQ 9 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq9" class="faq-toggle">
                 <label for="faq9" class="faq-question">
-                    <h3>What measures are in place to ensure message security and data protection?</h3>
+                    <h3>Can I track how many people read or clicked on my SMS messages?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>We use encryption protocols for all message content and secure data storage to ensure compliance with privacy standards like GDPR.</p>
+                    <p>Yes, our analytics dashboard shows delivery, open rates (if enabled), and link clicks for each campaign.</p>
                 </div>
             </div>
             <!-- FAQ 10 -->
             <div class="faq-item">
                 <input type="checkbox" id="faq10" class="faq-toggle">
                 <label for="faq10" class="faq-question">
-                    <h3>Can I run A/B tests to compare the effectiveness of different SMS marketing messages?</h3>
+                    <h3>How quickly can I launch my first SMS campaign?</h3>
                     <span class="faq-icon">+</span>
                 </label>
                 <div class="faq-answer">
-                    <p>Yes, you can perform A/B testing on different SMS message variations to identify the most effective content and strategies.</p>
+                    <p>You can get started within minutes. Just upload your contacts, craft your message, and hit send—or schedule it for later.</p>
                 </div>
             </div>
         </div>
