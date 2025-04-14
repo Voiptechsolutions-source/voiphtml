@@ -154,6 +154,10 @@ section h2{
     position: relative;
     top: 3px;
 }
+._feat-box ._content ul.list2.icons-list li::before {
+	content: '';
+	display: none;
+}
 .list2 .list-heading {
 	color: #000;
 	font-weight: 700;
@@ -501,7 +505,7 @@ footer .contact-icons svg{
 	background: #fff;
 }
 #main #faq .card {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     border: 0;
   }
   
@@ -798,18 +802,23 @@ aside .nav-pills .nav-link.active:after{
 	gap: 10px;
 	margin-bottom: 40px;
 }
+.banner-feats ._feat p {
+	font-size: 13px;
+	margin: 0;
+	font-weight: normal;
+}
 .banner-feats .feat-icn img {
 	width: 22px;
 }
 .banner-feats .feat-item {
 	display: flex;
-	align-items: center;
-	gap: 5px;
+	gap: 10px;
 	font-weight: 600;
+    text-align: left;
 }
 .service-detail-banner {
 	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 93%);
-	height: 750px;
+	height: 800px;
 	margin-bottom: 80px;
 }
 .banner-form {
