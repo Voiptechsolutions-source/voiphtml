@@ -246,8 +246,8 @@ section h2{
     font-weight: 300;
 }
 .testim-item .img-box {
-	width: 100px;
-	height: 100px;
+	width: 64px;
+	height: 64px;
 	background: #eaeaea;
 	border-radius: 100%;
 }
