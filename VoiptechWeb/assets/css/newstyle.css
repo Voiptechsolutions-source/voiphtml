@@ -823,7 +823,7 @@ aside .nav-pills .nav-link.active:after{
 }
 .service-detail-banner {
 	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 93%);
-	height: 800px;
+	height: 850px;
 	margin-bottom: 80px;
 }
 .banner-form {
