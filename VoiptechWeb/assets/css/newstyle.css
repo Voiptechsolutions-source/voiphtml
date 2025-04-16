@@ -925,7 +925,9 @@ aside .nav-pills .nav-link.active:after{
 .banner-content-container {
 	gap: 15px;
 }
-
+.process-box-cont .process-box p {
+	margin-bottom: 0;
+}
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
