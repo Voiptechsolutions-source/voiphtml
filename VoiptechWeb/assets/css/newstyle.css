@@ -218,8 +218,11 @@ section h2{
 	display: inline-flex !important;
 	gap: 10px;
 }
-.cta-btn span{width: 20px; display: flex;
-    align-items: center;}
+.cta-btn span{
+    width: 20px; 
+    display: flex;
+    align-items: center;
+}
 .cta-btn span svg{
     fill: var(--primary-color);
     width: 100%;
@@ -928,6 +931,7 @@ aside .nav-pills .nav-link.active:after{
 .process-box-cont .process-box p {
 	margin-bottom: 0;
 }
+
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
@@ -954,6 +958,19 @@ aside .nav-pills .nav-link.active:after{
         max-width: 620px;
         min-width: 620px;
         width: 620px;
+    }
+    .voip-submenu .dropdown-menu{
+        display: none !important;
+    }
+    .voip-submenu:hover .dropdown-menu{
+        display: block !important;
+    }
+    .sms-submenu .dropdown-menu{
+    
+        display: none !important;
+    }
+    .sms-submenu:hover .dropdown-menu{
+        display: block !important;
     }
 }
 @media(max-width: 1200px){
