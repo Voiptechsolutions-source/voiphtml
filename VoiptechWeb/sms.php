@@ -43,81 +43,7 @@
                 </a>
             </div>
             <!-- Main Menu -->
-            <nav class="navbar navbar-expand-lg navbar-light  site_bg_color" style="border-radius: 10px;z-index: 1;">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                  
-                  <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                    
-                    <li class="nav-item">
-                      <a class="nav-link " href="about-us.html">About Us</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                         Solutions
-                        </a>
-                        <ul class="dropdown-menu dropdown1" aria-labelledby="navbarDropdownMenuLink">
-                          <li class="dropdown-submenu dropdownsubmenu  service" id="service"><a class="dropdown-item dropdown-toggle service" href="#">Services</a>
-                          <ul class="dropdown-menu dropdownsubmenu1">
-                            <li class="dropdown-submenu voip-submenu">
-                              <a class="dropdown-item dropdown-toggle" href="#">VoIP</a>
-                                <ul class="dropdown-menu">
-                                  <li><a class="dropdown-item" href="voip-minutes.html">VoIP Minutes</a></li>
-                                  <li><a class="dropdown-item" href="cc-traffic.html">CC Traffic</a></li>
-                                  <li><a class="dropdown-item" href="cli-ncli.html">Cli/Ncli</a></li>
-                                  <li><a class="dropdown-item" href="wholesale-voip.html">Wholesale VoIP</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown-submenu sms-submenu" >
-                                <a class="dropdown-item dropdown-toggle" href="#">SMS</a>
-                                <ul class="dropdown-menu" >
-                                    <li><a class="dropdown-item" href="sms.html">SMS</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="dropdown-item" href="#">DID & TFN</a></li>
-                            <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
-                            <li><a class="dropdown-item" href="#">Career</a></li>
-                            <li><a class="dropdown-item" href="#">Life at VoiptechSolutions</a></li>
-                            <li><a class="dropdown-item" href="#">Events</a></li>
-                            <li><a class="dropdown-item" href="#">Gallery</a></li>
-                            </ul>
-
-                          </li>
-                          <li class="dropdown-submenu dropdownsubmenu  product"><a class="dropdown-item dropdown-toggle" href="#">Products</a>
-                            <ul class="dropdown-menu dropdownsubmenu2">
-
-                              <li><a class="dropdown-item" href="#">IVR System</a></li>
-                              <li><a class="dropdown-item" href="#">VTS Dialer</a></li>
-                             <li><a class="dropdown-item" href="#">Content Management Software</a></li>
-                            </ul>
-                          </li>
-
-                          <li class="dropdown-submenu dropdownsubmenu  solution"><a class="dropdown-item dropdown-toggle" href="#">Solution</a>
-                            <ul class="dropdown-menu dropdownsubmenu3">
-                              <li><a class="dropdown-item" href="#">Call Center Solution</a></li>
-                              <li><a class="dropdown-item" href="#">Vicidial Solution</a></li>
-                              <li><a class="dropdown-item" href="#">Fusion PBX solution</a></li>
-                            </ul>
-                          </li>
-                        </ul>
-                      </li>
-
-                    
-                      <li class="nav-item">
-                        <a class="nav-link " href="#">Industries</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link " href="#">Our Clients</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link " href="#">Testimonials</a>
-                      </li>
-                  </ul>
-                  
-                </div>
-            </nav>
+            <?php include 'includes/header-menu.php'; ?>
 
             <!-- Get Started Button -->
              <a href="#" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
@@ -134,49 +60,49 @@
             <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-start banner-content-container">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>High-Quality CC Traffic Provider for Businesses & Enterprises</h1>
-                    <p>Built for Volume, Trusted for Clarity</p>
+                    <h1>Affordable Bulk SMS Service provider for Businesses & Enterprises</h1>
+                    <p>Reach thousands in one click with zero hassle</p>
                     <div class="banner-feats">
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn1.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">High Call Completion Rates</div>
-                                <p>Ensure more connected calls and fewer drops with optimized routing.</p>
+                                <div class="_feat-head">Instant Delivery</div>
+                                <p>Messages reach users in seconds, ensuring timely communication.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn2.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Low Latency & High CPS Support</div>
-                                <p>Handle high call-per-second loads with smooth, lag-free performance.</p>
+                                <div class="_feat-head">High Open Rates</div>
+                                <p>SMS messages have over 90% open rates—your message gets seen.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn3.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Global Route Coverage</div>
-                                <p>Reach multiple countries seamlessly with both CLI and Non-CLI routes.</p>
+                                <div class="_feat-head">Easy Integration</div>
+                                <p>Connect with your CRM, website, or app effortlessly.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn4.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Dialer-Optimized Routing</div>
-                                <p>Designed for predictive dialers, ideal for large-scale outbound campaigns.</p>
+                                <div class="_feat-head">Campaign Tracking</div>
+                                <p>Monitor delivery, click-throughs, and engagement in real time.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn5.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">24/7 Network Monitoring</div>
-                                <p>We monitor traffic continuously to ensure uptime, stability, and fast issue resolution.</p>
+                                <div class="_feat-head">Cost-Effective</div>
+                                <p>Send thousands of SMS without breaking the budget.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn6.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Flexible Billing Options</div>
-                                <p>Enjoy prepaid, postpaid, or tailored billing to match your business model.</p>
+                                <div class="_feat-head">Wider Reach</div>
+                                <p>Reach customers globally with a single platform.</p>
                             </div>
                         </div>
                     </div>
@@ -257,57 +183,47 @@
         <!-- Faet 1 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
             <div class="col col-md-6">
-                <h3>Why Choose <span class="text-orange">VoIPTech Solutions</span> For <span class="text-orange">CC Traffic?</span> </h3>
+                <h3>Why Choose <span class="text-orange">VoIPTech Solutions</span> For <span class="text-orange">SMS Services?</span> </h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Carrier-Grade Routes</div>
-                                <p class="mb-0">We provide direct and quality-assured routes for reliable call delivery.</p>
+                                <div class="list-heading">High Delivery Rate</div>
+                                <p class="mb-0">Our routes ensure your messages land—fast and reliably.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">High CPS & Concurrency</div>
-                                <p class="mb-0">Engineered for heavy outbound traffic with high CPS and concurrency support.</p>
+                                <div class="list-heading">User-Friendly Dashboard</div>
+                                <p class="mb-0">Send, schedule, and monitor SMS campaigns with ease.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Global CLI & Non-CLI Support</div>
-                                <p class="mb-0">Terminate calls globally with flexible routing options based on your campaign needs.</p>
+                                <div class="list-heading">Global Coverage</div>
+                                <p class="mb-0">Send bulk messages across borders to over 200+ countries.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Predictive Dialer Compatibility</div>
-                                <p class="mb-0">Seamless integration with all major dialers and traffic platforms.</p>
+                                <div class="list-heading">Scalable Solutions</div>
+                                <p class="mb-0">Whether 100 or 1 million texts, we’ve got you covered.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Real-Time Traffic Monitoring</div>
-                                <p class="mb-0">Live monitoring tools help detect and resolve issues before they impact your campaigns.</p>
+                                <div class="list-heading">Dedicated Support</div>
+                                <p class="mb-0">Get real-time help from our SMS experts.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Dedicated Account Support</div>
-                                <p class="mb-0">A dedicated VoIP expert ensures you get responsive service, every time.</p>
+                                <div class="list-heading">Secure & Compliant</div>
+                                <p class="mb-0">We follow telecom regulations to keep your messages safe and legal.</p>
                             </div>  
                         </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Custom Route Management</div>
-                                <p class="mb-0">Choose routing preferences based on quality, cost, or destination.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Transparent Pricing</div>
-                                <p class="mb-0">No hidden fees — just clear rates and honest billing.</p>
-                            </div>  
-                        </li>
+                        
+                        
                         
                     </ul>
                 </div>
@@ -317,50 +233,50 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/cc-traffic-Services1.svg" alt="Why Choose VoIPTech For CC Traffic? " class="img-fluid" loading="lazy" />
+                    <img src="assets/images/sms-Services1.svg" alt="Why Choose VoIPTech For CC Traffic? " class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
         <!-- Faet 2 -->
         <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">CC Traffic</span></h3>
+                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">Bulk SMS</span></h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Consistent Call Quality</div>
-                                <p class="mb-0">Experience crystal-clear voice calls even during peak hours with our robust infrastructure.</p>
+                                <div class="list-heading">Fast Message Delivery</div>
+                                <p class="mb-0">Reach your audience instantly—no delays, no downtime.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Scalable Traffic Handling</div>
-                                <p class="mb-0">Grow your call volume effortlessly with infrastructure built to support high CPS and concurrent calls.</p>
+                                <div class="list-heading">Highly Scalable</div>
+                                <p class="mb-0">Whether you're sending hundreds or millions, we scale with you.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Faster Campaign Turnaround</div>
-                                <p class="mb-0">Our optimized routes help you complete campaigns quickly with higher connection rates.</p>
+                                <div class="list-heading">Real-Time Analytics</div>
+                                <p class="mb-0">Track delivery, open rates, and responses in one dashboard.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Improved Profit Margins</div>
-                                <p class="mb-0">Get competitive wholesale pricing to keep your per-call cost low and ROI high.</p>
+                                <div class="list-heading">Custom Sender ID</div>
+                                <p class="mb-0">Brand your messages with your business name or shortcode.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Reduced Call Drops</div>
-                                <p class="mb-0">Smart routing and monitoring significantly minimize dropped or failed call attempts.</p>
+                                <div class="list-heading">Flexible APIs</div>
+                                <p class="mb-0">Integrate Bulk SMS into your systems with easy-to-use APIs.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Global Expansion Ready</div>
-                                <p class="mb-0">Easily expand to international markets with our broad CLI and Non-CLI route options.</p>
+                                <div class="list-heading">24/7 Support</div>
+                                <p class="mb-0">Our support team is always available to assist you.</p>
                             </div>  
                         </li>
                     </ul>
@@ -371,7 +287,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/cc-traffic-Services2.svg" alt="Key Benefits of Choosing VoIPTech Solutions for CC Traffic" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/sms-Services2.svg" alt="Key Benefits of Choosing Voip Tech Solutions for CLI/NCLI Routes" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -380,57 +296,79 @@
             <div class="col col-md-6">
                 <h3>Industries We Serve</h3>
                 <div class="_content">
-                    <p>VoIPTech Solutions CC Traffic services are tailored for industries that rely on high-volume outbound calling, predictive dialing, and global reach.</p>
+                    <p>We empower diverse industries to engage customers, send alerts, and drive campaigns through fast and reliable bulk SMS solutions.</p>
                     <ul class="list2 icons-list">
                         <li>
-                            <span class="_icn">📞</span>
+                            <span class="_icn">🛒</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Call Centers</div>
-                                <p class="mb-0">High-CPS support for predictive dialing, campaign management, and large-scale outbound operations.</p>
+                                <div class="list-heading">E-commerce</div>
+                                <p class="mb-0">Promote offers, send order updates, and drive repeat purchases.</p>
                             </div>
                         </li>
                         <li>
                             <span class="_icn">🏥</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Healthcare & Medical Services</div>
-                                <p class="mb-0">Reach patients efficiently for appointment reminders, follow-ups, and outreach campaigns.</p>
+                                <div class="list-heading">Healthcare</div>
+                                <p class="mb-0">Send appointment reminders, health tips, and critical alerts.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🏦</span>
+                            <span class="_icn">🏦 </span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Finance & Collections</div>
-                                <p class="mb-0">Powerful CC Traffic solutions for loan follow-ups, collections, and customer service calls.</p>
+                                <div class="list-heading">Banking & Finance</div>
+                                <p class="mb-0">Deliver secure OTPs, transaction alerts, and service notifications.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🛍️</span>
+                            <span class="_icn">🏫</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">E-Commerce & Retail</div>
-                                <p class="mb-0">Support sales, delivery confirmations, and customer service with scalable CC call handling.</p>
+                                <div class="list-heading">Education</div>
+                                <p class="mb-0">Share exam schedules, attendance alerts, and event reminders.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🎓</span>
+                            <span class="_icn">🎫</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Education & EdTech</div>
-                                <p class="mb-0">Run voice campaigns for enrollments, fee reminders, or student support efficiently.</p>
+                                <div class="list-heading">Event Management</div>
+                                <p class="mb-0">Promote events, send confirmations, and boost attendance.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">📢 </span>
+                            <span class="_icn">🚚</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Telemarketing & BPOs</div>
-                                <p class="mb-0">Drive high-conversion voice campaigns with clear, reliable traffic and dialer compatibility.</p>
+                                <div class="list-heading">Logistics</div>
+                                <p class="mb-0">Keep customers informed with real-time delivery updates and tracking info.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🛠️</span>
+                            <span class="_icn">💼</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Tech Support & SaaS Providers</div>
-                                <p class="mb-0">Deliver timely outbound support and service renewals with minimal latency and call drops.</p>
+                                <div class="list-heading">Corporate & HR</div>
+                                <p class="mb-0">Send employee announcements, shift alerts, and HR updates.</p>
                             </div>  
                         </li>
+                        <li>
+                            <span class="_icn">🏢</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Real Estate</div>
+                                <p class="mb-0">Notify clients about property listings, site visits, and meetings.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">🏛️</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Government Services</div>
+                                <p class="mb-0">Deliver public notices, citizen alerts, and emergency messages.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">📱</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Telecom & ISPs</div>
+                                <p class="mb-0">Send usage alerts, payment reminders, and service updates.</p>
+                            </div>  
+                        </li>
+                        
                         
                     </ul>
                 </div>
@@ -440,7 +378,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/cc-traffic-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/sms-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -458,8 +396,8 @@
                     <div class="process-body">
                         <div class="process-no">1</div>
                         <div class="_pro-content">
-                            <h3>Connect with Our Wholesale Team</h3>
-                            <p>Reach out via our inquiry form, email, or phone to discuss your high-volume VoIP minutes and routing needs.</p>
+                            <h3>Contact Our Sales Team</h3>
+                            <p>Fill out the inquiry form or connect via email/phone to discuss your Bulk SMS needs and target audience.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -470,8 +408,8 @@
                     <div class="process-body">
                         <div class="process-no">2</div>
                         <div class="_pro-content">
-                            <h3>Customize Your Wholesale Plan</h3>
-                            <p>Choose or build a wholesale VoIP minutes package based on your target regions, call traffic, and technical requirements.</p>
+                            <h3>Choose Your Plan</h3>
+                            <p>Pick a Bulk SMS package that aligns with your message volume, audience size, and budget.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -482,8 +420,8 @@
                     <div class="process-body">
                         <div class="process-no">3</div>
                         <div class="_pro-content">
-                            <h3>Setup and Go Live</h3>
-                            <p>Our engineers will configure your SIP routes and credentials — your service can be live in just a few hours.</p>
+                            <h3>Setup & Launch</h3>
+                            <p>We’ll set up your account, provide API access (if needed), and you’ll be ready to send SMS campaigns within hours!</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -674,12 +612,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">What is CC Traffic and how is it different from regular VoIP minutes?</a>
+                                    aria-expanded="true" aria-controls="faq1">How does bulk SMS help my business grow?</a>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                        CC Traffic (Call Center Traffic) is optimized for high-volume outbound calls and predictive dialers, unlike regular VoIP minutes designed for general use.
+                                        It allows you to instantly reach thousands of customers with promotions, alerts, and updates that drive engagement and conversions.
                                     </div>
                                 </div>
                             </div>
@@ -687,12 +625,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Why should I choose VoIPTech Solutions for CC Traffic services?</a>
+                                    aria-expanded="true" aria-controls="faq2">Can bulk SMS campaigns be scheduled in advance?</a>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                        VoIPTech Solutions provides high-quality routes, dialer compatibility, 24/7 monitoring, and tailored plans to support your outbound campaigns at scale.
+                                        Yes, you can easily schedule messages for any date and time through our user-friendly dashboard.
                                     </div>
                                 </div>
                             </div>
@@ -700,12 +638,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is CC Traffic compatible with predictive dialers?</a>
+                                    aria-expanded="true" aria-controls="faq3">Is there a minimum SMS volume required to start?</a>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, VoIPTech Solutions CC Traffic is fully optimized for all major predictive dialers and high-CPS environments.
+                                        No, you can begin with flexible plans that suit your specific needs—whether you’re sending hundreds or millions of texts.
                                     </div>
                                 </div>
                             </div>
@@ -713,12 +651,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">What is CPS in CC Traffic and why does it matter?</a>
+                                    aria-expanded="true" aria-controls="faq4">Does VoIPTech Solutions offer delivery reports?</a>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                        CPS (Calls Per Second) measures how many calls your system can place. VoIPTech Solution’s supports high CPS to handle heavy call loads efficiently.
+                                        Absolutely. Real-time delivery reports help you track performance and optimize your campaigns effectively.
                                     </div>
                                 </div>
                             </div>
@@ -726,12 +664,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">How quickly can I start using VoIPTech Solutions CC Traffic?</a>
+                                    aria-expanded="true" aria-controls="faq5">Are bulk SMS messages delivered globally?</a>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                        In most cases, we can set you up and get you live within a few hours of plan confirmation.
+                                        Yes, our service supports international delivery to over 200+ countries through secure, high-quality routes.
                                     </div>
                                 </div>
                             </div>
@@ -739,12 +677,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Can I use VoIPTech Solutions CC Traffic for international calling?</a>
+                                    aria-expanded="true" aria-controls="faq6">Can I customize the sender ID in my messages?</a>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                        Absolutely. Our CC Traffic service includes CLI and Non-CLI routes to over 200 countries.
+                                        Yes, we offer customizable sender IDs to ensure brand visibility and message authenticity.
                                     </div>
                                 </div>
                             </div>
@@ -752,12 +690,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Is there real-time monitoring with VoIPTech Solutions CC Traffic?</a>
+                                    aria-expanded="true" aria-controls="faq7">Is customer support available for bulk SMS users?</a>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, we provide live dashboards to monitor call success rates, usage, and route performance.
+                                        Yes, our dedicated support team is available 24/7 to assist you with setup, delivery issues, or campaign help.
                                     </div>
                                 </div>
                             </div>
@@ -765,12 +703,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">What billing options are available for CC Traffic services?</a>
+                                    aria-expanded="true" aria-controls="faq8">Will my messages comply with telecom regulations?</a>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        VoIPTech Solutions offers flexible billing — prepaid, postpaid, or custom — based on your business needs.
+                                        Yes, we follow all regional and international guidelines to ensure safe and compliant messaging.
                                     </div>
                                 </div>
                             </div>
@@ -778,12 +716,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Can I upgrade my CC Traffic plan as my volume grows?</a>
+                                    aria-expanded="true" aria-controls="faq9">Does the bulk SMS service include API access?</a>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, our plans are scalable. You can upgrade anytime to support more CPS, destinations, or minutes.
+                                        Yes, we provide flexible and secure APIs for seamless integration into your platform or CRM.
                                     </div>
                                 </div>
                             </div>
@@ -791,12 +729,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Who can I contact if I have issues with my CC Traffic service?</a>
+                                    aria-expanded="true" aria-controls="faq10">How soon can I start sending bulk SMS after signup?</a>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                        You’ll have a dedicated VoIPTech Solutions account manager and 24/7 support team ready to assist anytime.
+                                        In most cases, your account is set up and ready to launch campaigns within a few hours of onboarding.
                                     </div>
                                 </div>
                             </div>
@@ -808,157 +746,7 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
  </main>
 
  <!-- Footer -->
-<footer class="main-foorter bg-orange">
-    <!-- top footer island -->
-     <div class="container">
-        <div class="row mb-5">
-            <div class="col-md-12">
-             <!-- row start inside col 12 -->
-               <div class="row footer-island p-5 bg-white">
-                <div class="col-lg-4 col-md-4 mt-2">
-                    <div class="row">
-                      <div class="col-md-12 text-left d-flex gap-2 top-footer-call">
-                        <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
-                        </span>
-                        <!-- <img src="assets/images/icons/ph-icn.png" loading="lazy" alt="mail" height="28" width="30" class="float-left" style="margin-top: 9px;"> -->
-                           <div class="contact-txt">
-                               <div class="text-dark">Call us</div>
-                               <p><a href="tel:+917949107742"><b class="site_color" >+91-7949107742</b></a></p>
-                           </div>
-                       </div>
-                
-                     </div>
-        
-                  </div>
-                 <div class="col-lg-4 col-md-4 mt-2">
-     
-                   <div class="row">
-                     
-                           <div class="col-md-12 text-left d-flex gap-2">
-                             <img src="assets/images/icons/mail-icn.png" loading="lazy" alt="mail" class="float-left" height="28" width="30" style="margin-top: 9px;">
-                             <div class="contact-txt">
-                                <div class="text-dark">mail us</div>
-                                <p><a href="mailto:info@voiptechsolutions.com"><b class="site_color">info@voiptechsolutions.com</b></a></p>
-                             </div>
-                               
-                           </div>
-                     
-                   </div>
-                 
-               </div>
-               
-               <div class="col-lg-4 col-md-4 mt-2 hide_in_tab">
-                 <div class="row">
-                   
-                       <div class="col-md-12 text-left ">
-                       <a href="https://www.google.com/maps/place/DLF+CYBER+CITY/@20.3488665,85.7958333,15.75z/data=!4m6!3m5!1s0x3a1908e025984c55:0xee1fcd1f11e55141!8m2!3d20.3490424!4d85.8077361!16s%2Fg%2F1jkyhv803?entry=ttu" target="_blank" class="d-flex gap-2">
-                             <img src="assets/images/icons/loc-icn.png" loading="lazy" alt="mail" class="float-left" height="28" width="30" style="margin-top: 9px;">
-                                <div class="contact-txt">
-                                    <div class="text-dark">530, DLF Cybercity, Patia</div>
-                                    <p><b class="site_color" >Bhubaneswar, Odisha, India</b></p>
-                                </div>
-                               </a>
-                       </div>
-                   
-             
-                 </div>
-     
-     
-               </div>
-                
-     
-               </div>
-               <!-- row end -->
-            </div>
-          
-             
-            </div>
-     </div>
-
-     <!-- Footer Nav -->
-      <div class="container text-white footer-nav">
-        <div class="row">
-            <div class="col-12 col-md-3">
-                <div class="footer-logo mb-2">
-                    <a href="index.html">
-                        <img src="assets/images/footer-logo.png" loading="lazy" alt="VoIPTech Solutions" />
-                    </a>
-                </div>
-                <p>VoIPTech is a leading Voice and SMS service provider across the globe. </p>
-                <div class="social_icons mt-2 d-flex gap-2">
-                  <a href="https://www.facebook.com/VoIPTechSolutions" class="fb" target="_blank">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M80 299.3V512H196V299.3h86.5l18-97.8H196V166.9c0-51.7 20.3-71.5 72.7-71.5c16.3 0 29.4 .4 37 1.2V7.9C291.4 4 256.4 0 236.2 0C129.3 0 80 50.5 80 159.4v42.1H14v97.8H80z"/></svg>
-                  </a>
-                  <a href="https://www.linkedin.com/company/voiptechsolutions" target="_blank">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/></svg>
-                  </a>
-                  <a href="https://www.instagram.com/voiptechsolutions" target="_blank">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
-                  </a>
-                  <a href="https://wa.link/voiptech" target="_blank">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/></svg>
-                  </a>
-                </div>
-            </div>
-            <div class="col-12 col-md-3">
-                <h4>Quick Links</h4>
-                <ul>
-                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="terms-of-services.html">Terms & Conditions</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="contact-us.html">Contact Us</a></li>
-                    <li><a href="blogs.html">Blogs</a></li>
-                </ul>
-            </div>
-            <div class="col-12 col-md-3">
-                <h4>Services</h4>
-                <ul>
-                    <li><a href="#">VoIP</a></li>
-                    <li><a href="#">SMS</a></li>
-                    <li><a href="#">DID & TFN</a></li>
-                    <li><a href="#">Hosted IP-PBX</a></li>
-                    <li><a href="#">Career</a></li>
-                </ul>
-            </div>
-            <div class="col-12 col-md-3">
-                <h4>Contact Info</h4>
-                <div class="address d-flex gap-2">
-                    <span class="contact-icons">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg>
-                    </span>
-                    <p>Unit No – 530, DLF Cybercity, Patia, Bhubaneswar, Odisha,
-                    India – 751024</p>
-                </div>
-                <div class="company-nos d-flex gap-2">
-                  <span class="contact-icons">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
-                  </span>
-                  <p>Sales: <a href="tel:+917949107742">+91-7949107742</a> <!-- <br>
-                    Urgent: <a href="tel: +91-7008220621">+91-7008220621</a> <br>
-                      <span style="visibility: hidden;">Urgent: </span><a href="tel:+971-504583131">+971-504583131</a> <br>
-                    HR: <a href="tel:+91-8114890352">+91-8114890352</a><br>
-                    HR: <a href="tel:+91-7894280219">+91-7894280219</a> -->
-                  </p>
-                </div>
-                <div class="whatsapp-no d-flex gap-2 mb-2">
-                  <span class="contact-icons">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/></svg>
-                  </span>
-                  <a href="https://wa.link/voiptech" target="_blank">voiptech Solutions</a></div>
-                <div class="telegramid d-flex gap-2">
-                  <span class="contact-icons">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M248 8C111 8 0 119 0 256S111 504 248 504 496 393 496 256 385 8 248 8zM363 176.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7 .2-.7 .3-3.1-1.2-4.4s-3.6-.8-5.1-.5q-3.3 .7-104.6 69.1-14.8 10.2-26.9 9.9c-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3q.8-6.7 18.5-13.7 108.4-47.2 144.6-62.3c68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6 .5 9.6 2.9a10.5 10.5 0 0 1 3.5 6.7A43.8 43.8 0 0 1 363 176.7z"/></svg>
-                  </span>
-                  <p>dwibendu</p>
-                </div>
-            </div>
-        </div>
-      </div>
-    <!-- Copyright -->
-     <div class="text-center p-3 mt-5 copyright">
-        <p class="mb-0">© Copyright 2025, All Right Reserved, Designed & Developed By VoiptechSolutions</p>
-     </div>
-</footer>
+ <?php include 'includes/footer-menu.php'; ?>
 
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/popper.min.js"></script>

@@ -43,81 +43,7 @@
                 </a>
             </div>
             <!-- Main Menu -->
-            <nav class="navbar navbar-expand-lg navbar-light  site_bg_color" style="border-radius: 10px;z-index: 1;">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                  
-                  <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                    
-                    <li class="nav-item">
-                      <a class="nav-link " href="about-us.html">About Us</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                         Solutions
-                        </a>
-                        <ul class="dropdown-menu dropdown1" aria-labelledby="navbarDropdownMenuLink">
-                          <li class="dropdown-submenu dropdownsubmenu  service" id="service"><a class="dropdown-item dropdown-toggle service" href="#">Services</a>
-                          <ul class="dropdown-menu dropdownsubmenu1">
-                            <li class="dropdown-submenu voip-submenu">
-                              <a class="dropdown-item dropdown-toggle" href="#">VoIP</a>
-                                <ul class="dropdown-menu">
-                                  <li><a class="dropdown-item" href="voip-minutes.html">VoIP Minutes</a></li>
-                                  <li><a class="dropdown-item" href="cc-traffic.html">CC Traffic</a></li>
-                                  <li><a class="dropdown-item" href="cli-ncli.html">Cli/Ncli</a></li>
-                                  <li><a class="dropdown-item" href="wholesale-voip.html">Wholesale VoIP</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown-submenu sms-submenu" >
-                                <a class="dropdown-item dropdown-toggle" href="#">SMS</a>
-                                <ul class="dropdown-menu" >
-                                    <li><a class="dropdown-item" href="sms.html">SMS</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="dropdown-item" href="#">DID & TFN</a></li>
-                            <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
-                            <li><a class="dropdown-item" href="#">Career</a></li>
-                            <li><a class="dropdown-item" href="#">Life at VoiptechSolutions</a></li>
-                            <li><a class="dropdown-item" href="#">Events</a></li>
-                            <li><a class="dropdown-item" href="#">Gallery</a></li>
-                            </ul>
-
-                          </li>
-                          <li class="dropdown-submenu dropdownsubmenu  product"><a class="dropdown-item dropdown-toggle" href="#">Products</a>
-                            <ul class="dropdown-menu dropdownsubmenu2">
-
-                              <li><a class="dropdown-item" href="#">IVR System</a></li>
-                              <li><a class="dropdown-item" href="#">VTS Dialer</a></li>
-                             <li><a class="dropdown-item" href="#">Content Management Software</a></li>
-                            </ul>
-                          </li>
-
-                          <li class="dropdown-submenu dropdownsubmenu  solution"><a class="dropdown-item dropdown-toggle" href="#">Solution</a>
-                            <ul class="dropdown-menu dropdownsubmenu3">
-                              <li><a class="dropdown-item" href="#">Call Center Solution</a></li>
-                              <li><a class="dropdown-item" href="#">Vicidial Solution</a></li>
-                              <li><a class="dropdown-item" href="#">Fusion PBX solution</a></li>
-                            </ul>
-                          </li>
-                        </ul>
-                      </li>
-
-                    
-                      <li class="nav-item">
-                        <a class="nav-link " href="#">Industries</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link " href="#">Our Clients</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link " href="#">Testimonials</a>
-                      </li>
-                  </ul>
-                  
-                </div>
-            </nav>
+            <?php include 'includes/header-menu.php'; ?>
 
             <!-- Get Started Button -->
              <a href="#" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
@@ -134,49 +60,49 @@
             <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-start banner-content-container">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>Reliable VoIP Minutes Provider for Small Businesses and Enterprises</h1>
-                    <p>Crystal-clear calls at unbeatable rates.</p>
+                    <h1>Affordable wholesale VoIP minutes provider for Small Businesses & Enterprises</h1>
+                    <p>The Smarter Way to Power Every Call at Scale</p>
                     <div class="banner-feats">
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn1.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Cost-Effective Communication</div>
-                                <p>Save big on local and international calls with flexible plans.</p>
+                                <div class="_feat-head">Bulk Pricing Advantage</div>
+                                <p>Enjoy reduced per-minute costs with high-volume VoIP minutes.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn2.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Global Reach</div>
-                                <p>Connect with customers worldwide using our reliable global routes.</p>
+                                <div class="_feat-head">High Call Volume Handling</div>
+                                <p>Perfect for call centers and enterprises with massive outbound or inbound traffic.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn3.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Crystal-Clear Call Quality</div>
-                                <p>Enjoy HD voice quality with minimal latency and zero disruptions.</p>
+                                <div class="_feat-head">Global Call Termination</div>
+                                <p>Connect seamlessly with over 200+ countries using premium routes.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn4.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Easy Integration</div>
-                                <p>Seamlessly plug into your existing VoIP setup or dialer system.</p>
+                                <div class="_feat-head">Scalable for Growth</div>
+                                <p>Upgrade anytime as your communication needs expand — no restrictions.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn5.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">24/7 Expert Support</div>
-                                <p>Our VoIP specialists are always ready to support you, anytime.</p>
+                                <div class="_feat-head">HD Voice Quality</div>
+                                <p>Experience crystal-clear voice quality with ultra-low latency.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn6.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Scalable Plans</div>
-                                <p>Start small or go big, our minutes scale with your business.</p>
+                                <div class="_feat-head">Real-Time Usage Monitoring</div>
+                                <p>Track your call volume, usage, and performance with live analytics.</p>
                             </div>
                         </div>
                     </div>
@@ -257,69 +183,52 @@
         <!-- Faet 1 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
             <div class="col col-md-6">
-                <h3>Why Choose <span class="text-orange">VoIPTech</span> For <span class="text-orange">VoIP Minutes</span> Services?</h3>
+                <h3>Why Choose <span class="text-orange">VoIPTech</span> For <span class="text-orange">wholesale VoIP Minutes?</span> </h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Premium Quality Routes </div>
-                                <p class="mb-0">Tier-1 and direct carrier routes for optimal voice clarity.</p>
+                                <div class="list-heading">Carrier-Grade Infrastructure</div>
+                                <p class="mb-0">Built for high-volume, uninterrupted calling.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Global Termination Coverage</div>
-                                <p class="mb-0">Extensive reach with access to 200+ countries.</p>
+                                <div class="list-heading">Global Coverage</div>
+                                <p class="mb-0">Premium CLI and Non-CLI routes to 200+ countries.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Real-Time Call Monitoring Dashboard</div>
-                                <p class="mb-0">Track usage, call status, and live performance metrics.</p>
+                                <div class="list-heading">Real-Time Dashboard</div>
+                                <p class="mb-0">Track usage, call logs, and top up instantly.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Seamless Dialer Integration</div>
-                                <p class="mb-0">100% compatible with major dialers like ViciDial, GoAutoDial, and custom setups.</p>
+                                <div class="list-heading">Custom Call Plans</div>
+                                <p class="mb-0">Packages tailored to your business needs.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Flexible Billing Options</div>
-                                <p class="mb-0">Choose prepaid, postpaid, or pay-as-you-go plans.</p>
+                                <div class="list-heading">Secure SIP Trunks</div>
+                                <p class="mb-0">Encrypted, fraud-protected call connections.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Secure SIP Protocols</div>
-                                <p class="mb-0">Encrypted SIP trunking with TLS and SRTP for secure call transmission.</p>
+                                <div class="list-heading">24/7 Expert Support</div>
+                                <p class="mb-0">Get help anytime from our VoIP specialists.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Instant Account Setup</div>
-                                <p class="mb-0">Quick provisioning and activation with minimal setup time.</p>
+                                <div class="list-heading">High CPS & Concurrency</div>
+                                <p class="mb-0">Handle massive call traffic with ease.</p>
                             </div>  
                         </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Intelligent Call Routing</div>
-                                <p class="mb-0">Smart LCR (Least Cost Routing) and CLI/non-CLI support.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">High CPS & ACD </div>
-                                <p class="mb-0">Designed for high-concurrency outbound and inbound calling operations.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Dedicated Tech Support</div>
-                                <p class="mb-0">24/7 live support from VoIP engineers and account managers.</p>
-                            </div>  
-                        </li>
+                        
                     </ul>
                 </div>
                 <!-- <div class="demo-btn mt-4">
@@ -328,50 +237,50 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/VoIP-Minutes-Services1.svg" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/Wholsesale-VoIP-Minutes-Services1.svg" alt="Why Choose VoIPTech For wholesale VoIP Minutes?" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
         <!-- Faet 2 -->
-        <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-80">
+        <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">VoIP Minutes</span></h3>
+                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">Wholesale VoIP Minutes</span></h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Save More on Every Call</div>
-                                <p class="mb-0">Cut down your communication costs with our budget-friendly VoIP minutes, tailored for high-volume calling.</p>
+                                <div class="list-heading">High-Volume Discounts</div>
+                                <p class="mb-0">The more you buy, the less you pay — ideal for large-scale call traffic.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Exceptional Call Clarity</div>
-                                <p class="mb-0">Enjoy HD audio quality with ultra-low latency and zero call drops — every call counts.</p>
+                                <div class="list-heading">Global Termination Access</div>
+                                <p class="mb-0">Reach over 200+ countries with top-tier CLI and Non-CLI routes.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Global Connectivity</div>
-                                <p class="mb-0">Expand your reach with reliable international routes to over 200 countries.</p>
+                                <div class="list-heading">Fast and Flexible Scalability</div>
+                                <p class="mb-0">Easily scale up your minutes and concurrency as your business grows.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Scalable for Any Business Size</div>
-                                <p class="mb-0">Whether you're a startup or a large enterprise, our flexible plans grow with your business.</p>
+                                <div class="list-heading">Optimized for Dialer Traffic</div>
+                                <p class="mb-0">High CPS support, low latency, and stability for predictive dialers and call centers.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Zero Downtime Operations</div>
-                                <p class="mb-0">Rely on our robust infrastructure and multiple failovers to keep your communication flowing 24/7.</p>
+                                <div class="list-heading">Low ASR and ACD Issues</div>
+                                <p class="mb-0">Our network is tuned to deliver high connection rates and longer call durations.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Expert Support Anytime</div>
-                                <p class="mb-0">Our VoIP specialists are available 24/7 to assist with onboarding, troubleshooting, or optimization.</p>
+                                <div class="list-heading">Wholesale Billing Models</div>
+                                <p class="mb-0">Enjoy flexible billing options like prepaid, postpaid, and credit-based models.</p>
                             </div>  
                         </li>
                     </ul>
@@ -382,7 +291,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/VoIP-Minutes-Services2.svg" alt="Discover Our Full Range of offerings" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/Wholsesale-VoIP-Minutes-Services2.svg" alt="Key Benefits of Choosing Voip Tech Solutions for Wholesale VoIP Minutes" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -391,64 +300,58 @@
             <div class="col col-md-6">
                 <h3>Industries We Serve</h3>
                 <div class="_content">
-                    <p>VoIPTech Solutions provides reliable VoIP Minutes to a wide range of industries that rely on seamless, high-volume communication. Here are just a few sectors we empower every day:</p>
+                    <p>We provide reliable wholesale VoIP minutes to power voice communication across multiple industries that rely on high-volume, cost-effective calling.</p>
                     <ul class="list2 icons-list">
                         <li>
                             <span class="_icn">📞</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading"> Call Centers & BPOs</div>
-                                <p class="mb-0">High-capacity, crystal-clear calling for outbound and inbound campaigns.</p>
+                                <div class="list-heading">Telemarketing Agencies</div>
+                                <p class="mb-0">Cost-effective global calling solutions for outreach and lead generation.</p>
                             </div>
+                        </li>
+                        <li>
+                            <span class="_icn">🌐</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">VoIP Resellers</div>
+                                <p class="mb-0">Reliable wholesale routes to repackage and resell under your brand.</p>
+                            </div>  
                         </li>
                         <li>
                             <span class="_icn">🏥</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Healthcare & Telemedicine</div>
-                                <p class="mb-0">Secure and efficient patient communication across regions and time zones.</p>
+                                <div class="list-heading">Healthcare Providers</div>
+                                <p class="mb-0">Secure, compliant voice communication with patients and service partners.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🏦</span>
+                            <span class="_icn">🏫</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Finance & Banking</div>
-                                <p class="mb-0">Reliable, encrypted voice communication for client interactions and compliance.</p>
+                                <div class="list-heading">Educational Institutions</div>
+                                <p class="mb-0">Efficient communication systems for remote learning and administration.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🛍️</span>
+                            <span class="_icn">🛒</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading"> E-commerce & Retail</div>
-                                <p class="mb-0">Instant customer support and sales calls for faster conversions and improved CX.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <span class="_icn">🎓</span>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Education & EdTech</div>
-                                <p class="mb-0">Remote learning support, student outreach, and administrative calling made easy.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <span class="_icn">🚚</span>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Logistics & Transportation</div>
-                                <p class="mb-0">Stay in touch with field teams, vendors, and clients without call drops.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <span class="_icn">🏢</span>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading"> Real Estate & Property Management</div>
-                                <p class="mb-0">Handle client calls, property inquiries, and follow-ups with clarity and ease.</p>
+                                <div class="list-heading">E-Commerce & Customer Support</div>
+                                <p class="mb-0">Seamless voice support for handling customer queries and follow-ups.</p>
                             </div>  
                         </li>
                         <li>
                             <span class="_icn">💼</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">IT & SaaS Companies</div>
-                                <p class="mb-0">Technical support and customer service powered by scalable VoIP solutions.</p>
+                                <div class="list-heading">Financial & Insurance Services</div>
+                                <p class="mb-0">Clear, encrypted calling for client handling and sensitive conversations.</p>
                             </div>  
                         </li>
+                        <li>
+                            <span class="_icn">✈️</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Travel & Hospitality</div>
+                                <p class="mb-0">Connect with customers and partners worldwide at affordable rates.</p>
+                            </div>  
+                        </li>
+                        
                     </ul>
                 </div>
                 <!-- <div class="demo-btn mt-4">
@@ -457,7 +360,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/VoIP-Minutes-Services3.svg" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/Wholsesale-VoIP-Minutes-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -468,15 +371,15 @@
     <section class="working-process-section bg-orange py-80 mt-80">
         <div class="container">
             <div class="section-title text-center">
-                <h2>Our Working Process</h2>
+                <h2>How to Get Started</h2>
             </div>
             <div class="process-box-cont">
                 <div class="process-box">
                     <div class="process-body">
                         <div class="process-no">1</div>
                         <div class="_pro-content">
-                            <h3>Contact Our Sales Team</h3>
-                            <p>Fill out the inquiry form or reach out via email/phone to discuss your VoIP minutes requirements.</p>
+                            <h3>Connect with Our Wholesale Team</h3>
+                            <p>Reach out via our inquiry form, email, or phone to discuss your high-volume VoIP minutes and routing needs.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -487,8 +390,8 @@
                     <div class="process-body">
                         <div class="process-no">2</div>
                         <div class="_pro-content">
-                            <h3>Choose Your Plan</h3>
-                            <p>Select a VoIP minutes package that fits your business size, call volume, and budget.</p>
+                            <h3>Customize Your Wholesale Plan</h3>
+                            <p>Choose or build a wholesale VoIP minutes package based on your target regions, call traffic, and technical requirements.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -499,8 +402,8 @@
                     <div class="process-body">
                         <div class="process-no">3</div>
                         <div class="_pro-content">
-                            <h3>Setup & Go Live</h3>
-                            <p>We’ll set up your account, configure SIP settings, and you’ll be ready to start calling — usually within hours!</p>
+                            <h3>Setup and Go Live</h3>
+                            <p>Our engineers will configure your SIP routes and credentials — your service can be live in just a few hours.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -691,12 +594,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">What are VoIP minutes and how do they help my business?</a>
+                                    aria-expanded="true" aria-controls="faq1">How can wholesale VoIP minutes reduce overall calling costs?</a>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                        VoIP minutes are prepaid calling credits that allow you to make voice calls over the internet. They help reduce calling costs while maintaining high-quality communication.
+                                        By purchasing bulk minutes, businesses benefit from significantly lower rates compared to standard VoIP pricing.
                                     </div>
                                 </div>
                             </div>
@@ -704,12 +607,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">How can I purchase VoIP minutes from VoIPTech?</a>
+                                    aria-expanded="true" aria-controls="faq2">Why do carriers and call centers rely on wholesale VoIP minutes?</a>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                        You can contact our sales team or fill out the inquiry form on our website to choose the VoIP minutes package that fits your needs.
+                                        High-volume users need scalable and affordable solutions—wholesale VoIP minutes meet those demands without compromising quality
                                     </div>
                                 </div>
                             </div>
@@ -717,12 +620,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Can I use VoIP minutes with my existing dialer system?</a>
+                                    aria-expanded="true" aria-controls="faq3">Can businesses resell wholesale VoIP minutes to their own clients?</a>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, VoIP minutes from VoIPTech work smoothly with most dialers including ViciDial, GoAutoDial, and other custom setups.
+                                        Yes, wholesale VoIP minutes can be fully white-labeled for resellers and telecom entrepreneurs looking to build a brand.
                                     </div>
                                 </div>
                             </div>
@@ -730,12 +633,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Do VoIP minutes from VoIPTech support international calling?</a>
+                                    aria-expanded="true" aria-controls="faq4">Does VoIPTech Solutions offer global coverage for wholesale VoIP minutes?</a>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                        Absolutely! Our VoIP minutes come with global coverage, allowing you to make calls to over 200 countries.
+                                        We support 200+ countries with CLI and Non-CLI routing options, giving you unmatched flexibility and reach.
                                     </div>
                                 </div>
                             </div>
@@ -743,12 +646,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">How secure are VoIP minutes purchased from VoIPTech?</a>
+                                    aria-expanded="true" aria-controls="faq5">Are wholesale VoIP minutes compatible with existing SIP infrastructure?</a>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                        Our VoIP minutes are delivered through secure SIP protocols with built-in encryption and fraud detection for maximum safety.
+                                        Absolutely. VoIPTech Solutions ensures smooth integration with your SIP trunks and existing VoIP systems.
                                     </div>
                                 </div>
                             </div>
@@ -756,12 +659,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">What happens if I run out of VoIP minutes during business hours?</a>
+                                    aria-expanded="true" aria-controls="faq6">How quickly can wholesale VoIP minutes be activated?</a>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                        You will receive alerts as your usage nears the limit, and you can instantly top up your VoIP minutes to avoid downtime.
+                                        Once your account is set up, minutes can be activated within hours, allowing you to start routing traffic immediately.
                                     </div>
                                 </div>
                             </div>
@@ -769,12 +672,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Are VoIP minutes charged per second or per minute?</a>
+                                    aria-expanded="true" aria-controls="faq7">Do wholesale VoIP minutes include support for real-time traffic monitoring?</a>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                        VoIPTech offers both per-second and per-minute billing options, so you can choose what works best for your call flow.
+                                        Yes, live dashboards let you monitor call volumes, quality, and performance for full operational transparency.
                                     </div>
                                 </div>
                             </div>
@@ -782,12 +685,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Can I upgrade my VoIP minutes plan anytime with VoIPTech?</a>
+                                    aria-expanded="true" aria-controls="faq8">Can wholesale VoIP minutes be tailored for specific call destinations?</a>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, you can easily upgrade your VoIP minutes package as your business grows or your calling needs increase.
+                                        Route plans can be customized to prioritize regions, quality levels, or price points based on your business strategy.
                                     </div>
                                 </div>
                             </div>
@@ -795,12 +698,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">How quickly can I start using VoIP minutes after signup?</a>
+                                    aria-expanded="true" aria-controls="faq9">Is ongoing support available for wholesale VoIP minutes?</a>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                        Your VoIP minutes account is typically activated within a few hours of confirmation and payment.
+                                        VoIPTech Solutions provides 24/7 technical support, proactive route optimization, and a dedicated account manager.
                                     </div>
                                 </div>
                             </div>
@@ -808,12 +711,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Why should I choose VoIPTech for VoIP minutes services?</a>
+                                    aria-expanded="true" aria-controls="faq10">Why choose VoIPTech Solutions for wholesale VoIP minutes?</a>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                        VoIPTech offers high-quality routes, global coverage, flexible plans, and 24/7 expert support — all designed to make your VoIP minutes experience reliable and cost-effective.
+                                        We deliver reliability, global coverage, flexible billing, and personalized service trusted by carriers and resellers worldwide.
                                     </div>
                                 </div>
                             </div>
@@ -825,157 +728,7 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
  </main>
 
  <!-- Footer -->
-<footer class="main-foorter bg-orange">
-    <!-- top footer island -->
-     <div class="container">
-        <div class="row mb-5">
-            <div class="col-md-12">
-             <!-- row start inside col 12 -->
-               <div class="row footer-island p-5 bg-white">
-                <div class="col-lg-4 col-md-4 mt-2">
-                    <div class="row">
-                      <div class="col-md-12 text-left d-flex gap-2 top-footer-call">
-                        <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
-                        </span>
-                        <!-- <img src="assets/images/icons/ph-icn.png" loading="lazy" alt="mail" height="28" width="30" class="float-left" style="margin-top: 9px;"> -->
-                           <div class="contact-txt">
-                               <div class="text-dark">Call us</div>
-                               <p><a href="tel:+917949107742"><b class="site_color" >+91-7949107742</b></a></p>
-                           </div>
-                       </div>
-                
-                     </div>
-        
-                  </div>
-                 <div class="col-lg-4 col-md-4 mt-2">
-     
-                   <div class="row">
-                     
-                           <div class="col-md-12 text-left d-flex gap-2">
-                             <img src="assets/images/icons/mail-icn.png" loading="lazy" alt="mail" class="float-left" height="28" width="30" style="margin-top: 9px;">
-                             <div class="contact-txt">
-                                <div class="text-dark">mail us</div>
-                                <p><a href="mailto:info@voiptechsolutions.com"><b class="site_color">info@voiptechsolutions.com</b></a></p>
-                             </div>
-                               
-                           </div>
-                     
-                   </div>
-                 
-               </div>
-               
-               <div class="col-lg-4 col-md-4 mt-2 hide_in_tab">
-                 <div class="row">
-                   
-                       <div class="col-md-12 text-left ">
-                       <a href="https://www.google.com/maps/place/DLF+CYBER+CITY/@20.3488665,85.7958333,15.75z/data=!4m6!3m5!1s0x3a1908e025984c55:0xee1fcd1f11e55141!8m2!3d20.3490424!4d85.8077361!16s%2Fg%2F1jkyhv803?entry=ttu" target="_blank" class="d-flex gap-2">
-                             <img src="assets/images/icons/loc-icn.png" loading="lazy" alt="mail" class="float-left" height="28" width="30" style="margin-top: 9px;">
-                                <div class="contact-txt">
-                                    <div class="text-dark">530, DLF Cybercity, Patia</div>
-                                    <p><b class="site_color" >Bhubaneswar, Odisha, India</b></p>
-                                </div>
-                               </a>
-                       </div>
-                   
-             
-                 </div>
-     
-     
-               </div>
-                
-     
-               </div>
-               <!-- row end -->
-            </div>
-          
-             
-            </div>
-     </div>
-
-     <!-- Footer Nav -->
-      <div class="container text-white footer-nav">
-        <div class="row">
-            <div class="col-12 col-md-3">
-                <div class="footer-logo mb-2">
-                    <a href="index.html">
-                        <img src="assets/images/footer-logo.png" loading="lazy" alt="VoIPTech Solutions" />
-                    </a>
-                </div>
-                <p>VoIPTech is a leading Voice and SMS service provider across the globe. </p>
-                <div class="social_icons mt-2 d-flex gap-2">
-                  <a href="https://www.facebook.com/VoIPTechSolutions" class="fb" target="_blank">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M80 299.3V512H196V299.3h86.5l18-97.8H196V166.9c0-51.7 20.3-71.5 72.7-71.5c16.3 0 29.4 .4 37 1.2V7.9C291.4 4 256.4 0 236.2 0C129.3 0 80 50.5 80 159.4v42.1H14v97.8H80z"/></svg>
-                  </a>
-                  <a href="https://www.linkedin.com/company/voiptechsolutions" target="_blank">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/></svg>
-                  </a>
-                  <a href="https://www.instagram.com/voiptechsolutions" target="_blank">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
-                  </a>
-                  <a href="https://wa.link/voiptech" target="_blank">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/></svg>
-                  </a>
-                </div>
-            </div>
-            <div class="col-12 col-md-3">
-                <h4>Quick Links</h4>
-                <ul>
-                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="terms-of-services.html">Terms & Conditions</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="contact-us.html">Contact Us</a></li>
-                    <li><a href="blogs.html">Blogs</a></li>
-                </ul>
-            </div>
-            <div class="col-12 col-md-3">
-                <h4>Services</h4>
-                <ul>
-                    <li><a href="#">VoIP</a></li>
-                    <li><a href="#">SMS</a></li>
-                    <li><a href="#">DID & TFN</a></li>
-                    <li><a href="#">Hosted IP-PBX</a></li>
-                    <li><a href="#">Career</a></li>
-                </ul>
-            </div>
-            <div class="col-12 col-md-3">
-                <h4>Contact Info</h4>
-                <div class="address d-flex gap-2">
-                    <span class="contact-icons">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg>
-                    </span>
-                    <p>Unit No – 530, DLF Cybercity, Patia, Bhubaneswar, Odisha,
-                    India – 751024</p>
-                </div>
-                <div class="company-nos d-flex gap-2">
-                  <span class="contact-icons">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
-                  </span>
-                  <p>Sales: <a href="tel:+917949107742">+91-7949107742</a> <!-- <br>
-                    Urgent: <a href="tel: +91-7008220621">+91-7008220621</a> <br>
-                      <span style="visibility: hidden;">Urgent: </span><a href="tel:+971-504583131">+971-504583131</a> <br>
-                    HR: <a href="tel:+91-8114890352">+91-8114890352</a><br>
-                    HR: <a href="tel:+91-7894280219">+91-7894280219</a> -->
-                  </p>
-                </div>
-                <div class="whatsapp-no d-flex gap-2 mb-2">
-                  <span class="contact-icons">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/></svg>
-                  </span>
-                  <a href="https://wa.link/voiptech" target="_blank">voiptech Solutions</a></div>
-                <div class="telegramid d-flex gap-2">
-                  <span class="contact-icons">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M248 8C111 8 0 119 0 256S111 504 248 504 496 393 496 256 385 8 248 8zM363 176.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7 .2-.7 .3-3.1-1.2-4.4s-3.6-.8-5.1-.5q-3.3 .7-104.6 69.1-14.8 10.2-26.9 9.9c-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3q.8-6.7 18.5-13.7 108.4-47.2 144.6-62.3c68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6 .5 9.6 2.9a10.5 10.5 0 0 1 3.5 6.7A43.8 43.8 0 0 1 363 176.7z"/></svg>
-                  </span>
-                  <p>dwibendu</p>
-                </div>
-            </div>
-        </div>
-      </div>
-    <!-- Copyright -->
-     <div class="text-center p-3 mt-5 copyright">
-        <p class="mb-0">© Copyright 2025, All Right Reserved, Designed & Developed By VoiptechSolutions</p>
-     </div>
-</footer>
+ <?php include 'includes/footer-menu.php'; ?>
 
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/popper.min.js"></script>
