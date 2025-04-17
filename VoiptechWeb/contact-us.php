@@ -39,7 +39,7 @@
     <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between py-2">
             <div class="logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="assets/images/logo.png" alt="VoIPTech Solutions" class="img-fluid">
                 </a>
             </div>

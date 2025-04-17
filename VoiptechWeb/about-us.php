@@ -382,7 +382,7 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
         <div class="row">
             <div class="col-12 col-md-3">
                 <div class="footer-logo mb-2">
-                    <a href="index.html">
+                    <a href="index.php">
                         <img src="assets/images/footer-logo.png" loading="lazy" alt="VoIPTech Solutions" />
                     </a>
                 </div>
