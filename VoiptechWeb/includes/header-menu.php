@@ -29,6 +29,8 @@
                                 <a class="dropdown-item dropdown-toggle" href="#">SMS</a>
                                 <ul class="dropdown-menu" >
                                     <li><a class="dropdown-item" href="sms.php">SMS</a></li>
+                                    <li><a class="dropdown-item" href="promotional-sms.php">Promotional SMS</a></li>
+                                    <li><a class="dropdown-item" href="transactional-sms.php">Transactional SMS</a></li>
                                 </ul>
                             </li>
                             <li><a class="dropdown-item" href="#">DID & TFN</a></li>

@@ -95,7 +95,7 @@
                 <ul>
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>
                     <li><a href="terms-of-services.php">Terms & Conditions</a></li>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="about-us.php">About Us</a></li>
                     <li><a href="contact-us.php">Contact Us</a></li>
                     <li><a href="blogs.php">Blogs</a></li>
                 </ul>
@@ -103,8 +103,8 @@
             <div class="col-12 col-md-3">
                 <h4>Services</h4>
                 <ul>
-                    <li><a href="#">VoIP</a></li>
-                    <li><a href="#">SMS</a></li>
+                    <li><a href="voip-minutes.php">VoIP</a></li>
+                    <li><a href="sms.php">SMS</a></li>
                     <li><a href="#">DID & TFN</a></li>
                     <li><a href="#">Hosted IP-PBX</a></li>
                     <li><a href="#">Career</a></li>
