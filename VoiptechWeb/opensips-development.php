@@ -375,7 +375,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/astrisk-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/opensips-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
