@@ -6,8 +6,15 @@
                   
                   <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                     
-                    <li class="nav-item">
-                      <a class="nav-link " href="about-us.php">About Us</a>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+                      <ul class="dropdown-menu dropdown1" aria-labelledby="navbarDropdownMenuLink">
+                        <li><a class="dropdown-item" href="about-us.php">About VoipTech</a></li>
+                        <li><a class="dropdown-item" href="#">Career</a></li>
+                        <li><a class="dropdown-item" href="#">Life at VoiptechSolutions</a></li>
+                        <li><a class="dropdown-item" href="#">Events</a></li>
+                        <li><a class="dropdown-item" href="#">Gallery</a></li>
+                      </ul>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -35,11 +42,8 @@
                             </li>
                             <li><a class="dropdown-item" href="did-and-tfn.php">DID & TFN</a></li>
                             <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
-                            <li><a class="dropdown-item" href="#">Career</a></li>
-                            <li><a class="dropdown-item" href="#">Life at VoiptechSolutions</a></li>
-                            <li><a class="dropdown-item" href="#">Events</a></li>
-                            <li><a class="dropdown-item" href="#">Gallery</a></li>
-                            </ul>
+                            <li><a class="dropdown-item" href="freeswitch-development.php">Freeswitch Development</a></li>
+                          </ul>
 
                           </li>
                           <li class="dropdown-submenu dropdownsubmenu  product"><a class="dropdown-item dropdown-toggle" href="#">Products</a>
