@@ -60,49 +60,49 @@
             <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-start banner-content-container">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>Reliable Transactional SMS Service Provider for Businesses & Enterprises</h1>
-                    <p>Deliver Information That Matters</p>
+                    <h1>Best DID & TFN Number Provider for Businesses & Enterprises</h1>
+                    <p>Where Every Call Finds Its Way to You</p>
                     <div class="banner-feats">
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn1.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Instant Delivery</div>
-                                <p>Send important updates in real-time with zero delay.</p>
+                                <div class="_feat-head">Local Presence with DID Numbers</div>
+                                <p>Gain trust with region-specific numbers.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn2.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">24/7 Reachability</div>
-                                <p>Messages are delivered any time of the day—even outside business hours.</p>
+                                <div class="_feat-head">Nationwide Reach with TFN Numbers</div>
+                                <p>Let customers connect from anywhere, free of cost.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn3.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">High Deliverability</div>
-                                <p>Use reliable routes that ensure critical info reaches the recipient.</p>
+                                <div class="_feat-head">Boost Call Volume & Engagement</div>
+                                <p>Easy-to-remember numbers increase inbound calls.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn4.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Secure Communication</div>
-                                <p>Perfect for sending confidential alerts, OTPs, and service notifications.</p>
+                                <div class="_feat-head">Instant Setup & Activation</div>
+                                <p>Get started within hours.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn5.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Regulatory Compliance</div>
-                                <p>Fully DLT and TRAI compliant to meet all messaging regulations.</p>
+                                <div class="_feat-head">Flexible Call Forwarding</div>
+                                <p>Route calls to any device or location.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn6.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Customer Trust</div>
-                                <p>Keep users informed and build credibility with every message.</p>
+                                <div class="_feat-head">Highly Scalable for Growing Teams</div>
+                                <p>Add more numbers as your business grows.</p>
                             </div>
                         </div>
                     </div>
@@ -183,66 +183,45 @@
         <!-- Faet 1 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
             <div class="col col-md-6">
-                <h3>Why Choose <span class="text-orange">VoIPTech Solutions</span> For <span class="text-orange">Transactional SMS?</span> </h3>
+                <h3>Why Choose <span class="text-orange">VoIPTech Solutions</span> For <span class="text-orange">DID & TFN Number Services?</span> </h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Real-Time Delivery Engine</div>
-                                <p class="mb-0">Ensures your messages are delivered within seconds.</p>
+                                <div class="list-heading">Global DID & TFN Number Access</div>
+                                <p class="mb-0">Instantly get numbers in regions you operate or plan to expand.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">99.9% Uptime Guarantee</div>
-                                <p class="mb-0">Uninterrupted messaging even during high traffic periods.</p>
+                                <div class="list-heading">HD Voice Quality</div>
+                                <p class="mb-0">Ensure smooth and professional conversations on every call.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Custom Sender ID</div>
-                                <p class="mb-0">Brand your messages with a unique and recognizable name.</p>
+                                <div class="list-heading">Smart Number Management Dashboard</div>
+                                <p class="mb-0">Control and configure numbers easily in real time.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Multi-Route Redundancy</div>
-                                <p class="mb-0">Fallback routes for maximum deliverability and speed.</p>
+                                <div class="list-heading">Built-In Failover & Reliability</div>
+                                <p class="mb-0">Zero downtime with backup routes and systems.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Secure Messaging Gateway</div>
-                                <p class="mb-0">Protects sensitive data with end-to-end encryption.</p>
+                                <div class="list-heading">Cost-Effective Billing Plans</div>
+                                <p class="mb-0">Flexible plans that adapt to your usage and scale.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">User-Friendly Dashboard</div>
-                                <p class="mb-0">Easily create, schedule, and track SMS from one place.</p>
+                                <div class="list-heading">Dedicated 24/7 Support Team</div>
+                                <p class="mb-0">Technical assistance just a call or click away.</p>
                             </div>  
                         </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">User-Friendly Dashboard</div>
-                                <p class="mb-0">Easily create, schedule, and track SMS from one place.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Developer-Friendly APIs</div>
-                                <p class="mb-0">Integrate SMS with your apps, CRM, or website smoothly.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">24/7 Expert Support</div>
-                                <p class="mb-0">Live help whenever you need it, no matter the hour.</p>
-                            </div>  
-                        </li>
-
-                        
-                        
                     </ul>
                 </div>
                 <!-- <div class="demo-btn mt-4">
@@ -251,50 +230,50 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/tra-sms-Services1.svg" alt="Why Choose VoIPTech Solutions For Transactional SMS? " class="img-fluid" loading="lazy" />
+                    <img src="assets/images/did-Services1.svg" alt="Why Choose VoIPTech Solutions For Transactional SMS? " class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
         <!-- Faet 2 -->
         <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">Transactional SMS</span></h3>
+                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">DID & TFN Numbers</span></h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Reliable Message Delivery</div>
-                                <p class="mb-0">Critical information reaches users without delay or failure.</p>
+                                <div class="list-heading">All-in-One Provider</div>
+                                <p class="mb-0">Get both DID and TFN numbers from a single trusted source.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Round-the-Clock Messaging</div>
-                                <p class="mb-0">Send alerts anytime, even during non-working hours.</p>
+                                <div class="list-heading">Seamless Integration</div>
+                                <p class="mb-0">Easily connect numbers with your VoIP or PBX systems.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Compliance Assurance</div>
-                                <p class="mb-0">Fully aligned with telecom authority regulations like TRAI and DLT.</p>
+                                <div class="list-heading">Scalable for Any Business Size</div>
+                                <p class="mb-0">From startups to enterprises — scale as you grow</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Trusted by Enterprises</div>
-                                <p class="mb-0">Used by banks, healthcare, logistics, and more for real-time alerts..</p>
+                                <div class="list-heading">Transparent Pricing</div>
+                                <p class="mb-0">No hidden charges. Pay only for what you use.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Fast Integration</div>
-                                <p class="mb-0">Plug-and-play APIs get you started quickly without tech hassle.</p>
+                                <div class="list-heading">Quick Provisioning</div>
+                                <p class="mb-0">Get your numbers activated and live in no time.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Enhanced Customer Experience</div>
-                                <p class="mb-0">Keep your users informed, secure, and engaged.</p>
+                                <div class="list-heading">Dedicated Account Support</div>
+                                <p class="mb-0">One-on-one assistance to streamline your communication setup.</p>
                             </div>  
                         </li>
                     </ul>
@@ -305,7 +284,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/tra-sms-Services2.svg" alt="Key Benefits of Choosing VoIPTech Solutions for Transactional SMS" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/did-Services2.svg" alt="Key Benefits of Choosing VoIPTech Solutions For DID & TFN Numbers" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -314,57 +293,64 @@
             <div class="col col-md-6">
                 <h3>Industries We Serve</h3>
                 <div class="_content">
-                    <p>VoIPTech Solutions provides Transactional SMS services tailored for industries where timely, accurate, and secure communication is critical.</p>
+                    <p>Helping diverse industries connect locally and nationally with reliable DID and TFN number solutions</p>
                     <ul class="list2 icons-list">
                         <li>
-                            <span class="_icn">🏦</span>
+                            <span class="_icn">📞</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Banking & Finance</div>
-                                <p class="mb-0">Send OTPs, transaction alerts, and balance updates instantly</p>
+                                <div class="list-heading">Call Centers</div>
+                                <p class="mb-0">Manage high call volumes with ease and flexibility.</p>
                             </div>
                         </li>
                         <li>
                             <span class="_icn">🏥</span>
                             <div class="list-text d-flex flex-column">
                                 <div class="list-heading">Healthcare</div>
-                                <p class="mb-0">Remind patients, confirm appointments, and share reports securely.</p>
+                                <p class="mb-0">Enable patient support lines and appointment scheduling.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🚚</span>
+                            <span class="_icn">🏛</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Logistics & Delivery</div>
-                                <p class="mb-0">Keep customers updated with tracking info and status alerts.</p>
+                                <div class="list-heading">Government Services</div>
+                                <p class="mb-0">Offer citizens accessible and responsive helplines.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🛒</span>
+                            <span class="_icn">🛍️ </span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">E-commerce</div>
-                                <p class="mb-0">Send order confirmations, shipping updates, and refund alerts.</p>
+                                <div class="list-heading">E-commerce & Retail</div>
+                                <p class="mb-0">Improve customer support and post-sale communication.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🏫</span>
+                            <span class="_icn">🏦</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Education</div>
-                                <p class="mb-0">Notify students and parents about attendance, results, and fee alerts</p>
+                                <div class="list-heading">Finance & Insurance</div>
+                                <p class="mb-0">Ensure secure and professional client communication.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🏢</span>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Corporate & Enterprise</div>
-                                <p class="mb-0">Use internal messaging for HR updates, IT alerts, and system notifications.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <span class="_icn">✈️</span>
+                            <span class="_icn">🧳</span>
                             <div class="list-text d-flex flex-column">
                                 <div class="list-heading">Travel & Hospitality</div>
+                                <p class="mb-0">Provide booking and support numbers customers trust.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">🎓</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Education & EdTech</div>
                                 <p class="mb-0">Send booking confirmations, itinerary changes, and check-in details.</p>
                             </div>  
                         </li>
+                        <li>
+                            <span class="_icn">⚙</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">IT & SaaS Companies</div>
+                                <p class="mb-0">Power help desks and onboarding calls with ease.</p>
+                            </div>  
+                        </li>   
                         
                         
                     </ul>
@@ -375,7 +361,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/pro-sms-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/did-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -393,8 +379,8 @@
                     <div class="process-body">
                         <div class="process-no">1</div>
                         <div class="_pro-content">
-                            <h3>Connect with Our Team</h3>
-                            <p>Reach out via our inquiry form, phone, or email to discuss your Transactional SMS needs.</p>
+                            <h3>Contact Our Sales Team</h3>
+                            <p>Reach out via form, email, or phone to share your DID & TFN number needs.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -405,8 +391,8 @@
                     <div class="process-body">
                         <div class="process-no">2</div>
                         <div class="_pro-content">
-                            <h3>Choose Your Plan</h3>
-                            <p>Select a package based on your message volume, industry, and integration preferences.</p>
+                            <h3>Choose Your Numbers</h3>
+                            <p>Select from a wide range of local (DID) and national (TFN) numbers tailored to your regions.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -417,8 +403,8 @@
                     <div class="process-body">
                         <div class="process-no">3</div>
                         <div class="_pro-content">
-                            <h3>Setup & Go Live</h3>
-                            <p>We’ll configure your account, provide API access, and you’ll be ready to send messages—often within a few hours!</p>
+                            <h3>Activate & Start Calling</h3>
+                            <p>We’ll set up, configure, and get your numbers live—usually within hours!</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -609,12 +595,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does transactional SMS differ from promotional SMS?</a>
+                                    aria-expanded="true" aria-controls="faq1">Can I get DID numbers from multiple countries through VoIPTech Solutions?</a>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    Transactional SMS delivers time-sensitive and important messages like OTPs, alerts, and service updates—unlike promotional marketing texts.
+                                    Yes, we provide virtual local numbers in various countries to support your global communication needs.
                                     </div>
                                 </div>
                             </div>
@@ -622,12 +608,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can transactional SMS be sent 24/7?</a>
+                                    aria-expanded="true" aria-controls="faq2">Do DID numbers work with cloud-based phone systems?</a>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, transactional SMS is delivered round-the-clock—even outside standard business hours.
+                                    Absolutely — our DID numbers are compatible with all major VoIP and PBX platforms.
                                     </div>
                                 </div>
                             </div>
@@ -635,12 +621,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Who can use transactional SMS services?</a>
+                                    aria-expanded="true" aria-controls="faq3">Is number portability available for existing DIDs?</a>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Businesses across banking, healthcare, e-commerce, and logistics rely on transactional SMS for real-time communication.
+                                    Yes, in most regions you can port your current DID numbers to VoIPTech Solutions without downtime.
                                     </div>
                                 </div>
                             </div>
@@ -648,12 +634,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Is approval required to send transactional messages?</a>
+                                    aria-expanded="true" aria-controls="faq4">Are TFN numbers truly free for my customers to call?</a>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, you must register your templates and sender ID on the DLT platform for compliance.
+                                    Yes, TFN (Toll-Free Numbers) ensure customers can reach your business without incurring charges.
                                     </div>
                                 </div>
                             </div>
@@ -661,12 +647,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">How fast are transactional SMS messages delivered?</a>
+                                    aria-expanded="true" aria-controls="faq5">Can I use one TFN number across multiple departments?</a>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    Messages are usually delivered within seconds through priority routes.
+                                    Yes, with call routing, a single TFN number can direct callers to different teams or extensions.
                                     </div>
                                 </div>
                             </div>
@@ -674,12 +660,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Does VoIPTech Solutions offer API integration for SMS?</a>
+                                    aria-expanded="true" aria-controls="faq6">Is international TFN coverage available?</a>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely! We provide developer-friendly APIs for seamless integration with your system or application.
+                                    Yes, we offer toll-free numbers for many countries worldwide, based on availability and regulations.
                                     </div>
                                 </div>
                             </div>
@@ -687,12 +673,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">How secure is the messaging system?</a>
+                                    aria-expanded="true" aria-controls="faq7">How fast can VoIPTech Solutions activate DID and TFN numbers?</a>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    Our SMS gateway uses encryption and follows strict security protocols to protect your data.
+                                    Most numbers are activated within a few hours, depending on the region and type.
                                     </div>
                                 </div>
                             </div>
@@ -700,12 +686,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Can international transactional SMS be sent?</a>
+                                    aria-expanded="true" aria-controls="faq8">Does VoIPTech Solutions offer support during and after setup?</a>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, international delivery is available—contact us to enable global SMS routing.
+                                    Yes, we provide full assistance during setup and ongoing 24/7 technical support post-activation.
                                     </div>
                                 </div>
                             </div>
@@ -713,12 +699,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Is there a limit on message volume per day?</a>
+                                    aria-expanded="true" aria-controls="faq9">Can I manage all my numbers through a central dashboard?</a>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    No hard limits—your plan can scale with your daily or monthly requirements.
+                                    Yes, you’ll get access to an intuitive dashboard for real-time management and analytics.
                                     </div>
                                 </div>
                             </div>
@@ -726,12 +712,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How soon can I start sending transactional SMS?</a>
+                                    aria-expanded="true" aria-controls="faq10">Why should I choose VoIPTech Solutions for business number services?</a>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    Once your account is verified and templates are approved, you can go live within hours.
+                                    We combine speed, flexibility, global coverage, and expert support to help you scale your communication.
                                     </div>
                                 </div>
                             </div>

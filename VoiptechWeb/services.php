@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <!-- Remove this tag before making live -->
-    <meta name="robots" content="noindex" />
+    <?php include 'includes/robots-tags.php'; ?>
+
     <!-- Remove this tag before making live -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
