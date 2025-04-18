@@ -44,6 +44,7 @@
                             <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
                             <li><a class="dropdown-item" href="freeswitch-development.php">Freeswitch Development</a></li>
                             <li><a class="dropdown-item" href="asterisk-development.php">Asterisk Development</a></li>
+                            <li><a class="dropdown-item" href="opensips-development.php">OpenSIPS Development</a></li>
                           </ul>
 
                           </li>
