@@ -35,13 +35,14 @@
                             <li class="dropdown-submenu sms-submenu" >
                                 <a class="dropdown-item dropdown-toggle" href="#">SMS</a>
                                 <ul class="dropdown-menu" >
-                                    <li><a class="dropdown-item" href="sms.php">SMS</a></li>
+                                    <li><a class="dropdown-item" href="sms.php">Bulk SMS</a></li>
+                                    <li><a class="dropdown-item" href="otp-sms.php">OTP SMS</a></li>
                                     <li><a class="dropdown-item" href="promotional-sms.php">Promotional SMS</a></li>
                                     <li><a class="dropdown-item" href="transactional-sms.php">Transactional SMS</a></li>
                                 </ul>
                             </li>
                             <li><a class="dropdown-item" href="did-and-tfn.php">DID & TFN</a></li>
-                            <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
+                            
                             <li><a class="dropdown-item" href="freeswitch-development.php">Freeswitch Development</a></li>
                             <li><a class="dropdown-item" href="asterisk-development.php">Asterisk Development</a></li>
                             <li><a class="dropdown-item" href="opensips-development.php">OpenSIPS Development</a></li>
@@ -60,6 +61,7 @@
                           <li class="dropdown-submenu dropdownsubmenu  solution"><a class="dropdown-item dropdown-toggle" href="#">Solution</a>
                             <ul class="dropdown-menu dropdownsubmenu3">
                               <li><a class="dropdown-item" href="#">Call Center Solution</a></li>
+                              <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
                               <li><a class="dropdown-item" href="#">Vicidial Solution</a></li>
                               <li><a class="dropdown-item" href="#">Fusion PBX solution</a></li>
                             </ul>
