@@ -60,49 +60,49 @@
             <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-start banner-content-container">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>Expert FreeSWITCH Development Services for Custom VoIP Solutions</h1>
-                    <p>Build Smarter Voice Systems with Experts</p>
+                    <h1>Custom Asterisk Development Service provider for Call Centers & Enterprises</h1>
+                    <p>Enhance Your VoIP Infrastructure with Precision</p>
                     <div class="banner-feats">
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn1.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Highly Scalable Architecture</div>
-                                <p>Handles massive call volumes effortlessly.</p>
+                                <div class="_feat-head">Custom Call Flows</div>
+                                <p>Design call routing that fits your exact business logic.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn2.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Custom Feature Integration</div>
-                                <p>Add only what your platform needs.</p>
+                                <div class="_feat-head">Feature-Rich PBX Systems</div>
+                                <p>Build advanced, flexible, and scalable phone systems.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn3.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Multi-Protocol Support</div>
-                                <p>Works with SIP, WebRTC, and others.</p>
+                                <div class="_feat-head">Seamless Third-Party Integrations</div>
+                                <p>Connect CRMs, APIs, and tools without hassle.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn4.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Carrier-Grade Performance</div>
-                                <p>Built for stability and uptime.</p>
+                                <div class="_feat-head">Cost-Efficient VoIP Architecture</div>
+                                <p>Lower communication costs with tailored open-source setups.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn5.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Secure and Compliant</div>
-                                <p>Protects data with strong encryption.</p>
+                                <div class="_feat-head">Secure & Stable Deployments</div>
+                                <p>Prioritize reliability, uptime, and secure call handling.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn6.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Cost-Effective Solutions</div>
-                                <p>Saves costs with open-source power.</p>
+                                <div class="_feat-head">Expert Ongoing Support</div>
+                                <p>Get dedicated assistance from VoIP and Asterisk specialists.</p>
                             </div>
                         </div>
                     </div>
@@ -183,43 +183,43 @@
         <!-- Faet 1 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
             <div class="col col-md-6">
-                <h3>Why Choose <span class="text-orange">VoIPTech Solutions</span> For <span class="text-orange">FreeSWITCH Development?</span> </h3>
+                <h3>Why Choose <span class="text-orange">VoIPTech Solutions</span> For <span class="text-orange">Asterisk Development?</span> </h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">FreeSWITCH Certified Developers</div>
-                                <p class="mb-0">Our team is made up of certified FreeSWITCH experts with years of experience.</p>
+                                <div class="list-heading">Advanced Asterisk Customization</div>
+                                <p class="mb-0">Build call solutions tailored to your exact business operations.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Custom Modules & APIs</div>
-                                <p class="mb-0">We develop and integrate the exact features you need, from modules to APIs.</p>
+                                <div class="list-heading">Multi-Tenant PBX Support</div>
+                                <p class="mb-0">Set up multiple tenants with secure isolation and easy management.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Fast Deployment</div>
-                                <p class="mb-0">Get your solution live quickly, minimizing downtime and speeding up results.</p>
+                                <div class="list-heading">IVR & Call Routing Design</div>
+                                <p class="mb-0">Intelligent interactive voice response and routing features included.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">24/7 Tech Support</div>
-                                <p class="mb-0">Our support team is available round-the-clock to resolve issues and keep things running.</p>
+                                <div class="list-heading">CRM & API Integrations</div>
+                                <p class="mb-0">Seamless connection with third-party apps and in-house tools.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Global VoIP Expertise</div>
-                                <p class="mb-0">We bring cutting-edge solutions backed by extensive telecom industry experience.</p>
+                                <div class="list-heading">Real-Time Monitoring & Reports</div>
+                                <p class="mb-0">Track live call performance and generate actionable reports.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Fully Managed Services</div>
-                                <p class="mb-0">We manage everything, from setup to maintenance, ensuring seamless operations.</p>
+                                <div class="list-heading">Secure SIP & Firewall Configuration</div>
+                                <p class="mb-0">Fully protected systems with advanced security protocols.</p>
                             </div>  
                         </li>
                     </ul>
@@ -230,50 +230,50 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/freeswitch-Services1.svg" alt="Why Choose VoIPTech Solutions for FreeSWITCH Development? " class="img-fluid" loading="lazy" />
+                    <img src="assets/images/astrisk-Services1.svg" alt="Why Choose VoIPTech Solutions for Asterisk Development? " class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
         <!-- Faet 2 -->
         <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">FreeSWITCH Development</span></h3>
+                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">Asterisk Development</span></h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Tailored to Your Business</div>
-                                <p class="mb-0">We design solutions that match your unique communication workflows and goals.</p>
+                                <div class="list-heading">Flexible Deployments</div>
+                                <p class="mb-0">We adapt Asterisk to fit your infrastructure — cloud, on-premise, or hybrid.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Future-Ready Architecture</div>
-                                <p class="mb-0">Our systems are built to grow with your business, ensuring long-term scalability.</p>
+                                <div class="list-heading">High Call Quality</div>
+                                <p class="mb-0">Optimized configurations for smooth, crystal-clear voice communication.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Reliable Support System</div>
-                                <p class="mb-0">Get ongoing assistance from a dedicated team of FreeSWITCH specialists</p>
+                                <div class="list-heading">Tailored Scalability</div>
+                                <p class="mb-0">Easily scale your Asterisk system as your business grows</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Cost-Efficient Development</div>
-                                <p class="mb-0">Enjoy expert development services at a competitive price point.</p>
+                                <div class="list-heading">Low Maintenance Needs</div>
+                                <p class="mb-0">Efficient setups that require minimal ongoing upkeep.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Proven Track Record</div>
-                                <p class="mb-0">We’ve successfully delivered FreeSWITCH projects for companies across the globe.</p>
+                                <div class="list-heading">Custom Features On-Demand</div>
+                                <p class="mb-0">Need something unique? We build it just for you.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Fast Issue Resolution</div>
-                                <p class="mb-0">Technical issues are resolved quickly to keep your operations running smoothly.</p>
+                                <div class="list-heading">Cost-Effective VoIP Solutions</div>
+                                <p class="mb-0">Reduce overhead without compromising performance.</p>
                             </div>  
                         </li>
                     </ul>
@@ -284,7 +284,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/freeswitch-Services2.svg" alt="Key Benefits of Choosing VoIPTech Solutions For DID & TFN Numbers" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/astrisk-Services2.svg" alt="Key Benefits of Choosing VoIPTech Solutions For Asterisk  Development" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -293,48 +293,62 @@
             <div class="col col-md-6">
                 <h3>Industries We Serve</h3>
                 <div class="_content">
-                    <p>We build FreeSWITCH-powered solutions for a wide range of industries that demand scalable, reliable, and feature-rich communication systems.</p>
+                    <p>We develop customized Asterisk solutions for diverse industries, improving communication efficiency, automation, and call handling for every business type.</p>
                     <ul class="list2 icons-list">
                         <li>
                             <span class="_icn">📞</span>
                             <div class="list-text d-flex flex-column">
                                 <div class="list-heading">Call Centers</div>
-                                <p class="mb-0">Manage high call volumes with ease and flexibility.</p>
+                                <p class="mb-0">Advanced call routing, queue management, and agent optimization.</p>
                             </div>
                         </li>
                         <li>
                             <span class="_icn">🏥</span>
                             <div class="list-text d-flex flex-column">
                                 <div class="list-heading">Healthcare</div>
-                                <p class="mb-0">Secure, HIPAA-compliant communication platforms for hospitals and clinics.</p>
+                                <p class="mb-0">Secure patient communication, appointment reminders, and IVR systems.</p>
                             </div>  
                         </li>
                         <li>
                             <span class="_icn">🏦</span>
                             <div class="list-text d-flex flex-column">
                                 <div class="list-heading">Finance & Banking</div>
-                                <p class="mb-0">Encrypted voice systems to ensure compliance and secure transactions.</p>
+                                <p class="mb-0">Secure voice systems with multi-level verification and alert features.</p>
                             </div>  
                         </li>
                         <li>
                             <span class="_icn">🏬</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Retail & E-Commerce</div>
-                                <p class="mb-0">Customer support and order management systems powered by FreeSWITCH.</p>
+                                <div class="list-heading">E-Commerce</div>
+                                <p class="mb-0">Automated support lines, order status IVRs, and return request routing.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🛫</span>
+                            <span class="_icn">🏨</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Travel & Hospitality</div>
-                                <p class="mb-0">Reliable multi-channel systems for booking, support, and customer engagement.</p>
+                                <div class="list-heading">Hospitality</div>
+                                <p class="mb-0">Booking systems, guest support IVRs, and call recording features.</p>
                             </div>  
                         </li>
                         <li>
                             <span class="_icn">💼</span>
                             <div class="list-text d-flex flex-column">
                                 <div class="list-heading">Enterprises</div>
-                                <p class="mb-0">Custom VoIP infrastructures for internal and external communication at scale.</p>
+                                <p class="mb-0">Custom PBX systems with high scalability and CRM integration.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">🎓</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Education</div>
+                                <p class="mb-0">Student helpdesks, auto-attendant systems, and remote learning support.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">🚚 </span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Logistics</div>
+                                <p class="mb-0">Dispatch coordination, driver communication, and automated alerts.</p>
                             </div>  
                         </li>
                          
@@ -348,7 +362,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/freeswitch-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/astrisk-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -366,8 +380,8 @@
                     <div class="process-body">
                         <div class="process-no">1</div>
                         <div class="_pro-content">
-                            <h3>Reach Out to Our Experts</h3>
-                            <p>Fill out the contact form or connect via email/phone to share your FreeSWITCH development needs.</p>
+                            <h3>Connect with Our Team</h3>
+                            <p>Reach out via email, phone, or inquiry form to discuss your Asterisk development needs.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -378,8 +392,8 @@
                     <div class="process-body">
                         <div class="process-no">2</div>
                         <div class="_pro-content">
-                            <h3>Choose Your Solution Plan</h3>
-                            <p>We'll help you select a custom plan based on your technical requirements, business size, and budget.</p>
+                            <h3>Share Your Requirements</h3>
+                            <p>Tell us your goals — from custom call flows to integrations — and we’ll draft the ideal solution.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -390,8 +404,8 @@
                     <div class="process-body">
                         <div class="process-no">3</div>
                         <div class="_pro-content">
-                            <h3>Kickoff & Deployment</h3>
-                            <p>Our team sets up, configures, and deploys your FreeSWITCH solution—getting you live faster than you expect</p>
+                            <h3>Development & Deployment</h3>
+                            <p>We design, build, and deploy your Asterisk system, ensuring it’s tested, secure, and ready to go live</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -582,12 +596,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does FreeSWITCH support high-volume call handling?</a>
+                                    aria-expanded="true" aria-controls="faq1">How does Asterisk development improve business communication?</a>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    FreeSWITCH is built for scalability and can manage thousands of concurrent calls without performance issues.
+                                    It enables custom call flows, IVRs, and integrations that align perfectly with your unique operational needs.
                                     </div>
                                 </div>
                             </div>
@@ -595,12 +609,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can VoIPTech Solutions build custom applications using FreeSWITCH?</a>
+                                    aria-expanded="true" aria-controls="faq2">Can Asterisk systems be integrated with CRMs and ERPs?</a>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, VoIPTech Solutions develops tailored applications and modules to meet specific communication needs.
+                                    Yes, we provide seamless API and database integration with tools like Salesforce, Zoho, and more.
                                     </div>
                                 </div>
                             </div>
@@ -608,12 +622,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is FreeSWITCH suitable for both enterprises and call centers?</a>
+                                    aria-expanded="true" aria-controls="faq3">Is Asterisk suitable for small businesses and startups?</a>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Definitely. It offers advanced routing, IVRs, and call analytics—making it perfect for businesses of all sizes.
+                                    Absolutely — we scale Asterisk systems to match your current size and future growth.
                                     </div>
                                 </div>
                             </div>
@@ -621,12 +635,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Are CRM or third-party tool integrations possible with FreeSWITCH?</a>
+                                    aria-expanded="true" aria-controls="faq4">Are VoIPTech Solutions experienced in multi-tenant Asterisk setups?</a>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we can integrate FreeSWITCH with your CRM, ERP, helpdesk tools, and more for smooth workflows.
+                                    Yes, our team has delivered multi-tenant solutions with full separation and robust admin panels.
                                     </div>
                                 </div>
                             </div>
@@ -634,12 +648,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">How fast can VoIPTech Solutions deploy a FreeSWITCH solution?</a>
+                                    aria-expanded="true" aria-controls="faq5">How secure are the Asterisk systems developed by VoIPTech Solutions?</a>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    Most deployments are completed within a few days, depending on the project’s scope.
+                                    We implement SIP security, firewalls, and access controls to ensure end-to-end system protection.
                                     </div>
                                 </div>
                             </div>
@@ -647,12 +661,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Does VoIPTech Solutions provide post-deployment support?</a>
+                                    aria-expanded="true" aria-controls="faq6">Do you offer support after deployment of the Asterisk system?</a>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely. We offer 24/7 technical support, maintenance, and monitoring services.
+                                    Yes, we provide ongoing maintenance, troubleshooting, and upgrades based on your evolving needs.
                                     </div>
                                 </div>
                             </div>
@@ -660,12 +674,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">How does FreeSWITCH ensure secure voice communication?</a>
+                                    aria-expanded="true" aria-controls="faq7">Is real-time call monitoring available in your Asterisk solutions?</a>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    With VoIPTech Solutions, FreeSWITCH is set up using TLS, SRTP, and firewall protections to keep data safe.
+                                    Yes, we include dashboards and tools for live monitoring, analytics, and agent supervision.
                                     </div>
                                 </div>
                             </div>
@@ -673,12 +687,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Can existing VoIP systems be migrated to FreeSWITCH?</a>
+                                    aria-expanded="true" aria-controls="faq8">Does VoIPTech provide white-labelled Asterisk solutions?</a>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we ensure a smooth transition from systems like Asterisk or others with minimal disruption.
+                                    Yes, we can deliver fully white-labelled Asterisk systems under your brand.
                                     </div>
                                 </div>
                             </div>
@@ -686,12 +700,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Why choose VoIPTech Solutions for FreeSWITCH services?</a>
+                                    aria-expanded="true" aria-controls="faq9">Can I get a demo before finalizing the project?</a>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    Our team brings deep expertise, custom development, and reliable support to every FreeSWITCH deployment.
+                                    Of course — we’re happy to walk you through a working demo tailored to your needs.
                                     </div>
                                 </div>
                             </div>
@@ -699,12 +713,12 @@ I would love to recommended all VoIP operaters to have service from VoIP Tech ..
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Does VoIPTech Solutions offer both cloud and on-premise FreeSWITCH?</a>
+                                    aria-expanded="true" aria-controls="faq10">How fast can VoIPTech Solutions deliver an Asterisk project?</a>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we deliver flexible deployment options based on your infrastructure and scalability preferences.
+                                    Timelines depend on complexity, but most projects are ready within a few business days to weeks.
                                     </div>
                                 </div>
                             </div>
