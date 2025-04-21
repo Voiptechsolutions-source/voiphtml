@@ -16,11 +16,515 @@
 </head>
 <body>
     <header>
-        <div class="container">
-
-        </div>
+        <nav class="navbar navbar-expand-lg im-nav">
+            <div class="container">
+                <!-- Logo on the left -->
+                <a class="navbar-brand" href="#">
+                    <img src="assets/images/logo.png" alt="Logo" height="40">
+                </a>
+    
+                <!-- Mobile toggle button -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+    
+                <!-- Navigation items -->
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <!-- Centered navigation items (visible on desktop) -->
+                    <ul class="navbar-nav centered-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contact</a>
+                        </li>
+                    </ul>
+    
+                    
+                </div>
+                <!-- Get Started button on the right -->
+                <div class="d-lg-flex">
+                    <a href="#" class="btn btn-secondary rounded-pill text-uppercase px-4">Get Started</a>
+                </div>
+            </div>
+        </nav>
     </header>
+    <main class="main-wrapper">
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <div class="overlay"></div>
+            
+            <!-- Video Background -->
+            <video class="hero-video" autoplay muted loop poster="fallback-image.jpg">
+                <source src="assets/images/hero-bg-vid.mp4" type="video/mp4">
+                <!-- Add additional video formats here for cross-browser compatibility -->
+                Your browser does not support the video tag.
+            </video>
+        
+            <!-- Hero Content -->
+            <div class="container h-100 position-relative">
+                <div class="row h-100 align-items-center">
+                    <div class="col-12 text-center text-lg-start">
+                        <div class="as-seen-on">
+                            <p>As seen on</p>
+                            <div class="d-flex gap-2 as-seen-on-logos">
+                                <img src="assets/images/logos/enterpreneur.png" alt="Enterpreneur" class="img-fluid" width="100" height="31" />
+                                <img src="assets/images/logos/ht.png" alt="Hindustan Times" class="img-fluid" width="140" height="28" />
+                                <img src="assets/images/logos/ndtv.png" alt="msn" class="img-fluid msn-logo" width="80" height="20" />
+                                <img src="assets/images/logos/toi.png" alt="Times of India" class="img-fluid" width="100" height="57" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Section 2 -->
+        <section class="section-2 py-5">
+        <div class="container">
+            <div class="section-title text-center text-white">
+                <h2>Your Trusted Media Buying Agency For High-Performance</h2>
+                <p>As leadign media buying agency, we create performance- driven strategies that boost brand visibility, 
+                    drive quality traffice, and deliver measurable results, ensuring your business achieves growth and success</p>
+                <div class="bt-cont">
+                    <a href="#" class="btn btn-secondary rounded-pill text-uppercase px-4">Get Started</a>
+                </div>
+            </div>
+            <div class="_trusted d-flex align-items-center mt-4 mb-4 gap-1 justify-content-center">
+                <div class="stars d-flex">
+                    <div class="_star">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z"/></svg>
+                    </div>
+                    <div class="_star">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z"/></svg>
+                    </div>
+                    <div class="_star">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z"/></svg>
+                    </div>
+                    <div class="_star">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z"/></svg>
+                    </div>
+                    <div class="_star">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z"/></svg>
+                    </div>
+                </div>
+                <p>Trusted by over <strong>500 clients</strong></p>
+            </div>
+        </div>
+        </section>
+        <!-- Section 3 -->
+        <section class="section-3 py-80 bg-dark">
+        <div class="container">
+            <div class="section-title2">
+                <div class="title-text text-white">Our Work</div>
+                <a href="#" class="btn btn-outline-light rounded-pill px-4">View More</a>
+            </div>
+            <div class="stories-tabs">
+                <div class="row">
+                    <div class="col-12 col-lg-4 text-white">
+                        <h2>Our Success Stories</h2>
+                    </div>
+                    <div class="col-12 col-lg-8">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="pm-tab" data-bs-toggle="tab" data-bs-target="#pm" type="button" role="tab" aria-controls="pm" aria-selected="true">Performance Marketing</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="am-tab" data-bs-toggle="tab" data-bs-target="#am" type="button" role="tab" aria-controls="am" aria-selected="false">Affiliate Marketing</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="dmb-tab" data-bs-toggle="tab" data-bs-target="#dmb" type="button" role="tab" aria-controls="dmb" aria-selected="false">Digital Media Buying</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="ecm-tab" data-bs-toggle="tab" data-bs-target="#ecm" type="button" role="tab" aria-controls="ecm" aria-selected="false">E-commerce Marketing</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="b2b-tab" data-bs-toggle="tab" data-bs-target="#b2b" type="button" role="tab" aria-controls="b2b" aria-selected="false">B2B Lead Generation & Marketing</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="seo-tab" data-bs-toggle="tab" data-bs-target="#seo" type="button" role="tab" aria-controls="seo" aria-selected="false">Search Engine Optimization</button>
+                            </li>
+                            </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="stories-content">
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="pm" role="tabpanel" aria-labelledby="pm-tab">
+                        <div class="row text-white">
+                            <div class="col-12 col-lg-4">
+                                <h3>Performance  Marketing</h3>
+                                <p>Crafting ROI-driven campaigns using digital marketing media buying strategies. We specialize in performance marketing techniques to optimize conversions, boost customer engagement, and ensure measurable digital advertising success, maximizing your </p>
+                                <h4>ROI</h4>
+                                <p>Crafting ROI-driven campaigns using digital marketing media </p>
+                                <div class="view-btn">
+                                    <a href="#" class="btn btn-primary rounded-pill px-4">View Case Sudy</a>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-8">
+                                <div class="story-img">
+                                    <img src="assets/images/story-img.png" alt="Story Image" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="am" role="tabpanel" aria-labelledby="am-tab">
+                        <div class="row text-white">
+                            <div class="col-12 col-lg-4">
+                                <h3>Affiliate  Marketing</h3>
+                                <p>Crafting ROI-driven campaigns using digital marketing media buying strategies. We specialize in performance marketing techniques to optimize conversions, boost customer engagement, and ensure measurable digital advertising success, maximizing your </p>
+                                <h4>ROI</h4>
+                                <p>Crafting ROI-driven campaigns using digital marketing media </p>
+                                <div class="view-btn">
+                                    <a href="#" class="btn btn-primary rounded-pill px-4">View Case Sudy</a>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-8">
+                                <div class="story-img">
+                                    <img src="assets/images/story-img.png" alt="Story Image" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="dmb" role="tabpanel" aria-labelledby="dmb-tab">
+                        <div class="row text-white">
+                            <div class="col-12 col-lg-4">
+                                <h3>Digital Media Buying</h3>
+                                <p>Crafting ROI-driven campaigns using digital marketing media buying strategies. We specialize in performance marketing techniques to optimize conversions, boost customer engagement, and ensure measurable digital advertising success, maximizing your </p>
+                                <h4>ROI</h4>
+                                <p>Crafting ROI-driven campaigns using digital marketing media </p>
+                                <div class="view-btn">
+                                    <a href="#" class="btn btn-primary rounded-pill px-4">View Case Sudy</a>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-8">
+                                <div class="story-img">
+                                    <img src="assets/images/story-img.png" alt="Story Image" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="ecm" role="tabpanel" aria-labelledby="ecm-tab">
+                        <div class="row text-white">
+                            <div class="col-12 col-lg-4">
+                                <h3>E-commerce  Marketing</h3>
+                                <p>Crafting ROI-driven campaigns using digital marketing media buying strategies. We specialize in performance marketing techniques to optimize conversions, boost customer engagement, and ensure measurable digital advertising success, maximizing your </p>
+                                <h4>ROI</h4>
+                                <p>Crafting ROI-driven campaigns using digital marketing media </p>
+                                <div class="view-btn">
+                                    <a href="#" class="btn btn-primary rounded-pill px-4">View Case Sudy</a>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-8">
+                                <div class="story-img">
+                                    <img src="assets/images/story-img.png" alt="Story Image" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="b2b" role="tabpanel" aria-labelledby="b2b-tab">
+                        <div class="row text-white">
+                            <div class="col-12 col-lg-4">
+                                <h3>B2B Lead Generation & Marketing</h3>
+                                <p>Crafting ROI-driven campaigns using digital marketing media buying strategies. We specialize in performance marketing techniques to optimize conversions, boost customer engagement, and ensure measurable digital advertising success, maximizing your </p>
+                                <h4>ROI</h4>
+                                <p>Crafting ROI-driven campaigns using digital marketing media </p>
+                                <div class="view-btn">
+                                    <a href="#" class="btn btn-primary rounded-pill px-4">View Case Sudy</a>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-8">
+                                <div class="story-img">
+                                    <img src="assets/images/story-img.png" alt="Story Image" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="seo" role="tabpanel" aria-labelledby="seo-tab">
+                        <div class="row text-white">
+                            <div class="col-12 col-lg-4">
+                                <h3>Search Engine Optimization</h3>
+                                <p>Crafting ROI-driven campaigns using digital marketing media buying strategies. We specialize in performance marketing techniques to optimize conversions, boost customer engagement, and ensure measurable digital advertising success, maximizing your </p>
+                                <h4>ROI</h4>
+                                <p>Crafting ROI-driven campaigns using digital marketing media </p>
+                                <div class="view-btn">
+                                    <a href="#" class="btn btn-primary rounded-pill px-4">View Case Sudy</a>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-8">
+                                <div class="story-img">
+                                    <img src="assets/images/story-img.png" alt="Story Image" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
+        <!-- Section 4 -->
+        <section class="section-4 pt-1 pb-5 bg-dark">
+        <div class="container">
+            <div class="section-title text-center text-white">
+                <h2>Everything you ever wanted to know about your ad performance</h2>
+                <p>Impression Media reveals the numbers that matter—and the real audience engagement behind them.</p>
+            </div>
+            <div class="why-us-home mt-4">
+                <div class="row">
+                    <div class="col-12 col-lg-6">
+                        <div class="why-us-box text-white">
+                            <div class="_img-cont">
+                                <img src="assets/images/why-us-img1.png" alt="Why Us Image 1" class="img-fluid">
+                            </div>
+                            <h3>Enhance Services</h3>
+                            <p>Thinking about solving our clients' problems has us constantly spinning our wheels. If you are new to creating video content or an experienced hand, you can check out our thoughts on many subjects related to our full-service advertising agency.</p>
+                            <ul class="list-check">
+                                <li>
+                                    <div class="_content">
+                                        <h4>Flexible Plans</h4>
+                                        <p>Choose from prepaid VoIP minutes or postpaid billing.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="_content">
+                                        <h4>Global Coverage</h4>
+                                        <p>Buy VoIP minutes for international calls across 150+ destinations.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="_content">
+                                        <h4>Unbeatable Pricing</h4>
+                                        <p>Save more with cost-effective VoIP solutions..</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="_content">
+                                        <h4>Unbeatable Pricing</h4>
+                                        <p>Get discounted VoIP minutes with no hidden costs</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="view-btn">
+                                <a href="#" class="btn btn-primary rounded-pill px-4">View Case Sudy</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6">
+                        <div class="why-us-box text-white">
+                            <div class="_img-cont">
+                                <img src="assets/images/why-us-img2.png" alt="Why Us Image 1" class="img-fluid">
+                            </div>
+                            <h3>Why Choose Us</h3>
+                            <p>Thinking about solving our clients' problems has us constantly spinning our wheels. If you are new to creating video content or an experienced hand, you can check out our thoughts on many subjects related to our full-service advertising agency.</p>
+                            <ul class="list-check">
+                                <li>
+                                    <div class="_content">
+                                        <h4>Flexible Plans</h4>
+                                        <p>Choose from prepaid VoIP minutes or postpaid billing.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="_content">
+                                        <h4>Global Coverage</h4>
+                                        <p>Buy VoIP minutes for international calls across 150+ destinations.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="_content">
+                                        <h4>Unbeatable Pricing</h4>
+                                        <p>Save more with cost-effective VoIP solutions..</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="_content">
+                                        <h4>Unbeatable Pricing</h4>
+                                        <p>Get discounted VoIP minutes with no hidden costs</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="view-btn">
+                                <a href="#" class="btn btn-primary rounded-pill px-4">View Case Sudy</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
+        <!-- Section 5 -->
+         <section class="section-5 py-5 bg-dark">
+            <div class="container">
+                <div class="our-features-home text-white">
+                    <div class="row">
+                        <div class="col-12 col-lg-3">
+                            <div class="feat-box">
+                                <div class="_feat-img">
+                                    <img src="assets/images/feat-1.png" alt="Precision Targeting" class="img-fluid">
+                                </div>
+                                <div class="feat-content">
+                                    <h3>Precision Targeting</h3>
+                                    <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
+                                    <div class="read-more-btn">
+                                        <a href="#" class="btn btn-outline-light rounded-pill px-4">Read More</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-3">
+                            <div class="feat-box">
+                                <div class="_feat-img">
+                                    <img src="assets/images/feat-2.png" alt="Multi-Channel Campaigns" class="img-fluid">
+                                </div>
+                                <div class="feat-content">
+                                    <h3>Multi-Channel Campaigns</h3>
+                                    <p>Harness the power of PPC, affiliate marketing, and social media ads to amplify your message across all platforms, increasing visibility and brand recognition.</p>
+                                    <div class="read-more-btn">
+                                        <a href="#" class="btn btn-outline-light rounded-pill px-4">Read More</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-3">
+                            <div class="feat-box">
+                                <div class="_feat-img">
+                                    <img src="assets/images/feat-3.png" alt="Real-Time Optimization" class="img-fluid">
+                                </div>
+                                <div class="feat-content">
+                                    <h3>Real-Time Optimization</h3>
+                                    <p>Optimize your campaigns continuously by leveraging real-time analytics to refine strategies, ensuring the best performance and maximum ROI.</p>
+                                    <div class="read-more-btn">
+                                        <a href="#" class="btn btn-outline-light rounded-pill px-4">Read More</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-3">
+                            <div class="feat-box">
+                                <div class="_feat-img">
+                                    <img src="assets/images/feat-4.png" alt="Expert Management" class="img-fluid">
+                                </div>
+                                <div class="feat-content">
+                                    <h3>Expert Management</h3>
+                                    <p>Our team of experts manages every aspect of your campaign, ensuring smooth execution, regular updates, and consistent growth for your business.</p>
+                                    <div class="read-more-btn">
+                                        <a href="#" class="btn btn-outline-light rounded-pill px-4">Read More</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </section>
+    </main>
  
+    <footer class="main-footer bg-dark text-white pt-5">
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-12 col-lg-4">
+                    <div class="footer-logo">
+                        <a href="#">
+                            <img src="assets/images/logo.png" alt="Logo" height="40">
+                        </a>
+                    </div>
+                    <div class="footer-about">
+                        <p>We are a leading Dubai-based agency offering expert media buying, performance marketing, and affiliate solutions. We help brands achieve growth through data-driven strategies and innovative digital campaigns.</p>
+                    </div>
+                    <div class="footer-address">
+                        <div class="_info">
+                            <span class="icn">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg>
+                            </span>
+                            <p>503, 5th Floor, Millenium Central Downtown, Business Bay</p>
+                        </div>
+                        <div class="_info">
+                            <span class="icn">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M280 0C408.1 0 512 103.9 512 232c0 13.3-10.7 24-24 24s-24-10.7-24-24c0-101.6-82.4-184-184-184c-13.3 0-24-10.7-24-24s10.7-24 24-24zm8 192a32 32 0 1 1 0 64 32 32 0 1 1 0-64zm-32-72c0-13.3 10.7-24 24-24c75.1 0 136 60.9 136 136c0 13.3-10.7 24-24 24s-24-10.7-24-24c0-48.6-39.4-88-88-88c-13.3 0-24-10.7-24-24zM117.5 1.4c19.4-5.3 39.7 4.6 47.4 23.2l40 96c6.8 16.3 2.1 35.2-11.6 46.3L144 207.3c33.3 70.4 90.3 127.4 160.7 160.7L345 318.7c11.2-13.7 30-18.4 46.3-11.6l96 40c18.6 7.7 28.5 28 23.2 47.4l-24 88C481.8 499.9 466 512 448 512C200.6 512 0 311.4 0 64C0 46 12.1 30.2 29.5 25.4l88-24z"/></svg>
+                            </span>
+                            <p>Phone: <a href="tel:+971504583131">+(971) 50 458 3131</a></p>
+                        </div>
+                        <div class="_info">
+                            <span class="icn">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48L48 64zM0 176L0 384c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-208L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>
+                            </span>
+                            <p>Email: <a href="mailto:info@impressionmedia.ae">info@impressionmedia.ae</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-2">
+                    <div class="footer-menu">
+                        <h4>Quick Links</h4>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Services</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms of Service</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="footer-posts">
+                        <h4>Recent Posts</h4>
+                        <div class="post-box">
+                            <div class="post-img">
+                                <img src="assets/images/footer-post-thumb1.jpg" alt="Post Thumbnail" class="img-fluid">
+                            </div>
+                            <div class="post-content">
+                                <h5><a href="#">The Secret to Scaling Performance Marketing Without Increasing Costs</a></h5>
+                                <div class="post-time">
+                                    <span class="_icn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120l0 136c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2 280 120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"/></svg></span>
+                                    <p>2025-03-13 19:49:46</p>
+                                </div>
+                            </div>    
+                        </div>
+                        <div class="post-box">
+                            <div class="post-img">
+                                <img src="assets/images/footer-post-thumb2.jpg" alt="Post Thumbnail" class="img-fluid">
+                            </div>
+                            <div class="post-content">
+                                <h5><a href="#">The Secret to Scaling Performance Marketing Without Increasing Costs</a></h5>
+                                <div class="post-time">
+                                    <span class="_icn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120l0 136c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2 280 120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"/></svg></span>
+                                    <p>2025-03-13 19:49:46</p>
+                                </div>
+                            </div>    
+                        </div>
+                        <div class="post-box">
+                            <div class="post-img">
+                                <img src="assets/images/footer-post-thumb3.jpg" alt="Post Thumbnail" class="img-fluid">
+                            </div>
+                            <div class="post-content">
+                                <h5><a href="#">The Secret to Scaling Performance Marketing Without Increasing Costs</a></h5>
+                                <div class="post-time">
+                                    <span class="_icn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120l0 136c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2 280 120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"/></svg></span>
+                                    <p>2025-03-13 19:49:46</p>
+                                </div>
+                            </div>    
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-lg-logo">
+                <img src="assets/images/footer-lg-logo.png" alt="Footer Logo" class="img-fluid">
+            </div>
+        </div>
+        <div class="copyright">
+            © 2025 Designer Powered By impression media
+        </div>
+    </footer>
     
 
     <script src="assets/js/jquery.min.js"></script>
@@ -32,5 +536,6 @@
  <!-- GSAP -->
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>   
+ <script src="assets/js/custom.js"></script>
 </body>
 </html>
