@@ -53,7 +53,7 @@
                             <ul class="dropdown-menu dropdownsubmenu2">
 
                               <li><a class="dropdown-item" href="#">IVR System</a></li>
-                              <li><a class="dropdown-item" href="#">VTS Dialer</a></li>
+                              <li><a class="dropdown-item" href="vts-dialer.php">VTS Dialer</a></li>
                              <li><a class="dropdown-item" href="#">Content Management Software</a></li>
                             </ul>
                           </li>
@@ -61,6 +61,7 @@
                           <li class="dropdown-submenu dropdownsubmenu  solution"><a class="dropdown-item dropdown-toggle" href="#">Solution</a>
                             <ul class="dropdown-menu dropdownsubmenu3">
                               <li><a class="dropdown-item" href="ivr-system.php">IVR System Solution</a></li>
+                              <li><a class="dropdown-item" href="vts-dialer.php">VTS Dialer</a></li>
                               <li><a class="dropdown-item" href="#">Call Center Solution</a></li>
                               <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
                               <li><a class="dropdown-item" href="#">Vicidial Solution</a></li>
