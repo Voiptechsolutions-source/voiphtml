@@ -677,3 +677,53 @@ footer h4 {
 
    
 }
+@media(max-width: 767px){
+    .section-2{
+        height: auto;
+        padding-bottom: 0;
+    }
+    .section-2 .container {
+        padding: 0 15px;
+    }
+    .section-2 ._feat-img .img-fluid {
+        width: 100%;
+    }
+    .as-seen-on-logos {
+        justify-content: end;
+        flex-wrap: wrap;
+        padding: 0 15px;
+    }
+    .as-seen-on{
+        padding: 0 15px;
+    }
+    .stories-tabs .nav-tabs {
+        border-bottom: 0px solid #dee2e6;
+        flex-direction: column;
+    }
+    .stories-tabs .nav-tabs .nav-item {
+        width: 100%;
+        font-size: 12px;
+        border-bottom: 1px dashed #Fff;
+        padding-bottom: 6px;
+        margin-bottom: 6px;
+    }
+    .section-title {
+        max-width: 800px;
+        margin: 20px auto 0;
+    }
+    .section-title h2 {
+        font-weight: 800;
+        font-size: 30px;
+    }
+    .list-check{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .section-title2 {
+        flex-direction: column;
+        gap: 10px;
+        align-items: start;
+    }
+    .footer-lg-logo {
+        margin-top: -30px;
+    }
+}
