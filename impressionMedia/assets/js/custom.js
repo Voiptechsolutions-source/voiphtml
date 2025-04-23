@@ -420,8 +420,8 @@ gsap.from('.section-11 .success-content', {
 }
 );
 });
-gsap.registerPlugin(ScrollSmoother) ;
-ScrollSmoother.create({
-    smooth: 1,
-    effects: true,
-  });
+// gsap.registerPlugin(ScrollSmoother) ;
+// ScrollSmoother.create({
+//     smooth: 1,
+//     effects: true,
+//   });
