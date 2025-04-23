@@ -11,6 +11,9 @@ body {
     font-family: var(--font-family);
     overflow-x: hidden ;
 }
+main.main-wrapper{
+    overflow-x: hidden;
+}
 .bg-dark {
     background-color: var(--black-shade1) !important;
 }
@@ -141,6 +144,7 @@ body {
     background-attachment: fixed;
     height: 100vh;
     min-height: 600px;
+    overflow: hidden;
 }
 .section-2::after{
     content: '';
@@ -451,6 +455,7 @@ footer h4 {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    overflow: hidden;
 }
 .owl-carousel.comp-logos .owl-stage{
     display: flex;
@@ -574,7 +579,10 @@ footer h4 {
 	width: 80%;
 }
 
-
+.section-4{overflow: hidden;}
+.blog-posts-home {
+	overflow: hidden;
+}
 
 /******************************* Responsive CSS ***********************************/
 @media (min-width: 992px) {
