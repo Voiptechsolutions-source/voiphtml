@@ -64,7 +64,7 @@
                               <li><a class="dropdown-item" href="vts-dialer.php">VTS Dialer</a></li>
                               <li><a class="dropdown-item" href="#">Call Center Solution</a></li>
                               <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
-                              <li><a class="dropdown-item" href="#">Vicidial Solution</a></li>
+                              <li><a class="dropdown-item" href="vicidial-solution.php">Vicidial Solution</a></li>
                               <li><a class="dropdown-item" href="#">Fusion PBX solution</a></li>
                             </ul>
                           </li>
