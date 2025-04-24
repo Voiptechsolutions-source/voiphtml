@@ -187,7 +187,7 @@
                     </div><!-- Col end -->
 
                     <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-12  ">
-                    <img class="img-fluid" src="assets/images/clients/international/siptrunk.jpg" alt="SIP TRUNK">
+                    <img class="img-fluid" src="assets/images/clients/international/siptrunk.png" alt="SIP TRUNK">
                     </div><!-- Col end -->
 
                     <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-12  ">
