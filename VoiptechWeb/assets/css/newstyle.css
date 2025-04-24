@@ -939,6 +939,16 @@ aside .nav-pills .nav-link.active:after{
 .blogs-listing .related-post {
 	margin-bottom: 50px;
 }
+.about-banner.gallery-banner .banner-content h1 {
+	font-size: 56px;
+	font-weight: 900;
+	line-height: initial;
+	display: block;
+}
+#macy-container img {
+	max-height: 200px;
+	max-width: 100%;
+}
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{

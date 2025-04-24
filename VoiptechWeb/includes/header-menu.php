@@ -13,7 +13,7 @@
                         <li><a class="dropdown-item" href="#">Career</a></li>
                         <li><a class="dropdown-item" href="#">Life at VoiptechSolutions</a></li>
                         <li><a class="dropdown-item" href="#">Events</a></li>
-                        <li><a class="dropdown-item" href="#">Gallery</a></li>
+                        <li><a class="dropdown-item" href="gallery.php">Gallery</a></li>
                       </ul>
                     </li>
                     <li class="nav-item dropdown">
