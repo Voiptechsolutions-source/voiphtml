@@ -949,6 +949,27 @@ aside .nav-pills .nav-link.active:after{
 	max-height: 200px;
 	max-width: 100%;
 }
+.cta.cta-2 .container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.cta.cta-2 .cta-content {
+	max-width: 500px;
+	text-align: left;
+}
+.cta.cta-2 {
+	position: relative;
+}
+.hd-phone-bg {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
+.hd-phone-bg img {
+	width: 200px;
+	transform: translateX(50%);
+}
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
@@ -1075,6 +1096,16 @@ aside .nav-pills .nav-link.active:after{
     .contact-box-header {
         flex-direction: column;
         gap: 0;
+    }
+    .cta.cta-2 .container {
+        flex-direction: column;
+    }
+    .hd-phone-bg {
+        display: none;
+    }
+    .cta.cta-2 .cta-content {
+        max-width: 500px;
+        text-align: center;
     }
 }
 @media (max-width: 767.98px) {

@@ -77,7 +77,7 @@
                         <a class="nav-link " href="#">Industries</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link " href="#">Our Clients</a>
+                        <a class="nav-link " href="our-clients.php">Our Clients</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link " href="#">Testimonials</a>
