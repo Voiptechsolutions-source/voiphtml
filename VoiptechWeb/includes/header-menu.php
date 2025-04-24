@@ -62,6 +62,7 @@
                             <ul class="dropdown-menu dropdownsubmenu3">
                               <li><a class="dropdown-item" href="ivr-system.php">IVR System Solution</a></li>
                               <li><a class="dropdown-item" href="vts-dialer.php">VTS Dialer</a></li>
+                              <li><a class="dropdown-item" href="auto-dialer.php">Auto Dialer</a></li>
                               <li><a class="dropdown-item" href="#">Call Center Solution</a></li>
                               <li><a class="dropdown-item" href="#">Hosted IP-PBX</a></li>
                               <li><a class="dropdown-item" href="vicidial-solution.php">Vicidial Solution</a></li>
