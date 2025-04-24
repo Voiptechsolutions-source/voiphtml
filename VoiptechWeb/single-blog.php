@@ -32,36 +32,111 @@
     <!-- Hero Section -->
      <section class="bg-light-orange py-80 blog-single-banner">
         <div class="container">
-            <div class="d-flex justify-content-between flex-column-reverse align-items-center flex-md-row">
+            <div class="d-flex justify-content-between flex-column-reverse flex-md-row">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    
-                    <h1>Our Blogs</h1>
+                    <div class="blog-date mb-4">
+                        <span class="rounded-pill py-2 px-4">August 18, 2024</span>
+                    </div>
+                    <h1>Call Center Solutions for Customer Success</h1>
                     <p>Compare top call center software for your team. 
                         Learn best providers and features, and get 
                         advice for choosing the right call center solution</p>
-                    
+                    <div class="author-info mt-3">
+                        <div class="author-pill">
+                            <div class="author-pic">
+                                <img src="assets/images/user-pic.png" alt="Author"  />
+                            </div>
+                             <div class="name">
+                                <span>Author</span>
+                                <span class="_name text-orange">Dominic Kent</span>
+                             </div>   
+                        </div>
+                    </div>
                     
                     
                 </div>
                 <!-- Hero image -->
                  <div class="hero-img">
-                    <img src="assets/images/blog-listing-feat-img.png" alt="Call center solution" class="img-fluid" />
+                    <img src="assets/images/blog-feat-img.png" alt="Call center solution" class="img-fluid" />
                  </div>
             </div>
         </div>
      </section>
 
-     
+     <!-- Blog Content-->
+    <section class="blog-content py-5">
+        <div class="container">
+            <div class="row">
+                <aside class="col-12 col-lg-3">
+                    <h3>Contents</h3>
+                    <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-home" aria-selected="true">Call center software overview</a>
+                        <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-profile" aria-selected="false">Best call center software</a>
+                        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-messages" aria-selected="false">1. Nextiva</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-settings" aria-selected="false">2. Five9</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-5" role="tab" aria-controls="v-pills-settings" aria-selected="false">3. Ringover</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-6" role="tab" aria-controls="v-pills-settings" aria-selected="false">7 more options</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-7" role="tab" aria-controls="v-pills-settings" aria-selected="false">Use cases, functions, & features</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-8" role="tab" aria-controls="v-pills-settings" aria-selected="false">Signs you need a call center</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-9" role="tab" aria-controls="v-pills-settings" aria-selected="false">Legitimate call center software</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-10" role="tab" aria-controls="v-pills-settings" aria-selected="false">Call center provider checklist</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-11" role="tab" aria-controls="v-pills-settings" aria-selected="false">Best choice for call center software</a>
+                    </div>
+                    <div class="demo-btn mt-4">
+                        <a href="#" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
+                    </div>
+                </aside>
+                <article class="col-12 col-lg-9">
+                  <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                        <h2>Powering the world's real-time contents</h2>
+                        <p>With so many options and features to weigh, it’s easy to feel overwhelmed when trying to choose the right call center software. You’ve got to schedule demos, examine features, compare solutions, and evaluate what’s best for your needs.</p>
+
+                        <p>In this guide, we break down the top contenders, highlighting their standout features, benefits, and unique advantages. You’ll discover why these software solutions are ideal for growing call centers so you can make your decision with confidence.</p>
+                        <ul class="orange-check">
+                            <li>
+                               <strong>Call center software</strong> focuses on voice communication only, making it ideal for businesses primarily relying on phone calls.
+
+                            </li>
+                            <li>
+                               <strong>Contact center software</strong>, on the other hand, provides omnichannel communication that includes a mix of channels like voice calling, video conferencing, website chat, SMS, email, and social media. This allows businesses to offer a more integrated and seamless customer service experience across multiple platforms.
+                            </li>
+                        </ul>
+                        <h4>The types of call centers can be categorized in a few different ways depending on the specific functionality you need. </h4>
+                        <p>With so many options and features to weigh, it’s easy to feel overwhelmed when trying to choose the right call center software. You’ve got to schedule demos, examine features, compare solutions, and evaluate what’s best for your needs.</p>
+
+                        <p>In this guide, we break down the top contenders, highlighting their standout features, benefits, and unique advantages. You’ll discover why these software solutions are ideal for growing call centers so you can make your decision with confidence.</p>
+                       
+                    </div>
+                    <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                        <h2>Powering the world's real-time contents</h2>
+                        <p>With so many options and features to weigh, it’s easy to feel overwhelmed when trying to choose the right call center software. You’ve got to schedule demos, examine features, compare solutions, and evaluate what’s best for your needs.</p>
+                    </div>
+                    <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                        <h4>The types of call centers can be categorized in a few different ways depending on the specific functionality you need. </h4>
+                        <p>With so many options and features to weigh, it’s easy to feel overwhelmed when trying to choose the right call center software. You’ve got to schedule demos, examine features, compare solutions, and evaluate what’s best for your needs.</p>
+                    </div>
+                    <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                        <h2>Powering the world's real-time contents</h2>
+                        <p>With so many options and features to weigh, it’s easy to feel overwhelmed when trying to choose the right call center software. You’ve got to schedule demos, examine features, compare solutions, and evaluate what’s best for your needs.</p>
+
+                        <p>In this guide, we break down the top contenders, highlighting their standout features, benefits, and unique advantages. You’ll discover why these software solutions are ideal for growing call centers so you can make your decision with confidence.</p>
+                    </div>
+                  </div>
+                </article>
+              </div>
+        </div>
+    </section>
 
     <!-- Related Blog Posts -->
-     <section class="related-blog pt-4 pb-5 blogs-listing">
+     <section class="related-blog pt-4 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-4">
                     <div class="related-post">
                         <div class="post-img">
-                            <a href="single-blog.php">
+                            <a href="#">
                                 <img src="assets/images/post-img1.png" alt="Post 1" loading="lazy" />
                             </a>
                         </div>
@@ -77,7 +152,7 @@
                             </div>
                         </div>
                         <div class="post-data">
-                            <h3><a href="single-blog.php"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
+                            <h3><a href="#"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
                             <p>Lorem ipsum dolor sit amet, consectetu adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
                         </div>
                         <div class="author-comment">
@@ -92,7 +167,7 @@
                 <div class="col-12 col-lg-4">
                     <div class="related-post">
                         <div class="post-img">
-                            <a href="single-blog.php">
+                            <a href="#">
                                 <img src="assets/images/post-img2.png" alt="Post 1" loading="lazy" />
                             </a>
                         </div>
@@ -108,7 +183,7 @@
                             </div>
                         </div>
                         <div class="post-data">
-                            <h3><a href="single-blog.php"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
+                            <h3><a href="#"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
                             <p>Lorem ipsum dolor sit amet, consectetu adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
                         </div>
                         <div class="author-comment">
@@ -123,7 +198,7 @@
                 <div class="col-12 col-lg-4">
                     <div class="related-post">
                         <div class="post-img">
-                            <a href="single-blog.php">
+                            <a href="#">
                                 <img src="assets/images/post-img3.png" alt="Post 1" loading="lazy" />
                             </a>
                         </div>
@@ -139,100 +214,7 @@
                             </div>
                         </div>
                         <div class="post-data">
-                            <h3><a href="single-blog.php"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetu adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
-                        </div>
-                        <div class="author-comment">
-                            <span class="by">By Admin</span>
-                            <div class="no-comments">
-                                <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M208 352c114.9 0 208-78.8 208-176S322.9 0 208 0S0 78.8 0 176c0 38.6 14.7 74.3 39.6 103.4c-3.5 9.4-8.7 17.7-14.2 24.7c-4.8 6.2-9.7 11-13.3 14.3c-1.8 1.6-3.3 2.9-4.3 3.7c-.5 .4-.9 .7-1.1 .8l-.2 .2s0 0 0 0s0 0 0 0C1 327.2-1.4 334.4 .8 340.9S9.1 352 16 352c21.8 0 43.8-5.6 62.1-12.5c9.2-3.5 17.8-7.4 25.2-11.4C134.1 343.3 169.8 352 208 352zM448 176c0 112.3-99.1 196.9-216.5 207C255.8 457.4 336.4 512 432 512c38.2 0 73.9-8.7 104.7-23.9c7.5 4 16 7.9 25.2 11.4c18.3 6.9 40.3 12.5 62.1 12.5c6.9 0 13.1-4.5 15.2-11.1c2.1-6.6-.2-13.8-5.8-17.9c0 0 0 0 0 0s0 0 0 0l-.2-.2c-.2-.2-.6-.4-1.1-.8c-1-.8-2.5-2-4.3-3.7c-3.6-3.3-8.5-8.1-13.3-14.3c-5.5-7-10.7-15.4-14.2-24.7c24.9-29 39.6-64.7 39.6-103.4c0-92.8-84.9-168.9-192.6-175.5c.4 5.1 .6 10.3 .6 15.5z"/></svg></span>
-                                10 Comments
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4">
-                    <div class="related-post">
-                        <div class="post-img">
-                            <a href="single-blog.php">
-                                <img src="assets/images/post-img1.png" alt="Post 1" loading="lazy" />
-                            </a>
-                        </div>
-                        <div class="post-meta">
-                            <div class="cat">Lifestyle</div>
-                            <div class="date-time">
-                                <div class="calendr-icn">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M128 0c17.7 0 32 14.3 32 32l0 32 128 0 0-32c0-17.7 14.3-32 32-32s32 14.3 32 32l0 32 48 0c26.5 0 48 21.5 48 48l0 48L0 160l0-48C0 85.5 21.5 64 48 64l48 0 0-32c0-17.7 14.3-32 32-32zM0 192l448 0 0 272c0 26.5-21.5 48-48 48L48 512c-26.5 0-48-21.5-48-48L0 192zm64 80l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm128 0l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM64 400l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm112 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16z"/></svg>
-                                </div>
-                                <div class="_date">
-                                    March 7, 2025
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-data">
-                            <h3><a href="single-blog.php"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetu adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
-                        </div>
-                        <div class="author-comment">
-                            <span class="by">By Admin</span>
-                            <div class="no-comments">
-                                <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M208 352c114.9 0 208-78.8 208-176S322.9 0 208 0S0 78.8 0 176c0 38.6 14.7 74.3 39.6 103.4c-3.5 9.4-8.7 17.7-14.2 24.7c-4.8 6.2-9.7 11-13.3 14.3c-1.8 1.6-3.3 2.9-4.3 3.7c-.5 .4-.9 .7-1.1 .8l-.2 .2s0 0 0 0s0 0 0 0C1 327.2-1.4 334.4 .8 340.9S9.1 352 16 352c21.8 0 43.8-5.6 62.1-12.5c9.2-3.5 17.8-7.4 25.2-11.4C134.1 343.3 169.8 352 208 352zM448 176c0 112.3-99.1 196.9-216.5 207C255.8 457.4 336.4 512 432 512c38.2 0 73.9-8.7 104.7-23.9c7.5 4 16 7.9 25.2 11.4c18.3 6.9 40.3 12.5 62.1 12.5c6.9 0 13.1-4.5 15.2-11.1c2.1-6.6-.2-13.8-5.8-17.9c0 0 0 0 0 0s0 0 0 0l-.2-.2c-.2-.2-.6-.4-1.1-.8c-1-.8-2.5-2-4.3-3.7c-3.6-3.3-8.5-8.1-13.3-14.3c-5.5-7-10.7-15.4-14.2-24.7c24.9-29 39.6-64.7 39.6-103.4c0-92.8-84.9-168.9-192.6-175.5c.4 5.1 .6 10.3 .6 15.5z"/></svg></span>
-                                10 Comments
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4">
-                    <div class="related-post">
-                        <div class="post-img">
-                            <a href="single-blog.php">
-                                <img src="assets/images/post-img2.png" alt="Post 1" loading="lazy" />
-                            </a>
-                        </div>
-                        <div class="post-meta">
-                            <div class="cat">Lifestyle</div>
-                            <div class="date-time">
-                                <div class="calendr-icn">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M128 0c17.7 0 32 14.3 32 32l0 32 128 0 0-32c0-17.7 14.3-32 32-32s32 14.3 32 32l0 32 48 0c26.5 0 48 21.5 48 48l0 48L0 160l0-48C0 85.5 21.5 64 48 64l48 0 0-32c0-17.7 14.3-32 32-32zM0 192l448 0 0 272c0 26.5-21.5 48-48 48L48 512c-26.5 0-48-21.5-48-48L0 192zm64 80l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm128 0l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM64 400l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm112 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16z"/></svg>
-                                </div>
-                                <div class="_date">
-                                    March 7, 2025
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-data">
-                            <h3><a href="single-blog.php"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetu adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
-                        </div>
-                        <div class="author-comment">
-                            <span class="by">By Admin</span>
-                            <div class="no-comments">
-                                <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M208 352c114.9 0 208-78.8 208-176S322.9 0 208 0S0 78.8 0 176c0 38.6 14.7 74.3 39.6 103.4c-3.5 9.4-8.7 17.7-14.2 24.7c-4.8 6.2-9.7 11-13.3 14.3c-1.8 1.6-3.3 2.9-4.3 3.7c-.5 .4-.9 .7-1.1 .8l-.2 .2s0 0 0 0s0 0 0 0C1 327.2-1.4 334.4 .8 340.9S9.1 352 16 352c21.8 0 43.8-5.6 62.1-12.5c9.2-3.5 17.8-7.4 25.2-11.4C134.1 343.3 169.8 352 208 352zM448 176c0 112.3-99.1 196.9-216.5 207C255.8 457.4 336.4 512 432 512c38.2 0 73.9-8.7 104.7-23.9c7.5 4 16 7.9 25.2 11.4c18.3 6.9 40.3 12.5 62.1 12.5c6.9 0 13.1-4.5 15.2-11.1c2.1-6.6-.2-13.8-5.8-17.9c0 0 0 0 0 0s0 0 0 0l-.2-.2c-.2-.2-.6-.4-1.1-.8c-1-.8-2.5-2-4.3-3.7c-3.6-3.3-8.5-8.1-13.3-14.3c-5.5-7-10.7-15.4-14.2-24.7c24.9-29 39.6-64.7 39.6-103.4c0-92.8-84.9-168.9-192.6-175.5c.4 5.1 .6 10.3 .6 15.5z"/></svg></span>
-                                10 Comments
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4">
-                    <div class="related-post">
-                        <div class="post-img">
-                            <a href="single-blog.php">
-                                <img src="assets/images/post-img3.png" alt="Post 1" loading="lazy" />
-                            </a>
-                        </div>
-                        <div class="post-meta">
-                            <div class="cat">Lifestyle</div>
-                            <div class="date-time">
-                                <div class="calendr-icn">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M128 0c17.7 0 32 14.3 32 32l0 32 128 0 0-32c0-17.7 14.3-32 32-32s32 14.3 32 32l0 32 48 0c26.5 0 48 21.5 48 48l0 48L0 160l0-48C0 85.5 21.5 64 48 64l48 0 0-32c0-17.7 14.3-32 32-32zM0 192l448 0 0 272c0 26.5-21.5 48-48 48L48 512c-26.5 0-48-21.5-48-48L0 192zm64 80l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm128 0l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM64 400l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm112 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16z"/></svg>
-                                </div>
-                                <div class="_date">
-                                    March 7, 2025
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-data">
-                            <h3><a href="single-blog.php"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
+                            <h3><a href="#"> How to Optimize VICIdial for Maximum Call Center Performance</a></h3>
                             <p>Lorem ipsum dolor sit amet, consectetu adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
                         </div>
                         <div class="author-comment">

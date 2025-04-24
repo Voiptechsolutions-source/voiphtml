@@ -931,7 +931,14 @@ aside .nav-pills .nav-link.active:after{
 .process-box-cont .process-box p {
 	margin-bottom: 0;
 }
-
+.related-blog.blogs-listing .container {
+	padding: 60px 0;
+	border-top: 0px solid #d7d7d7;
+	border-bottom: 1px solid #d7d7d7;
+}
+.blogs-listing .related-post {
+	margin-bottom: 50px;
+}
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
