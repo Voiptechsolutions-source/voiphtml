@@ -219,7 +219,7 @@ section h2{
 	gap: 10px;
 }
 .cta-btn span{
-    width: 20px; 
+    width: 40px; 
     display: flex;
     align-items: center;
 }
@@ -843,10 +843,21 @@ aside .nav-pills .nav-link.active:after{
 .form-header h2 {
 	font-weight: 800;
 }
+.banner-form .whatsapp-no {
+	display: inline-block;
+	background: #000;
+	padding: 10px 20px;
+	border-radius: 10px;
+    /* animation: shadow-pulse 1.5s infinite ease-in-out alternate; */
+    animation: pulse 1.5s infinite ease-in-out alternate;
+}
+.banner-form .whatsapp-no img {
+	width: 30px;
+}
 .form-header .whatsapp-no a {
 	color: #fff;
 	font-weight: 800;
-	font-size: 22px;
+	font-size: 18px;
 }
 .form-header .whatsapp-no a:hover{
     text-decoration: none;
@@ -970,6 +981,90 @@ aside .nav-pills .nav-link.active:after{
 	width: 200px;
 	transform: translateX(50%);
 }
+.all-biz-locations {
+	display: grid;
+	gap: 15px;
+	grid-template-columns: repeat(7,1fr);
+	margin-top: 20px;
+}
+.all-biz-locations ._location {
+	background: var(--primary-hover);
+	border-radius: 10px;
+    overflow: hidden;
+}
+.all-biz-locations ._location ._body{
+    padding: 10px;
+}
+.biz-loc-title h3 {
+	font-weight: 800;
+}
+.all-biz-locations ._location p {
+	font-size: 14px;
+}
+/*--------------------Effects------------------*/
+.bounce2 {
+    animation: bounce2 1s ease infinite;
+  }
+  @keyframes bounce2 {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  .pulse {
+    animation: pulse 1.5s infinite ease-in-out alternate;
+  }
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+      box-shadow: 0 0 0px rgba(255, 255, 255, 0.7);
+    }
+    50% {
+      transform: scale(1.05);
+      box-shadow: 0 0 25px rgba(255, 255, 255, 1);
+    }
+    100% {
+      transform: scale(1);
+      box-shadow: 0 0 0px rgba(255, 255, 255, 0.7);
+    }
+  }  
+
+  .pulse2 {
+    animation: pulse2 1.5s infinite ease-in-out alternate;
+  }
+  @keyframes pulse2 {
+    0% {
+      transform: scale(1);
+      
+    }
+    50% {
+      transform: scale(1.05);
+     
+    }
+    100% {
+      transform: scale(1);
+      
+    }
+  }  
+.shadow-pulse{
+    animation: shadow-pulse 1.5s infinite ease-in-out alternate;
+  }
+  @keyframes shadow-pulse {
+    0% {
+      
+      box-shadow: 0 0 0px rgba(255, 192, 0, 0.7);
+    }
+    50% {
+      
+      box-shadow: 0 0 20px rgba(255, 192, 0, 0.9);
+    }
+    100% {
+      
+      box-shadow: 0 0 0px rgba(255, 192, 0, 0.7);
+    }
+  } 
 /* Mobile-specific styles */
 @media(min-width: 991.98px){
     .navbar-nav .nav-item.active:after{
@@ -1019,6 +1114,9 @@ aside .nav-pills .nav-link.active:after{
     .process-body{
         width: 216px;
         border-radius: 40px 8px 90px 0;
+    }
+    .all-biz-locations {
+        grid-template-columns: repeat(5,1fr);
     }
 }
 @media (max-width: 991.98px) {
@@ -1106,6 +1204,9 @@ aside .nav-pills .nav-link.active:after{
     .cta.cta-2 .cta-content {
         max-width: 500px;
         text-align: center;
+    }
+    .all-biz-locations {
+        grid-template-columns: repeat(4,1fr);
     }
 }
 @media (max-width: 767.98px) {
@@ -1213,5 +1314,8 @@ aside .nav-pills .nav-link.active:after{
     }
     .footer-island a {
         font-size: 14px;
+    }
+    .all-biz-locations {
+        grid-template-columns: repeat(2,1fr);
     }
 }
