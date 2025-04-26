@@ -23,7 +23,7 @@
             <?php include 'includes/header-menu.php'; ?>
 
             <!-- Get Started Button -->
-             <a href="#" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
+             <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
         </div>
     </div>
 </header>
@@ -40,7 +40,7 @@
                     <h1>Call Center Solutions for Customer Success</h1>
                     <p>Streamline operations and enhance<br>customer interaction with our voice solutions. </p>
                     <div class="get-started">
-                        <a href="#" class="btn bg-orange text-white rounded-pill btn-lg px-5 text-uppercase">Get Started</a>
+                        <a href="#"  data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill btn-lg px-5 text-uppercase">Get Started</a>
                     </div>
                     <div class="_trusted d-flex align-items-center mt-4 mb-4 gap-1">
                         <div class="stars d-flex">

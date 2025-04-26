@@ -21,7 +21,7 @@
             <?php include 'includes/header-menu.php'; ?>
 
             <!-- Get Started Button -->
-             <a href="#" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
+             <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
         </div>
     </div>
 </header>
@@ -49,83 +49,77 @@
      <!-- Privacy Policy -->
      <section class="privacy-policy pb-5">
         <div class="container">
-            <div class="text-section">
-                <h2>VoipTech Privacy Policy</h2>
-                <p>At VoIP Tech Solutions, accessible from <a href="https://voiptechsolutions.com">https://voiptechsolutions.com</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by VoIP Tech Solutions and how we use it.<br><br>
+            <div class="row ">
+        <h2><u>Privacy Policy</u></h2>
+        <p>Welcome to VoIPTech's Privacy Policy. This document outlines how we collect, use, disclose, and protect your personal information. By using our website, you agree to the terms outlined in this policy.</p>
+        
+        <div class="col-md-12">
+        <h3 class="pl-0 mb-1">Information We Collect</h3>
+            <p>
+            We may collect personal information, including but not limited to:
+            Contact Information (e.g., name, email address, phone number)
+            Business Information (e.g., company name, job title)
+            Billing Information (e.g., credit card details)
+            Usage Data (e.g., website interactions, IP addresses)
 
-                <strong><i>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</i></strong><br><br>
-                    
-                This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in VoIP Tech Solutions. This policy is not applicable to any information collected offline or via channels other than this website.<br><br>
-                By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
-            </div>
-            <div class="text-section mt-4">
-                <h2>Information we collect</h2>
-                <p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+            </p>
+        <h3 class="pl-0 mb-1">How We Use Your Information</h3>  
+        <p>
+            We use collected information for the following purposes:
+            •	Provide and maintain our services
+            •	Process transactions and billing
+            •	Respond to inquiries and customer support
+            •	Improve and personalize user experience
+            •	Send periodic emails and marketing communications (with opt-out options)
 
-                <p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
-                    
-                <p>When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</p>
-                <div class="well rounded-xl bg-light-orange p-4">
-                    <h3>How we use your information</h3>
-                    <p>We use the information we collect in various ways, including to:</p>
-                    <ul>
-                        <li>Provide, operate, and maintain our webste</li>
-                        <li>Improve, personalize, and expand our webste</li>
-                        <li>Understand and analyze how you use our webste</li>
-                        <li>Develop new products, services, features, and functionality</li>
-                        <li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the webste, and for marketing and promotional purposes</li>
-                        <li>Send you emails</li>
-                        <li>Find and prevent fraud</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="text-section mt-4">
-                <h2>Log Files</h2>
-                <p>Voiptechsolutions follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information. Our Privacy Policy was created with the help of the Privacy Policy Generator and the Disclaimer Generator.</p>
-            </div>
-            <div class="text-section mt-4">
-                <h2>Advertising Partners Privacy Policies</h2>
-                <p>You may consult this list to find the Privacy Policy for each of the advertising partners of Voiptechsolutions.</p>
+        </p>
+        <h3 class="pl-0 mb-1"><u>Information Sharing</u></h3>
+        <h3>We may share your information with:</h3>
+                <p>
+                •	Service providers for business operations <br>
+                •	Legal authorities in compliance with applicable laws <br>
+                •	Affiliates or partners with your consent <br>
+                •	Cookies and Tracking Technologies <br>
+            </p>
+            <p>Our website uses cookies and similar tracking technologies. By using our site, you consent to the use of these technologies. You can control cookie preferences through your browser settings.
 
-                <p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Voiptechsolutions, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
-                
-                <p>Note that Voiptechsolutions has no access to or control over these cookies that are used by third-party advertisers.</p>
-            </div>
-            <div class="text-section mt-4">
-                <h2>Third Party Privacy Policies</h2>
-                <p>Voiptechsolutions’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.</p>
+            </p>
 
-                <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites.</p>
-            </div>
-            <div class="text-section mt-4">
-                <h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
-                <p>Under the CCPA, among other rights, California consumers have the right to:<br><br>
+            <h3 class="pl-0 mb-1">
+            Security
+            </h3>
+            <p>We implement reasonable security measures to protect your personal information. However, no method of transmission over the internet or electronic storage is 100% secure.
 
-                Request that a business that collects a consumer’s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.<br><br>
-                
-                Request that a business delete any personal data about the consumer that a business has collected.<br><br>
-                
-                Request that a business that sells a consumer’s personal data, not sell the consumer’s personal data.<br><br>
-                
-                If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
-            </div>
-            <div class="text-section mt-4">
-                <h2>GDPR Data Protection Rights</h2>
-                <p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:<br><br>
+            </p>
 
-                The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.<br><br>
-                
-                The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.<br><br>
-                
-                The right to erasure – You have the right to request that we erase your personal data, under certain conditions.<br><br>
-                
-                The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.<br><br>
-                
-                The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.<br><br>
-                
-                The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.<br><br>
-                
-                If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+            <h3 class="pl-0 mb-1">
+            Third-Party Links
+            </h3>
+            <p>
+            Our website may contain links to third-party websites. We are not responsible for their privacy practices. Please review the privacy policies of these sites.
+
+            </p>
+
+            <h3 class="pl-0 mb-1">
+            Children's Privacy
+            </h3>
+            <p>
+            Our services are not intended for individuals under the age of 18. We do not knowingly collect personal information from children.
+            </p>
+
+            <h3 class="pl-0 mb-1">
+            Changes to This Privacy Policy
+            </h3>
+            <p>
+            We reserve the right to update this privacy policy at any time. Changes will be posted on this page with the updated date.
+            </p>
+
+            <h3 class="p-0 mb-1"> Contact Us </h3>
+            <p>
+            If you have any questions or concerns regarding this privacy policy, please contact us at info@VoIPtechsolutions.in .
+            </p>
+        </div>
+    
             </div>
         </div>
      </section>

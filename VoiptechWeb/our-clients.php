@@ -21,7 +21,7 @@
             <?php include 'includes/header-menu.php'; ?>
 
             <!-- Get Started Button -->
-             <a href="#" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
+             <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
         </div>
     </div>
 </header>
@@ -41,7 +41,7 @@
                     </h1>
                     <p>Compare top call center software for your team. Learn best providers and features, and get advice for choosing the right call center solution</p>
                     <div class="get-started">
-                        <a href="#" class="btn bg-orange text-white rounded-pill px-5">Get Started With Us</a>
+                        <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill px-5">Get Started With Us</a>
                     </div>
                     
                     
@@ -65,7 +65,7 @@
             </div>
             
             <div class="call-btn text-center mt-4">
-                <a href="#" class="btn btn-lg rounded-pill bg-white text-uppercase text-orange px-4 cta-btn">Get Started With Us</a>
+                <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn btn-lg rounded-pill bg-white text-uppercase text-orange px-4 cta-btn">Get Started With Us</a>
             </div>
         </div>
         </section>

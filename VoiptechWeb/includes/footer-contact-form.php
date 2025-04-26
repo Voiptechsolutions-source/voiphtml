@@ -3,7 +3,9 @@
             <div class="contact-box-cont">
                 <div class="contact-box-header bg-orange text-white p-3">
                     <h2>Have Questions? </h2>
-                    <a href="https://wa.link/voiptech" target="_blank" class="d-flex align-items-center gap-1"><span class="whatsap-icn"><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp" /></span> WhatsApp Us</a>
+                    <div class="whatsapp-no"><a href="https://wa.link/voiptech" target="_blank" class="d-flex align-items-center gap-1"><span class="whatsap-icn"><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp" /></span> WhatsApp Us</a></div>
+
+                    
                 </div>
                 <div class="from-box-body p-3 bg-white">
                     <div class="row">

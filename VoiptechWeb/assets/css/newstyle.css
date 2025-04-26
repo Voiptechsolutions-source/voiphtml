@@ -694,6 +694,7 @@ aside .nav-pills .nav-link.active:after{
 	display: flex;
 	align-items: center;
 	gap: 5px;
+    display: none;
 }
 .related-post .author-comment .no-comments span{
     width: 15px;
@@ -711,10 +712,14 @@ aside .nav-pills .nav-link.active:after{
 .privacy-policy h2{font-size: 28px;}
 .privacy-policy h3{font-size: 24px;}
 .address-box .address-header {
-	background: #fb8976;
+	background: var(--primary-color);
 	text-align: center;
 	color: #fff;
-	padding: 16px 0 8px;
+	padding: 8px 0 8px;
+	border-radius: 0;
+}
+.address-box .loc-img img {
+	width: 100%;
 	border-radius: 15px 15px 0 0;
 }
 .address-box .loc-icn {
@@ -740,7 +745,6 @@ aside .nav-pills .nav-link.active:after{
 .address-box {
 	box-shadow: 5px 0 38px rgba(0,0,0,0.16);
 	border-radius: 15px;
-    cursor: pointer;
     margin-bottom: 50px;
     min-height: 190px;
 }
@@ -851,10 +855,26 @@ aside .nav-pills .nav-link.active:after{
     /* animation: shadow-pulse 1.5s infinite ease-in-out alternate; */
     animation: pulse 1.5s infinite ease-in-out alternate;
 }
+.contact-box-header .whatsapp-no {
+	display: inline-block;
+	background: #000;
+	padding: 10px 20px;
+	border-radius: 10px;
+    /* animation: shadow-pulse 1.5s infinite ease-in-out alternate; */
+    animation: pulse 1.5s infinite ease-in-out alternate;
+}
 .banner-form .whatsapp-no img {
 	width: 30px;
 }
+.contact-box-header .whatsapp-no img {
+	width: 25px;
+}
 .form-header .whatsapp-no a {
+	color: #fff;
+	font-weight: 800;
+	font-size: 14px;
+}
+.contact-box-header .whatsapp-no a {
 	color: #fff;
 	font-weight: 800;
 	font-size: 18px;
@@ -882,7 +902,7 @@ aside .nav-pills .nav-link.active:after{
 	padding: 45px 15px;
 	min-height: 300px;
 	border-radius: 40px 8px 100px 0;
-    z-index: 99999;
+    z-index: 999;
 }
 .process-arrow {
 	position: absolute;
@@ -964,6 +984,8 @@ aside .nav-pills .nav-link.active:after{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+    position: relative;
+    z-index: 99;
 }
 .cta.cta-2 .cta-content {
 	max-width: 500px;
@@ -1000,6 +1022,27 @@ aside .nav-pills .nav-link.active:after{
 }
 .all-biz-locations ._location p {
 	font-size: 14px;
+}
+#myModalForm .modal-content {
+	background: transparent;
+	border: navajowhite;
+}
+.modal-body.modal-form-body .close {
+	position: absolute;
+	right: 30px;
+	width: 25px;
+	height: 25px;
+	background: #fff;
+	opacity: 1;
+	border-radius: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	top: 30px;
+}
+.modal-body.modal-form-body .close .close-icn {
+	position: relative;
+	top: -2px;
 }
 /*--------------------Effects------------------*/
 .bounce2 {

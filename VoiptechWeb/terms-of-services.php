@@ -21,7 +21,7 @@
             <?php include 'includes/header-menu.php'; ?>
 
             <!-- Get Started Button -->
-             <a href="#" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
+             <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
         </div>
     </div>
 </header>
@@ -49,49 +49,86 @@
      <!-- Terms -->
      <section class="terms pb-5">
         <div class="container">
-            <div class="banner-card p-3 text-center">
-                <div class="card-head">
-                    Who We Are?
+            <div class="row mb-1">
+                <h2><u>VoIPTech Terms and Conditions</u></h2>
+                <p>Welcome to VoIPTech, a leading provider of voice, SMS, DID &amp; TFN, Media Buying, Lead Generation, and Digital Marketing services. By using our services, you agree to comply with and be bound by the following terms and conditions. Please read them carefully before accessing or using our services.</p>
+                
+                <div class="col-md-12">
+                <h3 class="pl-0 mb-1">1. Acceptance of Terms</h3>
+                    <p>
+                    By accessing or using the VoIPTech services, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions. If you do not agree with any part of these terms, you may not use our services.
+
+                    </p>
+                <h3 class="pl-0 mb-1">2. Service Description</h3>  
+                <p>
+                VoIPTech provides a range of services including, but not limited to, voice and SMS communication, DID &amp; TFN services, Media Buying, Lead Generation, and Digital Marketing. Our services may be subject to specific terms and conditions outlined in corresponding service agreements.
+
+                </p>
+                <h3 class="pl-0 mb-1">3. User Responsibilities</h3>
+                <!-- <h3>We may share your information with:</h3> -->
+                        <p>
+                        a. You agree to use VoIPTech services in accordance with all applicable laws and regulations. <br>
+                        b. For services such as Lead Generation and Digital Marketing, you are responsible for complying with ethical and legal standards related to data privacy, consent, and content distribution.
+                    <br>
+                    </p>
+                    <p>Our website uses cookies and similar tracking technologies. By using our site, you consent to the use of these technologies. You can control cookie preferences through your browser settings.
+
+                    </p>
+
+                    <h3 class="pl-0 mb-1">
+                    4. Service Availability
+                    </h3>
+                    <p>VoIPTech strives to provide uninterrupted service, but we do not guarantee that our services will be error-free or continuously available. We reserve the right to suspend or terminate services at our discretion for maintenance, upgrades, or other reasons without prior notice.
+
+                    </p>
+
+                    <h3 class="pl-0 mb-1">
+                    5. Fees and Billing
+                    </h3>
+                    <p>
+                    a. You agree to pay all applicable fees for the services you use. Fees for specific services may be outlined in separate agreements. <br>
+            b. Failure to pay fees may result in the suspension or termination of your account for the specific service.
+
+                    </p>
+
+                    <h3 class="pl-0 mb-1">
+                    6. Intellectual Property
+                    </h3>
+                    <p>
+                    VoIPTech retains all rights, title, and interest in and to its services, including all related intellectual property rights. You may not reproduce, modify, distribute, or otherwise use any content from our services without our prior written consent.
+                    </p>
+
+                    <h3 class="pl-0 mb-1">
+                    7. Limitation of Liability
+                    </h3>
+                    <p>
+                    VoIPTech shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with the use of our services.
+                    </p>
+
+                    <h3 class="p-0 mb-1">8. Governing Law </h3>
+                    <p>
+                    These terms and conditions shall be governed by and construed in accordance with the laws of India.
+                    </p>
+
+                    <h3 class="p-0 mb-1">9. Changes to Terms</h3>
+                    <p>
+                    VoIPTech reserves the right to modify these terms and conditions at any time. Updated terms will be posted on our website, and your continued use of our services constitutes acceptance of the modified terms.
+                    </p>
+
+                    <h3 class="p-0 mb-1">Contact Information</h3>
+                    <p>
+                    If you have any questions or concerns regarding these terms and conditions, please contact us at  info@VoIPtechsolutions.in .
+                    </p>
+
+                
+
                 </div>
-                <p>Top Notch Dezigns NY provides web design and digital marketing (the “Service”) via the Company website(s) offered from time to time at www.topnotchdezigns.com (the “Site”).  The Company Service is owned and operated by Top Notch Dezigns NY, LLC (“Company” “we” or “us”). Your use of the Service is subject to the terms and conditions set forth in these Terms of Service (the “Terms of Service”).</p>
-                <p><strong>
-                    PLEASE READ THE TERMS OF SERVICE CAREFULLY. BY ACCESSING OR USING ANY PART OF THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY ALL THE TERMS OF THE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE SERVICE. USE OF THE SERVICE IS EXPRESSLY CONDITIONED UPON YOUR ACCEPTANCE OF THE TERMS OF SERVICE.
-                </strong></p>
-                <p>Top Notch Dezigns NY provides web design and digital marketing (the “Service”) via the Company website(s) offered from time to time at www.topnotchdezigns.com (the “Site”).  The Company Service is owned and operated by Top Notch Dezigns NY, LLC (“Company” “we” or “us”).Your use of the Service is subject to the terms and conditions set forth in these Terms of Service (the “Terms of Service”).</p>
-            </div>
-            <div class="banner-card p-3 mt-5">
-                <div class="card-head">
-                    Updates to Terms of Service; Integration
-                </div>
-                <p><strong>Updates to Terms of Service;</strong> Integration. We may, in our sole discretion, modify the Terms of Service via email or by posting notice on any part of the Service. The “Last Updated” date at the top the Terms of Service indicates when the latest modifications were made to the Terms of Service. By continuing to access and use the Service you agree to any such modifications. Therefore, you are responsible for reviewing and should become familiar with any such modifications. You are encouraged to review this Terms of Service periodically and to check the “Last Updated” date at the top of the Terms of Service for the most recent version. In addition, when using services or features on the Service, you will be subject to any posted guidelines or policies applicable to such services or features that may be posted from time to time, including but not limited to the Privacy Policy as noted below. All such guidelines or policies are hereby incorporated by reference into these Terms of Service.</p>
-                <p><strong>Service Availability.</strong> The Service may be modified, updated, interrupted, suspended or discontinued at any time without notice or liability. If the Service were discontinued at any time, all data would be deleted pursuant to the discontinuation process.</p>
-                <p><strong>Privacy Policy.</strong> Use of the Service is subject to the terms of our Privacy Policy which is hereby incorporated into and made part of these Terms of Service. Please carefully review our Privacy Policy. By using or accessing the Service, you agree to be bound by the terms of our Privacy Policy.</p>
-                <p><strong>Age.</strong> The Service is meant for those at least eighteen (18) years of age.  Use of the Service by anyone under this age is a violation of the Terms of Service.  You may not use the Service if you are a competitor of the Service, or if we have previously banned you from use of the Service or closed your account.</p>
-                <p><strong>Intellectual Property.</strong> You acknowledge that all materials on the Service, including, but not limited to, the Website design, Application design, graphics, text, sounds, pictures, and other files and the selection and arrangement thereof (collectively, “Materials”), are the property of Company and/or its licensors, and are subject to and protected by United States and international copyright and other intellectual property laws and rights. All rights to Materials not expressly granted in these Terms of Service are reserved to their respective copyright owners. Company authorizes you to view, download and/or print the Materials provided that you keep intact all copyright and other proprietary notices contained in the original Materials. Except as expressly authorized by the Terms of Service, you may not copy, reproduce, distribute, republish, download, perform, display, post, transmit, scrape, copy, exploit, create derivative works or otherwise use any of the Materials in any form or by any means, without the prior written authorization of Company or the respective copyright owner. In the absence of a written agreement, you may not modify or adapt the Materials in any way or otherwise use them for any public or commercial resale purposes. The trademarks, service marks, trade names, trade dress and logos (collectively, “Marks”) contained or described in the Service are the sole property of Company and/or its licensors and may not be copied, altered or otherwise used, in whole or in part, without the prior written authorization of Company and/or its licensors. Company reserves the right to enforce its intellectual property rights fully under the law.Your use of the Service is solely and exclusively under a limited license granted herein and you will not obtain any ownership interest therein through the Terms of Service or otherwise.  All trademarks, service marks, trade names, domain names, slogans, logos, and other indicia of origin that appear on or in connection with any aspect of the Service are either the property of Company, its affiliates or licensors. Company retains the right to rescind and terminate the limited license granted hereunder at any point, for any reason. All rights not expressly granted herein by Company to you are fully reserved by Company, its advertisers and licensors.Some of the company and product names, logos, brands, and other trademarks featured or referred to within the Service may not be owned by us and are the property of their respective trademark holders.  These trademark holders are not affiliated with, nor do they sponsor or endorse the Service.</p>
+            
             </div>
         </div>
      </section>
  
-       <!-- Why us section -->
-        <section class="inspire-section bg-light-orange py-80 mt-5">
-            <div class="container">
-                <div class="section-title text-center">
-                    <h2>Our Company Terms of Service</h2>
-                   
-                </div>
-                <div class="row mt-4">
-                    <div class="col-12">
-                        <img src="assets/images/terms-img.jpg" class="img-fluid" alt="Our Company Terms of Service">
-                    </div>
-                </div>
-                <div class="row mt-4">
-                    <div class="col-12 text-center">
-                        <p>Welcome to the vibrant and dynamic culture of VoIP Tech, where each day brings new challenges, opportunities, and moments of innovation. At VoIP Tech, we believe that the strength of our company lies in the diversity, creativity, and dedication of our team members. Explore what it's like to be a part of the VoIP Tech family and how we cultivate an environment that fosters both personal and professional growth. Welcome to the vibrant and dynamic culture of VoIP Tech, where each day brings new challenges, opportunities, and moments of innovation. At VoIP Tech, we believe that the strength of our company lies in the diversity, creativity, and dedication of our team members. Explore what it's like to be a part of the VoIP Tech family and how we cultivate an environment that fosters both personal and professional growth.</p>
-                        
-                    </div>
-                </div>
-            </div>
-        </section>
+       
 
        
  </main>

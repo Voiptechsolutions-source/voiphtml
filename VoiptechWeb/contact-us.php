@@ -21,7 +21,7 @@
             <?php include 'includes/header-menu.php'; ?>
 
             <!-- Get Started Button -->
-             <a href="#" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
+             <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
         </div>
     </div>
 </header>
@@ -54,7 +54,7 @@
                             <textarea class="form-control" name="message" id="" cols="30" rows="5" placeholder="Message"></textarea>
                         </div>
                         <div class="form-group">
-                            <input type="submit" value="Submit Now" class="btn bg-orange btn-lg rounded-pill py-2 px-4" />
+                            <input type="submit" value="Submit Now" class="btn bg-orange btn-lg rounded-pill py-2 px-4 text-white" />
                         </div>
                     </div>
                     <div class="address-blocks ">
@@ -62,6 +62,7 @@
                             <div class="col-12 col-lg-4">
                                 <div class="address-box position-relative">
                                     <div class="loc-icn"><img src="assets/images/icons/loc-icn2.png" alt="address icon" /></div>
+                                    <div class="loc-img"><img src="assets/images/odisha.jpg" alt="Odisha" /></div>
                                     <div class="address-header">
                                         Visit Our Odisha Office
                                     </div>
@@ -77,6 +78,7 @@
                             <div class="col-12 col-lg-4">
                                 <div class="address-box position-relative">
                                     <div class="loc-icn"><img src="assets/images/icons/loc-icn2.png" alt="address icon" /></div>
+                                    <div class="loc-img"><img src="assets/images/noida.jpg" alt="Noida" /></div>
                                     <div class="address-header">
                                         Visit Our Noida Office
                                     </div>
@@ -88,6 +90,7 @@
                             <div class="col-12 col-lg-4">
                                 <div class="address-box position-relative">
                                     <div class="loc-icn"><img src="assets/images/icons/loc-icn2.png" alt="address icon" /></div>
+                                    <div class="loc-img"><img src="assets/images/mohali.jpg" alt="Mohali" /></div>
                                     <div class="address-header">
                                         Visit Our Mohali Office
                                     </div>
@@ -99,6 +102,7 @@
                             <div class="col-12 col-lg-4">
                                 <div class="address-box position-relative">
                                     <div class="loc-icn"><img src="assets/images/icons/loc-icn2.png" alt="address icon" /></div>
+                                    <div class="loc-img"><img src="assets/images/kolkata.jpg" alt="Kolkata" /></div>
                                     <div class="address-header">
                                         Visit Our Kolkata Office
                                     </div>
@@ -110,6 +114,7 @@
                             <div class="col-12 col-lg-4">
                                 <div class="address-box position-relative">
                                     <div class="loc-icn"><img src="assets/images/icons/loc-icn2.png" alt="address icon" /></div>
+                                    <div class="loc-img"><img src="assets/images/usa.jpg" alt="USA" /></div>
                                     <div class="address-header">
                                         Visit Our USA Office
                                     </div>
@@ -121,6 +126,7 @@
                             <div class="col-12 col-lg-4">
                                 <div class="address-box position-relative">
                                     <div class="loc-icn"><img src="assets/images/icons/loc-icn2.png" alt="address icon" /></div>
+                                    <div class="loc-img"><img src="assets/images/dubai.jpg" alt="Dubai" /></div>
                                     <div class="address-header">
                                         Visit Our Dubai Office
                                     </div>
@@ -132,6 +138,7 @@
                             <div class="col-12 col-lg-4">
                                 <div class="address-box position-relative">
                                     <div class="loc-icn"><img src="assets/images/icons/loc-icn2.png" alt="address icon" /></div>
+                                    <div class="loc-img"><img src="assets/images/malaysia.jpg" alt="Malaysia" /></div>
                                     <div class="address-header">
                                         Visit Our Malaysia Office
                                     </div>
@@ -156,7 +163,7 @@
                             <a href="#">+971 (504) 583-131</a>
                         </div>
                         <div class="socio-app ">
-                            <a href="#" class="d-flex gap-1 align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="whatsapp" /> </span> +971 (504) 583-131</a>
+                            <a href="https://wa.link/voiptech"  target="_blank" class="d-flex gap-1 align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="whatsapp" /> </span> VoIPTech</a>
                             <a href="#" class="d-flex gap-1 align-items-center"><span><img src="assets/images/icons/telegram-icn.png" alt="telegram" /> </span>dwibendu</a>
                         </div>
                     </div>
@@ -166,10 +173,10 @@
                         </div>
                         <h4>Connec with US</h4>
                         <div class="contact-socio d-flex gap-4 align-items-center">
-                            <a href="#"><img src="assets/images/icons/youtube.png" alt="youtube" /></a>
-                            <a href="#"><img src="assets/images/icons/fb.png" alt="youtube" /></a>
-                            <a href="#"><img src="assets/images/icons/linkedin.png" alt="youtube" /></a>
-                            <a href="#"><img src="assets/images/icons/insta.png" alt="youtube" /></a>
+                            <!-- <a href="#"><img src="assets/images/icons/youtube.png" alt="youtube" /></a> -->
+                            <a href="https://www.facebook.com/VoIPTechSolutions" target="_blank"><img src="assets/images/icons/fb.png" alt="Facebook" /></a>
+                            <a href="https://www.linkedin.com/company/voiptechsolutions" target="_blank"><img src="assets/images/icons/linkedin.png" alt="Linkedin" /></a>
+                            <a href="https://www.instagram.com/voiptechsolutions" target="_blank"><img src="assets/images/icons/insta.png" alt="Instagram" /></a>
                         </div>
                     </div>
                     <div class="contact-info-box">
@@ -193,7 +200,7 @@
  </main>
 
  <!-- Footer -->
- <?php include 'includes/footer-menu.php'; ?>
+ <?php include 'includes/footer-menu-contact.php'; ?>
 
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/popper.min.js"></script>
