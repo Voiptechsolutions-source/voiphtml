@@ -35,49 +35,49 @@
             <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-start banner-content-container">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>Reliable SMS Services Provider for Small Businesses & Enterprises</h1>
-                    <p>Deliver Every Message Faster, Smarter, and Globally</p>
+                    <h1>Affordable Bulk SMS Service provider for Businesses & Enterprises</h1>
+                    <p>Reach thousands in one click with zero hassle</p>
                     <div class="banner-feats">
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn1.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
                                 <div class="_feat-head">Instant Delivery</div>
-                                <p>Messages delivered worldwide in seconds.</p>
+                                <p>Messages reach users in seconds, ensuring timely communication.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn2.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">High Scalability</div>
-                                <p>Manage small to massive campaigns easily.</p>
+                                <div class="_feat-head">High Open Rates</div>
+                                <p>SMS messages have over 90% open rates—your message gets seen.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn3.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Multi-Route Redundancy</div>
-                                <p>Multiple routes ensure nonstop delivery.</p>
+                                <div class="_feat-head">Easy Integration</div>
+                                <p>Connect with your CRM, website, or app effortlessly.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn4.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Global Reach</div>
-                                <p>Connect with 200+ countries effortlessly.</p>
+                                <div class="_feat-head">Campaign Tracking</div>
+                                <p>Monitor delivery, click-throughs, and engagement in real time.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn5.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Real-Time Analytics</div>
-                                <p>Track delivery, clicks, and engagement live.</p>
+                                <div class="_feat-head">Cost-Effective</div>
+                                <p>Send thousands of SMS without breaking the budget.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn6.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Secure Messaging</div>
-                                <p>Advanced security to protect your data.</p>
+                                <div class="_feat-head">Wider Reach</div>
+                                <p>Reach customers globally with a single platform.</p>
                             </div>
                         </div>
                     </div>
@@ -155,44 +155,38 @@
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Carrier-Grade SMS Gateway</div>
-                                <p class="mb-0">High-volume reliable SMS traffic handling.</p>
+                                <div class="list-heading">High Delivery Rate</div>
+                                <p class="mb-0">Our routes ensure your messages land—fast and reliably.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Global Routing Network </div>
-                                <p class="mb-0">Seamless messaging across continents.</p>
+                                <div class="list-heading">User-Friendly Dashboard</div>
+                                <p class="mb-0">Send, schedule, and monitor SMS campaigns with ease.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Instant Campaign Launch </div>
-                                <p class="mb-0">Quick setup and sending without delays.</p>
+                                <div class="list-heading">Global Coverage</div>
+                                <p class="mb-0">Send bulk messages across borders to over 200+ countries.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Smart API Integration </div>
-                                <p class="mb-0">Easy integration into your systems and apps.</p>
+                                <div class="list-heading">Scalable Solutions</div>
+                                <p class="mb-0">Whether 100 or 1 million texts, we’ve got you covered.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Custom Sender IDs </div>
-                                <p class="mb-0">Brand your messages with personalized IDs.</p>
+                                <div class="list-heading">Dedicated Support</div>
+                                <p class="mb-0">Get real-time help from our SMS experts.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">24/7 Dedicated Support</div>
-                                <p class="mb-0">Always-on assistance for smooth operations.</p>
-                            </div>  
-                        </li>
-                        <li>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Advanced Delivery Reports </div>
-                                <p class="mb-0">Deep insights into each campaign.</p>
+                                <div class="list-heading">Secure & Compliant</div>
+                                <p class="mb-0">We follow telecom regulations to keep your messages safe and legal.</p>
                             </div>  
                         </li>
                         
@@ -206,50 +200,50 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/sms-Services11.svg" alt="Why Choose VoIPTech Solutions For SMS Services? " class="img-fluid" loading="lazy" />
+                    <img src="assets/images/sms-Services1.svg" alt="Why Choose VoIPTech For CC Traffic? " class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
         <!-- Faet 2 -->
         <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h3>Key Benefits of Choosing <span class="text-orange">VoIPTech Solutions</span> for <span class="text-orange">SMS Services</span></h3>
+                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">Bulk SMS</span></h3>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">High Volume Messaging at Low Costs</div>
-                                <p class="mb-0">Send bulk messages cost-effectively.</p>
+                                <div class="list-heading">Fast Message Delivery</div>
+                                <p class="mb-0">Reach your audience instantly—no delays, no downtime.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Seamless API Access </div>
-                                <p class="mb-0">Integrate messaging into websites, CRMs, and apps.</p>
+                                <div class="list-heading">Highly Scalable</div>
+                                <p class="mb-0">Whether you're sending hundreds or millions, we scale with you.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Flexible Campaign Management</div>
-                                <p class="mb-0">Tailor campaigns by audience, region, and schedule.</p>
+                                <div class="list-heading">Real-Time Analytics</div>
+                                <p class="mb-0">Track delivery, open rates, and responses in one dashboard.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Guaranteed High Delivery Rates </div>
-                                <p class="mb-0">Optimized routing ensures successful message delivery.</p>
+                                <div class="list-heading">Custom Sender ID</div>
+                                <p class="mb-0">Brand your messages with your business name or shortcode.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">OTP & Transactional Messaging Expertise</div>
-                                <p class="mb-0">Mission-critical messaging with guaranteed speed.</p>
+                                <div class="list-heading">Flexible APIs</div>
+                                <p class="mb-0">Integrate Bulk SMS into your systems with easy-to-use APIs.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Flexible Billing Options</div>
-                                <p class="mb-0">Choose prepaid or postpaid as per your business model.</p>
+                                <div class="list-heading">24/7 Support</div>
+                                <p class="mb-0">Our support team is always available to assist you.</p>
                             </div>  
                         </li>
                     </ul>
@@ -260,7 +254,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/sms-Services22.svg" alt="Key Benefits of Choosing Voip Tech Solutions for CLI/NCLI Routes" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/sms-Services2.svg" alt="Key Benefits of Choosing Voip Tech Solutions for CLI/NCLI Routes" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -269,51 +263,78 @@
             <div class="col col-md-6">
                 <h3>Industries We Serve</h3>
                 <div class="_content">
-                    <p>We provide reliable wholesale VoIP minutes to power voice communication across multiple industries that rely on high-volume, cost-effective calling.</p>
+                    <p>We empower diverse industries to engage customers, send alerts, and drive campaigns through fast and reliable bulk SMS solutions.</p>
                     <ul class="list2 icons-list">
-                        <li>
-                            <span class="_icn">🏢</span>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Call Centers & BPOs</div>
-                                <p class="mb-0">For sending notifications, promotions, and OTPs.</p>
-                            </div>
-                        </li>
                         <li>
                             <span class="_icn">🛒</span>
                             <div class="list-text d-flex flex-column">
                                 <div class="list-heading">E-commerce</div>
-                                <p class="mb-0">Order updates, delivery alerts, and customer engagement.</p>
+                                <p class="mb-0">Promote offers, send order updates, and drive repeat purchases.</p>
                             </div>
                         </li>
                         <li>
                             <span class="_icn">🏥</span>
                             <div class="list-text d-flex flex-column">
                                 <div class="list-heading">Healthcare</div>
-                                <p class="mb-0">Appointment reminders, reports, and patient alerts.</p>
+                                <p class="mb-0">Send appointment reminders, health tips, and critical alerts.</p>
                             </div>  
                         </li>
                         <li>
                             <span class="_icn">🏦 </span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Financial Services</div>
-                                <p class="mb-0">Transaction alerts, OTPs, and customer verification.</p>
+                                <div class="list-heading">Banking & Finance</div>
+                                <p class="mb-0">Deliver secure OTPs, transaction alerts, and service notifications.</p>
                             </div>  
                         </li>
                         <li>
                             <span class="_icn">🏫</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Educational Institutions</div>
-                                <p class="mb-0">Notifications, exam alerts, and updates.</p>
+                                <div class="list-heading">Education</div>
+                                <p class="mb-0">Share exam schedules, attendance alerts, and event reminders.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">✈️</span>
+                            <span class="_icn">🎫</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Travel & Hospitality </div>
-                                <p class="mb-0">Booking confirmations and travel alerts.</p>
+                                <div class="list-heading">Event Management</div>
+                                <p class="mb-0">Promote events, send confirmations, and boost attendance.</p>
                             </div>  
                         </li>
-                        
+                        <li>
+                            <span class="_icn">🚚</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Logistics</div>
+                                <p class="mb-0">Keep customers informed with real-time delivery updates and tracking info.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">💼</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Corporate & HR</div>
+                                <p class="mb-0">Send employee announcements, shift alerts, and HR updates.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">🏢</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Real Estate</div>
+                                <p class="mb-0">Notify clients about property listings, site visits, and meetings.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">🏛️</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Government Services</div>
+                                <p class="mb-0">Deliver public notices, citizen alerts, and emergency messages.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">📱</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Telecom & ISPs</div>
+                                <p class="mb-0">Send usage alerts, payment reminders, and service updates.</p>
+                            </div>  
+                        </li>
                         
                         
                     </ul>
@@ -324,7 +345,7 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/sms-Services33.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/sms-Services3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -342,8 +363,8 @@
                     <div class="process-body">
                         <div class="process-no">1</div>
                         <div class="_pro-content">
-                            <h3>Request a Free Demo</h3>
-                            <p>Experience our SMS platform firsthand.</p>
+                            <h3>Contact Our Sales Team</h3>
+                            <p>Fill out the inquiry form or connect via email/phone to discuss your Bulk SMS needs and target audience.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -354,8 +375,8 @@
                     <div class="process-body">
                         <div class="process-no">2</div>
                         <div class="_pro-content">
-                            <h3>Customize Your SMS Package</h3>
-                            <p>Choose the routes, coverage, and features you need.</p>
+                            <h3>Choose Your Plan</h3>
+                            <p>Pick a Bulk SMS package that aligns with your message volume, audience size, and budget.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -366,8 +387,8 @@
                     <div class="process-body">
                         <div class="process-no">3</div>
                         <div class="_pro-content">
-                            <h3>Launch Campaigns Confidently</h3>
-                            <p>Start sending SMS with full VoIPTech support</p>
+                            <h3>Setup & Launch</h3>
+                            <p>We’ll set up your account, provide API access (if needed), and you’ll be ready to send SMS campaigns within hours!</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -418,12 +439,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does SMS marketing benefit businesses?</a>
+                                    aria-expanded="true" aria-controls="faq1">How does bulk SMS help my business grow?</a>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    SMS marketing offers direct, instant communication with customers, resulting in higher engagement rates.
+                                        It allows you to instantly reach thousands of customers with promotions, alerts, and updates that drive engagement and conversions.
                                     </div>
                                 </div>
                             </div>
@@ -431,12 +452,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">How reliable is bulk SMS delivery?</a>
+                                    aria-expanded="true" aria-controls="faq2">Can bulk SMS campaigns be scheduled in advance?</a>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    We use carrier-grade gateways with redundant routing to ensure near 100% delivery rates.
+                                        Yes, you can easily schedule messages for any date and time through our user-friendly dashboard.
                                     </div>
                                 </div>
                             </div>
@@ -444,12 +465,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Can SMS campaigns be personalized?</a>
+                                    aria-expanded="true" aria-controls="faq3">Is there a minimum SMS volume required to start?</a>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our platform allows dynamic content insertion like customer names and custom fields.
+                                        No, you can begin with flexible plans that suit your specific needs—whether you’re sending hundreds or millions of texts.
                                     </div>
                                 </div>
                             </div>
@@ -457,12 +478,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Is it possible to track SMS campaign performance?</a>
+                                    aria-expanded="true" aria-controls="faq4">Does VoIPTech Solutions offer delivery reports?</a>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, real-time analytics on delivery rates, clicks, and user engagement are provided.
+                                        Absolutely. Real-time delivery reports help you track performance and optimize your campaigns effectively.
                                     </div>
                                 </div>
                             </div>
@@ -470,12 +491,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Are there global delivery restrictions?</a>
+                                    aria-expanded="true" aria-controls="faq5">Are bulk SMS messages delivered globally?</a>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    We offer delivery to 200+ countries with robust compliance handling for regional regulations.
+                                        Yes, our service supports international delivery to over 200+ countries through secure, high-quality routes.
                                     </div>
                                 </div>
                             </div>
@@ -483,12 +504,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Why choose VoIPTech Solutions for SMS services?</a>
+                                    aria-expanded="true" aria-controls="faq6">Can I customize the sender ID in my messages?</a>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    We provide global coverage, fast delivery, flexible billing, and 24/7 support.
+                                        Yes, we offer customizable sender IDs to ensure brand visibility and message authenticity.
                                     </div>
                                 </div>
                             </div>
@@ -496,12 +517,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Does VoIPTech Solutions support promotional and transactional SMS both?</a>
+                                    aria-expanded="true" aria-controls="faq7">Is customer support available for bulk SMS users?</a>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we offer separate gateways for promotional, transactional, and OTP SMS traffic.
+                                        Yes, our dedicated support team is available 24/7 to assist you with setup, delivery issues, or campaign help.
                                     </div>
                                 </div>
                             </div>
@@ -509,12 +530,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">How secure are the SMS services offered by VoIPTech Solutions?</a>
+                                    aria-expanded="true" aria-controls="faq8">Will my messages comply with telecom regulations?</a>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    End-to-end encryption and fraud protection measures are in place for all communications.
+                                        Yes, we follow all regional and international guidelines to ensure safe and compliant messaging.
                                     </div>
                                 </div>
                             </div>
@@ -522,12 +543,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Can I use VoIPTech Solutions SMS services with my CRM or app?</a>
+                                    aria-expanded="true" aria-controls="faq9">Does the bulk SMS service include API access?</a>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely. Our API allows seamless integration with any CRM, website, or application.
+                                        Yes, we provide flexible and secure APIs for seamless integration into your platform or CRM.
                                     </div>
                                 </div>
                             </div>
@@ -535,12 +556,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How soon can I start sending SMS with VoIPTech Solutions?</a>
+                                    aria-expanded="true" aria-controls="faq10">How soon can I start sending bulk SMS after signup?</a>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    After account setup, you can start sending SMS campaigns within hours.
+                                        In most cases, your account is set up and ready to launch campaigns within a few hours of onboarding.
                                     </div>
                                 </div>
                             </div>
