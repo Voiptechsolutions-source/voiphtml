@@ -24,6 +24,7 @@
                         <li class="dropdown-submenu voip-submenu">
                               <a class="dropdown-item dropdown-toggle" href="#">VoIP</a>
                                 <ul class="dropdown-menu">
+                                  <li><a class="dropdown-item" href="voip.php">VoIP</a></li>
                                   <li><a class="dropdown-item" href="voip-minutes.php">VoIP Minutes</a></li>
                                   <li><a class="dropdown-item" href="cc-traffic.php">CC Traffic</a></li>
                                   <li><a class="dropdown-item" href="cli-ncli.php">Cli/Ncli</a></li>
