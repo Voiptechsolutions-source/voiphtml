@@ -2,7 +2,7 @@
         <div class="container">
             <div class="contact-box-cont">
                 <div class="contact-box-header bg-orange text-white p-3">
-                    <h2>Have Questions? </h2>
+                    <p>Have Questions? </p>
                     <div class="whatsapp-no"><a href="https://wa.link/voiptech" target="_blank" class="d-flex align-items-center gap-1"><span class="whatsap-icn"><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp" /></span> WhatsApp Us</a></div>
 
                     

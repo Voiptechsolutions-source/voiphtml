@@ -55,17 +55,24 @@
                         <a class="nav-link dropdown-toggle " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                          Solutions
                         </a>
-                        <ul class="dropdown-menu dropdown1" aria-labelledby="navbarDropdownMenuLink">
+                        <ul class="dropdown-menu dropdown1 sol-drop" aria-labelledby="navbarDropdownMenuLink">
                           
                         <li><a class="dropdown-item" href="ivr-system.php">IVR System Solution</a></li>
                               <li><a class="dropdown-item" href="vts-dialer.php">VTS Dialer</a></li>
                               <li><a class="dropdown-item" href="auto-dialer.php">Auto Dialer</a></li>
                               <li><a class="dropdown-item" href="#">Call Center Solution</a></li>
                               <li><a class="dropdown-item" href="hosted-pbx-solution.php">Hosted PBX</a></li>
+                              <li><a class="dropdown-item" href="ip-pbx.php">IP PBX</a></li>
                               <li><a class="dropdown-item" href="vicidial-solution.php">Vicidial Solution</a></li>
                               <li><a class="dropdown-item" href="fusion-pbx-solution.php">Fusion PBX solution</a></li>
-
-                         
+                              <li><a class="dropdown-item" href="class-4-softswitch.php">Class 4 Softswitch</a></li>
+                              <li><a class="dropdown-item" href="class-5-softswitch.php">Class 5 Softswitch</a></li>
+                              <li><a class="dropdown-item" href="conferencing.php">Conferencing</a></li>
+                              <li><a class="dropdown-item" href="multi-tenant-broadcasting.php">Multi-Tenant Broadcasting</a></li>
+                              <li><a class="dropdown-item" href="multi-tenant-conferencing.php">Multi-Tenant Conferencing</a></li>
+                              <li><a class="dropdown-item" href="sippy-softswitch.php">Sippy Softswitch</a></li>
+                              <li><a class="dropdown-item" href="webrtc-client.php">WebRTC Client</a></li>
+                              <li><a class="dropdown-item" href="vos-3000.php">VOS 3000</a></li>
                         </ul>
                       </li>
 

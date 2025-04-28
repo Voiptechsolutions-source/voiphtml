@@ -10,7 +10,7 @@
                         <img src="assets/images/sudeep.png" alt="SUdeep" />
                     </div> -->
                     <div class="user-info">
-                        <h4>Roma Ramakrishnan</h4>
+                        <p>Roma Ramakrishnan</p>
                         <!-- <span class="desig">Operations Manager, GlobalCall BPO</span> -->
                     </div>
                     <div class="review">
@@ -45,7 +45,7 @@
                         <img src="assets/images/arya.png" alt="Arya Navh" />
                     </div> -->
                     <div class="user-info">
-                        <h4>B Prangyap</h4>
+                        <p>B Prangyap</p>
                         <!-- <span class="desig">Founder, EduReach Online</span> -->
                     </div>
                     <div class="review">
@@ -74,7 +74,7 @@
                         <img src="assets/images/rajkumar.png" alt="Raj Kumar Das" />
                     </div> -->
                     <div class="user-info">
-                        <h4>Joshua Warburton</h4>
+                        <p>Joshua Warburton</p>
                         <!-- <span class="desig">CTO, FinCom Solutions</span> -->
                     </div>
                     <div class="review">

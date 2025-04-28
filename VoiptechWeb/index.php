@@ -37,8 +37,8 @@
             <div class="d-flex justify-content-between flex-column-reverse flex-md-row mt-5">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>Empowering Call Centers and Businesses with Next-Gen VoIP Solutions</h1>
-                    <p>Powerful VoIP services and call center solutions that simplify communication, boost productivity, and drive business growth across industries worldwide.</p>
+                    <h1>Next-gen Cloud Call Center Solutions Provider for Growing Businesses & Enterprises</h1>
+                    <p>Reliable VoIP and SMS solutions that power cloud communication, accelerate productivity, and fuel business growth across industries worldwide.</p>
                     <div class="get-started">
                         <a href="#"  data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill btn-lg px-5 text-uppercase">Get Started</a>
                     </div>
@@ -99,8 +99,8 @@
             <!-- Faet 1 -->
             <div class="row flex-column-reverse flex-md-row align-items-center _feat-box mt-5">
                 <div class="col col-md-6">
-                    <h5 class="text-orange">Global Communication Solutions</h5>
-                    <h3>Reliable Voice and SMS Solutions for Seamless Communication</h3>
+                    <p class="text-orange">Global Communication Solutions</p>
+                    <h2>Reliable Voice and SMS Solutions for Seamless Communication</h2>
                     <div class="_content">
                         <p>Deliver crystal-clear voice calls and instant SMS messages worldwide with trusted VoIP minutes, DID & TFN numbers, bulk SMS, OTPs, and more, ensuring seamless communication for businesses globally. Experience reliable, high-quality connectivity.</p>
                     </div>
@@ -117,8 +117,8 @@
             <!-- Faet 2 -->
             <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-80">
                 <div class="col col-md-6">
-                    <h5 class="text-orange">Powerful Call Center Tools</h5>
-                    <h3>Next-Gen Call Center Solutions to Maximize Performance</h3>
+                    <p class="text-orange">Powerful Call Center Tools</p>
+                    <h2>Scalable Call Center Solutions to Maximize Performance</h2>
                     <div class="_content">
                        
                         <p>Empower your call center with advanced dialers, hosted PBX systems, and intelligent call routing solutions. Maximize performance and customer engagement, improving productivity with next-gen call center technology tailored to your needs</p>
@@ -137,8 +137,8 @@
             <!-- Faet 3 -->
             <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
                 <div class="col col-md-6">
-                    <h5 class="text-orange">Tailored Communication Solutions</h5>
-                    <h3>Custom Communication Development Built for Your Business</h3>
+                    <p class="text-orange">Tailored Communication Solutions</p>
+                    <h2>Custom Communication Development Built for Your Business</h2>
                     <div class="_content">
                         <p>Leverage expert FreeSWITCH, Asterisk, and OpenSIPS development to create scalable, customized communication platforms. Future-proof your business with innovative solutions that grow as your needs evolve, offering unmatched flexibility and control.</p>
                     </div>
@@ -252,7 +252,7 @@
         <!-- CTA -->
          <section class="cta py-5 bg-orange">
             <div class="container">
-                <h4 class="text-center">Have Questions? </h4>
+                <p class="text-center">Have Questions? </p>
                 <h2 class="text-center">Speak with Our Experts </h2>
                 <div class="call-btn text-center mt-4">
                     <a href="https://wa.link/voiptech" target="_blank" class="btn btn-lg rounded-pill bg-white text-uppercase text-orange px-4 cta-btn align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">

@@ -68,7 +68,7 @@
      <!-- All Busines Locatons -->
     <div class="container pt-2 pb-5">
       <div class="biz-loc-title">
-        <h3>We work world wide</h3>
+        <h2>We work world wide</h2>
       </div>
       <div class="all-biz-locations">
         <div class="_location">
@@ -76,7 +76,7 @@
             <img src="assets/images/odisha.jpg" alt="Odisha" loading="lazy" class="img-fluid" width="100%" height="100%">
           </div>
           <div class="_body">
-            <h4>Odisha</h4>
+            <h3>Odisha</h3>
             <p>Unit No – 530, DLF Cybercity, Patia, Bhubaneswar, Odisha, India – 751024 </p>
           </div>
         </div>
@@ -85,7 +85,7 @@
             <img src="assets/images/noida.jpg" alt="Odisha" loading="lazy" class="img-fluid" width="100%" height="100%">
           </div>
           <div class="_body">
-            <h4>Noida</h4>
+            <h3>Noida</h3>
             <p>B-23/C1, 4th floor, Block B, Sector 62, Noida, Uttar Pradesh, India - 201309  </p>
           </div>
         </div>
@@ -94,7 +94,7 @@
             <img src="assets/images/mohali.jpg" alt="Odisha" loading="lazy" class="img-fluid" width="100%" height="100%">
           </div>
           <div class="_body">
-            <h4>Mohali</h4>
+            <h3>Mohali</h3>
             <p>A 45, Quark Media Building, Phase 8B, Industrial Area, Mohali, Punjab, India – 160071  </p>
           </div>
         </div>
@@ -103,7 +103,7 @@
             <img src="assets/images/kolkata.jpg" alt="Odisha" loading="lazy" class="img-fluid" width="100%" height="100%">
           </div>
           <div class="_body">
-            <h4>Kolkata</h4>
+            <h3>Kolkata</h3>
             <p>163, Ustad Enayat Khan Avenue, Park Street, Kolkata, India- 700017 </p>
           </div>
         </div>
@@ -112,7 +112,7 @@
             <img src="assets/images/usa.jpg" alt="Odisha" loading="lazy" class="img-fluid" width="100%" height="100%">
           </div>
           <div class="_body">
-            <h4>USA</h4>
+            <h3>USA</h3>
             <p>1309 Coffeen Avenue STE 1200 Sheridan, WY 8280  </p>
           </div>
         </div>
@@ -121,14 +121,14 @@
             <img src="assets/images/dubai.jpg" alt="Odisha" loading="lazy" class="img-fluid" width="100%" height="100%">
           </div>
           <div class="_body">
-            <h4>Dubai</h4>
+            <h3>Dubai</h3>
             <p>503, 5th Floor, Millenium Central Downtown, Business Bay  </p>
           </div>
         </div>
         <div class="_location">
           <div class="_img"><img src="assets/images/malaysia.jpg" alt="Odisha" loading="lazy" class="img-fluid" width="100%" height="100%"></div>
           <div class="_body">
-            <h4>Malaysia</h4>
+            <h3>Malaysia</h3>
             <p>Puchong,Malaysia </p>
           </div>
         </div>
@@ -163,9 +163,12 @@
             <div class="col-12 col-md-3">
                 <h4>Quick Links</h4>
                 <ul>
+                    <li><a href="about-us.php">About Us</a></li>
+                    <li><a href="#">Career</a></li>
+                    <li><a href="#">Events</a></li>
+                    <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>
                     <li><a href="terms-of-services.php">Terms & Conditions</a></li>
-                    <li><a href="about-us.php">About Us</a></li>
                     <li><a href="contact-us.php">Contact Us</a></li>
                     <li><a href="blogs.php">Blogs</a></li>
                 </ul>
@@ -233,7 +236,7 @@
         <button type="button" class="close" data-dismiss="modal"><span class="close-icn">&times;</span></button>
         <div class="banner-form contact-form">
           <div class="form-header bg-orange">
-              <h2>Have Questions?</h2>
+              <p>Have Questions?</p>
               <div class="whatsapp-no">
                   <a href="https://wa.link/voiptech" target="_blank">
                       <img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
