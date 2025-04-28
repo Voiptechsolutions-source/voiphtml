@@ -22,9 +22,9 @@
                         </a>
                         <ul class="dropdown-menu dropdown1" aria-labelledby="navbarDropdownMenuLink">
                         <li class="dropdown-submenu voip-submenu">
-                              <a class="dropdown-item dropdown-toggle" href="#">VoIP</a>
+                              <a class="dropdown-item dropdown-toggle" href="voip.php">VoIP</a>
                                 <ul class="dropdown-menu">
-                                  <li><a class="dropdown-item" href="voip.php">VoIP</a></li>
+                                 
                                   <li><a class="dropdown-item" href="voip-minutes.php">VoIP Minutes</a></li>
                                   <li><a class="dropdown-item" href="cc-traffic.php">CC Traffic</a></li>
                                   <li><a class="dropdown-item" href="cli-ncli.php">Cli/Ncli</a></li>
@@ -32,9 +32,9 @@
                                 </ul>
                             </li>
                             <li class="dropdown-submenu sms-submenu" >
-                                <a class="dropdown-item dropdown-toggle" href="#">SMS</a>
+                                <a class="dropdown-item dropdown-toggle" href="sms.php">SMS</a>
                                 <ul class="dropdown-menu" >
-                                    <li><a class="dropdown-item" href="sms.php">SMS</a></li>
+                                   
                                     <li><a class="dropdown-item" href="bulk-sms.php">Bulk SMS</a></li>
                                     <li><a class="dropdown-item" href="otp-sms.php">OTP SMS</a></li>
                                     <li><a class="dropdown-item" href="promotional-sms.php">Promotional SMS</a></li>

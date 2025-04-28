@@ -37,8 +37,8 @@
             <div class="d-flex justify-content-between flex-column-reverse flex-md-row mt-5">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>Call Center Solutions for Customer Success</h1>
-                    <p>Streamline operations and enhance<br>customer interaction with our voice solutions. </p>
+                    <h1>Empowering Call Centers and Businesses with Next-Gen VoIP Solutions</h1>
+                    <p>Powerful VoIP services and call center solutions that simplify communication, boost productivity, and drive business growth across industries worldwide.</p>
                     <div class="get-started">
                         <a href="#"  data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill btn-lg px-5 text-uppercase">Get Started</a>
                     </div>
@@ -97,61 +97,58 @@
        <secton class="features py-5">
         <div class="container">
             <!-- Faet 1 -->
-            <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
+            <div class="row flex-column-reverse flex-md-row align-items-center _feat-box mt-5">
                 <div class="col col-md-6">
-                    <h5 class="text-orange">Forms, surveys and Quizzes</h5>
-                    <h3>Comprehensive Digital Solutions Tailored for Your Business Growth</h3>
+                    <h5 class="text-orange">Global Communication Solutions</h5>
+                    <h3>Reliable Voice and SMS Solutions for Seamless Communication</h3>
                     <div class="_content">
-                        <p>At VoIPTech Solutions, we help businesses stay ahead with innovative communication solutions. Whether it's business VoIP, international calls, or cloud-based call center solutions, we ensure seamless connectivity and reliability.</p>
+                        <p>Deliver crystal-clear voice calls and instant SMS messages worldwide with trusted VoIP minutes, DID & TFN numbers, bulk SMS, OTPs, and more, ensuring seamless communication for businesses globally. Experience reliable, high-quality connectivity.</p>
                     </div>
                     <div class="demo-btn mt-4">
-                        <a href="#" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
+                        <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
                     </div>
                 </div>
                 <div class="col col-md-6">
                     <div class="feat-img">
-                        <img src="assets/images/feat-img1.avif" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/home-feat1.svg" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
                     </div>
                 </div>
             </div>
             <!-- Faet 2 -->
             <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-80">
                 <div class="col col-md-6">
-                    <h5 class="text-orange">Forms, surveys and Quizzes</h5>
-                    <h3>Discover Our Full Range of offerings</h3>
+                    <h5 class="text-orange">Powerful Call Center Tools</h5>
+                    <h3>Next-Gen Call Center Solutions to Maximize Performance</h3>
                     <div class="_content">
-                        <ul>
-                            <li>Experience high-quality business VoIP services for clear, reliable calls.</li>
-                            <li>VoIP international calls with unmatched connectivity, enhancing global reach.</li>
-                        </ul>
-                        <p>At VoIPTech Solutions, we help businesses stay ahead with innovative communication solutions. Whether it's business VoIP, international calls, or cloud-based call center solutions, we ensure seamless connectivity and reliability.</p>
+                       
+                        <p>Empower your call center with advanced dialers, hosted PBX systems, and intelligent call routing solutions. Maximize performance and customer engagement, improving productivity with next-gen call center technology tailored to your needs</p>
                     </div>
                     
                     <div class="demo-btn mt-4">
-                        <a href="#" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
+                        <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
                     </div>
                 </div>
                 <div class="col col-md-6">
                     <div class="feat-img">
-                        <img src="assets/images/feat-img2.avif" alt="Discover Our Full Range of offerings" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/home-feat2.svg" alt="Powerful Call Center Tools" class="img-fluid" loading="lazy" />
                     </div>
                 </div>
             </div>
             <!-- Faet 3 -->
             <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
                 <div class="col col-md-6">
-                    <h5 class="text-orange">Forms, surveys and Quizzes</h5>
-                    <h3>Comprehensive Digital Solutions Tailored for Your Business Growth</h3>
+                    <h5 class="text-orange">Tailored Communication Solutions</h5>
+                    <h3>Custom Communication Development Built for Your Business</h3>
                     <div class="_content">
-                        <p>At VoIPTech Solutions, we help businesses stay ahead with innovative communication solutions. Whether it's business VoIP, international calls, or cloud-based call center solutions, we ensure seamless connectivity and reliability.</p>
+                        <p>Leverage expert FreeSWITCH, Asterisk, and OpenSIPS development to create scalable, customized communication platforms. Future-proof your business with innovative solutions that grow as your needs evolve, offering unmatched flexibility and control.</p>
                     </div>
                     <div class="demo-btn mt-4">
-                        <a href="#" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
+                        <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
                     </div>
                 </div>
                 <div class="col col-md-6">
                     <div class="feat-img">
-                        <img src="assets/images/feat-img3.avif" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/home-feat3.svg" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
                     </div>
                 </div>
             </div>

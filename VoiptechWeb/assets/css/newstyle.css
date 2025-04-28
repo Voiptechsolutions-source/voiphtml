@@ -849,19 +849,19 @@ aside .nav-pills .nav-link.active:after{
 }
 .banner-form .whatsapp-no {
 	display: inline-block;
-	background: #000;
+	background: yellow;
 	padding: 10px 20px;
-	border-radius: 10px;
+	border-radius: 30px;
     /* animation: shadow-pulse 1.5s infinite ease-in-out alternate; */
-    animation: pulse 1.5s infinite ease-in-out alternate;
+    animation: pulse 0.5s infinite ease-in-out alternate;
 }
 .contact-box-header .whatsapp-no {
 	display: inline-block;
-	background: #000;
+	background: yellow;
 	padding: 10px 20px;
-	border-radius: 10px;
+	border-radius: 30px;
     /* animation: shadow-pulse 1.5s infinite ease-in-out alternate; */
-    animation: pulse 1.5s infinite ease-in-out alternate;
+    animation: pulse 0.5s infinite ease-in-out alternate;
 }
 .banner-form .whatsapp-no img {
 	width: 30px;
@@ -870,12 +870,12 @@ aside .nav-pills .nav-link.active:after{
 	width: 25px;
 }
 .form-header .whatsapp-no a {
-	color: #fff;
+	color: black;
 	font-weight: 800;
 	font-size: 14px;
 }
 .contact-box-header .whatsapp-no a {
-	color: #fff;
+	color: black;
 	font-weight: 800;
 	font-size: 18px;
 }
