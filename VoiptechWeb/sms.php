@@ -30,7 +30,7 @@
 <!-- Start Main Content -->
  <main>
    <!-- Hero Section -->
-     <section class="bg-light-orange py-5 service-detail-banner">
+     <section class="bg-light-orange py-5 service-detail-banner mb-0">
         <div class="container">
             <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-start banner-content-container">
                 <!-- Banner Content -->
@@ -110,7 +110,7 @@
                 <!-- Hero image -->
                  <div class="banner-form contact-form">
                     <div class="form-header bg-orange">
-                        <h2>Have Questions?</h2>
+                        <p>Have Questions?</p>
                         <div class="whatsapp-no">
                             <a href="https://wa.link/voiptech" target="_blank">
                                 <img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp" />
@@ -141,7 +141,54 @@
         </div>
      </section>
 
-
+    <!-- all services section -->
+    <section class="all-services bg-orange">
+        <div class="container">
+            <div class="section-title text-center">
+                <h2>Our SMS Services</h2>
+                
+            </div>
+            <div class="row mt-5">
+                <div class="col col-md-3">
+                    <div class="service_icn">
+                            <img src="assets/images/icons/bulk-sms-icn.svg" alt="Bulk SMS" class="img-fluid" loading="lazy" />
+                        </div>
+                    <a href="bulk-sms.php" class="service-box text-center text-white">
+                        
+                        
+                        <h3>Bulk SMS</h3>
+                    </a>
+                </div>
+                <div class="col col-md-3">
+                    <div class="service_icn">
+                        <img src="assets/images/icons/otp-sms-icn.svg" alt="OTP SMS" class="img-fluid" loading="lazy" />
+                    </div>
+                    <a href="otp-sms.php" class="service-box text-center text-white">
+                        
+                        <h3>OTP SMS</h3>
+                    </a>
+                </div>
+                <div class="col col-md-3">
+                    <div class="service_icn">
+                        <img src="assets/images/icons/promotional-sms-icn.svg" alt="Promotional SMS" class="img-fluid" loading="lazy" />
+                    </div>
+                    <a href="promotional-sms.php" class="service-box text-center text-white">
+                        
+                        <h3>Promotional SMS</h3>
+                    </a>
+                </div>
+                <div class="col col-md-3">
+                    <div class="service_icn">
+                        <img src="assets/images/icons/transactional-sms-icn.svg" alt="Transactional SMS" class="img-fluid" loading="lazy" />
+                    </div>
+                    <a href="transactional-sms.php" class="service-box text-center text-white">
+                        
+                        <h3>Transactional SMS</h3>
+                    </a>
+                </div>
+            </div>
+        </div>
+     </section>
      
 
     <!-- Features Section -->
@@ -150,7 +197,7 @@
         <!-- Faet 1 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
             <div class="col col-md-6">
-                <h3>Why Choose <span class="text-orange">VoIPTech Solutions</span> For <span class="text-orange">SMS Services?</span> </h3>
+                <h2>Why Choose <span class="text-orange">VoIPTech Solutions</span> For <span class="text-orange">SMS Services?</span> </h2>
                 <div class="_content">
                     <ul class="list2">
                         <li>
@@ -213,7 +260,7 @@
         <!-- Faet 2 -->
         <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h3>Key Benefits of Choosing <span class="text-orange">VoIPTech Solutions</span> for <span class="text-orange">SMS Services</span></h3>
+                <h2>Key Benefits of Choosing <span class="text-orange">VoIPTech Solutions</span> for <span class="text-orange">SMS Services</span></h2>
                 <div class="_content">
                     <ul class="list2">
                         <li>
@@ -267,7 +314,7 @@
         <!-- Faet 3 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
             <div class="col col-md-6">
-                <h3>Industries We Serve</h3>
+                <h2>Industries We Serve</h2>
                 <div class="_content">
                     <p>We provide reliable wholesale VoIP minutes to power voice communication across multiple industries that rely on high-volume, cost-effective calling.</p>
                     <ul class="list2 icons-list">

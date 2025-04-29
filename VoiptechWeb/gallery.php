@@ -79,7 +79,7 @@
         <!-- CTA -->
          <section class="cta py-5 bg-orange">
             <div class="container">
-                <h4 class="text-center">Have Questions? </h4>
+                <p class="text-center">Have Questions? </p>
                 <h2 class="text-center">Speak with Our Experts </h2>
                 <div class="call-btn text-center mt-4">
                 <a href="https://wa.link/voiptech" target="_blank" class="btn btn-lg rounded-pill bg-white text-uppercase text-orange px-4 cta-btn align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">

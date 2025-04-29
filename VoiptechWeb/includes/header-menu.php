@@ -60,7 +60,6 @@
                         <li><a class="dropdown-item" href="ivr-system.php">IVR System Solution</a></li>
                               <li><a class="dropdown-item" href="vts-dialer.php">VTS Dialer</a></li>
                               <li><a class="dropdown-item" href="auto-dialer.php">Auto Dialer</a></li>
-                              <li><a class="dropdown-item" href="#">Call Center Solution</a></li>
                               <li><a class="dropdown-item" href="hosted-pbx-solution.php">Hosted PBX</a></li>
                               <li><a class="dropdown-item" href="ip-pbx.php">IP PBX</a></li>
                               <li><a class="dropdown-item" href="vicidial-solution.php">Vicidial Solution</a></li>

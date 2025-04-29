@@ -110,7 +110,7 @@
                 <!-- Hero image -->
                  <div class="banner-form contact-form">
                     <div class="form-header bg-orange">
-                        <h2>Have Questions?</h2>
+                        <p>Have Questions?</p>
                         <div class="whatsapp-no">
                             <a href="https://wa.link/voiptech" target="_blank">
                                 <img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp" />
@@ -150,7 +150,7 @@
         <!-- Faet 1 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
             <div class="col col-md-6">
-                <h3>Why Choose <span class="text-orange">VTS Dialer Solutions </span> For <span class="text-orange">Your Business?</span> </h3>
+                <h2>Why Choose <span class="text-orange">VTS Dialer Solutions </span> For <span class="text-orange">Your Business?</span> </h2>
                 <div class="_content">
                     <ul class="list2">
                         <li>
@@ -230,7 +230,7 @@
         <!-- Faet 2 -->
         <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h3>Key Benefits of Choosing <span class="text-orange">Voip Tech Solutions</span> for <span class="text-orange">VTS Dialer</span></h3>
+                <h2>Key Benefits of Choosing <span class="text-orange">VoIPTech Solutions</span> for <span class="text-orange">VTS Dialer</span></h2>
                 <div class="_content">
                     <ul class="list2">
                         <li>
@@ -284,7 +284,7 @@
         <!-- Faet 3 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h3>How VoIPTech Solutions <span class="text-orange">VTS Dialer</span>  Works</h3>
+                <h2>How VoIPTech Solutions <span class="text-orange">VTS Dialer</span>  Works</h2>
                 <div class="_content">
                     <p>Our custom-built VTS Dialer is designed to streamline communication, boost agent productivity, and enhance campaign performance. Here's how it operates:</p>
                     <ul class="list2 ">
@@ -336,7 +336,7 @@
         <!-- Faet 4 -->
         <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box">
             <div class="col col-md-6">
-                <h3>Industries We Serve</h3>
+                <h2>Industries We Serve</h2>
                 <div class="_content">
                     <p>Custom VTS Dialer solutions tailored to streamline communication, improve efficiency, and support diverse industry needs.</p>
                     <ul class="list2 icons-list">
