@@ -487,6 +487,7 @@
                             <!-- Faq 1-->
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
+                                    
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
                                     aria-expanded="true" aria-controls="faq1">How does an IP PBX differ from a traditional PBX?</a></h3>
                                 </div>

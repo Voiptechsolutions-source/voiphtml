@@ -445,8 +445,10 @@
                             <!-- Faq 1-->
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
                                     aria-expanded="true" aria-controls="faq1">How do Promotional SMS services help businesses grow?</a>
+                                     </h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
@@ -458,8 +460,10 @@
                             <!-- Faq 2-->
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
                                     aria-expanded="true" aria-controls="faq2">Can Promotional SMS be used for sending offers and discounts?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
@@ -471,8 +475,10 @@
                             <!-- Faq 3-->
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
                                     aria-expanded="true" aria-controls="faq3">Are there any restrictions on Promotional SMS timings?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
@@ -484,8 +490,10 @@
                             <!-- Faq 4-->
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
                                     aria-expanded="true" aria-controls="faq4">Is it possible to personalize messages in Promotional SMS campaigns?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
@@ -497,8 +505,10 @@
                             <!-- Faq 5-->
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
                                     aria-expanded="true" aria-controls="faq5">How does VoIPTech Solutions ensure timely delivery of Promotional SMS?</a>
+                                     </h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
@@ -510,8 +520,10 @@
                             <!-- Faq 6-->
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
                                     aria-expanded="true" aria-controls="faq6">Are delivery reports available for all sent Promotional SMS?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
@@ -523,8 +535,10 @@
                             <!-- Faq 7-->
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
                                     aria-expanded="true" aria-controls="faq7">How quickly can businesses get started with Promotional SMS?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
@@ -536,8 +550,10 @@
                             <!-- Faq 8-->
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
                                     aria-expanded="true" aria-controls="faq8">Does VoIPTech Solutions support bulk uploads for contacts?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
@@ -549,8 +565,10 @@
                             <!-- Faq 9-->
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
                                     aria-expanded="true" aria-controls="faq9">Are there any hidden charges in VoIPTech's Promotional SMS plans?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
@@ -562,8 +580,10 @@
                             <!-- Faq 10-->
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
                                     aria-expanded="true" aria-controls="faq10">Can Promotional SMS be scheduled in advance?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">

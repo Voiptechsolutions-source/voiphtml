@@ -438,8 +438,10 @@
                             <!-- Faq 1-->
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
                                     aria-expanded="true" aria-controls="faq1">How does bulk SMS help my business grow?</a>
+                                     </h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
@@ -451,8 +453,10 @@
                             <!-- Faq 2-->
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
                                     aria-expanded="true" aria-controls="faq2">Can bulk SMS campaigns be scheduled in advance?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
@@ -464,8 +468,10 @@
                             <!-- Faq 3-->
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
                                     aria-expanded="true" aria-controls="faq3">Is there a minimum SMS volume required to start?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
@@ -477,8 +483,10 @@
                             <!-- Faq 4-->
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
                                     aria-expanded="true" aria-controls="faq4">Does VoIPTech Solutions offer delivery reports?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
@@ -490,8 +498,12 @@
                             <!-- Faq 5-->
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
+                                   
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
                                     aria-expanded="true" aria-controls="faq5">Are bulk SMS messages delivered globally?</a>
+                                     </h3>
+                                 
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
@@ -503,8 +515,10 @@
                             <!-- Faq 6-->
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
                                     aria-expanded="true" aria-controls="faq6">Can I customize the sender ID in my messages?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
@@ -516,8 +530,10 @@
                             <!-- Faq 7-->
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
                                     aria-expanded="true" aria-controls="faq7">Is customer support available for bulk SMS users?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
@@ -529,8 +545,10 @@
                             <!-- Faq 8-->
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
                                     aria-expanded="true" aria-controls="faq8">Will my messages comply with telecom regulations?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
@@ -542,8 +560,10 @@
                             <!-- Faq 9-->
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
                                     aria-expanded="true" aria-controls="faq9">Does the bulk SMS service include API access?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
@@ -555,8 +575,10 @@
                             <!-- Faq 10-->
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
+                                    <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
                                     aria-expanded="true" aria-controls="faq10">How soon can I start sending bulk SMS after signup?</a>
+                                    </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
