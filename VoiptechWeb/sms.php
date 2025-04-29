@@ -149,7 +149,7 @@
                 
             </div>
             <div class="row mt-5">
-                <div class="col col-md-3">
+                <div class="col-12 col col-md-3">
                     <div class="service_icn">
                             <img src="assets/images/icons/bulk-sms-icn.svg" alt="Bulk SMS" class="img-fluid" loading="lazy" />
                         </div>
@@ -159,7 +159,7 @@
                         <h3>Bulk SMS</h3>
                     </a>
                 </div>
-                <div class="col col-md-3">
+                <div class="col-12 col col-md-3">
                     <div class="service_icn">
                         <img src="assets/images/icons/otp-sms-icn.svg" alt="OTP SMS" class="img-fluid" loading="lazy" />
                     </div>
@@ -168,7 +168,7 @@
                         <h3>OTP SMS</h3>
                     </a>
                 </div>
-                <div class="col col-md-3">
+                <div class="col-12 col col-md-3">
                     <div class="service_icn">
                         <img src="assets/images/icons/promotional-sms-icn.svg" alt="Promotional SMS" class="img-fluid" loading="lazy" />
                     </div>
@@ -177,7 +177,7 @@
                         <h3>Promotional SMS</h3>
                     </a>
                 </div>
-                <div class="col col-md-3">
+                <div class="col-12 col col-md-3">
                     <div class="service_icn">
                         <img src="assets/images/icons/transactional-sms-icn.svg" alt="Transactional SMS" class="img-fluid" loading="lazy" />
                     </div>

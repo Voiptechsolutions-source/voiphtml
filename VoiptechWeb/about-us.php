@@ -174,7 +174,7 @@
                 <p class="text-center">Have Questions? </p>
                 <h2 class="text-center">Speak with Our Experts </h2>
                 <div class="call-btn text-center mt-4">
-                <a href="https://wa.link/voiptech" target="_blank" class="btn btn-lg rounded-pill bg-white text-uppercase text-orange px-4 cta-btn align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
+                <a href="https://wa.link/voiptech" target="_blank" class="btn btn-lg rounded-pill bg-white text-orange px-4 cta-btn align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
                 </span> WhatsApp Us</a>
                 </div>
             </div>

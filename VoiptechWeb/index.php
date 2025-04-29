@@ -32,7 +32,7 @@
 <!-- Start Main Content -->
  <main>
     <!-- Hero Section -->
-     <section class="bg-light-orange py-5">
+     <section class="bg-light-orange py-5 home-banner">
         <div class="container">
             <div class="d-flex justify-content-between flex-column-reverse flex-md-row mt-5">
                 <!-- Banner Content -->
@@ -74,7 +74,7 @@
      </section>
 
      <!-- Trusted logos section -->
-      <section class="trusted-logos py-60">
+      <section class="trusted-logos py-60 bg-light-grey">
         <div class="container">
             <div class="text-center mb-4">
                 <h2>Trusted by leading <span class="text-orange">enterprises</span></h2>
@@ -102,7 +102,7 @@
                     <p class="text-orange">Global Communication Solutions</p>
                     <h2>Reliable Voice and SMS Solutions for Seamless Communication</h2>
                     <div class="_content">
-                        <p>Deliver crystal-clear voice calls and instant SMS messages worldwide with trusted VoIP minutes, DID & TFN numbers, bulk SMS, OTPs, and more, ensuring seamless communication for businesses globally. Experience reliable, high-quality connectivity.</p>
+                        <p>Deliver crystal-clear voice calls and instant messages worldwide with our trusted <a href="voip.php">VoIP</a> and <a href="voip.php">SMS</a> services, ensuring seamless communication for businesses globally. Experience reliable and high-quality connectivity for your operations.</p>
                     </div>
                     <div class="demo-btn mt-4">
                         <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
@@ -121,7 +121,7 @@
                     <h2>Scalable Call Center Solutions to Maximize Performance</h2>
                     <div class="_content">
                        
-                        <p>Empower your call center with advanced dialers, hosted PBX systems, and intelligent call routing solutions. Maximize performance and customer engagement, improving productivity with next-gen call center technology tailored to your needs</p>
+                        <p>Empower your call center with advanced dialers like <a href="vicidial-solution.php">VICI dialer</a>, <a href="auto-dialer.php">Auto dialer</a>, Hosted and <a href="fusion-pbx-solution.php">Fusion PBX</a> systems, and intelligent call routing solutions. Maximize performance and customer engagement, improving productivity with cutting-edge call center technology tailored to your needs.</p>
                     </div>
                     
                     <div class="demo-btn mt-4">
@@ -255,7 +255,7 @@
                 <p class="text-center">Have Questions? </p>
                 <h2 class="text-center">Speak with Our Experts </h2>
                 <div class="call-btn text-center mt-4">
-                    <a href="https://wa.link/voiptech" target="_blank" class="btn btn-lg rounded-pill bg-white text-uppercase text-orange px-4 cta-btn align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
+                    <a href="https://wa.link/voiptech" target="_blank" class="btn btn-lg rounded-pill bg-white  text-orange px-4 cta-btn align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
                     </span> WhatsApp Us</a>
                 </div>
             </div>

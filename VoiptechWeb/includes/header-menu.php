@@ -5,17 +5,8 @@
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
                   
                   <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li><a class="nav-link" href="about-us.php">About Us</a></li>
                     
-                    <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
-                      <ul class="dropdown-menu dropdown1" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="about-us.php">About VoIPTech Solutions</a></li>
-                        <li><a class="dropdown-item" href="#">Career</a></li>
-                        <!-- <li><a class="dropdown-item" href="#">Life at VoiptechSolutions</a></li> -->
-                        <li><a class="dropdown-item" href="#">Events</a></li>
-                        <li><a class="dropdown-item" href="gallery.php">Gallery</a></li>
-                      </ul>
-                    </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                          Services
@@ -27,7 +18,7 @@
                                  
                                   <li><a class="dropdown-item" href="voip-minutes.php">VoIP Minutes</a></li>
                                   <li><a class="dropdown-item" href="cc-traffic.php">CC Traffic</a></li>
-                                  <li><a class="dropdown-item" href="cli-ncli.php">Cli/Ncli</a></li>
+                                  <li><a class="dropdown-item" href="cli-ncli.php">CLI/NCLI</a></li>
                                   <li><a class="dropdown-item" href="wholesale-voip.php">Wholesale VoIP</a></li>
                                 </ul>
                             </li>
@@ -57,13 +48,13 @@
                         </a>
                         <ul class="dropdown-menu dropdown1 sol-drop" aria-labelledby="navbarDropdownMenuLink">
                           
-                        <li><a class="dropdown-item" href="ivr-system.php">IVR System Solution</a></li>
+                        <li><a class="dropdown-item" href="ivr-system.php">IVR System</a></li>
                               <li><a class="dropdown-item" href="vts-dialer.php">VTS Dialer</a></li>
                               <li><a class="dropdown-item" href="auto-dialer.php">Auto Dialer</a></li>
                               <li><a class="dropdown-item" href="hosted-pbx-solution.php">Hosted PBX</a></li>
                               <li><a class="dropdown-item" href="ip-pbx.php">IP PBX</a></li>
-                              <li><a class="dropdown-item" href="vicidial-solution.php">Vicidial Solution</a></li>
-                              <li><a class="dropdown-item" href="fusion-pbx-solution.php">Fusion PBX solution</a></li>
+                              <li><a class="dropdown-item" href="vicidial-solution.php">VICIdial</a></li>
+                              <li><a class="dropdown-item" href="fusion-pbx-solution.php">Fusion PBX</a></li>
                               <li><a class="dropdown-item" href="class-4-softswitch.php">Class 4 Softswitch</a></li>
                               <li><a class="dropdown-item" href="class-5-softswitch.php">Class 5 Softswitch</a></li>
                               <li><a class="dropdown-item" href="conferencing.php">Conferencing</a></li>

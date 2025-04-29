@@ -49,7 +49,7 @@
      <!-- Terms -->
      <section class="terms pb-5">
         <div class="container">
-            <div class="row mb-1">
+            <div class=" mb-1">
                 <h2><u>VoIPTech Terms and Conditions</u></h2>
                 <p>Welcome to VoIPTech, a leading provider of voice, SMS, DID &amp; TFN, Media Buying, Lead Generation, and Digital Marketing services. By using our services, you agree to comply with and be bound by the following terms and conditions. Please read them carefully before accessing or using our services.</p>
                 

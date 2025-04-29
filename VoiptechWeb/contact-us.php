@@ -69,9 +69,9 @@
                                     <div class="address-body">
                                         Unit No – 530, DLF 
                                         Cybercity, Patia, 
-                                        Bhubaneswar, 
+                                        Bhubaneswar – 751024, 
                                         Odisha,
-                                        India – 751024
+                                        India 
                                     </div>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@
                                         Visit Our Noida Office
                                     </div>
                                     <div class="address-body">
-                                        B-23/C1, 4th floor, Block B, Sector 62, Noida, Uttar Pradesh, India - 201309
+                                        B-23/C1, 4th floor, Block B, Sector 62, Noida - 201309, Uttar Pradesh, India 
                                     </div>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@
                                         Visit Our Mohali Office
                                     </div>
                                     <div class="address-body">
-                                        A 45, Quark Media Building, Phase 8B, Industrial Area, Mohali, Punjab, India – 160071
+                                        A 45, Quark Media Building, Phase 8B, Industrial Area, Mohali – 160071, Punjab, India 
                                     </div>
                                 </div>
                             </div>
@@ -107,7 +107,7 @@
                                         Visit Our Kolkata Office
                                     </div>
                                     <div class="address-body">
-                                        163, Ustad Enayat Khan Avenue, Park Street, Kolkata, India- 700017
+                                        163, Ustad Enayat Khan Avenue, Park Street, Kolkata - 700017, India
                                     </div>
                                 </div>
                             </div>
@@ -143,7 +143,7 @@
                                         Visit Our Malaysia Office
                                     </div>
                                     <div class="address-body">
-                                        Puchong,Malaysia
+                                    1F-03, 1st Floor Tower 2 @ PFCC, Jalan Puteri 1/2, Bandar Puteri, 47100 Puchong, Selangor, Malaysia
                                     </div>
                                 </div>
                             </div>
@@ -185,8 +185,8 @@
                         </div>
                         <h4>Proudly Based in Odisha</h4>
                         <p class="text-center">Unit No – 530, DLF Cybercity, 
-                            Patia, Bhubaneswar, Odisha,
-                            India – 751024</p>
+                            Patia, Bhubaneswar – 751024, Odisha,
+                            India </p>
                     </div>
                 </div>
             </div>

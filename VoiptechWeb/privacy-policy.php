@@ -49,7 +49,7 @@
      <!-- Privacy Policy -->
      <section class="privacy-policy pb-5">
         <div class="container">
-            <div class="row ">
+            <div class=" ">
         <h2><u>Privacy Policy</u></h2>
         <p>Welcome to VoIPTech's Privacy Policy. This document outlines how we collect, use, disclose, and protect your personal information. By using our website, you agree to the terms outlined in this policy.</p>
         

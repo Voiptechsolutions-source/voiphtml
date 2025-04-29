@@ -7,12 +7,12 @@
                <div class="row footer-island p-5 bg-white">
                 <div class="col-lg-4 col-md-4 mt-2">
                     <div class="row">
-                      <div class="col-md-12 text-left d-flex gap-2 top-footer-call">
+                      <div class="col-md-12  d-flex gap-2 top-footer-call">
                         <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
                         </span>
                         <!-- <img src="assets/images/icons/ph-icn.png" loading="lazy" alt="mail" height="28" width="30" class="float-left" style="margin-top: 9px;"> -->
                            <div class="contact-txt">
-                               <div class="text-dark">Call us</div>
+                               <div class="text-dark">Call Us</div>
                                <p><a href="tel:+917949107742"><b class="site_color" >+91-7949107742</b></a></p>
                            </div>
                        </div>
@@ -24,10 +24,10 @@
      
                    <div class="row">
                      
-                           <div class="col-md-12 text-left d-flex gap-2">
+                           <div class="col-md-12  d-flex gap-2 top-footer-call">
                              <img src="assets/images/icons/mail-icn.png" loading="lazy" alt="mail" class="float-left" height="28" width="30" style="margin-top: 9px;">
                              <div class="contact-txt">
-                                <div class="text-dark">mail us</div>
+                                <div class="text-dark">Mail Us</div>
                                 <p><a href="mailto:info@voiptechsolutions.com"><b class="site_color">info@voiptechsolutions.com</b></a></p>
                              </div>
                                
@@ -40,8 +40,8 @@
                <div class="col-lg-4 col-md-4 mt-2 hide_in_tab">
                  <div class="row">
                    
-                       <div class="col-md-12 text-left ">
-                       <a href="https://www.google.com/maps/place/DLF+CYBER+CITY/@20.3488665,85.7958333,15.75z/data=!4m6!3m5!1s0x3a1908e025984c55:0xee1fcd1f11e55141!8m2!3d20.3490424!4d85.8077361!16s%2Fg%2F1jkyhv803?entry=ttu" target="_blank" class="d-flex gap-2">
+                       <div class="col-md-12  top-footer-call">
+                       <a href="javascript:;" class="d-flex gap-2">
                              <img src="assets/images/icons/loc-icn.png" loading="lazy" alt="mail" class="float-left" height="28" width="30" style="margin-top: 9px;">
                                 <div class="contact-txt">
                                     <div class="text-dark">530, DLF Cybercity, Patia</div>
@@ -68,7 +68,7 @@
      <!-- All Busines Locatons -->
     <div class="container pt-2 pb-5">
       <div class="biz-loc-title">
-        <h2>We work world wide</h2>
+        <h2>We Work Worldwide</h2>
       </div>
       <div class="all-biz-locations">
         <div class="_location">
@@ -77,7 +77,7 @@
           </div>
           <div class="_body">
             <h3>Odisha</h3>
-            <p>Unit No – 530, DLF Cybercity, Patia, Bhubaneswar, Odisha, India – 751024 </p>
+            <p>Unit No – 530, DLF Cybercity, Patia, Bhubaneswar – 751024, Odisha, India</p>
           </div>
         </div>
         <div class="_location">
@@ -86,7 +86,7 @@
           </div>
           <div class="_body">
             <h3>Noida</h3>
-            <p>B-23/C1, 4th floor, Block B, Sector 62, Noida, Uttar Pradesh, India - 201309  </p>
+            <p>B-23/C1, 4th floor, Block B, Sector 62, Noida - 201309, Uttar Pradesh, India </p>
           </div>
         </div>
         <div class="_location">
@@ -95,7 +95,7 @@
           </div>
           <div class="_body">
             <h3>Mohali</h3>
-            <p>A 45, Quark Media Building, Phase 8B, Industrial Area, Mohali, Punjab, India – 160071  </p>
+            <p>A 45, Quark Media Building, Phase 8B, Industrial Area, Mohali – 160071, Punjab, India </p>
           </div>
         </div>
         <div class="_location">
@@ -104,7 +104,7 @@
           </div>
           <div class="_body">
             <h3>Kolkata</h3>
-            <p>163, Ustad Enayat Khan Avenue, Park Street, Kolkata, India- 700017 </p>
+            <p>163, Ustad Enayat Khan Avenue, Park Street, Kolkata - 700017, India </p>
           </div>
         </div>
         <div class="_location">
@@ -129,7 +129,7 @@
           <div class="_img"><img src="assets/images/malaysia.jpg" alt="Odisha" loading="lazy" class="img-fluid" width="100%" height="100%"></div>
           <div class="_body">
             <h3>Malaysia</h3>
-            <p>Puchong,Malaysia </p>
+            <p>1F-03, 1st Floor Tower 2 @ PFCC, Jalan Puteri 1/2, Bandar Puteri, 47100 Puchong, Selangor, Malaysia </p>
           </div>
         </div>
       </div>
@@ -160,7 +160,7 @@
                   </a>
                 </div>
             </div>
-            <div class="col-12 col-md-3">
+            <div class="col-12 col-md-2">
                 <h4>Quick Links</h4>
                 <ul>
                     <li><a href="about-us.php">About Us</a></li>
@@ -173,14 +173,35 @@
                     <li><a href="blogs.php">Blogs</a></li>
                 </ul>
             </div>
-            <div class="col-12 col-md-3">
+            <div class="col-12 col-md-2">
                 <h4>Services</h4>
                 <ul>
                     <li><a href="voip.php">VoIP</a></li>
                     <li><a href="sms.php">SMS</a></li>
                     <li><a href="did-and-tfn.php">DID & TFN</a></li>
-                    <li><a href="hosted-pbx-solution.php">Hosted IP-PBX</a></li>
-                    <li><a href="#">Career</a></li>
+                    <li><a href="freeswitch-development.php">Freeswitch Development</a></li>
+                    <li><a href="asterisk-development.php">Asterisk Development</a></li>
+                    <li><a href="opensips-development.php">OpenSIPS Development</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-2">
+                <h4>Solutions</h4>
+                <ul>
+                  <li><a class="" href="ivr-system.php">IVR System</a></li>
+                  <li><a class="" href="vts-dialer.php">VTS Dialer</a></li>
+                  <li><a class="" href="auto-dialer.php">Auto Dialer</a></li>
+                  <li><a class="" href="hosted-pbx-solution.php">Hosted PBX</a></li>
+                  <li><a class="" href="ip-pbx.php">IP PBX</a></li>
+                  <li><a class="" href="vicidial-solution.php">VICIdial</a></li>
+                  <li><a class="" href="fusion-pbx-solution.php">Fusion PBX</a></li>
+                  <li><a class="" href="class-4-softswitch.php">Class 4 Softswitch</a></li>
+                  <li><a class="" href="class-5-softswitch.php">Class 5 Softswitch</a></li>
+                  <li><a class="" href="conferencing.php">Conferencing</a></li>
+                  <li><a class="" href="multi-tenant-broadcasting.php">Multi-Tenant Broadcasting</a></li>
+                  <li><a class="" href="multi-tenant-conferencing.php">Multi-Tenant Conferencing</a></li>
+                  <li><a class="" href="sippy-softswitch.php">Sippy Softswitch</a></li>
+                  <li><a class="" href="webrtc-client.php">WebRTC Client</a></li>
+                  <li><a class="" href="vos-3000.php">VOS 3000</a></li>
                 </ul>
             </div>
             <div class="col-12 col-md-3">
@@ -189,8 +210,8 @@
                     <span class="contact-icons">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg>
                     </span>
-                    <p>Unit No – 530, DLF Cybercity, Patia, Bhubaneswar, Odisha,
-                    India – 751024</p>
+                    <p>Unit No – 530, DLF Cybercity, Patia, Bhubaneswar – 751024, Odisha,
+                    India </p>
                 </div>
                 <div class="company-nos d-flex gap-2">
                   <span class="contact-icons">

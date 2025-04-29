@@ -149,7 +149,7 @@
                 
             </div>
             <div class="row mt-5">
-                <div class="col col-md-3">
+                <div class="col-12 col col-md-3">
                     <div class="service_icn">
                             <img src="assets/images/icons/voip-minutes-icn.svg" alt="Voip Minutes" class="img-fluid" loading="lazy" />
                         </div>
@@ -159,7 +159,7 @@
                         <h3>VoIP Minutes</h3>
                     </a>
                 </div>
-                <div class="col col-md-3">
+                <div class="col-12 col col-md-3">
                     <div class="service_icn">
                         <img src="assets/images/icons/cc-traffic-icn.svg" alt="CC Traffic" class="img-fluid" loading="lazy" />
                     </div>
@@ -168,7 +168,7 @@
                         <h3>CC Traffic</h3>
                     </a>
                 </div>
-                <div class="col col-md-3">
+                <div class="col-12 col col-md-3">
                     <div class="service_icn">
                         <img src="assets/images/icons/cli-ncli-icn.svg" alt="CC Traffic" class="img-fluid" loading="lazy" />
                     </div>
@@ -177,7 +177,7 @@
                         <h3>CLI/NCLI</h3>
                     </a>
                 </div>
-                <div class="col col-md-3">
+                <div class="col-12 col col-md-3">
                     <div class="service_icn">
                         <img src="assets/images/icons/wholesale-voip-icn.svg" alt="Wholesale Voip" class="img-fluid" loading="lazy" />
                     </div>
