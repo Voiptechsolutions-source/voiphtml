@@ -166,6 +166,7 @@
                     <li><a href="about-us.php">About Us</a></li>
                     <li><a href="#">Career</a></li>
                     <li><a href="#">Events</a></li>
+                    <li><a href="pricing.php">Pricing</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>
                     <li><a href="terms-of-services.php">Terms & Conditions</a></li>

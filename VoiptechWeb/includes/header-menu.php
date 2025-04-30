@@ -70,6 +70,9 @@
                       <li class="nav-item">
                         <a class="nav-link " href="our-clients.php">Our Clients</a>
                       </li>
+                        <li class="nav-item">
+                        <a class="nav-link " href="faqs.php">FAQs</a>
+                      </li>
                       
                   </ul>
                   
