@@ -478,12 +478,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does Sippy Softswitch handle high call volumes?</a></h3>
+                                    aria-expanded="true" aria-controls="faq1">How does Sippy Softswitch help manage large VoIP traffic efficiently?</a></h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>It’s designed with a robust architecture that easily supports thousands of concurrent calls without compromising performance.</p>
+                                    <p>Sippy Softswitch supports high-performance call routing, billing, and session management to streamline large-scale VoIP operations.</p>
                                     </div>
                                 </div>
                             </div>
@@ -491,12 +491,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can this solution be integrated with my existing VoIP infrastructure?</a></h3>
+                                    aria-expanded="true" aria-controls="faq2">Why is Sippy Softswitch preferred by wholesale VoIP providers?</a></h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, Sippy Softswitch seamlessly integrates with SIP trunks, billing systems, and other VoIP components.</p>
+                                    <p>Sippy Softswitch offers powerful Class 4 switching features, real-time billing, and advanced routing—ideal for wholesale carriers.</p>
                                     </div>
                                 </div>
                             </div>
@@ -504,12 +504,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is it suitable for international VoIP businesses?</a></h3>
+                                    aria-expanded="true" aria-controls="faq3">Can Sippy Softswitch be deployed on a hosted cloud environment?</a></h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Absolutely. It supports global routing, multi-currency billing, and carrier-grade call quality.</p>
+                                    <p>Yes, Sippy Softswitch supports cloud-based deployments, providing flexibility, scalability, and minimal hardware dependency.</p>
                                     </div>
                                 </div>
                             </div>
@@ -517,12 +517,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Does VoIPTech offer custom configurations?</a></h3>
+                                    aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions assist with the deployment of Sippy Softswitch?</a></h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, we tailor the Sippy setup based on your business size, traffic needs, and feature requirements.</p>
+                                    <p>VoIPTech Solutions handles installation, configuration, and custom integration of Sippy Softswitch for businesses of all sizes.</p>
                                     </div>
                                 </div>
                             </div>
@@ -530,12 +530,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">How secure is the Sippy Softswitch platform?</a></h3>
+                                    aria-expanded="true" aria-controls="faq5">Is Sippy Softswitch capable of real-time monitoring and analytics?</a></h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>It includes advanced security features like IP filtering, SIP authentication, and real-time fraud detection.</p>
+                                    <p>Yes, Sippy Softswitch includes dashboards for call tracking, QoS monitoring, and detailed CDR reporting.</p>
                                     </div>
                                 </div>
                             </div>
@@ -543,12 +543,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Can I monitor calls and reports in real-time?</a></h3>
+                                    aria-expanded="true" aria-controls="faq6">How does Sippy Softswitch manage dynamic call routing?</a></h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, the dashboard provides live traffic monitoring, CDR logs, and detailed call analytics</p>
+                                    <p>Sippy Softswitch uses intelligent algorithms for least-cost routing (LCR), failover routing, and customizable call paths.</p>
                                     </div>
                                 </div>
                             </div>
@@ -556,12 +556,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Does VoIPTech provide ongoing technical support?</a></h3>
+                                    aria-expanded="true" aria-controls="faq7">Can Sippy Softswitch support multi-currency billing and reseller management?</a></h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>We offer 24/7 expert support to ensure your operations run without interruption.</p>
+                                    <p>Yes, Sippy Softswitch includes advanced billing tools with support for multi-currency, multi-level reseller structures, and tax rules.</p>
                                     </div>
                                 </div>
                             </div>
@@ -569,12 +569,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">How scalable is this solution as my business grows?</a></h3>
+                                    aria-expanded="true" aria-controls="faq8">Why do global carriers trust VoIPTech Solutions with Sippy Softswitch management?</a></h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>The system easily scales with your traffic — from startups to large VoIP carriers.</p>
+                                        <p>VoIPTech Solutions provides end-to-end support, including updates, troubleshooting, and optimization for Sippy Softswitch environments.</p>
                                     </div>
                                 </div>
                             </div>
@@ -582,12 +582,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Are there any hidden fees in the setup?</a></h3>
+                                    aria-expanded="true" aria-controls="faq9">Does Sippy Softswitch support SIP trunking and interoperability?</a></h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>No. We provide transparent pricing with no surprise charges.</p>
+                                    <p>Yes, Sippy Softswitch is fully compatible with standard SIP protocols, allowing easy integration with various SIP carriers and endpoints.</p>
                                     </div>
                                 </div>
                             </div>
@@ -595,12 +595,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Why choose VoIPTech over other providers?</a></h3>
+                                    aria-expanded="true" aria-controls="faq10">How does VoIPTech Solutions ensure security for Sippy Softswitch deployments?</a></h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>We combine industry expertise, customization, and dedicated support for a truly reliable softswitch experience.</p>
+                                    <p>VoIPTech Solutions implements firewalls, access control, and anti-fraud measures to keep your Sippy Softswitch system secure.</p>
                                     </div>
                                 </div>
                             </div>

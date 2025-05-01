@@ -487,12 +487,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does Class 5 Softswitch differ from Class 4 Softswitch?</a></h3>
+                                    aria-expanded="true" aria-controls="faq1">How does Class 5 Softswitch support end-user VoIP services?</a></h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Class 5 Softswitch is focused on providing VoIP services directly to end-users, while Class 4 is geared toward handling large volumes of calls between networks.</p>
+                                    <p>Class 5 Softswitch enables direct communication for residential and enterprise users by managing call routing, voicemail, and SIP registration.</p>
                                     </div>
                                 </div>
                             </div>
@@ -500,12 +500,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can the system handle both residential and business calls?</a></h3>
+                                    aria-expanded="true" aria-controls="faq2">Why is Class 5 Softswitch ideal for retail VoIP providers?</a></h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, it’s fully capable of managing both residential and business VoIP services, with customizable billing and routing for each.</p>
+                                    <p>Class 5 Softswitch is designed for delivering VoIP services directly to end-users, including features like IVR, conferencing, and caller ID.</p>
                                     </div>
                                 </div>
                             </div>
@@ -513,12 +513,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is Class 5 Softswitch easy to scale as my business grows?</a></h3>
+                                    aria-expanded="true" aria-controls="faq3">Can Class 5 Softswitch be integrated with CRM and billing platforms?</a></h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Absolutely. It’s designed to scale effortlessly, allowing you to add users, services, or features as needed.</p>
+                                    <p>Yes, Class 5 Softswitch offers API support and third-party integrations, making it compatible with CRMs and real-time billing systems.</p>
                                     </div>
                                 </div>
                             </div>
@@ -526,12 +526,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">How secure is the Class 5 Softswitch system?</a></h3>
+                                    aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions assist with Class 5 Softswitch deployment?</a></h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>The system includes built-in fraud prevention, call encryption, and advanced security protocols to protect your network.</p>
+                                    <p>VoIPTech Solutions handles everything from setup and customization to monitoring and support for a fully optimized Class 5 Softswitch.</p>
                                     </div>
                                 </div>
                             </div>
@@ -539,12 +539,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Can I offer prepaid and postpaid services with this system?</a></h3>
+                                    aria-expanded="true" aria-controls="faq5">Does Class 5 Softswitch support multi-tenant environments?</a></h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, the solution supports both prepaid and postpaid billing models, with flexible rate plans and real-time billing capabilities.</p>
+                                    <p>Yes, Class 5 Softswitch supports multi-tenancy, allowing providers to manage multiple clients under one platform with isolated settings.</p>
                                     </div>
                                 </div>
                             </div>
@@ -552,12 +552,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Is integration with existing infrastructure possible?</a></h3>
+                                    aria-expanded="true" aria-controls="faq6">How does Class 5 Softswitch enable secure VoIP communication?</a></h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, it integrates smoothly with existing VoIP infrastructure, including SIP servers, databases, and third-party systems</p>
+                                    <p>Class 5 Softswitch uses protocols like SRTP and TLS, along with firewall and anti-fraud systems, to ensure secure voice transmission</p>
                                     </div>
                                 </div>
                             </div>
@@ -565,12 +565,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">How do I manage user accounts?</a></h3>
+                                    aria-expanded="true" aria-controls="faq7">Why do ISPs prefer Class 5 Softswitch for local VoIP services?</a></h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>You can manage user accounts through the self-service portal, where customers can update their preferences and view usage.</p>
+                                    <p>Class 5 Softswitch supports features such as local number portability, call forwarding, and voicemail—making it ideal for ISPs serving local markets.</p>
                                     </div>
                                 </div>
                             </div>
@@ -578,12 +578,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Will the system support global calling?</a></h3>
+                                    aria-expanded="true" aria-controls="faq8">Can Class 5 Softswitch handle both voice and video communication?</a></h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Yes, it’s designed for international calling with global coverage, ensuring seamless service no matter the destination.</p>
+                                        <p>Yes, Class 5 Softswitch is equipped to support voice, video calls, and other media-rich communications for a unified experience.</p>
                                     </div>
                                 </div>
                             </div>
@@ -591,12 +591,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Can I track call performance in real time?</a></h3>
+                                    aria-expanded="true" aria-controls="faq9">How does VoIPTech Solutions ensure high uptime for Class 5 Softswitch users?</a></h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, the system includes live monitoring tools to track call quality, usage, and system health.</p>
+                                    <p>VoIPTech Solutions implements monitoring, failover routing, and proactive support to keep your Class 5 Softswitch running 24/7.</p>
                                     </div>
                                 </div>
                             </div>
@@ -604,12 +604,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">What kind of support does VoIPTech provide?</a></h3>
+                                    aria-expanded="true" aria-controls="faq10">Why is Class 5 Softswitch essential for businesses offering VoIP services?</a></h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>VoIPTech offers 24/7 technical support, monitoring, and system updates to ensure optimal performance.</p>
+                                    <p>Class 5 Softswitch delivers critical features like call routing, IVR, voicemail, and SIP registration—making it the backbone of VoIP service delivery.</p>
                                     </div>
                                 </div>
                             </div>

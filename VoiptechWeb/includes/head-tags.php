@@ -17,5 +17,5 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/newstyle.css?v=1.0034">
+    <link rel="stylesheet" href="assets/css/newstyle.css?v=1.0035">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">

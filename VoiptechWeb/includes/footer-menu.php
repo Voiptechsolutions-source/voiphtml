@@ -122,7 +122,7 @@
           </div>
           <div class="_body">
             <h3>Dubai</h3>
-            <p>503, 5th Floor, Millenium Central Downtown, Business Bay  </p>
+            <p>Bay Square - Building 12 - P floor - Business Bay</p>
           </div>
         </div>
         <div class="_location">

@@ -551,13 +551,13 @@
                                 <div class="card-header" id="faqhead10">
                                      <h3 class="mb-0"> 
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How does VoIPTech Solutions ensure route security and fraud protection?</a>
+                                    aria-expanded="true" aria-controls="faq10">How does VoIPTech Solutions CLI/NCLI ensure route security and fraud protection?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                        We implement advanced fraud detection and secure routing protocols to protect your business.
+                                    We implement advanced fraud detection and secure routing protocols to protect your business.
                                     </div>
                                 </div>
                             </div>

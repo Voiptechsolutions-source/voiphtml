@@ -541,12 +541,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">What kind of reporting features does VOS3000 offer?</a></h3>
+                                    aria-expanded="true" aria-controls="faq5">Which reporting tools does VOS3000 include for performance monitoring?</a></h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>VOS3000 provides real-time reporting, call tracking, analytics, and customizable dashboards, helping you monitor performance and make data-driven decisions.</p>
+                                    <p>VOS3000 offers call analytics, real-time tracking, and detailed dashboards to support data-driven decisions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -554,12 +554,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Can VOS3000 support multiple locations?</a></h3>
+                                    aria-expanded="true" aria-controls="faq6">How does VOS3000 support multi-location businesses?</a></h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, VOS3000 supports multi-location deployments, ensuring consistent performance across all branches or offices.</p>
+                                    <p>VOS3000 enables centralized management and ensures high performance across geographically dispersed branches.</p>
                                     </div>
                                 </div>
                             </div>
@@ -567,12 +567,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Is VOS3000 suitable for both small and large businesses?</a></h3>
+                                    aria-expanded="true" aria-controls="faq7">Why do businesses choose VoIPTech Solutions for VOS3000 deployment?</a></h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, VOS3000 is flexible enough to serve businesses of all sizes, from startups to large enterprises, with scalable features to match your growth.</p>
+                                    <p>VoIPTech Solutions delivers end-to-end support, from installation and integration to ongoing maintenance of VOS3000 systems.</p>
                                     </div>
                                 </div>
                             </div>
@@ -580,12 +580,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Does VOS3000 offer technical support?</a></h3>
+                                    aria-expanded="true" aria-controls="faq8">Can VOS3000 handle both outbound and inbound calling?</a></h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Yes, VOS3000 comes with dedicated technical support to assist you with setup, troubleshooting, and ongoing maintenance.</p>
+                                        <p>Yes, VOS3000 is designed for full-duplex communication, managing inbound and outbound traffic with advanced routing.</p>
                                     </div>
                                 </div>
                             </div>
@@ -593,12 +593,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Can VOS3000 handle both inbound and outbound calls?</a></h3>
+                                    aria-expanded="true" aria-controls="faq9">How does VoIPTech Solutions assist with technical support for VOS3000?</a></h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, VOS3000 is designed to manage both inbound and outbound calls, ensuring efficient call flow and management.</p>
+                                    <p>VoIPTech Solutions offers 24/7 technical support and expert troubleshooting to ensure your VOS3000 setup runs smoothly.</p>
                                     </div>
                                 </div>
                             </div>
@@ -606,12 +606,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How do I get started with VOS3000?</a></h3>
+                                    aria-expanded="true" aria-controls="faq10">How to get started with VOS3000 using VoIPTech Solutions?</a></h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Simply contact us for a demo or consultation, and our team will guide you through the setup process and customization to fit your needs.</p>
+                                    <p>Simply reach out to VoIPTech Solutions for a personalized demo and setup assistance tailored to your business needs.</p>
                                     </div>
                                 </div>
                             </div>

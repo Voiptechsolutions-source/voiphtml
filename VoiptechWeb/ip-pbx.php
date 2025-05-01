@@ -489,12 +489,12 @@
                                 <div class="card-header" id="faqhead1">
                                     
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does an IP PBX differ from a traditional PBX?</a></h3>
+                                    aria-expanded="true" aria-controls="faq1">How does an IP PBX enhance internal communication for businesses?</a></h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>An IP PBX uses internet protocol to route calls, offering more flexibility and lower costs.</p>
+                                    <p>IP PBX routes calls over the internet, offering seamless internal connectivity between departments and remote teams.</p>
                                     </div>
                                 </div>
                             </div>
@@ -502,12 +502,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can IP PBX support remote employees?</a></h3>
+                                    aria-expanded="true" aria-controls="faq2">Why do companies prefer IP PBX over traditional PBX systems?</a></h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, it allows seamless communication for teams working remotely through secure VoIP connections.</p>
+                                    <p>IP PBX is more flexible, cost-effective, and scalable, with support for VoIP, video calls, and advanced call features.</p>
                                     </div>
                                 </div>
                             </div>
@@ -515,12 +515,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is it possible to integrate IP PBX with CRM systems?</a></h3>
+                                    aria-expanded="true" aria-controls="faq3">Can IP PBX integrate with SIP trunking for external communications?</a></h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Absolutely, most IP PBX systems support integration with popular CRMs for better customer interaction.</p>
+                                    <p>Yes, IP PBX supports SIP trunking, allowing high-quality, low-cost voice communication with external networks.</p>
                                     </div>
                                 </div>
                             </div>
@@ -528,12 +528,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Does IP PBX require special hardware?</a></h3>
+                                    aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions assist in setting up a reliable IP PBX?</a></h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>No, it can work with existing devices or softphones depending on the setup.</p>
+                                    <p>VoIPTech Solutions provides complete setup, configuration, and support for IP PBX tailored to specific business needs.</p>
                                     </div>
                                 </div>
                             </div>
@@ -541,12 +541,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">How scalable is VoIPTech’s IP PBX?</a></h3>
+                                    aria-expanded="true" aria-controls="faq5">Is IP PBX suitable for hybrid or remote work environments?</a></h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>The system can easily scale with your business—add users or locations without any hassle.</p>
+                                    <p>Yes, IP PBX enables remote extensions, mobile apps, and browser-based calling, ideal for distributed teams.</p>
                                     </div>
                                 </div>
                             </div>
@@ -554,12 +554,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Can calls be recorded using IP PBX?</a></h3>
+                                    aria-expanded="true" aria-controls="faq6">Why is IP PBX a good fit for call centers and customer support teams?</a></h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, you can enable call recording for quality monitoring or compliance purposes.</p>
+                                    <p>IP PBX includes call queues, IVRs, call monitoring, and recording—perfect for managing high-volume customer interactions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -567,12 +567,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Is the solution secure for sensitive conversations?</a></h3>
+                                    aria-expanded="true" aria-controls="faq7">Can IP PBX scale with business growth and increased call traffic?</a></h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>VoIPTech ensures high-level encryption and security protocols for all communications.</p>
+                                    <p>Yes, IP PBX can be scaled easily by adding more extensions, trunks, or server capacity without major infrastructure changes.</p>
                                     </div>
                                 </div>
                             </div>
@@ -580,12 +580,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Are analytics and reporting available?</a></h3>
+                                    aria-expanded="true" aria-controls="faq8">How does VoIPTech Solutions ensure secure deployment of IP PBX?</a></h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Yes, detailed call reports and usage analytics are included in the dashboard.</p>
+                                        <p>VoIPTech Solutions implements firewall rules, encryption, and monitoring to secure IP PBX systems from threats.</p>
                                     </div>
                                 </div>
                             </div>
@@ -593,12 +593,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Does the system support voicemail-to-email?</a></h3>
+                                    aria-expanded="true" aria-controls="faq9">Does IP PBX allow call analytics and reporting for performance tracking?</a></h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, missed calls can trigger voicemails sent directly to your email inbox.</p>
+                                    <p>Yes, IP PBX systems offer dashboards, CDRs, and detailed analytics for better decision-making and management.</p>
                                     </div>
                                 </div>
                             </div>
@@ -606,12 +606,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Can the system handle multiple branches?</a></h3>
+                                    aria-expanded="true" aria-controls="faq10">Why is IP PBX considered a smart long-term investment for modern businesses?</a></h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, IP PBX is ideal for multi-location businesses needing centralized communication.</p>
+                                    <p>IP PBX provides flexibility, feature-rich communication, and reduced telecom costs—making it ideal for future-ready companies.</p>
                                     </div>
                                 </div>
                             </div>

@@ -506,13 +506,13 @@
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Does VoIPTech Solutions offer technical support for integration?</a>
+                                    aria-expanded="true" aria-controls="faq6">Does VoIPTech Solutions offer technical support for OTP SMS integration?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our tech team provides complete assistance for integrating OTP SMS into any system or app.
+                                    Yes, our tech team provides complete assistance for integrating OTP SMS into any system or application.
                                     </div>
                                 </div>
                             </div>
@@ -521,13 +521,13 @@
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Can OTP messages be customized with brand names?</a>
+                                    aria-expanded="true" aria-controls="faq7">Can OTP SMS messages be customized with brand names?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we offer branded sender IDs to make your messages recognizable.
+                                    Yes, we offer branded sender IDs to personalize your OTP SMS and boost brand recognition.
                                     </div>
                                 </div>
                             </div>
@@ -536,13 +536,13 @@
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Does the platform ensure OTP delivery during peak network hours?</a>
+                                    aria-expanded="true" aria-controls="faq8">How does the platform ensure OTP SMS delivery during peak network hours?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    We use multiple fallback routes to guarantee delivery even during congestion.
+                                    We use multiple fallback routes to ensure OTP SMS delivery even during network congestion.
                                     </div>
                                 </div>
                             </div>

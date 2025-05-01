@@ -440,13 +440,13 @@
                                 <div class="card-header" id="faqhead1">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does bulk SMS help my business grow?</a>
+                                    aria-expanded="true" aria-controls="faq1">How does Bulk SMS help in boosting customer engagement?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                        It allows you to instantly reach thousands of customers with promotions, alerts, and updates that drive engagement and conversions.
+                                    Bulk SMS allows businesses to instantly reach a large audience with personalized, time-sensitive messages, improving customer engagement and brand recall.
                                     </div>
                                 </div>
                             </div>
@@ -455,13 +455,13 @@
                                 <div class="card-header" id="faqhead2">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can bulk SMS campaigns be scheduled in advance?</a>
+                                    aria-expanded="true" aria-controls="faq2">Can Bulk SMS be integrated with CRM systems for automation?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, you can easily schedule messages for any date and time through our user-friendly dashboard.
+                                    Yes, Bulk SMS can be easily integrated with most CRM systems, enabling automated message flows, customer segmentation, and performance tracking.
                                     </div>
                                 </div>
                             </div>
@@ -470,13 +470,13 @@
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is there a minimum SMS volume required to start?</a>
+                                    aria-expanded="true" aria-controls="faq3">Why do businesses prefer Bulk SMS over email marketing?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                        No, you can begin with flexible plans that suit your specific needs—whether you’re sending hundreds or millions of texts.
+                                        Bulk SMS offers higher open rates, faster delivery, and direct reach to users’ mobile phones, making it more effective than email for time-critical communications.
                                     </div>
                                 </div>
                             </div>
@@ -485,13 +485,13 @@
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Does VoIPTech Solutions offer delivery reports?</a>
+                                    aria-expanded="true" aria-controls="faq4">How secure is the Bulk SMS service offered by VoIPTech Solutions?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                        Absolutely. Real-time delivery reports help you track performance and optimize your campaigns effectively.
+                                        VoIPTech Solutions ensures high security in its Bulk SMS services with encrypted transmission, reliable delivery routes, and strict data privacy protocols.
                                     </div>
                                 </div>
                             </div>
@@ -501,14 +501,14 @@
                                    
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Are bulk SMS messages delivered globally?</a>
+                                    aria-expanded="true" aria-controls="faq5">Are there any limitations on the number of messages sent via Bulk SMS?</a>
                                      </h3>
                                  
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, our service supports international delivery to over 200+ countries through secure, high-quality routes.
+                                        Bulk SMS platforms typically allow high message volumes, with limitations varying based on the plan and regional telecom regulations.
                                     </div>
                                 </div>
                             </div>
@@ -517,13 +517,13 @@
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Can I customize the sender ID in my messages?</a>
+                                    aria-expanded="true" aria-controls="faq6">Why is Bulk SMS considered cost-effective for mass communication?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, we offer customizable sender IDs to ensure brand visibility and message authenticity.
+                                        Bulk SMS minimizes costs per message while delivering maximum outreach, making it ideal for promotions, alerts, and notifications.
                                     </div>
                                 </div>
                             </div>
@@ -532,13 +532,13 @@
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Is customer support available for bulk SMS users?</a>
+                                    aria-expanded="true" aria-controls="faq7">How can VoIPTech Solutions customize Bulk SMS campaigns for different industries?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, our dedicated support team is available 24/7 to assist you with setup, delivery issues, or campaign help.
+                                        VoIPTech Solutions offers tailored Bulk SMS solutions, aligning message templates, delivery timings, and segmentation strategies based on industry-specific needs.
                                     </div>
                                 </div>
                             </div>
@@ -547,13 +547,13 @@
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Will my messages comply with telecom regulations?</a>
+                                    aria-expanded="true" aria-controls="faq8">Does Bulk SMS support delivery tracking and analytics?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, we follow all regional and international guidelines to ensure safe and compliant messaging.
+                                        Yes, most Bulk SMS platforms provide real-time delivery reports, click-through data, and campaign analytics to measure effectiveness.
                                     </div>
                                 </div>
                             </div>
@@ -562,13 +562,13 @@
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Does the bulk SMS service include API access?</a>
+                                    aria-expanded="true" aria-controls="faq9">How fast can VoIPTech Solutions deploy a Bulk SMS campaign for a new client?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                        Yes, we provide flexible and secure APIs for seamless integration into your platform or CRM.
+                                        VoIPTech Solutions can activate a Bulk SMS campaign in as little as 24 hours, depending on compliance and setup requirements.
                                     </div>
                                 </div>
                             </div>
@@ -577,13 +577,13 @@
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How soon can I start sending bulk SMS after signup?</a>
+                                    aria-expanded="true" aria-controls="faq10">Can international marketing be done using Bulk SMS services?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                        In most cases, your account is set up and ready to launch campaigns within a few hours of onboarding.
+                                        Bulk SMS supports international messaging, allowing businesses to engage global audiences with region-specific language and timing.
                                     </div>
                                 </div>
                             </div>

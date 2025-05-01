@@ -552,13 +552,13 @@
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Does VoIPTech Solutions support bulk uploads for contacts?</a>
+                                    aria-expanded="true" aria-controls="faq8">How is Promotional SMS different from other types of Bulk SMS campaigns?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, you can upload large contact lists easily through our dashboard.
+                                    Promotional SMS is used for marketing offers and sent only to non-DND numbers during business hours, unlike transactional SMS which is sent 24/7.
                                     </div>
                                 </div>
                             </div>

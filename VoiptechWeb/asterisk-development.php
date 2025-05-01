@@ -410,7 +410,7 @@
         <!-- Contact Form -->
         <?php include 'includes/footer-contact-form.php'; ?>
        <!-- FAQ -->
-        <section class="faq py-80">
+       <section class="faq py-80">
             <div class="container">
                 <div class="section-title text-center">
                     <h2>Frequently asked questions</h2>
@@ -426,13 +426,13 @@
                                 <div class="card-header" id="faqhead1">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does Asterisk development improve business communication?</a>
+                                    aria-expanded="true" aria-controls="faq1">How can Asterisk development help build a custom VoIP solution?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    It enables custom call flows, IVRs, and integrations that align perfectly with your unique operational needs.
+                                    Asterisk development enables businesses to create tailored VoIP systems, including PBX, IVR, call routing, and conferencing features.
                                     </div>
                                 </div>
                             </div>
@@ -441,13 +441,13 @@
                                 <div class="card-header" id="faqhead2">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can Asterisk systems be integrated with CRMs and ERPs?</a>
+                                    aria-expanded="true" aria-controls="faq2">Why is Asterisk development a preferred choice for call center solutions?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we provide seamless API and database integration with tools like Salesforce, Zoho, and more.
+                                    Asterisk development offers high flexibility and control, making it ideal for building scalable and cost-effective call center platforms.
                                     </div>
                                 </div>
                             </div>
@@ -456,13 +456,13 @@
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is Asterisk suitable for small businesses and startups?</a>
+                                    aria-expanded="true" aria-controls="faq3">Can VoIPTech Solutions deliver end-to-end Asterisk development services?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely — we scale Asterisk systems to match your current size and future growth.
+                                    Yes, VoIPTech Solutions offers complete Asterisk development — from architecture design to deployment and support.
                                     </div>
                                 </div>
                             </div>
@@ -471,13 +471,13 @@
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Are VoIPTech Solutions experienced in multi-tenant Asterisk setups?</a>
+                                    aria-expanded="true" aria-controls="faq4">How does Asterisk development support integration with CRM platforms?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our team has delivered multi-tenant solutions with full separation and robust admin panels.
+                                    Asterisk development includes API support for integrating with CRM systems, allowing real-time data sync and call tracking.
                                     </div>
                                 </div>
                             </div>
@@ -486,13 +486,13 @@
                                 <div class="card-header" id="faqhead5">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">How secure are the Asterisk systems developed by VoIPTech Solutions?</a>
+                                    aria-expanded="true" aria-controls="faq5">Why do startups opt for Asterisk development for their telephony infrastructure?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    We implement SIP security, firewalls, and access controls to ensure end-to-end system protection.
+                                    Asterisk development is open-source and budget-friendly, giving startups access to advanced telephony features without high licensing costs.
                                     </div>
                                 </div>
                             </div>
@@ -501,13 +501,13 @@
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Do you offer support after deployment of the Asterisk system?</a>
+                                    aria-expanded="true" aria-controls="faq6">Does VoIPTech Solutions offer maintenance for Asterisk development projects?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we provide ongoing maintenance, troubleshooting, and upgrades based on your evolving needs.
+                                    Yes, VoIPTech Solutions not only develops but also provides ongoing support and upgrades for Asterisk development deployments.
                                     </div>
                                 </div>
                             </div>
@@ -516,13 +516,13 @@
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Is real-time call monitoring available in your Asterisk solutions?</a>
+                                    aria-expanded="true" aria-controls="faq7">How does Asterisk development improve business communication efficiency?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we include dashboards and tools for live monitoring, analytics, and agent supervision.
+                                    Asterisk development automates call flows, enhances routing, and enables real-time analytics, boosting operational efficiency.
                                     </div>
                                 </div>
                             </div>
@@ -531,13 +531,13 @@
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Does VoIPTech provide white-labelled Asterisk solutions?</a>
+                                    aria-expanded="true" aria-controls="faq8">Can Asterisk development handle multi-tenant VoIP systems?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we can deliver fully white-labelled Asterisk systems under your brand.
+                                    Yes, Asterisk development can be configured for multi-tenant environments, enabling isolated user accounts and resource control.
                                     </div>
                                 </div>
                             </div>
@@ -546,13 +546,13 @@
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Can I get a demo before finalizing the project?</a>
+                                    aria-expanded="true" aria-controls="faq9">How does VoIPTech Solutions ensure secure Asterisk development implementations?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    Of course — we’re happy to walk you through a working demo tailored to your needs.
+                                    VoIPTech Solutions follows best practices in Asterisk development with encryption, firewall settings, and secure protocols
                                     </div>
                                 </div>
                             </div>
@@ -561,13 +561,13 @@
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How fast can VoIPTech Solutions deliver an Asterisk project?</a>
+                                    aria-expanded="true" aria-controls="faq10">Is Asterisk development suitable for hybrid VoIP setups with both on-premise and cloud systems?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    Timelines depend on complexity, but most projects are ready within a few business days to weeks.
+                                    Yes, Asterisk development can be customized to support hybrid infrastructures, allowing seamless communication across platforms.
                                     </div>
                                 </div>
                             </div>

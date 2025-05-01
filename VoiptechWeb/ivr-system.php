@@ -485,13 +485,13 @@
                                 <div class="card-header" id="faqhead1">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">Does the IVR system support both inbound and outbound call flows?</a>
+                                    aria-expanded="true" aria-controls="faq1">How does an IVR system enhance customer service operations?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our IVR solution manages both incoming and outgoing calls, streamlining communication for various campaign types.
+                                    An IVR system automates call routing, reducing wait times and helping customers reach the right department faster.
                                     </div>
                                 </div>
                             </div>
@@ -500,13 +500,13 @@
                                 <div class="card-header" id="faqhead2">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can IVR menus be customized based on business hours or holidays?</a>
+                                    aria-expanded="true" aria-controls="faq2">Why do businesses implement an IVR system in their call flow?</a>
                                       </h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely, you can automate different greetings and call flows for working hours, after-hours, or holidays.
+                                    An IVR system streamlines call handling, improves caller experience, and reduces the workload on live agents.
                                     </div>
                                 </div>
                             </div>
@@ -515,13 +515,13 @@
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is the IVR system easy to integrate with existing CRM platforms?</a>
+                                    aria-expanded="true" aria-controls="faq3">Can VoIPTech Solutions set up a multi-level IVR system for enterprises?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, it integrates smoothly with most popular CRMs to enhance caller context and agent efficiency.
+                                    Yes, VoIPTech Solutions specializes in designing and deploying complex, multi-level IVR systems tailored to enterprise needs.
                                     </div>
                                 </div>
                             </div>
@@ -530,13 +530,13 @@
                                 <div class="card-header" id="faqhead4">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Do call centers need technical staff to manage the IVR?</a>
+                                    aria-expanded="true" aria-controls="faq4">How does an IVR system support 24/7 customer interaction?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Not at all — we offer a user-friendly dashboard that requires no technical expertise to configure or manage.
+                                    An IVR system offers round-the-clock automated responses, enabling businesses to serve customers even outside office hours.
                                     </div>
                                 </div>
                             </div>
@@ -545,13 +545,13 @@
                                 <div class="card-header" id="faqhead5">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Can small businesses also benefit from IVR systems?</a>
+                                    aria-expanded="true" aria-controls="faq5">Is it possible to integrate an IVR system with CRM platforms?</a>
                                       </h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, small teams can use IVR to handle high call volumes professionally without needing a large support staff.
+                                    Yes, an IVR system can be integrated with CRMs to provide personalized responses and fetch customer data in real time.
                                     </div>
                                 </div>
                             </div>
@@ -560,13 +560,13 @@
                                 <div class="card-header" id="faqhead6">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Does VoIPTech Solutions provide multi-language IVR support?</a>
+                                    aria-expanded="true" aria-controls="faq6">Why is an IVR system useful for lead generation campaigns?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our IVR supports multiple languages to cater to diverse customer bases and global operations.
+                                    An IVR system captures customer input through keypresses or speech, qualifying leads before passing them to a live agent.
                                     </div>
                                 </div>
                             </div>
@@ -575,13 +575,13 @@
                                 <div class="card-header" id="faqhead7">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Can callers be routed based on input like account number or region?</a>
+                                    aria-expanded="true" aria-controls="faq7">Can VoIPTech Solutions customize an IVR system for different industries?</a>
                                       </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, the system can intelligently route calls based on inputs or data from your database.
+                                    Absolutely, VoIPTech Solutions builds industry-specific IVR systems for healthcare, finance, retail, and more.
                                     </div>
                                 </div>
                             </div>
@@ -590,13 +590,13 @@
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Is it possible to track caller journey using the IVR system?</a>
+                                    aria-expanded="true" aria-controls="faq8">How does an IVR system reduce operational costs in a call center?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, you can view detailed call logs, selections, durations, and conversion rates.
+                                    An IVR system automates repetitive queries and routes calls efficiently, lowering the need for large support teams.
                                     </div>
                                 </div>
                             </div>
@@ -605,13 +605,13 @@
                                 <div class="card-header" id="faqhead9">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Does VoIPTech Solutions offer 24/7 support for the IVR system?</a>
+                                    aria-expanded="true" aria-controls="faq9">Does an IVR system support voice recognition and multilingual options?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we provide round-the-clock technical support to ensure your IVR runs smoothly.
+                                    Yes, modern IVR systems support voice recognition and multiple languages to enhance accessibility and user experience.
                                     </div>
                                 </div>
                             </div>
@@ -620,13 +620,13 @@
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Does VoIPTech Solutions offer scalable IVR plans for growing businesses?</a>
+                                    aria-expanded="true" aria-controls="faq10">Why do companies choose VoIPTech Solutions for IVR system implementation?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our IVR solutions are built to grow with you, easily scaling as your call volume and team size expand.
+                                    VoIPTech Solutions offers robust, scalable, and fully customizable IVR system solutions with ongoing support and integration services.
                                     </div>
                                 </div>
                             </div>

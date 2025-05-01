@@ -1261,6 +1261,7 @@ aside .nav-pills .nav-link.active:after{
 .comp-section-cont {
 	border-radius: 20px !important;
 }
+
 /*-----------------------Switch Style-----------------*/
 /* The switch - the box around the slider */
 .switch {
@@ -1441,9 +1442,23 @@ aside .nav-pills .nav-link.active:after{
     .sms-submenu:hover .dropdown-menu{
         display: block !important;
     }
-    .dropdown-menu.dropdown1.sol-drop {
-        max-height: 300px;
-        overflow-y: auto;
+    .solutions-menu .dropdown-menu.dropdown1.sol-drop {
+        width: 500px;
+        grid-template-columns: repeat(2,1fr);
+        display: grid !important;
+        /* opacity: 0; */
+        visibility: hidden;
+        pointer-events: none;
+        transition: all 200ms ease-in-out;
+        top: 0;
+        z-index: 0;
+    }
+    .nav-item.dropdown.solutions-menu:hover .sol-drop {
+        opacity: 1;
+        pointer-events: all;
+        top: 40px;
+        z-index: 9999;
+        visibility: visible;
     }
 }
 @media(max-width: 1200px){

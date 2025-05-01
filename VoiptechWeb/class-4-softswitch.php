@@ -487,12 +487,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does a Class 4 Softswitch help in VoIP traffic routing?</a></h3>
+                                    aria-expanded="true" aria-controls="faq1">How does a Class 4 Softswitch manage long-distance VoIP traffic?</a></h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>It enables high-volume call routing between telecom carriers with smart, cost-effective logic.</p>
+                                        <p>Class 4 Softswitch is designed to handle high volumes of VoIP traffic across multiple networks, ensuring seamless call routing between carriers.</p>
                                     </div>
                                 </div>
                             </div>
@@ -500,12 +500,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can this Softswitch handle multiple carrier interconnections?</a></h3>
+                                    aria-expanded="true" aria-controls="faq2">Why is Class 4 Softswitch ideal for wholesale VoIP providers?</a></h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Yes, it supports multi-carrier setups and manages them with intelligent routing features.</p>
+                                        <p>Class 4 Softswitch focuses on routing calls between carriers, offering efficient bandwidth management and least-cost routing.</p>
                                     </div>
                                 </div>
                             </div>
@@ -513,12 +513,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is the system secure against VoIP fraud and attacks?</a></h3>
+                                    aria-expanded="true" aria-controls="faq3">Can Class 4 Softswitch handle multiple codecs and protocols?</a></h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Absolutely — built-in firewalls, traffic filters, and fraud detection keep your network protected.</p>
+                                        <p>Yes, Class 4 Softswitch supports SIP, H.323, and multiple codecs, ensuring interoperability across diverse VoIP infrastructures.</p>
                                     </div>
                                 </div>
                             </div>
@@ -526,12 +526,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Does this solution include real-time billing and reporting?</a></h3>
+                                    aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions support businesses using Class 4 Softswitch?</a></h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Yes, it offers live CDR tracking, customizable rate plans, and instant performance metrics.</p>
+                                        <p>VoIPTech Solutions offers tailored deployment, configuration, and maintenance services to optimize Class 4 Softswitch performance.</p>
                                     </div>
                                 </div>
                             </div>
@@ -539,12 +539,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Are SIP and other common protocols supported?</a></h3>
+                                    aria-expanded="true" aria-controls="faq5">Does Class 4 Softswitch support dynamic call routing based on cost or quality?</a></h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Full support is provided for SIP, H.323, and a variety of codecs used by modern networks.</p>
+                                        <p>Yes, Class 4 Softswitch enables intelligent routing decisions using LCR (Least Cost Routing) and quality-based metrics.</p>
                                     </div>
                                 </div>
                             </div>
@@ -552,12 +552,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Can I define custom routing rules for different regions?</a></h3>
+                                    aria-expanded="true" aria-controls="faq6">Why is Class 4 Softswitch important for international call routing?</a></h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Yes, the system allows dynamic, rule-based routing based on destination, quality, or cost.</p>
+                                        <p>Class 4 Softswitch ensures efficient cross-border call transfers with lower latency, improved call quality, and fraud prevention features.</p>
                                     </div>
                                 </div>
                             </div>
@@ -565,12 +565,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Does the Softswitch ensure redundancy and uptime?</a></h3>
+                                    aria-expanded="true" aria-controls="faq7">Can Class 4 Softswitch be integrated with billing and reporting systems?</a></h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>It includes automatic failover and load balancing to keep your traffic running 24/7.</p>
+                                        <p>Yes, Class 4 Softswitch supports integration with advanced billing platforms, real-time monitoring tools, and detailed CDRs.</p>
                                     </div>
                                 </div>
                             </div>
@@ -578,12 +578,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Is there an option for cloud-based deployment?</a></h3>
+                                    aria-expanded="true" aria-controls="faq8">How does VoIPTech Solutions ensure the reliability of Class 4 Softswitch installations?</a></h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Yes, you can choose between hosted cloud or on-premise deployment based on your preference.</p>
+                                        <p>VoIPTech Solutions sets up redundancy, load balancing, and monitoring to deliver high availability and consistent performance.</p>
                                     </div>
                                 </div>
                             </div>
@@ -591,12 +591,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">How quickly can we go live after onboarding?</a></h3>
+                                    aria-expanded="true" aria-controls="faq9">Is Class 4 Softswitch scalable for growing VoIP businesses?</a></h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Setup typically takes 48–72 hours, depending on your configuration needs.</p>
+                                        <p>Yes, Class 4 Softswitch can easily scale to support more carriers, increased call traffic, and additional routing rules.</p>
                                     </div>
                                 </div>
                             </div>
@@ -604,12 +604,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Will ongoing support and maintenance be handled by VoIPTech Solutions?</a></h3>
+                                    aria-expanded="true" aria-controls="faq10">How does Class 4 Softswitch contribute to network efficiency and cost savings?</a></h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>Yes, our team takes care of end-to-end support, monitoring, and system updates.</p>
+                                        <p>Class 4 Softswitch reduces transit costs, enhances routing precision, and minimizes dropped calls through intelligent traffic management.</p>
                                     </div>
                                 </div>
                             </div>

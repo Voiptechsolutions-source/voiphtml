@@ -482,13 +482,13 @@
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Is approval required to send transactional messages?</a>
+                                    aria-expanded="true" aria-controls="faq4">How does Transactional SMS ensure timely delivery of critical messages?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, you must register your templates and sender ID on the DLT platform for compliance.
+                                    Transactional SMS is delivered instantly, 24/7, even on DND numbers, making it ideal for OTPs, alerts, and service notifications.
                                     </div>
                                 </div>
                             </div>
@@ -512,13 +512,13 @@
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Does VoIPTech Solutions offer API integration for SMS?</a>
+                                    aria-expanded="true" aria-controls="faq6">Can banks and financial services use Transactional SMS for secure communication?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely! We provide developer-friendly APIs for seamless integration with your system or application.
+                                    Yes, Transactional SMS is widely used by banks for sending OTPs, account updates, and fraud alerts securely.
                                     </div>
                                 </div>
                             </div>
@@ -527,13 +527,13 @@
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">How secure is the messaging system?</a>
+                                    aria-expanded="true" aria-controls="faq7">Does VoIPTech Solutions support automated Transactional SMS services?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    Our SMS gateway uses encryption and follows strict security protocols to protect your data.
+                                    Yes, VoIPTech Solutions offers automated Transactional SMS with API integration for real-time, rule-based message delivery.
                                     </div>
                                 </div>
                             </div>
@@ -557,13 +557,13 @@
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Is there a limit on message volume per day?</a>
+                                    aria-expanded="true" aria-controls="faq9">Why is Transactional SMS preferred for sending OTPs and alerts?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    No hard limits—your plan can scale with your daily or monthly requirements.
+                                    Transactional SMS is fast, reliable, and bypasses DND filters, ensuring critical information reaches users without delay.
                                     </div>
                                 </div>
                             </div>

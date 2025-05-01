@@ -503,13 +503,13 @@
                                 <div class="card-header" id="faqhead1">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does a custom dialer improve business communication?</a>
+                                    aria-expanded="true" aria-controls="faq1">How does VTS Dialer improve outbound calling efficiency?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    It automates dialing, manages call flows, and boosts agent productivity.
+                                    VTS Dialer automates call distribution and eliminates manual dialing, boosting agent productivity and call connection rates.
                                     </div>
                                 </div>
                             </div>
@@ -518,13 +518,13 @@
                                 <div class="card-header" id="faqhead2">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Does the VTS Dialer support both inbound and outbound calls?</a>
+                                    aria-expanded="true" aria-controls="faq2">Why is VTS Dialer suitable for call center operations?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, it seamlessly handles both types with IVR and routing.
+                                    VTS Dialer is built to handle high-volume outbound campaigns with features like predictive dialing, call routing, and real-time analytics.
                                     </div>
                                 </div>
                             </div>
@@ -533,13 +533,13 @@
                                 <div class="card-header" id="faqhead3">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Can the VTS Dialer be integrated with our existing CRM?</a>
+                                    aria-expanded="true" aria-controls="faq3">Can VTS Dialer integrate with CRM platforms for lead management?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely, it supports integration with most cloud/on-premise CRMs.
+                                    Yes, VTS Dialer supports CRM integration to streamline lead tracking, follow-ups, and customer interaction history.
                                     </div>
                                 </div>
                             </div>
@@ -548,13 +548,13 @@
                                 <div class="card-header" id="faqhead4">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Is real-time reporting available with the VTS Dialer?</a>
+                                    aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions ensure smooth deployment of VTS Dialer?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, you can track live metrics like AHT, call volumes, and agent activity.
+                                    VoIPTech Solutions provides end-to-end setup, customization, and support for VTS Dialer, tailored to client requirements.
                                     </div>
                                 </div>
                             </div>
@@ -563,13 +563,13 @@
                                 <div class="card-header" id="faqhead5">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Can I scale the VTS Dialer as my team grows?</a>
+                                    aria-expanded="true" aria-controls="faq5">Is VTS Dialer compatible with cloud-based communication systems?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, the dialer is built for scalability, from startups to enterprises.
+                                    Yes, VTS Dialer supports cloud deployment, allowing flexible and remote call center operations.
                                     </div>
                                 </div>
                             </div>
@@ -578,13 +578,13 @@
                                 <div class="card-header" id="faqhead6">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Does VoIPTech Solutions offer support after deployment?</a>
+                                    aria-expanded="true" aria-controls="faq6">Why do sales teams prefer using VTS Dialer for campaigns?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we provide 24/7 technical support and regular updates.
+                                    VTS Dialer enables faster outreach, better contact rates, and detailed performance reporting, making it ideal for sales teams.
                                     </div>
                                 </div>
                             </div>
@@ -593,13 +593,13 @@
                                 <div class="card-header" id="faqhead7">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">How does VoIPTech ensure data security for VTS Dialer users?</a>
+                                    aria-expanded="true" aria-controls="faq7">Can VoIPTech Solutions customize VTS Dialer based on industry-specific needs?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    We use encryption, secure access, and PCI-compliant solutions.
+                                    Absolutely, VoIPTech Solutions offers industry-focused customization for VTS Dialer, ensuring optimized performance and compliance.
                                     </div>
                                 </div>
                             </div>
@@ -608,13 +608,13 @@
                                 <div class="card-header" id="faqhead8">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Are mobile apps supported by the VTS Dialer?</a>
+                                    aria-expanded="true" aria-controls="faq8">How does VTS Dialer handle call recordings and compliance?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our dialer offers full mobile compatibility and app integration.
+                                    VTS Dialer includes built-in recording features, storage management, and compliance tools for data security and audit readiness.
                                     </div>
                                 </div>
                             </div>
@@ -623,13 +623,13 @@
                                 <div class="card-header" id="faqhead9">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">How long does deployment typically take?</a>
+                                    aria-expanded="true" aria-controls="faq9">Does VTS Dialer support multiple dialing modes?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    Depending on customization, deployment is fast—usually within days.
+                                    Yes, VTS Dialer offers predictive, progressive, and manual dialing modes to suit various campaign requirements.
                                     </div>
                                 </div>
                             </div>
@@ -638,13 +638,13 @@
                                 <div class="card-header" id="faqhead10">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How does VoIPTech Solutions tailor the dialer for my business?</a>
+                                    aria-expanded="true" aria-controls="faq10">Why choose VTS Dialer for scaling outbound operations?</a>
                                       </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    We assess your needs and craft a dialer setup with features that match.
+                                    VTS Dialer is built for scalability, allowing businesses to expand outreach without compromising on call quality or system stability.
                                     </div>
                                 </div>
                             </div>

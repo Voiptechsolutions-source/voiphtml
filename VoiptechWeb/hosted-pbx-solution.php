@@ -515,13 +515,13 @@
                                 <div class="card-header" id="faqhead1">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does Hosted PBX differ from traditional PBX systems?</a>
+                                    aria-expanded="true" aria-controls="faq1">How does a Hosted PBX improve communication for remote teams?</a>
                                       </h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    Hosted PBX operates via the cloud, eliminating the need for bulky hardware and on-site maintenance.
+                                    Hosted PBX enables employees to make and receive business calls from anywhere using internet-connected devices.
                                     </div>
                                 </div>
                             </div>
@@ -530,13 +530,13 @@
                                 <div class="card-header" id="faqhead2">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can Hosted PBX be used across multiple locations?</a>
+                                    aria-expanded="true" aria-controls="faq2">Why is Hosted PBX more cost-effective than traditional phone systems?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, it enables seamless communication between teams regardless of location, making it perfect for remote or multi-branch operations.
+                                    Hosted PBX eliminates on-site hardware and maintenance costs, offering a subscription-based model with scalable pricing.
                                     </div>
                                 </div>
                             </div>
@@ -545,13 +545,13 @@
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is Hosted PBX suitable for small businesses?</a>
+                                    aria-expanded="true" aria-controls="faq3">Can Hosted PBX support call recording, voicemail, and auto-attendants?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely. It's cost-effective, scalable, and offers enterprise-level features even to startups and small teams.
+                                    Yes, Hosted PBX includes advanced features like voicemail-to-email, call recording, IVR, and automated greetings.
                                     </div>
                                 </div>
                             </div>
@@ -560,13 +560,13 @@
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Are calls secure over a Hosted PBX system?</a>
+                                    aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions simplify Hosted PBX migration for businesses?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, VoIPTech’s Hosted PBX includes robust encryption and firewall protection to keep your communication private and secure.
+                                    VoIPTech Solutions handles number porting, setup, training, and full migration support to ensure a seamless transition to Hosted PBX.
                                     </div>
                                 </div>
                             </div>
@@ -575,13 +575,13 @@
                                 <div class="card-header" id="faqhead5">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Will it integrate with our CRM and helpdesk software?</a>
+                                    aria-expanded="true" aria-controls="faq5">Is Hosted PBX suitable for small businesses with limited IT resources?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our Hosted PBX easily integrates with most major CRM and business tools to streamline workflows
+                                    Yes, Hosted PBX is fully managed in the cloud, requiring no on-premise servers or technical expertise from the user’s side.
                                     </div>
                                 </div>
                             </div>
@@ -590,13 +590,13 @@
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Can I scale up or down based on team size?</a>
+                                    aria-expanded="true" aria-controls="faq6">Why do businesses choose Hosted PBX for multi-location connectivity?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Definitely. You can add or remove extensions as your team grows or changes—instantly and effortlessly.
+                                    Hosted PBX unifies communication across multiple branches with centralized management and consistent call routing.
                                     </div>
                                 </div>
                             </div>
@@ -605,13 +605,13 @@
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Do I need to invest in new hardware?</a>
+                                    aria-expanded="true" aria-controls="faq7">Can Hosted PBX integrate with CRM and collaboration tools?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    No. Hosted PBX works with your existing internet-enabled devices, saving you hardware costs.
+                                    Yes, Hosted PBX supports integration with platforms like Salesforce, Microsoft Teams, and Slack to streamline workflows.
                                     </div>
                                 </div>
                             </div>
@@ -620,13 +620,13 @@
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">How fast can we get started with Hosted PBX?</a>
+                                    aria-expanded="true" aria-controls="faq8">How does VoIPTech Solutions ensure reliability in Hosted PBX services?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Our onboarding process is quick. Most clients go live within 24-48 hours after signing up.
+                                    VoIPTech Solutions provides geo-redundant infrastructure, 24/7 monitoring, and enterprise-grade uptime for Hosted PBX users.
                                     </div>
                                 </div>
                             </div>
@@ -635,13 +635,13 @@
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Is there a backup if the internet goes down?</a>
+                                    aria-expanded="true" aria-controls="faq9">Does Hosted PBX allow real-time analytics and call reporting?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we offer automatic failover and call forwarding to mobile numbers to ensure zero downtime.
+                                    Yes, Hosted PBX platforms offer detailed dashboards and reporting tools for tracking call volumes, agent performance, and more.
                                     </div>
                                 </div>
                             </div>
@@ -650,13 +650,13 @@
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Who handles support and maintenance?</a>
+                                    aria-expanded="true" aria-controls="faq10">Why is Hosted PBX considered future-proof for growing businesses?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    VoIPTech’s expert team takes care of everything—from setup and updates to ongoing 24/7 technical support.
+                                    Hosted PBX allows easy scaling, feature upgrades, and remote access—making it ideal for evolving communication needs.
                                     </div>
                                 </div>
                             </div>

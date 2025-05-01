@@ -491,13 +491,13 @@
                                 <div class="card-header" id="faqhead1">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does an auto dialer improve call center productivity?</a>
+                                    aria-expanded="true" aria-controls="faq1">How does an Auto Dialer increase agent productivity?</a>
                                       </h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    An auto dialer automates the dialing process, connecting only answered calls to agents and reducing idle time.
+                                    Auto Dialer automates the calling process, reducing manual dialing time and allowing agents to focus more on live conversations.
                                     </div>
                                 </div>
                             </div>
@@ -506,13 +506,13 @@
                                 <div class="card-header" id="faqhead2">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can VoIPTech’s Auto Dialer integrate with our existing CRM system?</a>
+                                    aria-expanded="true" aria-controls="faq2">Why do call centers rely on Auto Dialer for high-volume outreach?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, it supports seamless integration with both cloud-based and on-premise CRM platforms.
+                                    Auto Dialer enables rapid, continuous dialing with minimal downtime, making it ideal for large-scale campaigns and follow-ups.
                                     </div>
                                 </div>
                             </div>
@@ -521,13 +521,13 @@
                                 <div class="card-header" id="faqhead3">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is VoIPTech’s Auto Dialer suitable for remote teams?</a>
+                                    aria-expanded="true" aria-controls="faq3">Can Auto Dialer filter out unanswered calls and voicemails?</a>
                                       </h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely. Our dialer supports remote agents with real-time monitoring and cloud-based access.
+                                    Yes, Auto Dialer uses call detection to skip busy tones, unanswered calls, and voicemails, connecting agents only to live responses.
                                     </div>
                                 </div>
                             </div>
@@ -536,13 +536,13 @@
                                 <div class="card-header" id="faqhead4">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Why do businesses choose VoIPTech for auto dialing solutions?</a>
+                                    aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions customize Auto Dialer for different industries?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Because we offer custom setups, robust features, reliable uptime, and ongoing support for every client.
+                                    VoIPTech Solutions tailors Auto Dialer configurations for sectors like banking, healthcare, insurance, and telemarketing.
                                     </div>
                                 </div>
                             </div>
@@ -551,13 +551,13 @@
                                 <div class="card-header" id="faqhead5">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">How secure is the Auto Dialer platform?</a>
+                                    aria-expanded="true" aria-controls="faq5">Is Auto Dialer effective for both inbound and outbound campaigns?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    VoIPTech’s dialer comes with built-in security protocols, encrypted communication, and access control settings.
+                                    Yes, Auto Dialer supports predictive, progressive, and preview modes for outbound calls and can be integrated with inbound workflows.
                                     </div>
                                 </div>
                             </div>
@@ -566,13 +566,13 @@
                                 <div class="card-header" id="faqhead6">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Does the system support both inbound and outbound campaigns?</a>
+                                    aria-expanded="true" aria-controls="faq6">Can Auto Dialer integrate with CRM platforms?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, our solution is designed to handle both efficiently, including blended campaigns.
+                                    Auto Dialer integrates seamlessly with popular CRMs, allowing real-time data sync, lead tracking, and call notes.
                                     </div>
                                 </div>
                             </div>
@@ -581,13 +581,13 @@
                                 <div class="card-header" id="faqhead7">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Are real-time analytics included in the solution?</a>
+                                    aria-expanded="true" aria-controls="faq7">How does VoIPTech Solutions ensure compliance for Auto Dialer usage?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, you get performance dashboards, call metrics, and agent stats in real-time.
+                                    VoIPTech Solutions configures Auto Dialer to comply with local telecom regulations, DNC rules, and call time restrictions.
                                     </div>
                                 </div>
                             </div>
@@ -596,13 +596,13 @@
                                 <div class="card-header" id="faqhead8">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">How quickly can the Auto Dialer be deployed?</a>
+                                    aria-expanded="true" aria-controls="faq8">Why is Auto Dialer ideal for political campaigns and surveys?</a>
                                      </h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Deployment is quick and smooth, typically completed within a few hours to a couple of days depending on the setup.
+                                    Auto Dialer quickly delivers pre-recorded messages or connects agents to voters, ensuring fast and wide outreach.
                                     </div>
                                 </div>
                             </div>
@@ -611,13 +611,13 @@
                                 <div class="card-header" id="faqhead9">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">Does VoIPTech offer training or onboarding support?</a>
+                                    aria-expanded="true" aria-controls="faq9">Can Auto Dialer track campaign performance in real time?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, we offer hands-on training and dedicated support to help your team hit the ground running.
+                                    Yes, Auto Dialer includes reporting tools to monitor metrics like call duration, connect rate, and agent performance.
                                     </div>
                                 </div>
                             </div>
@@ -626,13 +626,13 @@
                                 <div class="card-header" id="faqhead10">
                                      <h3 class="mb-0">
                                     <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How is VoIPTech different from other dialer providers?</a>
+                                    aria-expanded="true" aria-controls="faq10">How does VoIPTech Solutions support businesses using Auto Dialer?</a>
                                     </h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    We tailor every solution to client needs, offer full scalability, and ensure a human touch in our support.
+                                    VoIPTech Solutions provides full setup, training, and ongoing tech support to maximize the value of your Auto Dialer system.
                                     </div>
                                 </div>
                             </div>

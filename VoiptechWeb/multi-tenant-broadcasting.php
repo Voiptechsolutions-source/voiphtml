@@ -491,12 +491,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does multi-tenant broadcasting differ from regular voice broadcasting?</a></h3>
+                                    aria-expanded="true" aria-controls="faq1">How does a Multi-Tenant Broadcasting Solution support scalable communication?</a></h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>It allows multiple clients or departments to run broadcasts independently from a shared platform.</p>
+                                    <p>A Multi-Tenant Broadcasting Solution enables simultaneous broadcast to multiple tenants, making it ideal for large-scale events or announcements.</p>
                                     </div>
                                 </div>
                             </div>
@@ -504,12 +504,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can clients manage their own campaigns?</a></h3>
+                                    aria-expanded="true" aria-controls="faq2">Why do businesses prefer a Multi-Tenant Broadcasting Solution for webinars?</a></h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, tenants have dedicated logins and dashboards for full control.</p>
+                                    <p>A Multi-Tenant Broadcasting Solution ensures that different groups or clients can be reached individually while maintaining secure and efficient communication channels.</p>
                                     </div>
                                 </div>
                             </div>
@@ -517,12 +517,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Is it possible to track campaign performance in real time?</a></h3>
+                                    aria-expanded="true" aria-controls="faq3">Can a Multi-Tenant Broadcasting Solution handle different content types?</a></h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Absolutely. You can view delivery stats, call responses, and more as campaigns run.</p>
+                                    <p>Yes, it can support audio, video, and text-based broadcasts, offering versatile communication options across industries.</p>
                                     </div>
                                 </div>
                             </div>
@@ -530,12 +530,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">How many tenants can be managed simultaneously?</a></h3>
+                                    aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions tailor a Multi-Tenant Broadcasting Solution for enterprises?</a></h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>There’s no limit — scale as needed based on your business size.</p>
+                                    <p>VoIPTech Solutions customizes Multi-Tenant Broadcasting Solutions with branding, user permissions, and specific feature sets to meet enterprise needs.</p>
                                     </div>
                                 </div>
                             </div>
@@ -543,12 +543,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Can we white-label the solution for reselling?</a></h3>
+                                    aria-expanded="true" aria-controls="faq5">Is the Multi-Tenant Broadcasting Solution secure for sensitive information?</a></h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, you can brand the platform with your logo and URL.</p>
+                                    <p>Yes, this solution provides end-to-end encryption and access controls, ensuring that broadcasts are secure and protected from unauthorized access.</p>
                                     </div>
                                 </div>
                             </div>
@@ -556,12 +556,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Are call recordings stored per tenant?</a></h3>
+                                    aria-expanded="true" aria-controls="faq6">How does a Multi-Tenant Broadcasting Solution support live audience interaction?</a></h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, recordings are tenant-specific and stored securely.</p>
+                                    <p>Features like live Q&A, chat rooms, and polling make it easy for the audience to interact in real-time, enhancing engagement during broadcasts.</p>
                                     </div>
                                 </div>
                             </div>
@@ -569,12 +569,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Can we automate daily or weekly campaign scheduling?</a></h3>
+                                    aria-expanded="true" aria-controls="faq7">Can the Multi-Tenant Broadcasting Solution support large-scale global events?</a></h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Yes, recurring scheduling is fully supported.</p>
+                                    <p>Yes, it can handle large global events with multiple tenants, ensuring smooth delivery to a wide range of audiences without performance loss.</p>
                                     </div>
                                 </div>
                             </div>
@@ -582,12 +582,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Will the platform prevent calls to DNC-listed numbers?</a></h3>
+                                    aria-expanded="true" aria-controls="faq8">How does VoIPTech Solutions provide ongoing support for Multi-Tenant Broadcasting Solutions?</a></h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                        <p>It includes built-in DNC filtering for compliance.</p>
+                                        <p>VoIPTech Solutions offers continuous monitoring, troubleshooting, and updates to keep the Multi-Tenant Broadcasting Solution running smoothly.</p>
                                     </div>
                                 </div>
                             </div>
@@ -595,12 +595,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">How long does it take to get started?</a></h3>
+                                    aria-expanded="true" aria-controls="faq9">Does the Multi-Tenant Broadcasting Solution offer analytics and reporting tools?</a></h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>Most clients are onboarded and running campaigns within 48 hours.</p>
+                                    <p>Yes, the solution includes robust analytics to track engagement, audience behavior, and performance metrics, helping optimize future broadcasts.</p>
                                     </div>
                                 </div>
                             </div>
@@ -608,12 +608,12 @@
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
                                     <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">Who manages updates and technical support?</a></h3>
+                                    aria-expanded="true" aria-controls="faq10">Can a Multi-Tenant Broadcasting Solution integrate with third-party platforms?</a></h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    <p>VoIPTech handles all backend maintenance and offers 24/7 support.</p>
+                                    <p>Yes, it can be integrated with CRM systems, email platforms, and social media for a more cohesive and streamlined broadcasting experience.</p>
                                     </div>
                                 </div>
                             </div>
