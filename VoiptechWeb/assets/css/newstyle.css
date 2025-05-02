@@ -1056,9 +1056,14 @@ aside .nav-pills .nav-link.active:after{
 .all-biz-locations ._location p {
 	font-size: 14px;
 }
-#myModalForm .modal-content {
+#myModalForm .modal-content, #myCareerModalForm .modal-content {
 	background: transparent;
 	border: navajowhite;
+}
+#myCareerModalForm .contact-form .form-control {
+	padding: inherit;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .modal-body.modal-form-body .close {
 	position: absolute;
@@ -1261,7 +1266,92 @@ aside .nav-pills .nav-link.active:after{
 .comp-section-cont {
 	border-radius: 20px !important;
 }
-
+.job-item .card.card-body {
+	border: 0;
+	padding: 20px 0;
+}
+.job-title {
+	border-bottom: 3px dotted #1f1f1f;
+	padding-bottom: 15px;
+}
+.job-item {
+	margin-bottom: 20px;
+}
+.job-title .btn img {
+	width: 22px;
+	margin-left: 5px;
+	transition: 300ms all ease-in-out;
+}
+.job-title .btn:focus, .job-title .btn:active {
+    outline: none;
+    box-shadow: none;
+}
+.job-title .btn.collapsed img{
+    transform: rotate(180deg);
+}
+.job-details .devider {
+	height: 1px;
+	min-width: 250px;
+	background: #999;
+	position: relative;
+	top: 28px;
+}
+.job-details ._desc {
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #dfdfdf;
+}
+.job-details ._desc:nth-child(4) {
+    border-bottom: 0;
+}
+.job-details ._desc h3 {
+	min-width: 22%;
+	font-size: 18px;
+	font-weight: 600;
+}
+.job-details ._desc ._content ul {
+	padding-left: 5px;
+	list-style: none;
+}
+.job-details ._desc ._content ul li {
+	position: relative;
+	display: flex;
+	align-items: start;
+	gap: 7px;
+	line-height: 16px;
+	margin-bottom: 16px;
+}
+.job-details ._desc ._content ul.list2 li::before {
+    content: '';
+    min-width: 16px;
+    height: 16px;
+    background: url(../images/icons/check.svg) no-repeat;
+      background-size: auto;
+    background-size: contain;
+    position: relative;
+    top: 3px;
+  }
+  .job-details ._desc .job-content._content {
+	width: 78%;
+}
+.job-title h2 {
+	font-size: 28px;
+	font-weight: 800;
+}
+.job-details {
+	padding-bottom: 40px;
+	border-bottom: 3px dotted #1f1f1f;
+}
+.int-clients-imgs .col-lg-3.col-md-4.col-sm-12.col-xs-12.col-12 {
+	border: 1px solid #efefef;
+	padding: 14px;
+	text-align: center;
+}
+.int-clients-imgs img {
+	width: 150px;
+}
 /*-----------------------Switch Style-----------------*/
 /* The switch - the box around the slider */
 .switch {
@@ -1460,6 +1550,9 @@ aside .nav-pills .nav-link.active:after{
         z-index: 9999;
         visibility: visible;
     }
+    .navbar-nav .nav-item{
+        height: 48px;;
+    }
 }
 @media(max-width: 1200px){
     .process-arrow {
@@ -1472,6 +1565,9 @@ aside .nav-pills .nav-link.active:after{
     }
     .all-biz-locations {
         grid-template-columns: repeat(5,1fr);
+    }
+    .job-details ._desc h3 {
+        min-width: 180px;
     }
 }
 @media (max-width: 991.98px) {
@@ -1580,6 +1676,15 @@ aside .nav-pills .nav-link.active:after{
     }
     .related-blog.blogs-listing .container{
         padding: 60px 20px;
+    }
+    .job-details ._desc{
+        flex-direction: column;
+    }
+    .job-details .devider{
+        top: 0;
+    }
+    .job-details ._desc .job-content._content {
+        width: 100%;
     }
 }
 @media (max-width: 767.98px) {

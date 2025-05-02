@@ -164,7 +164,7 @@
                 <h4>Quick Links</h4>
                 <ul>
                     <li><a href="about-us.php">About Us</a></li>
-                    <li><a href="#">Career</a></li>
+                    <li><a href="career.php">Career</a></li>
                     <li><a href="#">Events</a></li>
                     <li><a href="pricing.php">Pricing</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
@@ -282,6 +282,68 @@
               </div>
               <div class="form-group text-center">
                   <input type="submit" value="Get a Free Demo" class="btn bg-orange text-white rounded-pill px-5 text-uppercase">
+              </div>
+          </div>
+        </div>
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+<!-- The Career Modal Form -->
+<div class="modal" id="myCareerModalForm">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+     
+
+      <!-- Modal body -->
+      <div class="modal-body modal-form-body">
+        <button type="button" class="close" data-dismiss="modal"><span class="close-icn">&times;</span></button>
+        <div class="banner-form contact-form">
+          <div class="form-header bg-orange">
+              <p>Fill The Form, Send Your Resume</p>
+              <span>(*) Marks Are Required Fields </span>
+              <!-- <div class="whatsapp-no">
+                  <a href="https://wa.link/voiptech" target="_blank">
+                      <img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
+                      <span>WhatsApp Us</span>
+                  </a>
+              </div> -->
+              
+          </div>
+          <div class="form-fields bg-white p-4">
+              <div class="form-group">
+                  <input type="text" placeholder="Full Name*" class="form-control" required>
+              </div>
+              <div class="form-group">
+                  <input type="email" placeholder="E-mail*" class="form-control" required>
+              </div>
+              <div class="form-group">
+                  <input type="tel" placeholder="Phone Number*" class="form-control" required>
+              </div>
+              <div class="form-group">
+                  <select class="form-control" required>
+                      <option value="">Select Designation*</option>
+                      <option value="Business Development Executive">Business Development Executive</option>
+                      <option value="Technical Support Executive">Technical Support Executive</option>
+                      <option value="SEO Expert">SEO Expert</option>
+                      <option value="Graphic Designer">Graphic Designer</option>
+                      <option value="Content Writer">Content Writer</option>
+                      <option value="PHP Developer">PHP Developer</option>
+                  </select>      
+              </div>
+              <div class="form-group">
+                  <span class="text-danger mb-2 d-block">Upload Your Resume(doc,docx.pdf,Max 2mb)*</span>
+                  <input type="file" class="form-control" id="resume" name="resume" accept=".doc,.docx,.pdf,.txt" required>
+              </div>  
+              <div class="form-group">
+                  <textarea name="msg" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <div class="form-group text-center">
+                  <input type="submit" value="Send" class="btn bg-orange text-white rounded-pill px-5 text-uppercase">
               </div>
           </div>
         </div>

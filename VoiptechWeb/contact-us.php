@@ -131,7 +131,7 @@
                                         Visit Our Dubai Office
                                     </div>
                                     <div class="address-body">
-                                        503, 5th Floor, Millenium Central Downtown, Business Bay
+                                        Bay Square - Building 12 - P floor - Business Bay
                                     </div>
                                 </div>
                             </div>
