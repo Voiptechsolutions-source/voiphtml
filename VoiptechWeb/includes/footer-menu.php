@@ -165,7 +165,7 @@
                 <ul>
                     <li><a href="about-us.php">About Us</a></li>
                     <li><a href="career.php">Career</a></li>
-                    <li><a href="#">Events</a></li>
+                    <li><a href="events.php">Events</a></li>
                     <li><a href="pricing.php">Pricing</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>

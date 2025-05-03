@@ -632,6 +632,10 @@ footer .contact-icons svg{
 	font-size: 22px;
 	margin: 15px 0;
 }
+.events-banner .banner-content p {
+	font-size: 22px;
+	margin: 15px 0;
+}
 .blog-content aside h3 {
 	font-weight: 700;
 }
@@ -1359,6 +1363,210 @@ aside .nav-pills .nav-link.active:after{
 .map-cont img {
 	height: 600px;
 }
+.feat-event-location .country ._icn {
+	width: 20px;
+	display: inline-block;
+	margin-left: 5px;
+}
+.events-banner .joined-users {
+	display: flex;
+	align-items: center;
+}
+.events-banner .joined-users img {
+	width: 60px;
+}
+.events-banner .joined-users .user-joined-img._img2 {
+	margin-left: -10px;
+}
+.events-banner .joined-users .no_of_joined {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 60px;
+	background: var(--primary-color);
+	color: #fff;
+	height: 60px;
+	border-radius: 100%;
+	position: relative;
+	left: -10px;
+    font-weight: 600;
+}
+.feat-event-location {
+	margin-bottom: 20px;
+	font-weight: 700;
+	font-size: 18px;
+}
+.explore-webinars {
+	font-weight: 800;
+	font-size: 25px;
+	text-align: center;
+    margin-bottom: 10px;
+}
+.all-events-section .section-title h2 {
+	font-weight: 800;
+	font-size: 40px;
+}
+.event-card {
+	background: #fff;
+	border-radius: 30px;
+	margin-bottom: 15px;
+	padding: 20px;
+}
+.event-card .event-info {
+	display: flex;
+	gap: 20px;
+	margin-bottom: 20px;
+}
+.event-card .event-info .event-date {
+	display: flex;
+	gap: 15px;
+	align-items: center;
+    margin-bottom: 15px;
+}
+.event-card .event-info .event-date .cal-icn img {
+	width: 60px;
+}
+.event-card .event-info .event-date ._date {
+	display: flex;
+	flex-direction: column;
+}
+.event-card .event-info .event-date ._date .day {
+	font-weight: 800;
+	font-size: 22px;
+}
+.event-card .event-info .event-time {
+	display: flex;
+	gap: 8px;
+	margin-bottom: 15px;
+}
+.event-card .event-info .event-location {
+	display: flex;
+	gap: 10px;
+}
+.event-card  .socio-stream {
+	margin-top: 15px;
+}
+.event-card  .socio-stream h3 {
+	font-weight: 800;
+	font-size: 20px;
+}
+.event-card .socio-stream .socio-links {
+	display: flex;
+	gap: 5px;
+}
+.event-card .socio-stream .socio-links a {
+	width: 30px;
+	height: 30px;
+	border-radius: 100%;
+	background: #333;
+	padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.event-card .socio-stream .socio-links a.fb {
+	background: #38529a;
+}
+.event-card .socio-stream .socio-links a._x {
+	background: #000;
+}
+.event-card .socio-stream .socio-links a.in {
+	background: #3671ae;
+}
+.event-card .socio-stream .socio-links a.pin {
+	background: #b81d1a;
+}
+.event-card .socio-stream .socio-links a svg {
+	fill: #fff;
+	width: 16px;
+}
+.event-card .socio-stream .socio-links a.fb svg {
+	width: 12px;
+}
+.event-card .event-info .event-img {
+	border-radius: 30px;
+}
+.event-btns .bg-light-orange {
+	background-color: var(--orange-light) !important;
+}
+.event-title h4 {
+	margin-top: 10px;
+	font-weight: 600;
+}
+.event-organisers {
+	display: flex;
+	gap: 20px;
+    margin-top: 20px;
+}
+.event-organisers .org-item {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+}
+.event-organisers .org-item ._name {
+	font-weight: 600;
+	font-size: 18px;
+}
+.event-organisers .org-item ._designation {
+	font-size: 14px;
+}
+.event-tabs-main {
+	margin-top: 40px;
+}
+.upcoming-event-card {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 0;
+	border-top: 2px solid #333;
+	align-items: center;
+}
+.upcoming-event-card .upcoming-date {
+	display: flex;
+	gap: 8px;
+    align-items: center;
+}
+.upcoming-event-card .upcoming-date .day {
+	font-size: 50px;
+	font-weight: 800;
+	color: var(--primary-color);
+    line-height: 40px;
+}
+.upcoming-event-card .upcoming-date .month-year {
+	display: flex;
+	flex-direction: column;
+}
+.upcoming-events-tab-content{
+    margin-top: 30px;
+}
+.upcoming-event-card .upcoming-event-info h3 {
+	font-size: 24px;
+	font-weight: 600;
+}
+.upcoming-event-card .upcoming-event-info ._address {
+	display: flex;
+	gap: 5px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	align-items: center;
+}
+.upcoming-event-card .upcoming-event-info ._time {
+	display: flex;
+	gap: 5px;
+	align-items: center;
+}
+.upcoming-event-card .upcoming-event-info .upcoming-event-address-time {
+	display: flex;
+	gap: 10px;
+}
+.upcoming-event-card .upcoming-event-info .upcoming-event-address-time img {
+	min-width: 16px;
+	width: 16px;
+	max-width: 16px;
+}
+.upcoming-event-card .upcoming-event-info h3 a{
+    color: #333;
+    text-decoration: none;
+}
 /*-----------------------Switch Style-----------------*/
 /* The switch - the box around the slider */
 .switch {
@@ -1576,6 +1784,9 @@ aside .nav-pills .nav-link.active:after{
     .job-details ._desc h3 {
         min-width: 180px;
     }
+    .event-organisers{
+        flex-direction: column;
+    }
 }
 @media (max-width: 991.98px) {
     .dropdown-submenu .dropdown-menu {
@@ -1696,8 +1907,31 @@ aside .nav-pills .nav-link.active:after{
     .map-cont img {
         height: auto;
     }
+    .event-organisers{
+        flex-direction: row;
+    }
+    .upcoming-event-card{
+        gap: 40px;
+    }
+    .upcoming-event-card .upcoming-event-info .upcoming-event-address-time {
+        display: flex;
+        gap: 0;
+        flex-direction: column;
+    }
 }
 @media (max-width: 767.98px) {
+    .upcoming-event-card {
+        gap: 20px;
+        flex-direction: column;
+    }
+    .event-card .event-info{
+        flex-direction: column;
+    }
+    .events-banner .joined-users {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
     .banner-content h1 {
         font-size: 30px;
         line-height: 35px;
@@ -1819,5 +2053,11 @@ aside .nav-pills .nav-link.active:after{
     }
     .p-5.comp-section-cont {
         padding: 10px !important;
+    }
+}
+
+@media (max-width: 480px){
+    .event-organisers{
+        flex-direction: column;
     }
 }
