@@ -1,11 +1,13 @@
 :root{
-    --primary-color: #44d6e6;
-    --primary-color-hover: #59b2bb; 
-    --secondary-color: #ff1919; 
-    --secondary-color-hover: #bb3924;
+    --primary-color: #fe9888;
+    --primary-color-hover: #d47f71; 
+    --secondary-color: #732bf7; 
+    --secondary-color-hover: #6325d4;
     --third-color: #e8d234; 
     --black-shade1: #141418;
     --font-family: "Poppins", sans-serif; 
+    --gard1: linear-gradient(147deg,rgba(254, 152, 136, 1) 0%, rgba(208, 87, 208, 1) 61%, rgba(115, 43, 247, 1) 100%);
+    --gard1-hover: linear-gradient(90deg,rgba(254, 152, 136, 1) 0%, rgba(208, 87, 208, 1) 61%, rgba(115, 43, 247, 1) 100%);
 }
 body {
     font-family: var(--font-family);
@@ -14,14 +16,19 @@ body {
 main.main-wrapper{
     overflow-x: hidden;
 }
+.text-primary{
+    color: var(--primary-color) !important;
+}
 .bg-dark {
     background-color: var(--black-shade1) !important;
 }
 .hero-section {
-    position: relative;
-    height: 100vh;
-    min-height: 600px;
-    overflow: hidden;
+	position: relative;
+	min-height: 600px;
+	overflow: hidden;
+	padding: 160px 0 100px;
+    background: url(../images/banner-bg.jpg) no-repeat;
+    background-position: cover;
 }
 
 .hero-video {
@@ -35,13 +42,44 @@ main.main-wrapper{
     height: auto;
     z-index: 0;
 }
-
+.home-banner .banner-text-cont {
+	color: #fff;
+}
 .hero-content {
     position: relative;
     z-index: 1;
     color: white;
 }
+.home-banner .banner-text-cont h1 {
+	font-size: 66px;
+	font-weight: 800;
+}
+.home-banner .banner-text-cont .banner-tagline {
+	font-size: 26px;
+}
+.home-banner .banner-text-cont .banner-feats-list {
+	margin: 20px 0;
+}
+.home-banner .banner-text-cont .banner-feats-list ul {
+	list-style: none;
+	padding-left: 0;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	line-height: 40px;
+}
+.home-banner .banner-text-cont .banner-feats-list ul li {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+.home-banner .banner-text-cont .banner-feats-list ul li:before{
+    content: '';
+    background: url(../images/icons/check-icn.png) no-repeat;
+    background-size: contain;
+    width: 18px;
+    height: 14px;
 
+}
 .overlay {
     position: absolute;
     top: 0;
@@ -58,7 +96,9 @@ main.main-wrapper{
 	position: fixed;
 	z-index: 999;
 	width: 100%;
-	padding: 18px 0 40px;
+	padding: 18px 0 20px;
+    /* -webkit-backdrop-filter: blur(.65625em);
+  backdrop-filter: blur(.65625em); */
 }
 .im-nav .navbar-toggler-icon {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
@@ -67,30 +107,31 @@ main.main-wrapper{
 	border: 1px solid #999;
 }
 .navbar.navbar-expand-lg.im-nav .container {
-	border-radius: 50px;
-	border: 1px solid #fff;
+	/* border-radius: 50px;
+	border: 1px solid #fff; */
 	padding: 12px 20px;
-    max-width: 1000px;
-    background:rgba(0,0,0,.3);
-  -webkit-backdrop-filter: blur(.65625em);
-  backdrop-filter: blur(.65625em);
+    /* max-width: 1000px;
+    background:rgba(0,0,0,.3); */
+  
 }
 .navbar.navbar-expand-lg.im-nav .nav-link{
     color: #fff;
 }
 .btn-secondary{
-    background-color: var(--secondary-color);
-    border: 1px solid var(--secondary-color);
+    background: var(--gard1);
+    border: 0px ;
     color: #fff;
+    transition: all 300ms ease-in-out;
 }
 .btn-secondary:hover{
-    background-color: var(--secondary-color-hover);
-    border: 1px solid var(--secondary-color-hover);
+    background: var(--gard1-hover);
+    border: 0;
     color: #fff;
+   
 }
 
 .btn-primary{
-    background-color: var(--primary-color);
+    background: var(--primary-color);
     border: 1px solid var(--primary-color);
     color: #000;
 }
@@ -100,23 +141,18 @@ main.main-wrapper{
     color: #000;
 }
 .as-seen-on {
-	position: absolute;
-	z-index: 99;
 	color: #fff;
 	width: 100%;
-	text-align: right;
-	left: 0;
-	bottom: 50px;
+	
 }
+.as-seen-on p{margin-bottom: 0;}
 .as-seen-on .img-fluid {
 	min-width: auto;
 	height: auto;
 	object-fit: contain;
 	max-width: none;
 }
-.as-seen-on-logos {
-	justify-content: end;
-}
+
 .stars ._star {
 	width: 20px;
 }
