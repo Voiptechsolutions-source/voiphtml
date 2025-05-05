@@ -60,7 +60,7 @@
         </div>
         <div class="container">
             <div class="cta-content">
-                <h2 class="">Grow your business with voiptech solutions </h2>
+                <h2 class="">Grow your business with VoIPTech solutions </h2>
                 <p>Compare top call center software for your team. get advice for choosing the right call center solution</p>
             </div>
             

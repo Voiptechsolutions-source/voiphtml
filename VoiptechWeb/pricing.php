@@ -593,18 +593,18 @@
         </div>
         <div class="container">
             <div class="cta-content">
-                <h2 class="">Grow your business with voIPTech Solutions </h2>
-                <p>Compare top call center software for your team. get advice for choosing the right call center solution</p>
+                <h2 class="">Grow your business with VoIPTech Solutions </h2>
+                <p>Compare Top VoIP Solutions for Your Business Get Expert Advice on Choosing the Right VoIP Technology</p>
             </div>
             
             <div class="call-btn text-center mt-4">
                 <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn btn-lg rounded-pill bg-white text-uppercase text-orange px-4 cta-btn">Get Started With Us</a>
             </div>
         </div>
-        </section>
+    </section>
 
         <!--Why Us-->
-        <section class="why-us bg-light-orange py-80 near-footer">
+        <section class="why-us bg-light-orange py-80 ">
             <div class="container">
                 <div class="section-title text-center">
                     <h2>Why Should You Choose Us?</h2>
@@ -696,7 +696,173 @@
             </div>
         </section>
       
+    <!-- FAQ -->
+    <section class="faq py-80 near-footer">
+        <div class="container">
+            <div class="section-title text-center">
+                <h2>Frequently asked questions</h2>
+                <div class="devider"></div>
+                <!-- <p>Placerat metus rhoncus cras netus veniam, sed odio. Id non vestibuluvellus vehicula curabitur lorem pulvinar rutrum netus.sollicitudin </p> -->
+            </div>
+            <!-- FAQ Content -->
+            <div id="main" class="mt-4">
+                <div class="container">
+                    <div class="accordion" id="faq">
+                        <!-- Faq 1-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead1">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
+                                aria-expanded="true" aria-controls="faq1">How does the 7-day free trial work?</a>
+                                </h3>
+                            </div>
 
+                            <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
+                                <div class="card-body">
+                                Our 7-day free trial gives you access to essential VoIP features with no credit card required. You also get $10 free credit and 100 free SMS to test our platform risk-free.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 2-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead2">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
+                                aria-expanded="true" aria-controls="faq2">What is included in the $10 free credit and 100 free SMS?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
+                                <div class="card-body">
+                                You can use the $10 free credit for outbound VoIP services, and the 100 SMS are available for testing our bulk messaging platform. Both are active during the trial or after upgrading.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 3-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead3">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
+                                aria-expanded="true" aria-controls="faq3">Do I need to enter payment information for the free trial?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
+                                <div class="card-body">
+                                No, you can start the trial without entering payment details. When you're ready to upgrade, you'll be prompted to add your billing info.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 4-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead4">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
+                                aria-expanded="true" aria-controls="faq4">What payment methods are accepted?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
+                                <div class="card-body">
+                                We accept major credit/debit cards, PayPal, and bank transfers. Payment options are flexible and managed easily from your dashboard.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 5-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead5">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
+                                aria-expanded="true" aria-controls="faq5">What if my payment fails or gets declined?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
+                                <div class="card-body">
+                                You’ll be notified immediately. Simply update your payment method or retry the transaction. Our support team is available 24/7 for help with billing issues.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 6-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead6">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
+                                aria-expanded="true" aria-controls="faq6">Will I lose my data if I miss a payment or cancel my subscription?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
+                                <div class="card-body">
+                                No. We securely store your data even if your account is temporarily suspended. You can regain full access by resolving the payment issue or reactivating your account.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 7-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead7">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
+                                aria-expanded="true" aria-controls="faq7">Can I cancel or change my plan anytime?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
+                                <div class="card-body">
+                                Yes, you have full control. You can upgrade, downgrade, or cancel your plan from your account dashboard without penalties or long-term contracts.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 8-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead8">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
+                                aria-expanded="true" aria-controls="faq8">How affordable is your Wholesale VoIP service?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
+                                <div class="card-body">
+                                Our Wholesale VoIP service is competitively priced for carriers, resellers, and high-volume users. We offer volume-based discounts and cost-effective routing to ensure maximum value.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 9-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead9">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
+                                aria-expanded="true" aria-controls="faq9">Is Bulk SMS affordable for large-scale campaigns?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
+                                <div class="card-body">
+                                Yes, our Bulk SMS service offers highly competitive rates for both domestic and international messaging. We also provide volume discounts for large campaigns, making it ideal for marketing and customer engagement.
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Faq 10-->
+                        <div class="card">
+                            <div class="card-header" id="faqhead10">
+                                <h3 class="mb-0">
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
+                                aria-expanded="true" aria-controls="faq10">Do you offer refunds if I cancel before the billing cycle ends?</a>
+                                </h3>
+                            </div>
+
+                            <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
+                                <div class="card-body">
+                                We do not offer refunds for partial months or early cancellations. That’s why we recommend using the free trial and credits to evaluate the service first.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
        
  </main>
 

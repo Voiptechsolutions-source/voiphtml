@@ -36,7 +36,7 @@
                 <!-- Banner Content -->
                 <div class="banner-content">
                     
-                    <h1 class="text-orange">Conference</h1>
+                    <h1 class="text-orange">Industry Events & Insights</h1>
                     <div class="joined-users">
                         <div class="user-joined-img">
                             <img src="assets/images/joined-user.png" alt="User Joined" class="img-fluid" />
@@ -46,7 +46,7 @@
                         </div>
                         <div class="no_of_joined">2K+</div>
                     </div>
-                    <p>Compare top call center software for your team. Learn best providers and features, and get advice for choosing the right call center solution</p>
+                    <p>Discover upcoming events, explore past conferences, and gain valuable insights from key industry gatherings. Stay informed and connected with the latest innovations in VoIP, SMS, call center solutions, and more.</p>
                     <div class="feat-event-location">
                         <div class="country">Germany <span class="_icn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"/></svg></span></div>
                         <div class="feat-event-address">1047 Brea Mall #1047 Brea, CA 92821</div>
@@ -74,9 +74,9 @@
                 <div class="col-12 col-lg-4">
                     <div class="section-title">
                         <div class="explore-webinars bg-orange py-3 px-3">
-                            Explore Webinars
+                            Event Highlights
                         </div>
-                        <h2 class="text-orange">All Events You Can't Miss</h2>
+                        <h2 class="text-orange">Stay Ahead with the Latest Industry Trends</h2>
                     </div>
                 </div>
                 <div class="col-12 col-lg-8">
@@ -403,7 +403,7 @@
         <div class="container">
             <div class="section-title text-center">
                 <h2 class="text-orange">All Upcoming Events</h2>
-                <p>Today, what started as a small conference has turned into the unmissable rendez-vous for product people.</p>
+                <p>Be part of every groundbreaking event in the industry—don’t miss out</p>
             </div>
             <div class="event-tabs-main">
                 <div class="row justify-content-center mt-3 mb-2">
