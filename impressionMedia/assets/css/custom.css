@@ -13,6 +13,10 @@ body {
     font-family: var(--font-family);
     overflow-x: hidden ;
 }
+h2 {
+    font-weight: 800;
+    
+}
 main.main-wrapper{
     overflow-x: hidden;
 }
@@ -28,7 +32,8 @@ main.main-wrapper{
 	overflow: hidden;
 	padding: 160px 0 100px;
     background: url(../images/banner-bg.jpg) no-repeat;
-    background-position: cover;
+    background-size: cover;
+    background-position: center;
 }
 
 .hero-video {
@@ -67,6 +72,7 @@ main.main-wrapper{
 	grid-template-columns: repeat(2, 1fr);
 	line-height: 40px;
 }
+
 .home-banner .banner-text-cont .banner-feats-list ul li {
 	display: flex;
 	align-items: center;
@@ -80,13 +86,46 @@ main.main-wrapper{
     height: 14px;
 
 }
+.grid-list ul {
+	list-style: none;
+	padding-left: 0;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	line-height: 24px;
+}
+.grid-list ul li .li-content {
+	display: flex;
+	gap: 8px;
+}
+.grid-list ul li .li-content:before{
+    content: '';
+    background: url(../images/icons/check-icn.png) no-repeat;
+    background-size: contain;
+    width: 18px;
+    height: 14px;
+    position: relative;
+    top: 6px;
+
+}
+.grid-list ul li .list-head {
+	font-weight: 600;
+}
+.hero-section.home-banner::before {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	width: 62%;
+	background: linear-gradient(-90deg,rgba(0, 0, 0, 1) 32%, rgba(0, 0, 0, 0) 100%);
+}
 .overlay {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.2);
     z-index: 0;
 }
 
@@ -99,6 +138,21 @@ main.main-wrapper{
 	padding: 18px 0 20px;
     /* -webkit-backdrop-filter: blur(.65625em);
   backdrop-filter: blur(.65625em); */
+}
+.above-title{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.above-title:before{
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: var(--primary-color);
+    border-radius: 1000%;
 }
 .im-nav .navbar-toggler-icon {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
@@ -178,7 +232,7 @@ main.main-wrapper{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 100vh;
+    height: auto;
     min-height: 600px;
     overflow: hidden;
 }
@@ -195,6 +249,13 @@ main.main-wrapper{
 .section-2 > *{
     position: relative;
     z-index: 2;
+}
+.feats-list .feat-box {
+	background: rgba(0,0,0,.4);
+	padding: 20px;
+	border-radius: 15px;
+	border: 1px solid #fff;
+	min-height: 240px;
 }
 .py-80 {
     padding: 80px 0;
@@ -216,6 +277,22 @@ main.main-wrapper{
     display: flex;  
     align-items: center;
     gap: 4px;
+}
+.why-us-section .why-us-content {
+	position: relative;
+}
+.why-us-section .why-us-content .content_img {
+	position: relative;
+	left: -220px;
+	margin-top: -30px;
+	margin-bottom: -125px;
+}
+.why-us-section .why-us-content .content_img img {
+	width: 400px;
+}
+.why-us-section .why-us-content ._content {
+	position: relative;
+	z-index: 99;
 }
 .stories-tabs .nav-tabs {
 	border-bottom: 0px solid #dee2e6;
@@ -620,7 +697,73 @@ footer h4 {
 	overflow: hidden;
 }
 
+.vimi-box {
+	padding: 30px;
+	border-radius: 40px;
+	display: flex;
+	align-items: end;
+	gap: 40px;
+	min-height: 330px;
+    position: relative;
+     overflow: hidden;
+}
+.vimi-box > *{
+    z-index: 2;
+}
+.vimi-box .vimi-icn img {
+	width: 130px;
+}
+.vimi-box::before {
+	content: '';
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	border: 12px solid #ece9ff;
+	z-index: 1;
+	border-radius: 100%;
+	left: -150px;
+	top: -50px;
+}
+.all-chalanges {
+	margin-top: 80px;
+}
+.all-chalanges .chalange-box {
+	padding: 60px 20px 40px;
+	background: rgba(0,0,0,0.8);
+	color: #fff;
+	border-radius: 15px;
+	border: 1px solid #fff;
+}
+.all-chalanges .chalange-box h3 {
+	font-size: 22px;
+	font-weight: bold;
+}
+.chalanges-section {
+	padding-bottom: 200px !important;
+    background-image: url(../images/chalange-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.text-light-orange{
+    color: var(--primary-color);
+}
+.cta-box-cont .cta-box{
+    background: var(--gard1);
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 80px;
+    margin-top: 60px;
+}
 /******************************* Responsive CSS ***********************************/
+
+@media(min-width: 1200px){
+    h2 {
+         font-size: 2.5rem;
+    }
+}
 @media (min-width: 992px) {
    .navbar.navbar-expand-lg.im-nav .navbar-collapse {
 	flex-grow: 0;

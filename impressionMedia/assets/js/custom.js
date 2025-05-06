@@ -78,17 +78,19 @@ mm.add("(min-width: 800px)", () => {
     duration: 2,
     scale:0
 });
-gsap.from('.section-2 ._trusted', {
+gsap.from('.section-2 .feats-list', {
     scrollTrigger:{
-        trigger: '.section-2 ._trusted',
+        trigger: '.section-2 .feats-list',
         scroller:'body',
         scrub: 1,
-        end: 'top 80%',
+        markers: false,
+        start:'top 80%',
+        end: 'top 60%',
         
     },
     delay:1,
     duration: 2,
-    scale:0,
+   x:'-200%',
     
 }
 );

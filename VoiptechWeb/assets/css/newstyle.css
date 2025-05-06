@@ -782,7 +782,15 @@ aside .nav-pills .nav-link.active:after{
 .contact-form .form-control {
 	background: #f5f5f5;
 	border: 0;
-	padding: 25px 10px;
+	padding: 10px;
+    height: 50px;
+}
+textarea.form-control {
+	height: 100px !important;
+}
+.nuber-select select.form-control {
+	border-right: 1px solid #ccc;
+	border-radius: 5px 0 0 5px;
 }
 .contact-info-box {
 	box-shadow: 1px 10px 16px rgba(0,0,0,0.18);
