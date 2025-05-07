@@ -167,6 +167,7 @@
                     <li><a href="career.php">Career</a></li>
                     <li><a href="events.php">Events</a></li>
                     <li><a href="pricing.php">Pricing</a></li>
+                    <li><a href="pay-as-you-go.php">Pay as You Go</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>
                     <li><a href="terms-of-services.php">Terms & Conditions</a></li>

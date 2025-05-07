@@ -1575,6 +1575,290 @@ textarea.form-control {
     color: #333;
     text-decoration: none;
 }
+.about-banner.pay-as-banner .banner-content h1 span {
+	line-height: 64px;
+	margin-top: 16px;
+}
+.pay-banner-feats ._item {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+}
+.pay-banner-feats ._item .icn img {
+	max-width: 20px;
+}
+.font-w-md {
+	font-weight: 600;
+}
+.pay-as-flex{
+    background-image: url(../images/price-calc-bg.avif);
+    background-repeat: no-repeat;
+    background-position: 440px bottom;
+    background-size: 1000px;
+}
+.price-calc-cont .price-calc {
+	width: 300px;
+	border-radius: 20px;
+	overflow: hidden;
+	box-shadow: 0 4px 18px rgba(0,0,0,0.6);
+}
+.calc-header {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 600;
+}
+.calc-body {
+	background: #fff;
+	padding: 15px;
+}
+.price-calc-cont .price-calc .calc-select-fields {
+	display: flex;
+	gap: 10px;
+	margin-bottom: 10px;
+}
+.price-calc-cont .price-calc .calc-pricing .head {
+	background: var(--orange-light);
+	color: var(--primary-color);
+	padding: 4px 15px;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 25px;
+    margin-bottom: 8px;
+}
+.price-calc-cont .price-calc .product-name {
+	font-weight: 600;
+}
+.price-calc-cont .price-calc .price {
+	font-size: 30px;
+}
+.price-calc-cont .price-calc .price-calc-feat-list ul {
+	list-style: none;
+	padding-left: 15px;
+	margin-top: 10px;
+}
+.price-calc-cont .price-calc .price-calc-feat-list ul li {
+	color: #102043;
+	position: relative;
+	display: flex;
+	align-items: center;
+	margin-bottom: 8px;
+	gap: 5px;
+}
+.price-calc-cont .price-calc .price-calc-feat-list ul li::before {
+	content: '';
+	width: 20px;
+	height: 20px;
+	background: url(../images/icons/price-list-icn2.png) no-repeat;
+	background-size: contain;
+}
+.no-fee-box {
+	box-shadow: 0px 0px 14px rgba(206,207,208,0.90);
+	padding: 20px;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	min-height: 232px;
+}
+.no-fee-box h3 {
+	font-size: 18px;
+	font-weight: 700;
+	margin-top: 20px;
+}
+.no-fee-cont {
+	margin-top: 40px;
+}
+.about-pay-as .about-pay-img img {
+	width: 100%;
+}
+.call-rates-countries__list {
+	column-count: 6;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.call-rates-countries__item {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: baseline;
+	align-items: baseline;
+	break-inside: avoid;
+	margin-bottom: 6px;
+	min-height: 63px;
+	transition: all .25s;
+	padding: 7px 10px 10px;
+	cursor: pointer;
+}
+.call-rates-countries__details, .call-rates-countries__link {
+	display: -ms-flexbox;
+	display: flex;
+	column-gap: 14px;
+	-ms-flex-align: center;
+	align-items: center;
+	width: 100%;
+}
+.rounded-country-flag {
+	display: -ms-flexbox;
+	display: flex;
+	position: relative;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	-ms-flex-negative: 0;
+	flex-shrink: 0;
+}
+.rounded-country-flag::before {
+	content: "";
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-size: contain;
+	border-radius: 50%;
+	background-image: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1));
+}
+.rounded-country-flag.rounded-flag-ar::before {
+	background-image: url(../images/rounded-flags.svg#img-ar);
+}
+.call-rates-countries__text {
+	overflow: hidden;
+}
+.call-rates-countries__item .text-extra-sm {
+	margin-top: 2px;
+	color: gray;
+}
+.call-rates-countries__text p {
+	margin: 0;
+}
+.rounded-country-flag.rounded-flag-cn::before {
+	background-image: url(../images/rounded-flags.svg#img-cn);
+}
+.rounded-country-flag.rounded-flag-in::before {
+	background-image: url(../images/rounded-flags.svg#img-in);
+}
+.rounded-country-flag.rounded-flag-it::before {
+	background-image: url(../images/rounded-flags.svg#img-it);
+}
+.rounded-country-flag.rounded-flag-pk::before {
+	background-image: url(../images/rounded-flags.svg#img-pk);
+}
+.rounded-country-flag.rounded-flag-es::before {
+	background-image: url(../images/rounded-flags.svg#img-es);
+}
+.rounded-country-flag.rounded-flag-au::before {
+	background-image: url(../images/rounded-flags.svg#img-au);
+}
+.rounded-country-flag.rounded-flag-co::before {
+	background-image: url(../images/rounded-flags.svg#img-co);
+}
+.rounded-country-flag.rounded-flag-ir::before {
+	background-image: url(../images/rounded-flags.svg#img-ir);
+}
+.rounded-country-flag.rounded-flag-jp::before {
+	background-image: url(../images/rounded-flags.svg#img-jp);
+}
+.rounded-country-flag.rounded-flag-ph::before {
+	background-image: url(../images/rounded-flags.svg#img-ph);
+}
+.rounded-country-flag.rounded-flag-ae::before {
+	background-image: url(../images/rounded-flags.svg#img-ae);
+}
+.rounded-country-flag.rounded-flag-br::before {
+	background-image: url(../images/rounded-flags.svg#img-br);
+}
+.rounded-country-flag.rounded-flag-fr::before {
+	background-image: url(../images/rounded-flags.svg#img-fr);
+}
+.rounded-country-flag.rounded-flag-iq::before {
+	background-image: url(../images/rounded-flags.svg#img-iq);
+}
+.rounded-country-flag.rounded-flag-mx::before {
+	background-image: url(../images/rounded-flags.svg#img-mx);
+}
+.rounded-country-flag.rounded-flag-pl::before {
+	background-image: url(../images/rounded-flags.svg#img-pl);
+}
+.rounded-country-flag.rounded-flag-gb::before {
+	background-image: url(../images/rounded-flags.svg#img-gb);
+}
+.rounded-country-flag.rounded-flag-ca::before {
+	background-image: url(../images/rounded-flags.svg#img-ca);
+}
+.rounded-country-flag.rounded-flag-de::before {
+	background-image: url(../images/rounded-flags.svg#img-de);
+}
+.rounded-country-flag.rounded-flag-il::before {
+	background-image: url(../images/rounded-flags.svg#img-il);
+}
+.rounded-country-flag.rounded-flag-np::before {
+	background-image: url(../images/rounded-flags.svg#img-np);
+}
+.rounded-country-flag.rounded-flag-ro::before {
+	background-image: url(../images/rounded-flags.svg#img-ro);
+}
+.rounded-country-flag.rounded-flag-us::before {
+	background-image: url(../images/rounded-flags.svg#img-us);
+}
+.call-rates-countries__item:hover{
+    background: #fff;
+}
+.calling-rates-note {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 40px;
+}
+.calling-cta-cont {
+	border-radius: 60px;
+	display: flex;
+	align-items: start;
+	overflow: hidden;
+	padding-top: 60px;
+}
+.calling-cta-cont .calling-cta__text {
+	padding: 0 20px;
+}
+.contact-box-cont textarea.form-control {
+	height: 40px !important;
+}
+.calling-cta-cont .calling-cta__text h2 {
+	font-weight: 800;
+}
+.calling-cta-cont .calling-cta__text ul {
+	list-style: none;
+	padding-left: 5px;
+	font-size: 20px;
+	line-height: 36px;
+}
+.pay-as-services-tabs .nav-pills .nav-link {
+	background: transparent;
+	border: 0;
+}
+.pay-as-services-tabs .nav-pills .nav-link.active {
+	background: #fff;
+	color: #333;
+	font-weight: 600;
+	padding: 20px 10px;
+	border-radius: 20px 0 0 20px;
+	box-shadow: 0 0 12px rgba(0,0,0,0.4);
+}
+.pay-as-services-tabs .nav-pills .nav-link:focus{
+    outline: none;
+}
+.pay-as-services-tabs .tab-pane.active {
+	display: flex;
+	gap: 20px;
+}
+.pay-as-services-tabs .tab-pane.active .pay-tab-content {
+	background: #fff;
+	width: 50%;
+	border-radius: 0 20px 20px 20px;
+	box-shadow: 32px 0 24px rgba(0,0,0,0.2);
+	padding: 20px;
+}
+.pay-as-services-tabs .tab-pane.active ._service-img {
+	width: 50%;
+}
+.pay-as-services-tabs .tab-pane.active ._service-img img{
+    width: 100%;
+}
 /*-----------------------Switch Style-----------------*/
 /* The switch - the box around the slider */
 .switch {
@@ -1795,8 +2079,13 @@ textarea.form-control {
     .event-organisers{
         flex-direction: column;
     }
+    .call-rates-countries__list{column-count: 4}
+    .calling-cta .cta-img img {
+        width: 100%;
+    }
 }
 @media (max-width: 991.98px) {
+    .call-rates-countries__list{column-count: 3}
     .dropdown-submenu .dropdown-menu {
         position: static !important;
         margin-left: 15px;
@@ -1926,8 +2215,37 @@ textarea.form-control {
         gap: 0;
         flex-direction: column;
     }
+    .calling-cta-cont {
+        border-radius: 60px;
+        display: flex;
+        overflow: hidden;
+        
+        flex-direction: column;
+        padding: 20px;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .calling-rates-note {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+    .pay-as-services-tabs .tab-pane.active {
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+    .pay-as-services-tabs .tab-pane.active .pay-tab-content{
+        width: 100%;
+    }
+    .pay-as-services-tabs .tab-pane.active ._service-img {
+        width: 100%;
+    }
 }
 @media (max-width: 767.98px) {
+    .call-rates-countries__list{column-count: 2}
     .upcoming-event-card {
         gap: 20px;
         flex-direction: column;
@@ -2061,6 +2379,10 @@ textarea.form-control {
     }
     .p-5.comp-section-cont {
         padding: 10px !important;
+    }
+    .price-calc-cont .price-calc{width: 100%;}
+    .no-fee-box{
+        min-height: auto;
     }
 }
 
