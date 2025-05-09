@@ -51,7 +51,7 @@
                                         <option value="+57">🇨🇴 +57</option>
                                         <!-- Add more country codes as needed -->
                                     </select>
-                                    <i class="angle-down country-arrow"><img src="images/arrow-icon.png" alt=""></i>
+                                    <!-- <i class="angle-down country-arrow"><img src="images/arrow-icon.png" alt=""></i> -->
                                     <input type="tel" name="contact_no" placeholder="WhatsApp Number/ Phone Number" id="contact_no" oninput="validateContactNumber(event)" class="form-control" maxlength="12">
 
                                 </div>

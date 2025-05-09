@@ -1670,7 +1670,7 @@ textarea.form-control {
 	width: 100%;
 }
 .call-rates-countries__list {
-	column-count: 6;
+	column-count: 5;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -2041,14 +2041,15 @@ textarea.form-control {
     }
     .solutions-menu .dropdown-menu.dropdown1.sol-drop {
         width: 500px;
-        grid-template-columns: repeat(2,1fr);
-        display: grid !important;
+        /* grid-template-columns: repeat(2,1fr);
+        display: grid !important; */
         /* opacity: 0; */
         visibility: hidden;
         pointer-events: none;
         transition: all 200ms ease-in-out;
         top: 0;
         z-index: 0;
+        column-count: 2;
     }
     .nav-item.dropdown.solutions-menu:hover .sol-drop {
         opacity: 1;
@@ -2243,6 +2244,13 @@ textarea.form-control {
     .pay-as-services-tabs .tab-pane.active ._service-img {
         width: 100%;
     }
+    .about-pay-img {
+        margin-bottom: 30px;
+    }
+    .about-banner.pay-as-banner .banner-content h1 span {
+        line-height: 40px;
+        margin-top: 20px;
+    }
 }
 @media (max-width: 767.98px) {
     .call-rates-countries__list{column-count: 2}
@@ -2383,6 +2391,28 @@ textarea.form-control {
     .price-calc-cont .price-calc{width: 100%;}
     .no-fee-box{
         min-height: auto;
+    }
+    .about-banner.pay-as-banner .banner-content h1 span {
+        line-height: 50px;
+        margin-top: 0;
+    }
+    .pay-banner-feats ._item{
+        text-align: left;
+        align-items: start;
+    }
+    .pay-as-services-tabs .col-12.col-md-3.pr-0 {
+        padding-right: 15px !important;
+    }
+    .pay-as-services-tabs .col-12.col-md-9.pl-0 {
+        padding-left: 15px !important;
+    }
+    .pay-as-services-tabs .nav-pills .nav-link.active{
+        border-radius: 20px;
+    }
+    .pay-as-services-tabs .tab-pane.active .pay-tab-content {
+        width: 100%;
+        border-radius: 20px;
+        box-shadow: 0px 0 24px rgba(0,0,0,0.2);
     }
 }
 
