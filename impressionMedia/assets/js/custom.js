@@ -288,9 +288,25 @@ gsap.from('.section-5 .our-features-home', {
 }
 );
 /*---------------------Section 6 ------------------*/
+gsap.from('.section-6 .cta-box', {
+    scrollTrigger:{
+        trigger: '.section-6 ',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    y:'-200%',
+}
+);
 gsap.from('.section-6 .section-title2', {
     scrollTrigger:{
-        trigger: '.section-6',
+        trigger: '.section-6 .section-title2',
         scroller:'body',
         scrub:1,
         markers:false,
@@ -323,6 +339,72 @@ gsap.from('.section-6 .service-tab-pills', {
 gsap.from('.section-6 .service-tabs-content', {
     scrollTrigger:{
         trigger: '.section-6 .service-tabs-content',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    x:'200%',
+}
+);
+/*---------------------Section 6.5 ------------------*/
+gsap.from('.section6-5 .section-title', {
+    scrollTrigger:{
+        trigger: '.section6-5 ',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    y:'-200%',
+}
+);
+gsap.from('.section6-5 .chalanges-cont', {
+    scrollTrigger:{
+        trigger: '.section6-5 .chalanges-cont',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    x:'-200%',
+}
+);
+/*---------------------Section 6.6 ------------------*/
+gsap.from('.section6-6 .section-title', {
+    scrollTrigger:{
+        trigger: '.section6-6 ',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    y:'-200%',
+}
+);
+gsap.from('.section6-6 .pay-as-services-tabs', {
+    scrollTrigger:{
+        trigger: '.section6-6 .pay-as-services-tabs',
         scroller:'body',
         scrub:1,
         markers:false,
@@ -468,39 +550,72 @@ gsap.from('.section-10 .accordion', {
     x:'200%',
 }
 );
+/*---------------------Section 10.5 ------------------*/
+gsap.from('.section10-5 .section-title', {
+    scrollTrigger:{
+        trigger: '.section10-5 ',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    y:'-200%',
+}
+);
+gsap.from('.section10-5 .all-biz-locations', {
+    scrollTrigger:{
+        trigger: '.section10-5 .all-biz-locations',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    x:'-200%',
+}
+);
 /*---------------------Section 11 ------------------*/
-// gsap.from('.section-11 .section-title2', {
-//     scrollTrigger:{
-//         trigger: '.section-11 .section-title',
-//         scroller:'body',
-//         scrub:1,
-//         markers:false ,
-//         start: 'top 90%',
-//         end: 'top 30%',
+gsap.from('.section-11 .sec-11-left', {
+    scrollTrigger:{
+        trigger: '.section-11 ',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
         
-//     },
-//     delay:1,
-//     duration: 2,
-//     opacity:0,
-//     x:'-200%',
-// }
-// );
-// gsap.from('.section-11 .success-content', {
-//     scrollTrigger:{
-//         trigger: '.section-11 .success-content',
-//         scroller:'body',
-//         scrub:1,
-//         markers:false ,
-//         start: 'top 90%',
-//         end: 'top 30%',
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    x:'-200%',
+}
+);
+gsap.from('.section-11 .sec-11-right', {
+    scrollTrigger:{
+        trigger: '.section-11',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
         
-//     },
-//     delay:1,
-//     duration: 2,
-//     opacity:0,
-//     x:'200%',
-// }
-// );
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    x:'200%',
+}
+);
 });
 // gsap.registerPlugin(ScrollSmoother) ;
 // ScrollSmoother.create({

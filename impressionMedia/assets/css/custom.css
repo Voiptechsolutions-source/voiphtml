@@ -140,7 +140,7 @@ main.main-wrapper{
 	background: #000;
 	background: linear-gradient(180deg,rgba(0, 0, 0, 1) 32%, rgba(0, 0, 0, 0) 100%);
 	position: fixed;
-	z-index: 999;
+	z-index: 9999;
 	width: 100%;
 	padding: 18px 0 20px;
     /* -webkit-backdrop-filter: blur(.65625em);
@@ -411,11 +411,22 @@ footer h4 {
         z-index: 999;
     }
 .copyright {
-    text-align: center;
-    padding: 10px 0;
-    background: var(--gard1);
+	text-align: center;
+	padding: 10px 0;
+	background: var(--gard1);
+	color: #fff;
+	font-size: 14px;
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+}
+.copyright .privacy-nav {
+	display: flex;
+	gap: 20px;
+}
+.copyright .privacy-nav a{
     color: #fff;
-    font-size: 14px;
+    text-decoration: none;
 }
 .post-box {
 	margin-bottom: 10px;
@@ -1038,16 +1049,68 @@ textarea.form-control {
 .column2 {
 	column-count: 2;
 }
+.footer-bottom {
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
+	border-top: 1px solid #fff;
+	padding-top: 20px;
+	margin-top: 40px;
+    position: relative;
+    z-index: 999;
+}
 
+.footer-bottom .join-us {
+	display: flex;
+	gap: 40px;
+}
+.footer-bottom .our-locations {
+	display: grid;
+	grid-template-columns: repeat(7,1fr);
+	gap: 20px;
+}
+.footer-bottom .our-locations h3 {
+	font-size: 20px;
+}
+.footer-bottom .join-us .join-title {
+	font-weight: 600;
+	font-size: 25px;
+}
+.footer-bottom .join-us a {
+	color: #fff;
+	text-decoration: navajowhite;
+	
+}
 
-
-
-
-
-
-
-
-
+.footer-bottom .our-locations p {
+	font-size: 13px;
+}
+.footer-socio {
+	display: flex;
+	gap: 10px;
+}
+.footer-socio a {
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	border-radius: 100%;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.footer-socio a svg{
+    fill: var(--primary-color);
+}
+.footer-socio a:hover{
+    background: var(--primary-color);
+}
+.footer-socio a:hover svg{
+    fill: #fff;
+}
+.footer-socio a.fb svg {
+	width: 12px;
+}
 
 .pulse {
     animation: pulse 1.5s infinite ease-in-out alternate;
@@ -1100,7 +1163,7 @@ textarea.form-control {
         grid-template-columns: repeat(4,1fr);
     }
     .hero-section {
-        height: 100vh;
+        height: auto;
     }
     .hero-video {
         min-width: 100%;
@@ -1179,8 +1242,38 @@ textarea.form-control {
         z-index: 9;
     }
     .success-section{height: auto; padding-bottom: 0;}
-
-   
+    .home-banner .banner-text-cont h1{font-size: 36px;}
+   .banner-text-cont {
+	    margin-bottom: 60px;
+    }
+    .feats-list .feat-box{min-height: auto;}
+    .why-us-section .why-us-content .content_img{display: none;}
+    .why-us-section .why-us-content ._content{margin-top: 40px;}
+    .all-chalanges .chalange-box {
+        padding: 20px;
+        background: rgba(0,0,0,0.8);
+        color: #fff;
+        border-radius: 15px;
+        border: 1px solid #fff;
+        margin-bottom: 20px;
+    }
+    .pay-as-services-tabs .tab-pane.active {
+	display: flex;
+	gap: 20px;
+	flex-direction: column;
+    }
+    .pay-as-services-tabs .tab-pane.active .pay-tab-content{width: 100%;}
+    .pay-as-services-tabs .tab-pane.active ._service-img{width: 100%;}
+    .bg-elem {
+        position: absolute;
+        top: 100px;
+        display: none;
+    }
+    .footer-contact-img-sec {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    .footer-bottom .our-locations{grid-template-columns: repeat(4,1fr);}
 }
 @media(max-width: 767px){
     .section-2{
@@ -1233,5 +1326,34 @@ textarea.form-control {
     }
     .all-biz-locations {
         grid-template-columns: repeat(2,1fr);
+    }
+    .home-banner .banner-text-cont .banner-feats-list ul{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .grid-list ul{grid-template-columns: repeat(1, 1fr);}
+    .vimi-box {
+	flex-direction: column-reverse;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 30px;
+    }
+    .cta-box-cont .cta-box {
+	flex-direction: column-reverse;
+	text-align: center;
+    }
+    .pay-as-services-tabs .nav-pills .nav-link.active{border-radius: 20px;}
+    .pay-as-services-tabs .col-12.col-md-3.pe-0 {
+	padding-right: 15px !important;
+    }
+    .pay-as-services-tabs .col-12.col-md-9.ps-0 {
+	padding-left: 15px !important;
+    }
+    .pay-as-services-tabs .tab-pane.active .pay-tab-content {
+	width: 100%;
+	border-radius: 20px;
+	box-shadow: 0px 0 24px rgba(0,0,0,0.2);
+    }
+    .footer-bottom .our-locations {
+	grid-template-columns: repeat(2,1fr);
     }
 }
