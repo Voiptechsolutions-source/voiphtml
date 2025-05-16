@@ -30,7 +30,7 @@
 <!-- Start Main Content -->
  <main>
     <!-- Hero Section -->
-     <section class="bg-light-orange py-80 inner-banner mb-80">
+     <section class="bg-light py-80 inner-banner mb-80">
         <div class="container">
             <div class="d-flex justify-content-center flex-column-reverse flex-md-row ">
                 <!-- Banner Content -->
@@ -47,90 +47,105 @@
      </section>
 
      <!-- Privacy Policy -->
-     <section class="privacy-policy pb-5">
+     <section class="privacy-policy pb-5 faq-page">
         <div class="container">
             <div class="row ">
-                
-        <div class="col-md-12">
-        <h2 class="pl-0 mb-3">What call center solutions does VoIPTech Solutions offer?</h2>
-            <p>
-          VoIPTech Solutions offer services and solutions including VoIP Minutes, CC Traffic, CLI/NCLI, IVR System, Freeswitch, Asterisk and OpenSIPS development, VTS and Auto Dialer, Hosted, Fusion and IP PBX, and ViCiDial.
+                    
+                <div class="col-md-12">
+                    <div class="faq-page-item">
+                        <h2 class="pl-0 mb-3">What call center solutions does VoIPTech Solutions offer?</h2>
+                        <p>
+                        VoIPTech Solutions offer services and solutions including VoIP Minutes, CC Traffic, CLI/NCLI, IVR System, Freeswitch, Asterisk and OpenSIPS development, VTS and Auto Dialer, Hosted, Fusion and IP PBX, and ViCiDial.
 
-            </p>
-        <h2 class="pl-0 mb-3">Are the solutions scalable for businesses of different sizes?</h2>  
-        <p>
-          Yes, all the solutions are scalable for small, medium and large sized businesses including enterprises.
+                        </p>
+                    </div>
+                    <div class="faq-page-item">
+                        <h2 class="pl-0 mb-3">Are the solutions scalable for businesses of different sizes?</h2>  
+                        <p>
+                        Yes, all the solutions are scalable for small, medium and large sized businesses including enterprises.
 
-        </p>
-      
-        <h2>Does VoIPTech Solutions offer international calling capabilities?</h2>
-                <p>
-               Yes, we offer international calling capabilities with best pricing allowing businesses to connect globally.
-            </p>
-          
+                        </p>
+                    </div>    
+                    <div class="faq-page-item">
+                        <h2>Does VoIPTech Solutions offer international calling capabilities?</h2>
+                            <p>
+                        Yes, we offer international calling capabilities with best pricing allowing businesses to connect globally.
+                        </p>
+                    </div>  
+                    <div class="faq-page-item">
+                        <h2 class="pl-0 mb-3">
+                    What are the pricing plans available at VoIPTech Solutions?
+                        </h2>
+                        <p>We offer competitive pricing for all our services and solutions. We also offer Free Trials for first time customers. Kindly visit our pricing page to get more details about our plans, their features and current pricing.
 
-            <h2 class="pl-0 mb-3">
-           What are the pricing plans available at VoIPTech Solutions?
-            </h2>
-            <p>We offer competitive pricing for all our services and solutions. We also offer Free Trials for first time customers. Kindly visit our pricing page to get more details about our plans, their features and current pricing.
+                        </p>
+                    </div>
+                    <div class="faq-page-item">
+                        <h2 class="pl-0 mb-3">
+                    Are there any hidden charges?
+                        </h2>
+                        <p>
+                    No, there are no hidden charges. We are committed towards transparent pricing and a “What you see is what you get” model with no hidden charges.
+                        </p>
+                    </div>
+                    <div class="faq-page-item">
 
-            </p>
+                        <h2 class="pl-0 mb-3">
+                        Is there a free trial or demo available?
+                        </h2>
 
-            <h2 class="pl-0 mb-3">
-           Are there any hidden charges?
-            </h2>
-            <p>
-           No, there are no hidden charges. We are committed towards transparent pricing and a “What you see is what you get” model with no hidden charges.
-            </p>
-
-            <h2 class="pl-0 mb-3">
-            Is there a free trial or demo available?
-            </h2>
-            <p>
-            Yes, we offer a free trial and a free demo for all our customers. Kindly get in touch with us to avail the same.
-            </p>
-
-            <h2 class="pl-0 mb-3">
-              Is technical support available?
-            </h2>
-            <p>
-            Yes, we offer 24 by 7 technical support for all our services and solutions.
-            </p>
-
-            <h2 class="p-0 mb-3"> Can VoIPTech Solutions integrate with our existing CRM platform? </h2>
-            <p>
-            Yes, our services and solutions are designed to integrate seamlessly with the existing CRM platforms for customer success. 
-            </p>
-          
-            <h2 class="p-0 mb-3">What is required to set up call center solutions provided by VoIPTech Solutions?</h2>
-            <p>
-            You require a stable internet connection along with compatible hardware. Our experts will assist you in setting up the call center solutions for accurate implementation.
-            </p>
-            <h2 class="p-0 mb-3"> Can existing phone numbers be retained for a business? </h2>
-            <p>
-            Yes, the existing phone numbers can be retained.
-            </p>
-            
-            <h2 class="p-0 mb-3">Are the services, provided by VoIPTech Solutions, compatible with mobile devices?</h2>
-            <p>
-            Yes, all the services and solutions are designed to be mobile-friendly, ensuring accessibility across various devices.
-            </p>
-            
-            
-             <h2 class="p-0 mb-3"> Do you offer support for international clients?</h2>
-            <p>
-            Yes, VoIPTech Solutions offers global support because we work with domestic as well as international clients.
-            </p>
-            
-            
-            <h2 class="p-0 mb-3"> How can I get started with VoIP Tech Solutions?</h2>
-            <p>
-           Please get in touch with us through WhatsApp and you can get started instantly.
-            </p>
-            
-            
-        </div>
-    
+                        <p>
+                        Yes, we offer a free trial and a free demo for all our customers. Kindly get in touch with us to avail the same.
+                        </p>
+                    </div>
+                    <div class="faq-page-item">
+                        <h2 class="pl-0 mb-3">
+                        Is technical support available?
+                        </h2>
+                        <p>
+                        Yes, we offer 24 by 7 technical support for all our services and solutions.
+                        </p>
+                    </div>
+                    <div class="faq-page-item">
+                        <h2 class="p-0 mb-3"> Can VoIPTech Solutions integrate with our existing CRM platform? </h2>
+                        <p>
+                        Yes, our services and solutions are designed to integrate seamlessly with the existing CRM platforms for customer success. 
+                        </p>
+                    </div>  
+                    <div class="faq-page-item">
+                        <h2 class="p-0 mb-3">What is required to set up call center solutions provided by VoIPTech Solutions?</h2>
+                        <p>
+                        You require a stable internet connection along with compatible hardware. Our experts will assist you in setting up the call center solutions for accurate implementation.
+                        </p>
+                    </div>    
+                    <div class="faq-page-item">
+                        <h2 class="p-0 mb-3"> Can existing phone numbers be retained for a business? </h2>
+                        <p>
+                        Yes, the existing phone numbers can be retained.
+                        </p>
+                    </div>
+                    <div class="faq-page-item">
+                        <h2 class="p-0 mb-3">Are the services, provided by VoIPTech Solutions, compatible with mobile devices?</h2>
+                        <p>
+                        Yes, all the services and solutions are designed to be mobile-friendly, ensuring accessibility across various devices.
+                        </p>
+                    </div> 
+                    <div class="faq-page-item">
+                        <h2 class="p-0 mb-3"> Do you offer support for international clients?</h2>
+                        <p>
+                        Yes, VoIPTech Solutions offers global support because we work with domestic as well as international clients.
+                        </p>
+                    </div>    
+                    <div class="faq-page-item">
+                        
+                        <h2 class="p-0 mb-3"> How can I get started with VoIP Tech Solutions?</h2>
+                        <p>
+                    Please get in touch with us through WhatsApp and you can get started instantly.
+                        </p>
+                    </div>    
+                    
+                </div>
+        
             </div>
         </div>
      </section>

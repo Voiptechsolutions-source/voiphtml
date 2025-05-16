@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scrollspy Sidebar</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .sidebar {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 250px;
+            height: 100vh;
+            background: #f0f0f0;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .sidebar ul {
+            list-style: none;
+        }
+
+        .sidebar a {
+            display: block;
+            padding: 10px 15px;
+            text-decoration: none;
+            color: #333;
+            border-radius: 4px;
+            margin-bottom: 5px;
+            transition: background 0.3s;
+        }
+
+        .sidebar a:hover {
+            background: #ddd;
+        }
+
+        .sidebar a.active {
+            background: #2196F3;
+            color: white;
+        }
+
+        .content {
+            margin-left: 250px;
+            padding: 30px;
+        }
+
+        section {
+            min-height: 100vh;
+            padding: 40px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        section h2 {
+            margin-bottom: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <nav class="sidebar">
+        <ul>
+            <li><a href="#home" class="active">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main class="content">
+        <section id="home">
+            <h2>Home Section</h2>
+            <p>Welcome to the home section!</p>
+        </section>
+        <section id="about">
+            <h2>About Section</h2>
+            <p>Learn more about us here.</p>
+        </section>
+        <section id="services">
+            <h2>Services Section</h2>
+            <p>Discover our services.</p>
+        </section>
+        <section id="portfolio">
+            <h2>Portfolio Section</h2>
+            <p>View our work portfolio.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Section</h2>
+            <p>Get in touch with us.</p>
+        </section>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const sidebarLinks = document.querySelectorAll('.sidebar a');
+            const sections = document.querySelectorAll('section');
+
+            // Smooth scroll functionality
+            sidebarLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const targetId = this.getAttribute('href');
+                    const targetSection = document.querySelector(targetId);
+                    const headerOffset = 120;
+                    const targetPosition = targetSection.getBoundingClientRect().top;
+                    const offsetPosition = targetPosition + window.pageYOffset - headerOffset;
+                    //targetSection.scrollIntoView({ behavior: 'smooth' });
+                    window.scrollTo({
+                        top: offsetPosition,
+                        behavior: "smooth"
+                    })
+
+                });
+            });
+
+            // Scrollspy functionality
+            window.addEventListener('scroll', function() {
+                let currentSection = '';
+                
+                sections.forEach(section => {
+                    const sectionTop = section.offsetTop;
+                    const sectionHeight = section.clientHeight;
+                    if (window.scrollY >= sectionTop - sectionHeight * 0.25) {
+                        currentSection = section.getAttribute('id');
+                    }
+                });
+
+                sidebarLinks.forEach(link => {
+                    link.classList.remove('active');
+                    const href = link.getAttribute('href').substring(1);
+                    if (href === currentSection) {
+                        link.classList.add('active');
+                    }
+                });
+            });
+
+            // Trigger scroll event to set initial active link
+            window.dispatchEvent(new Event('scroll'));
+        });
+    </script>
+</body>
+</html>

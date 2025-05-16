@@ -160,7 +160,7 @@
                   </a>
                 </div>
             </div>
-            <div class="col-12 col-md-2">
+            <div class="col-6 col-md-2">
                 <h4>Quick Links</h4>
                 <ul>
                     <li><a href="about-us.php">About Us</a></li>
@@ -175,7 +175,7 @@
                     <li><a href="blogs.php">Blogs</a></li>
                 </ul>
             </div>
-            <div class="col-12 col-md-2">
+            <div class="col-6 col-md-2">
                 <h4>Services</h4>
                 <ul>
                     <li><a href="voip.php">VoIP</a></li>
@@ -186,7 +186,7 @@
                     <li><a href="opensips-development.php">OpenSIPS Development</a></li>
                 </ul>
             </div>
-            <div class="col-12 col-md-2">
+            <div class="col-6 col-md-2">
                 <h4>Solutions</h4>
                 <ul>
                   <li><a class="" href="vts-dialer.php">VTS Dialer</a></li>
@@ -199,14 +199,14 @@
                   <li><a class="" href="sippy-softswitch.php">Sippy Softswitch</a></li>
                   <li><a class="" href="ivr-system.php">IVR System</a></li>
                   <li><a class="" href="auto-dialer.php">Auto Dialer</a></li>
-                  <li><a class="" href="conferencing.php">Conferencing</a></li>
+                 
                   <li><a class="" href="multi-tenant-broadcasting.php">Multi-Tenant Broadcasting</a></li>
-                  <li><a class="" href="multi-tenant-conferencing.php">Multi-Tenant Conferencing</a></li>
+                  
                   <li><a class="" href="webrtc-client.php">WebRTC Client</a></li>
                   <li><a class="" href="vos-3000.php">VOS 3000</a></li>
                 </ul>
             </div>
-            <div class="col-12 col-md-3">
+            <div class="col-6 col-md-3">
                 <h4>Contact Info</h4>
                 <div class="address d-flex gap-2">
                     <span class="contact-icons">

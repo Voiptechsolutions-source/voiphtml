@@ -55,6 +55,8 @@
                     <img src="assets/images/about-img1.avif" alt="Call center solution" class="img-fluid" />
                  </div>
             </div>
+            <div class="top__gradient oval_blue"></div>
+            <div class="top__gradient2 oval_orange"></div>
         </div>
      </section>
 
@@ -82,7 +84,7 @@
       </section>
 
      <!-- Business Success Section -->
-     <section class="biz-success bg-light-orange py-80 mt-3">
+     <section class="biz-success bg-light py-80 mt-3">
         <div class="container">
             <h2 class="text-center mb-4">Trusted Platform for Seamless Conversations and Scalable Growth</h2>
             <p class="text-center">For over 8 years, VoIPTech Solutions has been helping brands across the globe simplify communication, enhance customer experience, and grow confidently. With a commitment to innovation, reliability, and customer-first service, we’ve earned the trust of 500+ clients who rely on us to keep their conversations flowing seamlessly.</p>
@@ -165,12 +167,13 @@
                     <p>At VoIPTech Solutions, we empower businesses to thrive through seamless communication and operational efficiency. Our solutions help businesses streamline their call center operations, boost productivity, and enhance customer experiences. By delivering reliable VoIP, SMS, DID & TFN, and cloud-based call center systems, we enable smoother connections, increase engagement, and ensure businesses stay competitive. Our solutions drive growth, maximize performance, and provide lasting value in a fast-paced market.</p>
                 </div>
             </div>
+            
         </div>
       </section>
 
         <!-- CTA -->
-         <section class="cta py-5 bg-orange mb-5">
-            <div class="container">
+         <section class="cta  mb-5">
+            <div class="container py-5 bg-orange rounded-xl">
                 <p class="text-center">Have Questions? </p>
                 <h2 class="text-center">Speak with Our Experts </h2>
                 <div class="call-btn text-center mt-4">

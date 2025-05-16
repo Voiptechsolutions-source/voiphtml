@@ -32,7 +32,7 @@
 <!-- Start Main Content -->
  <main>
     <!-- Hero Section -->
-     <section class="bg-light-orange py-5 home-banner">
+     <section class="py-5 home-banner">
         <div class="container">
             <div class="d-flex justify-content-between flex-column-reverse flex-md-row mt-5">
                 <!-- Banner Content -->
@@ -67,9 +67,11 @@
                 </div>
                 <!-- Hero image -->
                  <div class="hero-img">
-                    <img src="assets/images/banner-img.avif" alt="Call center solution" class="img-fluid" />
+                    <img src="assets/images/banner-img.webp" alt="Call center solution" class="img-fluid" />
                  </div>
             </div>
+            <div class="top__gradient oval_blue"></div>
+            <div class="top__gradient2 oval_orange"></div>
         </div>
      </section>
 
@@ -110,7 +112,7 @@
                 </div>
                 <div class="col col-md-6">
                     <div class="feat-img">
-                        <img src="assets/images/home-feat1.svg" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/home-feat1.avif" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
                     </div>
                 </div>
             </div>
@@ -130,7 +132,7 @@
                 </div>
                 <div class="col col-md-6">
                     <div class="feat-img">
-                        <img src="assets/images/home-feat2.svg" alt="Powerful Call Center Tools" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/home-feat2.avif" alt="Powerful Call Center Tools" class="img-fluid" loading="lazy" />
                     </div>
                 </div>
             </div>
@@ -148,7 +150,7 @@
                 </div>
                 <div class="col col-md-6">
                     <div class="feat-img">
-                        <img src="assets/images/home-feat3.svg" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/home-feat3.avif" alt="Comprehensive Digital Solutions" class="img-fluid" loading="lazy" />
                     </div>
                 </div>
             </div>
@@ -157,7 +159,7 @@
        </secton>
 
        <!-- Why us section -->
-        <section class="why-us bg-light-orange py-80 mt-80">
+        <section class="why-us py-80 mt-80">
             <div class="container">
                 <div class="section-title text-center">
                     <h2>Why Should You Choose Us?</h2>
@@ -246,12 +248,14 @@
                     
                     
                 </div>
+                <div class="top__gradient oval_blue"></div>
+                <div class="top__gradient2 oval_orange"></div>
             </div>
         </section>
 
         <!-- CTA -->
-         <section class="cta py-5 bg-orange">
-            <div class="container">
+         <section class="cta ">
+            <div class="container py-5 bg-orange rounded-xl">
                 <p class="text-center">Have Questions? </p>
                 <h2 class="text-center">Speak with Our Experts </h2>
                 <div class="call-btn text-center mt-4">
@@ -285,10 +289,10 @@
                     items:1
                 },
                 600:{
-                    items:2
+                    items:1
                 },
                 1000:{
-                    items:2
+                    items:1
                 }
             }
         });
