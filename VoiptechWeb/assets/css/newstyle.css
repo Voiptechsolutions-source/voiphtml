@@ -947,6 +947,8 @@ textarea.form-control {
 	background: #fff;
 	box-shadow: 0 11px 24px rgba(0,0,0,.30);
     overflow: hidden;
+    position: relative;
+    z-index: 99;
 }
 .form-header {
 	text-align: center;
@@ -1143,14 +1145,22 @@ textarea.form-control {
 .all-biz-locations ._location p {
 	font-size: 14px;
 }
-#myModalForm .modal-content, #myCareerModalForm .modal-content {
+#myModalForm .modal-content, #myCareerModalForm .modal-content, #myExitModalForm .modal-content {
 	background: transparent;
-	border: navajowhite;
+	border: none;
 }
 #myCareerModalForm .contact-form .form-control {
 	padding: inherit;
     padding-left: 10px;
     padding-right: 10px;
+}
+.form-header p.h1 {
+	font-size: 1.8rem;
+    padding-top: 15px;
+}
+.form-header p.h2 {
+	font-size: 1.2rem;
+    font-weight: 600;
 }
 .modal-body.modal-form-body .close {
 	position: absolute;
@@ -1890,6 +1900,13 @@ textarea.form-control {
 	display: grid;
 	grid-template-columns: repeat(2,1fr);
 	gap: 0 15px;
+    }
+    .blog-single-banner .hero-img {
+	width: 500px;
+    }
+    .blog-single-banner .banner-content {
+	max-width: 80% !important;
+	width: 100%;
     }
 }
 @media(max-width: 1200px){

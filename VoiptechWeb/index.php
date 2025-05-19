@@ -357,5 +357,30 @@
 
 
 </script>
+<script>
+        // Track mouse movement
+        document.addEventListener('mouseout', function(e) {
+            if (!e.toElement && !e.relatedTarget && e.clientY < 10) {
+                showPopup();
+            }
+        });
+        
+        function showPopup() {
+            $('#myExitModalForm').modal();
+            
+            // Don't show again for 30 days if they close it
+            localStorage.setItem('exitPopupShown', 'true');
+        }
+        
+        
+        
+        // Check if popup was already shown
+        window.onload = function() {
+            if (localStorage.getItem('exitPopupShown') !== 'true') {
+                // Set up the exit intent listener
+                document.addEventListener('mouseout', trackExitIntent);
+            }
+        };
+    </script>
 </body>
 </html>
