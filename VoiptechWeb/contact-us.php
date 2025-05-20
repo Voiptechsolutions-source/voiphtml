@@ -31,7 +31,10 @@
  <main>
     <!-- Map Section -->
     <section class="map-cont">
-        <img src="assets/images/world-map.avif" alt="map" class="img-fluid" />
+        <div class="section-title text-center">
+            <h2>Our Locations</h2>
+        </div>
+        <img src="assets/images/world-map.webp" alt="map" class="img-fluid" />
         <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Fn9W8NAtw6evoFEvJU9jtzvJU0hB6mo&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe> -->
     </section> 
 

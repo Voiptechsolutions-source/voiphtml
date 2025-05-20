@@ -1982,7 +1982,10 @@ textarea.form-control {
     width: 100%;
 }
 
-
+.dropdown1 .dropdown-item .menu-icn svg {
+	width: 100%;
+	fill: var(--primary-color);
+}
 
 /*-----------------------Switch Style-----------------*/
 /* The switch - the box around the slider */
