@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.12">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.13">
 </head>
 <body>
     <header>

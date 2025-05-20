@@ -1301,6 +1301,65 @@ ul.timeline-list li:before {
 .all-services-list .service-box.graphics-design .service-icn{background-image: url(../images/icons/services/graphic-design.png);}
 .all-services-list .service-box.block-dev .service-icn{background-image: url(../images/icons/services/blockchain.png);}
 .all-services-list .service-box.ai .service-icn{background-image: url(../images/icons/services/ai.png);}
+
+.service-detail-banner .banner-img {
+	text-align: right;
+}
+.service-detail-banner .banner-img img {
+	width: 400px;
+}
+.service-detail-banner .banner-text-cont .banner-tagline {
+	font-size: 16px;
+}
+.hero-section.service-detail-banner {
+    background: url(../images/service-detail-banner-bg.webp) no-repeat;
+    background-position: center;
+}
+._trusted.trusted-bg {
+	background: #192144;
+	padding: 20px 30px;
+	border-radius: 40px;
+    display: inline-flex !important;
+}
+.service-detail-section2{
+    background: url(../images/service-detail-section2-bg.webp) no-repeat;
+}
+.service-detail-section2 .feats-list .feat-box{margin-bottom: 30px;}
+.service-detail-section5 {
+background: url(../images/service-detail-section5-bg.webp) no-repeat;
+/* background-position: center; */
+background-attachment: fixed;
+}
+.stats-cont {
+	margin-top: 60px;
+	display: flex;
+	justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.stats-cont ._stat {
+	width: 200px;
+	height: 200px;
+	background: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+	flex-direction: column;
+	border-radius: 100%;
+	border: 3px solid #989898;
+	cursor: pointer;
+    box-shadow: 0 0 28px rgba(0,0,0,0.3);
+    transition: all 300ms ease-in-out;
+}
+.stats-cont ._stat:hover{
+    border-color: var(--primary-color);
+}
+.stats-cont ._stat .nos {
+	font-size: 50px;
+	font-weight: 800;
+	line-height: 50px;
+}
 /*--------------------------Animation------------------------------*/
 
 .pulse {
