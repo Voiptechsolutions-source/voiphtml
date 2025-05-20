@@ -243,9 +243,9 @@ gsap.from('.section-6 .cta-box', {
     y:'-200%',
 }
 );
-gsap.from('.section-6 .section-title2', {
+gsap.from('.section-6 .section-title', {
     scrollTrigger:{
-        trigger: '.section-6 .section-title2',
+        trigger: '.section-6 .section-title',
         scroller:'body',
         scrub:1,
         markers:false,
@@ -259,38 +259,38 @@ gsap.from('.section-6 .section-title2', {
     y:'-200%',
 }
 );
-gsap.from('.section-6 .service-tab-pills', {
-    scrollTrigger:{
-        trigger: '.section-6 .service-tab-pills',
-        scroller:'body',
-        scrub:1,
-        markers:false,
-        start: 'top 90%',
-        end: 'top 30%',
+// gsap.from('.section-6 .service-tab-pills', {
+//     scrollTrigger:{
+//         trigger: '.section-6 .service-tab-pills',
+//         scroller:'body',
+//         scrub:1,
+//         markers:false,
+//         start: 'top 90%',
+//         end: 'top 30%',
         
-    },
-    delay:1,
-    duration: 2,
-    opacity:0,
-    x:'-200%',
-}
-);
-gsap.from('.section-6 .service-tabs-content', {
-    scrollTrigger:{
-        trigger: '.section-6 .service-tabs-content',
-        scroller:'body',
-        scrub:1,
-        markers:false,
-        start: 'top 90%',
-        end: 'top 30%',
+//     },
+//     delay:1,
+//     duration: 2,
+//     opacity:0,
+//     x:'-200%',
+// }
+// );
+// gsap.from('.section-6 .service-tabs-content', {
+//     scrollTrigger:{
+//         trigger: '.section-6 .service-tabs-content',
+//         scroller:'body',
+//         scrub:1,
+//         markers:false,
+//         start: 'top 90%',
+//         end: 'top 30%',
         
-    },
-    delay:1,
-    duration: 2,
-    opacity:0,
-    x:'200%',
-}
-);
+//     },
+//     delay:1,
+//     duration: 2,
+//     opacity:0,
+//     x:'200%',
+// }
+// );
 /*---------------------Section 6.5 ------------------*/
 gsap.from('.section6-5 .section-title', {
     scrollTrigger:{

@@ -236,7 +236,7 @@ main.main-wrapper{
 }
 .section-2{
     position: relative;
-    background-image: url(../images/section2-bg.jpg);
+    background-image: url(../images/section2-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -251,7 +251,7 @@ main.main-wrapper{
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.6);
     z-index: 1;
 }
 .section-2 > *{
@@ -1233,6 +1233,74 @@ ul.timeline-list li:before {
 	font-size: 22px;
 	border-radius: 15px;
 }
+.text-capsule {
+	background: #0f0f0f;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 30px;
+	border: 1px solid #373846;
+	margin-bottom: 10px;
+}
+.grad-text {
+	background: var(--gard1);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.all-services-list {
+	margin-top: 40px;
+}
+.all-services-list .service-box {
+	background: #000;
+	padding: 30px;
+	color: #fff;
+	text-align: center;
+	border-radius: 60px 30px 60px 30px;
+    transition: all 300ms ease-in-out;
+    margin-bottom: 30px;
+    min-height: 335px;
+}
+.all-services-list .service-box a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.all-services-list .service-box .service-icn {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+    transition: all 300ms ease-in-out;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 65px;
+}
+.all-services-list .service-box:hover .service-icn{
+    background-position: bottom;
+}
+.all-services-list .service-box:hover{
+    background: var(--gard1);
+    box-shadow: 0 0 28px rgba(75,98,255, 0.8);
+}
+.all-services-list .service-box.per-mrkt .service-icn{background-image: url(../images/icons/services/performance-marketing.png);}
+.all-services-list .service-box.aff-mrkt .service-icn{background-image: url(../images/icons/services/aff-marketing.png);}
+.all-services-list .service-box.digi-med-buy .service-icn{background-image: url(../images/icons/services/digi-media-bying.png);}
+.all-services-list .service-box.sma .service-icn{background-image: url(../images/icons/services/sma.png);}
+.all-services-list .service-box.ecom-mrkt .service-icn{background-image: url(../images/icons/services/ecom-marketing.png);}
+.all-services-list .service-box.b2b-mrkt .service-icn{background-image: url(../images/icons/services/b2b.png);}
+.all-services-list .service-box.seo .service-icn{background-image: url(../images/icons/services/seo.png);}
+.all-services-list .service-box.smm .service-icn{background-image: url(../images/icons/services/smm.png);}
+.all-services-list .service-box.influencer-mrkt .service-icn{background-image: url(../images/icons/services/influencer-marketing.png);}
+.all-services-list .service-box.pr-mrkt .service-icn{background-image: url(../images/icons/services/pr-outreach.png);}
+.all-services-list .service-box.vid-prod .service-icn{background-image: url(../images/icons/services/vid-production.png);}
+.all-services-list .service-box.vid-mrkt .service-icn{background-image: url(../images/icons/services/vid-mrkt.png);}
+.all-services-list .service-box.branding .service-icn{background-image: url(../images/icons/services/branding.png);}
+.all-services-list .service-box.comm-mgt .service-icn{background-image: url(../images/icons/services/community-management.png);}
+.all-services-list .service-box.web-dev .service-icn{background-image: url(../images/icons/services/web-development.png);}
+.all-services-list .service-box.app-dev .service-icn{background-image: url(../images/icons/services/app-developement.png);}
+.all-services-list .service-box.web-design .service-icn{background-image: url(../images/icons/services/web-design.png);}
+.all-services-list .service-box.graphics-design .service-icn{background-image: url(../images/icons/services/graphic-design.png);}
+.all-services-list .service-box.block-dev .service-icn{background-image: url(../images/icons/services/blockchain.png);}
+.all-services-list .service-box.ai .service-icn{background-image: url(../images/icons/services/ai.png);}
 /*--------------------------Animation------------------------------*/
 
 .pulse {
