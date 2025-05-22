@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.11">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.15">
 </head>
 <body>
     <header>
@@ -97,9 +97,9 @@
                 <h2>Welcome To Impression Media</h2>
                 <p>As leadign media buying agency, we create performance- driven strategies that boost brand visibility, 
                     drive quality traffice, and deliver measurable results, ensuring your business achieves growth and success</p>
-                <div class="bt-cont">
+                <!-- <div class="bt-cont">
                     <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5">Book a Demo</a>
-                </div>
+                </div> -->
             </div>
             <div class="feats-list mt-5">
                 <div class="row">
@@ -170,14 +170,14 @@
                     </div>
                 </div>
 
-                <div class="row flex-row-reverse mt-5">
+                <div class="row flex-row-reverse mt-5 section-why-us">
                     <div class="col-12 col-lg-6">
-                        <div class="why-us-img">
+                        <div class="why-us-img1">
                             <img src="assets/images/why-us-img3.png" alt="Why Choose us" class="img-fluid" />
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <div class="why-us-content">
+                        <div class="why-us-content1">
                             
                             <div class="_content">
                                 <div class="above-title justify-content-start mb-2">
@@ -340,7 +340,7 @@
         </section>        
              
         <!-- Section 6.5 Advantages -->
-        <section class="section6-5 py-5 bg-dark sec-advantages text-white">
+        <!-- <section class="section6-5 py-5 bg-dark sec-advantages text-white">
             <div class="container">
                 <div class="section-title text-center">
                     <div class="above-title mb-2 text-white">
@@ -398,10 +398,10 @@
                     </div>
                 </div>
             </div>
-        </section> 
+        </section>  -->
         
         <!-- Section 7 Client testimonials -->
-        <?php include 'includes/testimonials.php' ?>
+        <?php //include 'includes/testimonials.php' ?>
 
         <!-- Section 8 Our Clients -->
         <!-- <section class="section-8 py-80 clients-sec bg-dark">
@@ -427,7 +427,7 @@
         <!-- We work all over the world -->
         <?php include 'includes/our-locations-section.php'; ?>
         <!-- Section 11 Footer Contact-->
-        <?php include 'includes/footer-contact-section.php'; ?>
+        <?php //include 'includes/footer-contact-section.php'; ?>
         <!-- <section class="section-11 py-80 bg-dark success-section">
             <div class="container">
                 <div class="section-title2">
@@ -462,6 +462,6 @@
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>   
  <script src="assets/js/custom.js?v=1.11"></script>
- <script src="assets/js/about-effects.js"></script>
+ <script src="assets/js/about-effects.js?v=1.001"></script>
 </body>
 </html>

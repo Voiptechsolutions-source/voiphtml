@@ -211,9 +211,41 @@ gsap.from('.section-4 .all-chalanges', {
 // }
 // );
 /*---------------------Section 5 ------------------*/
-gsap.from('.section-5 .our-features-home', {
+gsap.from('.section-5 .why-us-img', {
     scrollTrigger:{
-        trigger: '.section-5 .our-features-home',
+        trigger: '.section-5',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    x:'-200%',
+}
+);
+gsap.from('.section-5 .why-us-content', {
+    scrollTrigger:{
+        trigger: '.section-5',
+        scroller:'body',
+        scrub:1,
+        markers:false,
+        start: 'top 90%',
+        end: 'top 30%',
+        
+    },
+    delay:1,
+    duration: 2,
+    opacity:0,
+    x:'200%',
+}
+);
+gsap.from('.section-5 .stats-cont', {
+    scrollTrigger:{
+        trigger: '.section-5 .stats-cont',
         scroller:'body',
         scrub:1,
         markers:false,
@@ -260,104 +292,7 @@ gsap.from('.section-6 .section-title', {
     y:'-200%',
 }
 );
-tl.from('.section-6 .all-services-list .service-row-1',{
-    scrollTrigger:{
-        trigger: '.section-6 .all-services-list .service-row-1',
-        scroller:'body',
-        // scrub:1,
-        markers:false,
-        start: 'top 80%',
-        end: 'top 30%',
-        
-    },
-    y: 50,
-    duration: 2,
-    opacity:0
-})
-.from('.section-6 .all-services-list .service-row-2',{
-    scrollTrigger:{
-        trigger: '.section-6 .all-services-list .service-row-2',
-        scroller:'body',
-        // scrub:1,
-        markers:false,
-        start: 'top 80%',
-        end: 'top 30%',
-        
-    },
-    y: 50,
-    duration: 2,
-    opacity:0
-})
-.from('.section-6 .all-services-list .service-row-3',{
-    scrollTrigger:{
-        trigger: '.section-6 .all-services-list .service-row-3',
-        scroller:'body',
-        // scrub:1,
-        markers:false,
-        start: 'top 80%',
-        end: 'top 30%',
-        
-    },
-    y: 50,
-    duration: 2,
-    opacity:0
-})
-.from('.section-6 .all-services-list .service-row-4',{
-    scrollTrigger:{
-        trigger: '.section-6 .all-services-list .service-row-4',
-        scroller:'body',
-        // scrub:1,
-        markers:false,
-        start: 'top 80%',
-        end: 'top 30%',
-        
-    },
-    y: 50,
-    duration: 2,
-    opacity:0
-})
-.from('.section-6 .all-services-list .service-row-5',{
-    scrollTrigger:{
-        trigger: '.section-6 .all-services-list .service-row-5',
-        scroller:'body',
-        // scrub:1,
-        markers:false,
-        start: 'top 80%',
-        end: 'top 30%',
-        
-    },
-    y: 50,
-    duration: 2,
-    opacity:0
-})
-.from('.section-6 .all-services-list .service-row-6',{
-    scrollTrigger:{
-        trigger: '.section-6 .all-services-list .service-row-6',
-        scroller:'body',
-        // scrub:1,
-        markers:false,
-        start: 'top 80%',
-        end: 'top 30%',
-        
-    },
-    y: 50,
-    duration: 2,
-    opacity:0
-})
-.from('.section-6 .all-services-list .service-row-7',{
-    scrollTrigger:{
-        trigger: '.section-6 .all-services-list .service-row-7',
-        scroller:'body',
-        // scrub:1,
-        markers:false,
-        start: 'top 80%',
-        end: 'top 30%',
-        
-    },
-    y: 50,
-    duration: 2,
-    opacity:0
-})
+
 // gsap.from('.section-6 .service-tab-pills', {
 //     scrollTrigger:{
 //         trigger: '.section-6 .service-tab-pills',
@@ -489,39 +424,7 @@ gsap.from('.section-7 .testim-carousel', {
     x:'200%',
 }
 );
-/*---------------------Section 8 ------------------*/
-// gsap.from('.section-8 .clients-title-section', {
-//     scrollTrigger:{
-//         trigger: '.section-8',
-//         scroller:'body',
-//         scrub:1,
-//         markers:false,
-//         start: 'top 90%',
-//         end: 'top 30%',
-        
-//     },
-//     delay:1,
-//     duration: 2,
-//     opacity:0,
-//     y:'-200%',
-// }
-// );
-// gsap.from('.section-8 .comp-logos', {
-//     scrollTrigger:{
-//         trigger: '.section-8 ',
-//         scroller:'body',
-//         scrub:1,
-//         markers:false,
-//         start: 'top 90%',
-//         end: 'top 30%',
-        
-//     },
-//     delay:1,
-//     duration: 2,
-//     opacity:0,
-//     x:'200%',
-// }
-// );
+
 /*---------------------Section 9 ------------------*/
 gsap.from('.section-9 .section-title', {
     scrollTrigger:{

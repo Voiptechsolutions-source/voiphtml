@@ -27,7 +27,7 @@
                             <a class="nav-link" href="#">Contact</a>
                         </li>
                         <li class="nav-item d-block d-lg-none">
-                            <a href="#" class="btn btn-secondary  text-uppercase px-4">Get a Free Demo</a>
+                            <a href="#" class="btn btn-secondary  text-uppercase px-4 rounded-pill">Get Started</a>
                         </li>
                     </ul>
     
@@ -35,7 +35,7 @@
                 </div>
                 <!-- Get Started button on the right -->
                 <div class="d-none d-lg-flex">
-                    <a href="#" class="btn btn-secondary btn-lg  text-uppercase px-4">Get a Free Demo</a>
+                    <a href="#" class="btn btn-secondary btn-lg  text-uppercase px-4 rounded-pill">Get Started</a>
                 </div>
             </div>
         </nav>

@@ -78,7 +78,7 @@
                                 
             
                                     <div class="form-group text-center mt-5 mb-0">
-                                        <input type="button" id="btn-freedemo" value="Get a Free Demo" class="btn btn-secondary text-white px-5 text-uppercase">
+                                        <input type="button" id="btn-freedemo" value="Submit" class="btn btn-secondary text-white px-5 text-uppercase rounded-pill">
                                     </div>
                                 </div>
                             </form>

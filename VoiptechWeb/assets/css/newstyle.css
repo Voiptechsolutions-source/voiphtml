@@ -1679,22 +1679,44 @@ textarea.form-control {
 }
 .conent-section-blog {
 	min-height: 100vh;
-	padding: 20px 0 120px;
-    margin-bottom: 80px;
+	padding: 20px 0 0px;
+    margin-bottom: 0px;
     
+}
+aside .nav-pills .nav-link._sub {
+	font-size: 14px;
+	padding-left: 34px;
+	font-style: italic;
 }
 .blog-content .conent-section-blog h2 {
 	font-size: 1.5rem;
 	font-weight: 800;
+    color: var(--primary-color);
 }
 .blog-content .conent-section-blog h3 {
 	font-size: 1.3rem;
+    color: var(--primary-color);
+}
+.conent-section-blog h4 {
+	font-size: 18px;
+	font-weight: 600;
+}
+.conent-section-blog h5 {
+	font-size: 16px;
+	font-weight: 600;
+}
+.conent-section-blog .table th {
+	background: var(--primary-color);
+	color: #fff;
 }
 .sticky-sidebar {
 	position: sticky;
 	top: 120px;
 	max-height: 650px;
 	overflow-y: auto;
+}
+.conent-section-blog .table th p {
+	margin-bottom: 0;
 }
 /* Pay As you Go */
 .about-banner.pay-as-banner .banner-content h1 span {
@@ -2254,8 +2276,11 @@ textarea.form-control {
 	width: 500px;
     }
     .blog-single-banner .banner-content {
-	max-width: 80% !important;
+	max-width: 60% !important;
 	width: 100%;
+    }
+    .conent-section-blog .img-fluid {
+	    max-width: 60%;
     }
 }
 @media(max-width: 1200px){
@@ -2500,6 +2525,10 @@ textarea.form-control {
     }
 }
 @media (max-width: 767.98px) {
+    .as-seen-on p {
+	text-align: center;
+	margin-bottom: 10px !important;
+    }
     .call-rates-countries__list{column-count: 2}
     .upcoming-event-card {
         gap: 20px;

@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.13">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.15">
 </head>
 <body>
     <header>
@@ -52,6 +52,9 @@
                                         <li>Scalable Plans</li>
                                     </ul>
                                 </div>
+                                <div class="banner-bnt my-2">
+                                    <a href="#" class="btn btn-secondary btn-lg  text-uppercase px-4 rounded-pill">Get Started</a>
+                                </div>
                                 <div class="_trusted d-flex align-items-center mt-4 mb-4 gap-1">
                                     <div class="stars d-flex">
                                         <div class="_star">
@@ -76,9 +79,9 @@
                                     <p>As seen on</p>
                                     <div class="d-flex gap-2 as-seen-on-logos">
                                         <img src="assets/images/logos/enterpreneur.png" alt="Enterpreneur" class="img-fluid" width="100" height="31" />
-                                        <img src="assets/images/logos/ht.png" alt="Hindustan Times" class="img-fluid" width="140" height="28" />
+                                        <!-- <img src="assets/images/logos/ht.png" alt="Hindustan Times" class="img-fluid" width="140" height="28" /> -->
                                         <img src="assets/images/logos/ndtv.png" alt="msn" class="img-fluid msn-logo" width="80" height="20" />
-                                        <img src="assets/images/logos/toi.png" alt="Times of India" class="img-fluid" width="100" height="57" />
+                                        <!-- <img src="assets/images/logos/toi.png" alt="Times of India" class="img-fluid" width="100" height="57" /> -->
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +108,7 @@
                 <p>As leadign media buying agency, we create performance- driven strategies that boost brand visibility, 
                     drive quality traffice, and deliver measurable results, ensuring your business achieves growth and success</p>
                 <div class="bt-cont">
-                    <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5">Book a Demo</a>
+                    <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5 rounded-pill">Get Started</a>
                 </div>
             </div>
             <div class="feats-list mt-5">
@@ -290,7 +293,7 @@
                         <h2>Accelerate Financial Growth with our marketing subscription</h2>
                         <p>It is a long established fact that a reader will be distracted </p>
                         <div class="btn-cont">
-                            <a href="#" class="btn btn-dark">Get a Free Demo</a>
+                            <a href="#" class="btn btn-dark rounded-pill">Get Started</a>
                         </div>
                     </div>
                     <div class="_cta-img">
@@ -309,7 +312,7 @@
                 <div class="all-services-list">
                     <div class="row">
                         <div class="col-12 col-lg-4">
-                            <div class="service-box per-mrkt">
+                            <div class="service-box per-mrkt service-row-1">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Performance Marketing</a></h3>
@@ -320,7 +323,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box aff-mrkt">
+                            <div class="service-box aff-mrkt service-row-1">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Affiliate Marketing</a></h3>
@@ -331,7 +334,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box digi-med-buy">
+                            <div class="service-box digi-med-buy service-row-1">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Digital Media Buying</a></h3>
@@ -342,7 +345,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box sma">
+                            <div class="service-box sma service-row-2">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Social Media Advertising</a></h3>
@@ -353,7 +356,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box ecom-mrkt">
+                            <div class="service-box ecom-mrkt service-row-2">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">E-commerce Marketing</a></h3>
@@ -364,7 +367,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box b2b-mrkt">
+                            <div class="service-box b2b-mrkt service-row-2">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">B2B Lead Generation & Marketing</a></h3>
@@ -375,7 +378,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box seo">
+                            <div class="service-box seo service-row-3">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Search Engine Optimization</a></h3>
@@ -386,7 +389,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box smm">
+                            <div class="service-box smm service-row-3">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Social Media Management</a></h3>
@@ -397,7 +400,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box influencer-mrkt">
+                            <div class="service-box influencer-mrkt service-row-3">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Influencer Marketing</a></h3>
@@ -409,7 +412,7 @@
                         </div>
 
                         <div class="col-12 col-lg-4">
-                            <div class="service-box pr-mrkt">
+                            <div class="service-box pr-mrkt service-row-4">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">PR & Outreach</a></h3>
@@ -420,7 +423,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box vid-prod">
+                            <div class="service-box vid-prod service-row-4">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Video Production</a></h3>
@@ -431,7 +434,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box vid-mrkt">
+                            <div class="service-box vid-mrkt service-row-4">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Video Marketing</a></h3>
@@ -443,7 +446,7 @@
                         </div>
 
                         <div class="col-12 col-lg-4">
-                            <div class="service-box branding">
+                            <div class="service-box branding service-row-5">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Branding</a></h3>
@@ -454,7 +457,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box comm-mgt">
+                            <div class="service-box comm-mgt service-row-5">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Community Management</a></h3>
@@ -465,7 +468,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box web-dev">
+                            <div class="service-box web-dev service-row-5">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Website Development</a></h3>
@@ -477,7 +480,7 @@
                         </div>
 
                         <div class="col-12 col-lg-4">
-                            <div class="service-box app-dev">
+                            <div class="service-box app-dev service-row-6">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Mobile App Development</a></h3>
@@ -488,7 +491,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box web-design">
+                            <div class="service-box web-design service-row-6">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Web Design</a></h3>
@@ -499,7 +502,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box graphics-design">
+                            <div class="service-box graphics-design service-row-6">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Graphics Design</a></h3>
@@ -511,7 +514,7 @@
                         </div>
 
                         <div class="col-12 col-lg-4">
-                            <div class="service-box block-dev">
+                            <div class="service-box block-dev service-row-7">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Blockchain Development</a></h3>
@@ -522,7 +525,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-4">
-                            <div class="service-box ai">
+                            <div class="service-box ai service-row-7">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
                                     <h3><a href="#">Artificial Intelligence</a></h3>
@@ -552,7 +555,7 @@
                                 <h3>Precision Targeting</h3>
                                 <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
                                 <div class="read-more-btn">
-                                    <a href="#" class="btn btn-secondary px-4">Read More</a>
+                                    <a href="#" class="btn btn-secondary px-4 rounded-pill">Read More</a>
                                 </div>
                             </div>
 
@@ -567,7 +570,7 @@
                                 <h3>Multi-Channel Campaigns</h3>
                                 <p>Harness the power of PPC, affiliate marketing, and social media ads to amplify your message across all platforms, increasing visibility and brand recognition.</p>
                                 <div class="read-more-btn">
-                                    <a href="#" class="btn btn-secondary px-4">Read More</a>
+                                    <a href="#" class="btn btn-secondary px-4 rounded-pill">Read More</a>
                                 </div>
                             </div>
 
@@ -582,7 +585,7 @@
                                 <h3>Real-Time Optimization</h3>
                                 <p>Optimize your campaigns continuously by leveraging real-time analytics to refine strategies, ensuring the best performance and maximum ROI.</p>
                                 <div class="read-more-btn">
-                                    <a href="#" class="btn btn-secondary px-4">Read More</a>
+                                    <a href="#" class="btn btn-secondary px-4 rounded-pill">Read More</a>
                                 </div>
                             </div>
 
@@ -689,7 +692,7 @@
                                             <li>Select an international number for global access. </li>
                                         </ol>
                                         <div class="_btn mt-4">
-                                            <a href="#" class="btn btn-secondary px-4 text-white">Get Started Now</a>
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
                                         </div>
                                     </div>
                                     <div class="_service-img">
@@ -706,7 +709,7 @@
     
                                             Get features like voicemail to email, call forwarding, Caller ID, Cloud PBX and more.</p>
                                             <div class="_btn mt-4">
-                                                <a href="#" class="btn btn-secondary px-4 text-white">Get Started Now</a>
+                                                <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
                                             </div>
                                         
                                     </div>
@@ -725,7 +728,7 @@
     
                                        
                                         <div class="_btn mt-4">
-                                            <a href="#" class="btn btn-secondary px-4 text-white">Get Started Now</a>
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
                                         </div>
                                     </div>
                                     <div class="_service-img">
@@ -745,7 +748,7 @@
     
                                         
                                         <div class="_btn mt-4">
-                                            <a href="#" class="btn btn-secondary px-4 text-white">Get Started Now</a>
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
                                         </div>
                                     </div>
                                     <div class="_service-img">
@@ -760,7 +763,7 @@
     
                                        
                                         <div class="_btn mt-4">
-                                            <a href="#" class="btn btn-secondary px-4 text-white">Get Started Now</a>
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
                                         </div>
                                     </div>
                                     <div class="_service-img">
@@ -775,7 +778,7 @@
     
                                        
                                         <div class="_btn mt-4">
-                                            <a href="#" class="btn btn-secondary px-4 text-white">Get Started Now</a>
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
                                         </div>
                                     </div>
                                     <div class="_service-img">
@@ -836,7 +839,7 @@
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                         <div class="minutes-read">11 minutes Read</div>
                         <div class="blog-btn">
-                            <a href="#" class="btn btn-secondary px-4 text-white">Read The Article</a>
+                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
                         </div>
                     </div>
                     <div class="blog-item">
@@ -850,7 +853,7 @@
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                         <div class="minutes-read">11 minutes Read</div>
                         <div class="blog-btn">
-                            <a href="#" class="btn btn-secondary px-4 text-white">Read The Article</a>
+                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
                         </div>
                     </div>
                     <div class="blog-item">
@@ -864,7 +867,7 @@
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                         <div class="minutes-read">11 minutes Read</div>
                         <div class="blog-btn">
-                            <a href="#" class="btn btn-secondary px-4 text-white">Read The Article</a>
+                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
                         </div>
                     </div>
                     <div class="blog-item">
@@ -878,7 +881,7 @@
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                         <div class="minutes-read">11 minutes Read</div>
                         <div class="blog-btn">
-                            <a href="#" class="btn btn-secondary px-4 text-white">Read The Article</a>
+                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
                         </div>
                     </div>
                 </div>
@@ -926,6 +929,6 @@
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>   
  <script src="assets/js/custom.js?v=1.11"></script>
- <script src="assets/js/home-effects.js"></script>
+ <script src="assets/js/home-effects.js?v=1.001"></script>
 </body>
 </html>
