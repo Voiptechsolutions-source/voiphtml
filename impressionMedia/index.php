@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.15">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.22">
 </head>
 <body>
     <header>
@@ -315,7 +315,7 @@
                             <div class="service-box per-mrkt service-row-1">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
-                                    <h3><a href="#">Performance Marketing</a></h3>
+                                    <h3><a href="service-detail.php">Performance Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
                                     <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>

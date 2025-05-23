@@ -20,7 +20,7 @@
                                 <p>Have Questions?</p>
                                 <div class="whatsapp-no">
                                     <a href="https://wa.link/voiptech" target="_blank">
-                                        <img src="/assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
+                                        <img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
                                         <span>WhatsApp Us</span>
                                     </a>
                                 </div>

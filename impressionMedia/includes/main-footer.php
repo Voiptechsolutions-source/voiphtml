@@ -65,16 +65,16 @@
                     <div class="footer-menu">
                         <h4>Companies</h4>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about-us.html">About Us</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
                             <li><a href="#">Success Stories</a></li>
                             <li><a href="#">Our People</a></li>
-                            <li><a href="#">Blog</a></li>
+                            <li><a href="blogs.php">Blog</a></li>
                             <li><a href="#">Pricing</a></li>
                             <li><a href="#">Events</a></li>
                             <li><a href="#">Careers</a></li>
                             <li><a href="#">Affiliate Program</a></li>
-                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

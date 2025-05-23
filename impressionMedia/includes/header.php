@@ -21,10 +21,10 @@
                             <a class="nav-link" href="about-us.php">About Us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Services</a>
+                            <a class="nav-link" href="all-services.php">Services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="contact-us.php">Contact</a>
                         </li>
                         <li class="nav-item d-block d-lg-none">
                             <a href="#" class="btn btn-secondary  text-uppercase px-4 rounded-pill">Get Started</a>

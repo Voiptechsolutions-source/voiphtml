@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.15">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.22">
 </head>
 <body>
     <header>
@@ -168,7 +168,7 @@
         <!-- Section 3  Why Us -->
         <section class="section-3 py-80 bg-light why-us-section service-detail-section3">
             <div class="container">
-                <div class="row">
+                <div class="row flex-column-reverse flex-lg-row">
                     
                     <div class="col-12 col-lg-6">
                         <div class="why-us-content">
