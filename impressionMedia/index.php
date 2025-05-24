@@ -829,9 +829,9 @@
             <div class="container">
                 <div class="mt-5 owl-carousel owl-theme blog-carousel text-white">
                     <div class="blog-item">
-                        <h3><a href="#">Boosting E-Commerce Sales with Google Shopping Ads</a></h3>
+                        <h3><a href="single-blog.php">Boosting E-Commerce Sales with Google Shopping Ads</a></h3>
                         <div class="blog-img">
-                            <a href="#"><img src="assets/images/blog-img1.png" alt="Blog Image 1" class="img-fluid"></a>
+                            <a href="single-blog.php"><img src="assets/images/blog-img1.png" alt="Blog Image 1" class="img-fluid"></a>
                         </div>
                         <div class="category-cont">
                             <a href="#" class="btn btn-default  rounded-pill">Boosting Sales for Grow</a>
@@ -839,13 +839,13 @@
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                         <div class="minutes-read">11 minutes Read</div>
                         <div class="blog-btn">
-                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
+                            <a href="single-blog.php" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
                         </div>
                     </div>
                     <div class="blog-item">
-                        <h3><a href="#">Boosting E-Commerce Sales with Google Shopping Ads</a></h3>
+                        <h3><a href="single-blog.php">Boosting E-Commerce Sales with Google Shopping Ads</a></h3>
                         <div class="blog-img">
-                            <a href="#"><img src="assets/images/blog-img2.png" alt="Blog Image 1" class="img-fluid"></a>
+                            <a href="single-blog.php"><img src="assets/images/blog-img2.png" alt="Blog Image 1" class="img-fluid"></a>
                         </div>
                         <div class="category-cont">
                             <a href="#" class="btn btn-default  rounded-pill">Boosting Sales for Grow</a>
@@ -853,13 +853,13 @@
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                         <div class="minutes-read">11 minutes Read</div>
                         <div class="blog-btn">
-                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
+                            <a href="single-blog.php" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
                         </div>
                     </div>
                     <div class="blog-item">
-                        <h3><a href="#">Boosting E-Commerce Sales with Google Shopping Ads</a></h3>
+                        <h3><a href="single-blog.php">Boosting E-Commerce Sales with Google Shopping Ads</a></h3>
                         <div class="blog-img">
-                            <a href="#"><img src="assets/images/blog-img3.png" alt="Blog Image 1" class="img-fluid"></a>
+                            <a href="single-blog.php"><img src="assets/images/blog-img3.png" alt="Blog Image 1" class="img-fluid"></a>
                         </div>
                         <div class="category-cont">
                             <a href="#" class="btn btn-default  rounded-pill">Boosting Sales for Grow</a>
@@ -867,7 +867,7 @@
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                         <div class="minutes-read">11 minutes Read</div>
                         <div class="blog-btn">
-                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
+                            <a href="single-blog.php" class="btn btn-secondary px-4 text-white rounded-pill">Read The Article</a>
                         </div>
                     </div>
                     <div class="blog-item">
