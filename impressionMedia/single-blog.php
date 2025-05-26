@@ -24,7 +24,7 @@
     </header>
     <main class="main-wrapper">
         <!-- Hero Section -->
-        <section class="blog-detail-section">
+        <section class="blog-detail-section grad-bg1-left">
             <div class="container">
                 <div class="row">
                     <!-- Blog Left Side -->

@@ -41,23 +41,26 @@
                     <div class="footer-menu">
                         <h4>Quick Links</h4>
                         <ul class="column2">
-                            <li><a href="#">Marketing Subscription</a></li>
-                            <li><a href="#">Social Media</a></li>
-                            <li><a href="#">Paid Social</a></li>
-                            <li><a href="#">Paid Media</a></li>
-                            <li><a href="#">SEO</a></li>
+                            <li><a href="#">Performance Marketing</a></li>
+                            <li><a href="#">Affiliate Marketing</a></li>
+                            <li><a href="#">Digital Media Buying</a></li>
+                            <li><a href="#">Social Media Advertising</a></li>
+                            <li><a href="#">E-commerce Marketing</a></li>
+                            <li><a href="#">B2B Lead Generation & Marketing</a></li>
+                            <li><a href="#">Search Engine Optimization</a></li>
+                            <li><a href="#">Social Media Management</a></li>
                             <li><a href="#">Influencer Marketing</a></li>
                             <li><a href="#">PR & Outreach</a></li>
                             <li><a href="#">Video Production</a></li>
                             <li><a href="#">Video Marketing</a></li>
                             <li><a href="#">Branding</a></li>
                             <li><a href="#">Community Management</a></li>
-                            <li><a href="#">Website development</a></li>
+                            <li><a href="#">Website Development</a></li>
                             <li><a href="#">Mobile App Development</a></li>
                             <li><a href="#">Web Design</a></li>
-                            <li><a href="#">Mobile App Design</a></li>
+                            <li><a href="#">Graphics Design</a></li>
                             <li><a href="#">Blockchain Development</a></li>
-                            <li><a href="#">Lead Generation</a></li>
+                            <li><a href="#">Artificial Intelligence</a></li>
                         </ul>
                     </div>
                 </div>
@@ -170,8 +173,8 @@
         <div class="copyright">
             <div class="copy-txt">© 2025 Designer Powered By impression media</div>
             <div class="privacy-nav">
-                <a href="#">Privacy Policy</a>
-                <a href="#">Terms & Conditions</a>
+                <a href="privacy-policy.php">Privacy Policy</a>
+                <a href="terms-and-conditions.php">Terms & Conditions</a>
             </div>
         </div>
     </footer>
