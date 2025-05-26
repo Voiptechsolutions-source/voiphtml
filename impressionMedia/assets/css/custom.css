@@ -63,11 +63,11 @@ main.main-wrapper{
     color: white;
 }
 .home-banner .banner-text-cont h1 {
-	font-size: 66px;
+	font-size: 46px;
 	font-weight: 800;
 }
 .home-banner .banner-text-cont .banner-tagline {
-	font-size: 26px;
+	font-size: 22px;
 }
 .home-banner .banner-text-cont .banner-feats-list {
 	margin: 20px 0;
@@ -263,7 +263,7 @@ main.main-wrapper{
 	padding: 20px;
 	border-radius: 15px;
 	border: 1px solid #fff;
-	min-height: 240px;
+	min-height: 280px;
 }
 .py-80 {
     padding: 80px 0;
@@ -734,12 +734,13 @@ footer h4 {
 	padding: 30px;
 	border-radius: 40px;
 	display: flex;
-	align-items: end;
+	align-items: center;
 	gap: 40px;
 	min-height: 330px;
     position: relative;
      overflow: hidden;
 }
+
 .vimi-box > *{
     z-index: 2;
 }
@@ -1258,7 +1259,7 @@ ul.timeline-list li:before {
 	border-radius: 60px 30px 60px 30px;
     transition: all 300ms ease-in-out;
     margin-bottom: 30px;
-    min-height: 335px;
+    min-height: 365px;
 }
 .all-services-list .service-box a{
     color: #fff;
@@ -1331,6 +1332,9 @@ ul.timeline-list li:before {
 background: url(../images/service-detail-section5-bg.webp) no-repeat;
 /* background-position: center; */
 background-attachment: fixed;
+}
+.faq-section .accordion-button h3 {
+	font-size: 18px;
 }
 .stats-cont {
 	margin-top: 60px;
@@ -1751,6 +1755,12 @@ background-attachment: fixed;
     }
     .testimonials-sec .container {
         max-width: 800px;
+    }
+    .vimi-box .vimi-icn {
+	    align-self: end;
+    }
+    .all-chalanges .chalange-box{
+        min-height: 300px;
     }
 }
 

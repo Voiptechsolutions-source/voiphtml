@@ -1,8 +1,8 @@
 <section class="section10-5 pt-1 pb-5 bg-black we-work text-white">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2 class="text-light-orange">We work all over the world</h2>
-                    <p>We have a fully remote team, so we can hire the marketing experts from all over the world</p>
+                    <h2 class="text-light-orange">We Work Worldwide</h2>
+                    <p>Impression Media Team has offices in different countries of the world, enabling us to tap into top-tier talent from around the globe to deliver exceptional results for your brand. </p>
                 </div>
                 <div class="all-biz-locations">
                     <div class="_location">

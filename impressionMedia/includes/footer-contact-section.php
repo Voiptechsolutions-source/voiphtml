@@ -8,8 +8,8 @@
                             </div>
                             <div class="img-caption-box">
                                 <h2>
-                                    <span class="small-txtx">Ready to take your marketing </span>
-                                    <span>to the <span class="text-light-orange">Next Level?</span></span>
+                                    <span class="small-txtx">Your brand deserves more </span>
+                                    <span>Want to <span class="text-light-orange">Level Up?</span></span>
                                 </h2>
                             </div>
                         </div>

@@ -7,7 +7,8 @@
             </div>
             <div class="container">
                 <div class="testi-title-section text-center">
-                    <h2 class="text-light-orange">Client Loved Our Testimonial</h2>
+                    <h2 class="text-light-orange"> Client Testimonials</h2>
+                    <p class="text-white">Hear it in their own words</p>
                 </div>
                 <div class="mt-5 owl-carousel owl-theme testim-carousel">
                     <div class="testim-item text-center">

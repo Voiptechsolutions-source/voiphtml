@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.25">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.22">
 </head>
 <body>
     <header>
@@ -40,16 +40,16 @@
                     <div class="row  align-items-center">
                         <div class="col-12 col-lg-6 hero-left">
                             <div class="banner-text-cont">
-                                <h1><span class="text-primary">Impression Media - </span> Results-driven Digital Marketing Agency in Dubai</h1>
-                                <div class="banner-tagline">We believe in results, not theories. With our proprietary tools and proven strategies, we transform data into powerful insights that drive unmatched growth. </div>
+                                <h1><span class="text-primary">Impression Media Solutions</span> for Customer Growth</h1>
+                                <div class="banner-tagline">Streamline operations and enhance customer interaction with our voice solutions. </div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>End to End Marketing Solutions</li>
-                                        <li>Scalable & Sustainable Growth</li>
-                                        <li>Reliable, Flexible & Agile</li>
-                                        <li>Impeccable Quality You Can Trust</li>
-                                        <li>Data-backed Approach</li>
-                                        <li>Specialized & Certified Experts</li>
+                                        <li>Cost-Effective Communication</li>
+                                        <li>Global Reach</li>
+                                        <li>Crystal-Clear Call Quality</li>
+                                        <li>Easy Integration</li>
+                                        <li>24/7 Expert Support</li>
+                                        <li>Scalable Plans</li>
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
@@ -102,10 +102,11 @@
         <div class="container">
             <div class="section-title text-center text-white">
                 <div class="above-title">
-                    <span>Marketing that Works</span>
+                    <span>Dummy Heading Here</span>
                 </div>
-                <h2>We’re Not Just an Agency, We’re Architects of Your Brand’s Digital Future</h2>
-                <p>At Impression Media, innovation is at the pulse, precision in our blood, and a deep commitment to your success in our soul.</p>
+                <h2>Your Trusted Media Buying Agency For High-Performance</h2>
+                <p>As leadign media buying agency, we create performance- driven strategies that boost brand visibility, 
+                    drive quality traffice, and deliver measurable results, ensuring your business achieves growth and success</p>
                 <div class="bt-cont">
                     <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5 rounded-pill">Get Started</a>
                 </div>
@@ -114,26 +115,26 @@
                 <div class="row">
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Omni-Channel Dominance</h3>
-                            <p>Your audience is everywhere, and so should be your brand. We deploy cohesive, multi-channel strategies across platforms that drive consistent engagement and increase conversions, ensuring your brand is always top-of-mind.</p>
+                            <h3>Precision Targeting</h3>
+                            <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-3">
+                        <div class="feat-box text-white">
+                            <h3>Multi-Channel Campaigns</h3>
+                            <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
                             <h3>Real-Time Optimization</h3>
-                            <p>No waiting. No guessing. With real-time tracking and continuous optimization, we ensure your campaigns are constantly fine-tuned, so you're always ahead of the competition and your results keep getting better–instantly.</p>
+                            <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Expert-Led Strategies</h3>
-                            <p>Your success is our mission. With a team of certified seasoned experts managing every detail of your campaigns, you can trust that nothing is left to chance. We make data-driven decisions, optimize constantly, and focus on delivering sustained, explosive growth.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-3">
-                        <div class="feat-box text-white">
-                            <h3>Laser-Targeted Precision</h3>
-                            <p>Reach the right audience, at the right moment, with data-powered accuracy. Our laser-focused targeting ensures your campaigns connect with the most relevant individuals, delivering higher engagement, greater conversions, and maximized ROI.</p>
+                            <h3>Expert Management</h3>
+                            <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
                         </div>
                     </div>
                 </div>
@@ -156,17 +157,18 @@
                             </div>
                             <div class="_content">
                                 <div class="above-title justify-content-start mb-2">
-                                    <span>We deliver Results that Stick</span>
+                                    <span>Dummy Heading Here</span>
                                 </div>
-                                <h2>Why Choose Us?</h2>
-                                <p>Our formula is simple, and we follow it relentlessly: your growth. At Impression Media, client satisfaction is our main focus and we are 100% committed towards it. </p>
+                                <h2>Why Choose Us</h2>
+                                <p>Thinking about solving our clients' problems has us constantly spinning our wheels. If you are new to creating video content or an experienced hand, you can check out our thoughts on many subjects related to our full-service advertising agency.</p>
                                 <div class="grid-list">
                                     <ul>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Impactful Performance</div>
-                                                    <p>10 years in the run, 500+ successful projects delivered.</p>
+                                                    <div class="list-head">Flexible Plans</div>
+                                                    <p>Choose from prepaid VoIP minutes 
+                                                    or postpaid billing.</p>
                                                 </div>
                                             </div>
                                             
@@ -174,8 +176,9 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Partner, Not Provider</div>
-                                                    <p>We’re a seamless extension of your team. </p>
+                                                    <div class="list-head">Flexible Plans</div>
+                                                    <p>Choose from prepaid VoIP minutes 
+                                                    or postpaid billing.</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -183,7 +186,8 @@
                                             <div class="li-content">
                                                 <div class="cont">
                                                     <div class="list-head">Unbeatable Pricing</div>
-                                                    <p>Budget should never get in the way of growth. </p>
+                                                    <p>Save more with cost-effective 
+                                                        VoIP solutions.</p>
                                                 </div>
                                             </div>
                                             
@@ -191,24 +195,9 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Complete Transparency</div>
-                                                    <p>Clear, open insights at every stage of the journey.</p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="li-content">
-                                                <div class="cont">
-                                                    <div class="list-head">Data-driven Decisions</div>
-                                                    <p>We let the data drive all the complex decisions.</p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="li-content">
-                                                <div class="cont">
-                                                    <div class="list-head">24 X 7 Support</div>
-                                                    <p>Have questions? Contact us anytime.</p>
+                                                    <div class="list-head">Unbeatable Pricing</div>
+                                                    <p>Save more with cost-effective 
+                                                        VoIP solutions.</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -230,7 +219,7 @@
                             <div class="vimi-box vimi-left shadow-lg">
                                 <div class="vimi-content">
                                     <h2>Our Vision</h2>
-                                    <p>At Impression Media, we share one mission: to be the catalyst behind every brand’s growth, turning ambition into measurable success. We combine strategy, creativity, and data to create marketing that moves the needle.</p>
+                                    <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG. The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
                                 </div>
                                 <div class="vimi-icn">
                                     <img src="assets/images/icons/vision-icn.png" alt="our vision" />
@@ -241,7 +230,7 @@
                             <div class="vimi-box vimi-right shadow-lg">
                                 <div class="vimi-content">
                                     <h2>Our Mission</h2>
-                                    <p>The mission is simple: to break the mold, redefine expectations, and deliver marketing that doesn’t just perform but transforms brands. We partner with ambitious businesses to craft bold, data-backed strategies that create lasting impact.</p>
+                                    <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG. The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
                                 </div>
                                 <div class="vimi-icn">
                                     <img src="assets/images/icons/mission-icn.png" alt="our mission" />
@@ -257,35 +246,36 @@
         <div class="container">
             <div class="section-title text-center">
                 <div class="above-title mb-2">
-                    <span>Complex issues, instant solutions</span>
+                    <span>Dummy Heading Here</span>
                 </div>
-                <h2 class="text-light-orange">Real Challenges We Help Businesses Overcome</h2>
-                <p>We’ve spent a decade identifying & overcoming the core challenges of marketing so that you don’t have to.</p>
+                <h2 class="text-light-orange">Real Challenges We Help Business Overcome</h2>
+                <p>It is a long established fact that a reader will be distracted by the  readable content of when looking at its layout. 
+                    The point of using Lorem Ipsum is that it has a more-or-less normal distribution</p>
             </div>
             <div class="all-chalanges">
                 <div class="row">
                     <div class="col-12 col-lg-3">
                         <div class="chalange-box">
-                            <h3>Campaigns Not Scaling</h3>
-                            <p>You’ve invested time, money, and effort, but your campaigns just aren’t growing. Without the right approach, your marketing team is stuck.</p>
+                            <h3>5A digital maturity framework</h3>
+                            <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="chalange-box">
-                            <h3>Creatives Burn Out</h3>
-                            <p>Fresh ideas can be hard to come by, and your creative team is feeling the pressure. The spark is fading, and the content starts feeling stale.</p>
+                            <h3>5A digital maturity framework</h3>
+                            <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="chalange-box">
-                            <h3>Traffic Without Conversions</h3>
-                            <p>All the traffic in the world won’t matter if it doesn’t convert. You’re getting eyes on your product, but they aren’t buying anything.</p>
+                            <h3>5A digital maturity framework</h3>
+                            <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="chalange-box">
-                            <h3>Inconsistent ROI</h3>
-                            <p>You’ve seen it all - good campaigns that barely move the needle, and others that seem to deliver a return but then fade. It’s exhausting to figure out where your money is going.</p>
+                            <h3>5A digital maturity framework</h3>
+                            <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
                         </div>
                     </div>
                 </div>
@@ -300,10 +290,10 @@
             <div class="container cta-box-cont">
                 <div class="cta-box">
                     <div class="_content">
-                        <h2>Are You Ready to Supercharge Your Brand’s Future?</h2>
-                        <p>We’ve dedicated significant time and resources to create & hone strategies that bring your brand to the forefront of your industry. Now, we’re here to help you leverage that success!</p>
+                        <h2>Accelerate Financial Growth with our marketing subscription</h2>
+                        <p>It is a long established fact that a reader will be distracted </p>
                         <div class="btn-cont">
-                            <a href="#" class="btn btn-dark rounded-pill">Speak with an Expert Now</a>
+                            <a href="#" class="btn btn-dark rounded-pill">Get Started</a>
                         </div>
                     </div>
                     <div class="_cta-img">
@@ -316,7 +306,7 @@
                 <div class="section-title text-center">
                     <h2 class="text-light-orange">Our Services</h2>
                     <div class="text-capsule"><span class="grad-text">Landing Pages & Funnels</span></div>
-                    <p class="text-white">We offer cutting-edge digital marketing and technology solutions in Dubai delivering measurable results across every stage of your digital journey.</p>
+                    <p class="text-white">We’re experts in all things marketing. B2B, blockchain, fintech, software, and high-growth startup brands are our sweet spot. Discover how we can scale your business to new heights through our strategic services below:</p>
                 </div>
 
                 <div class="all-services-list">
@@ -328,7 +318,7 @@
                                     <h3><a href="service-detail.php">Performance Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Maximize ROI with precision-targeted, multi-channel campaigns. Continuous optimization and in-depth reporting ensure every marketing dollar delivers measurable, scalable performance.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -339,7 +329,7 @@
                                     <h3><a href="#">Affiliate Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Drive growth through high-performing affiliate partnerships. Real-time tracking, commission-based models, and targeted recruitment amplify reach, conversions, and cost-efficiency.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -350,7 +340,7 @@
                                     <h3><a href="#">Digital Media Buying</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Strategic ad placement across premium digital platforms. Real-time A/B testing and performance tuning ensure maximum impact and ROI from every media buy.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -361,7 +351,7 @@
                                     <h3><a href="#">Social Media Advertising</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Engage your audience with platform-specific ad strategies. Custom visuals, targeted messaging, and continuous optimization drive visibility, traffic, and conversions across all major social platforms.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -372,7 +362,7 @@
                                     <h3><a href="#">E-commerce Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Boost online sales with conversion-focused campaigns. Leverage data-driven promotions, email flows, and retargeting strategies integrated seamlessly with top platforms.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -383,7 +373,7 @@
                                     <h3><a href="#">B2B Lead Generation & Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Generate and nurture high-quality business leads using targeted campaigns on Google, Meta and beyond. Optimize every touchpoint with detailed analytics and refined messaging.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -391,10 +381,10 @@
                             <div class="service-box seo service-row-3">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
-                                    <h3><a href="#">Search Engine Optimization(SEO)</a></h3>
+                                    <h3><a href="#">Search Engine Optimization</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Improve visibility with technical, on-page, and off-page SEO strategies. Drive organic traffic through keyword targeting, performance audits, and continuous content optimization.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -405,7 +395,7 @@
                                     <h3><a href="#">Social Media Management</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Plan, create, and manage content across platforms. Grow your audience, protect your brand, and maintain engagement through analytics-driven social strategies.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -416,7 +406,7 @@
                                     <h3><a href="#">Influencer Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Collaborate with trusted influencers to boost authenticity and reach. We manage everything—from influencer selection to campaign execution and performance analysis.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -428,7 +418,7 @@
                                     <h3><a href="#">PR & Outreach</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Shape brand perception through strategic media placements. We craft compelling press materials, build journalist relationships, and secure backlinks for authority and visibility.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -439,7 +429,7 @@
                                     <h3><a href="#">Video Production</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Deliver high-quality videos with compelling storytelling. From scripting to post-production, we create videos that captivate, inform, and convert across all platforms.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -450,7 +440,7 @@
                                     <h3><a href="#">Video Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Increase brand visibility with strategic video campaigns. Optimize YouTube presence and run engaging video ads with ongoing performance monitoring and refinement.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -462,7 +452,7 @@
                                     <h3><a href="#">Branding</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Build a memorable brand identity through strategic design and messaging. We craft logos, guidelines, and emotional resonance across all digital and offline touchpoints.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -473,7 +463,7 @@
                                     <h3><a href="#">Community Management</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Foster brand loyalty through active community engagement. We manage feedback, stimulate conversations, and build meaningful relationships with your audience in real time.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -484,7 +474,7 @@
                                     <h3><a href="#">Website Development</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Get a fast, responsive website built for performance. Custom UX, seamless integrations, and mobile optimization ensure your site drives results from day one.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -496,7 +486,7 @@
                                     <h3><a href="#">Mobile App Development</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Build intuitive, high-performance mobile apps tailored to your business needs. We handle design, development, and integration across iOS and Android platforms.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -507,7 +497,7 @@
                                     <h3><a href="#">Web Design</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Craft stunning, conversion-driven web designs with mobile-first UX. Our SEO-friendly layouts ensure fast loading, strong engagement, and modern visual appeal.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -518,7 +508,7 @@
                                     <h3><a href="#">Graphics Design</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Take your brand to the next level with visually compelling designs - from logos to ad creatives. Consistency and creativity are central to our multi-platform design approach.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -530,7 +520,7 @@
                                     <h3><a href="#">Blockchain Development</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Develop secure, scalable blockchain applications and smart contracts. We help businesses integrate decentralized technology across finance, logistics, and enterprise operations.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -541,7 +531,7 @@
                                     <h3><a href="#">Artificial Intelligence</a></h3>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Implement AI to streamline operations, enhance customer experience, and make smarter decisions. Solutions include chatbots, predictive analytics, and tailored automation workflows.</p>
+                                    <p>Every business is unique. That's why we tailor our SEO and marketing services to meet your specific goals, industry requirements, and target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -611,53 +601,54 @@
             <div class="container">
                 <div class="section-title text-center">
                     <div class="above-title mb-2 text-white">
-                        <span>No. 1 Digital Marketing Agency in Dubai</span>
+                        <span>Dummy Heading Here</span>
                     </div>
-                    <h2 class="text-light-orange">The Future of Ai-driven Digital Marketing is Here</h2>
-                    <p class="text-white">We’re not just playing the game, we’re changing it. These numbers are a proof. </p>
+                    <h2 class="text-light-orange">Meet the new generation of digital marketing services</h2>
+                    <p class="text-white">It is a long established fact that a reader will be distracted by the  readable content of when looking at its layout. 
+                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution</p>
                 </div>
                 <div class="chalanges-cont">
                     <div class="chalanges-headings">
                         <div class="sub-heading hd1">Freelance / In-house / Agencies</div>
-                        <div class="sub-heading hd2">2025</div>
+                        <div class="sub-heading hd2">2024</div>
                         <div class="sub-heading hd3">Subscription</div>
                     </div>
                     <div class="chalange-boxes">
                         <div class="row">
                             <div class="col-12 col-lg-4">
                                 <div class="_item">
-                                    <h3>1-Day </h3>
-                                    <p class="mb-0">From hire to launch, we’re up and running.</p>
+                                    <h3>1-3 months</h3>
+                                    <p class="mb-0">It is a long established fact that a reader will be distracted </p>
                                 </div>
                             </div>
                             <div class="col-12 col-lg-4">
                                 <div class="_item">
-                                    <h3>100%</h3>
-                                    <p class="mb-0">Satisfaction rate from clients we serve.</p>
+                                    <h3>$100k</h3>
+                                    <p class="mb-0">It is a long established fact that a reader will be distracted </p>
                                 </div>
                             </div>
                             <div class="col-12 col-lg-4">
                                 <div class="_item">
-                                    <h3>2x</h3>
-                                    <p class="mb-0">Faster campaign execution, delivering unmatched results.</p>
+                                    <h3>30+</h3>
+                                    <p class="mb-0">It is a long established fact that a reader will be distracted </p>
                                 </div>
                             </div>
                             <div class="col-12 col-lg-4">
                                 <div class="_item">
-                                    <h3>98%</h3>
-                                    <p class="mb-0">Client retention rate, proving exceptional value.</p>
+                                    <h3>100+</h3>
+                                    <p class="mb-0">It is a long established fact that a reader will be distracted </p>
                                 </div>
                             </div>
                             <div class="col-12 col-lg-4">
                                 <div class="_item">
-                                    <h3>Atleast 3X</h3>
-                                    <p class="mb-0">Growth in traffic with targeted strategies.</p>
+                                    <h3>2 hours</h3>
+                                    <p class="mb-0">It is a long established fact that a reader will be distracted </p>
                                 </div>
                             </div>
                             <div class="col-12 col-lg-4">
                                 <div class="_item">
-                                    <h3>99.9%</h3>
-                                    <p class="mb-0">Campaign uptime, ensuring consistent performance.</p>
+                                    <h3>1 day</h3>
+                                    <p class="mb-0">It is a long established fact that a reader will be distracted </p>
                                 </div>
                             </div>
                         </div>
@@ -830,7 +821,7 @@
             <div class="container">
                 <div class="section-title">
                     <div class="title-text-cont1 text-center">
-                        <h2 class="text-light-orange mt-3">Exclusive Marketing Insights from Our Knowledge Vault</h2>
+                        <h2 class="text-light-orange mt-3">Our expert articles</h2>
                     </div>
                 </div>
                 
