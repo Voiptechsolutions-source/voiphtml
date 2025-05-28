@@ -938,7 +938,7 @@ textarea.form-control {
 }
 .service-detail-banner {
 	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 93%);
-	height: 850px;
+	height: 920px;
 	margin-bottom: 80px;
 }
 .banner-form {

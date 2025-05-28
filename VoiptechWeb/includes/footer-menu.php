@@ -205,7 +205,7 @@
             <div class="col-6 col-md-2">
                 <h4>Solutions</h4>
                 <ul>
-                  <li><a class="" href="#">API Integration</a></li>
+                  <li><a class="" href="api-integration.php">API Integration</a></li>
                   <li><a class="" href="#">Voice Broadcasting</a></li>
                   <li><a class="" href="ivr-system.php">IVR Solutions</a></li>
                   <li><a class="" href="fusion-pbx-solution.php">Fusion PBX</a></li>
@@ -216,11 +216,11 @@
                   <li><a class="" href="class-4-softswitch.php">Class 4 Softswitch</a></li>
                   <li><a class="" href="class-5-softswitch.php">Class 5 Softswitch</a></li>
                   
-                  <li><a class="" href="#">Call on OTP</a></li>
+                  <li><a class="" href="call-on-otp.php">Call on OTP</a></li>
                   <li><a class="" href="auto-dialer.php">Auto Dialer</a></li>
                  
                   <li><a class="" href="vicidial-solution.php">VICIdial</a></li>
-                  <li><a class="" href="multi-tenant-broadcasting.php">Multi-Tenant Solutions</a></li>
+                  <li><a class="" href="multi-tenant-solutions.php">Multi-Tenant Solutions</a></li>
                   
                 </ul>
             </div>

@@ -35,52 +35,51 @@
             <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-start banner-content-container">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>Reliable Kamailio Development Services for High-Performance and Real-Time Communication </h1>
-                    <p>Smart Traffic controller for all your VoIP calls</p>
+                    <h1>Scalable Multi-Tenant Broadcasting & Conferencing Solutions for Growing Communication Needs</h1>
+                    <p>One platform for all your voice and conferencing needs</p>
                     <div class="banner-feats">
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn1.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Open-Source Flexibility</div>
-                                <p>Fully customizable for your setup.</p>
+                                <div class="_feat-head">Budget-friendly</div>
+                                <p>Lower operational cost through shared infrastructure.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn2.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Community Driven</div>
-                                <p>Global support at your fingertips.</p>
+                                <div class="_feat-head">Ease of Management</div>
+                                <p>Single platform with multiple tenants, simplifying operations .</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn3.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Highly Scalable</div>
-                                <p>Built to handle heavy traffic.</p>
-                            </div>
-                        </div>
-                        <div class="feat-item">
-                            <div class="feat-icn"><img src="assets/images/icons/feat-icn6.png" alt="Cost-Effective Communication" /></div>
-                            <div class="_feat">
-                                <div class="_feat-head">Strong Security</div>
-                                <p>Secures all VoIP communications.</p>
+                                <div class="_feat-head"> Scalable and Versatile</div>
+                                <p>Scale up or down easily with custom solutions.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn4.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Seamless Integration</div>
-                                <p>Works with your existing systems.</p>
+                                <div class="_feat-head">Improved Collaboration</div>
+                                <p>Enhanced communication and collaboration tools enabled.</p>
                             </div>
                         </div>
                         <div class="feat-item">
                             <div class="feat-icn"><img src="assets/images/icons/feat-icn5.png" alt="Cost-Effective Communication" /></div>
                             <div class="_feat">
-                                <div class="_feat-head">Cost-Efficient</div>
-                                <p>Powerful and cost-effective solution</p>
+                                <div class="_feat-head">Better Security</div>
+                                <p>Robust and integrated data protection, always.</p>
                             </div>
                         </div>
-                        
+                        <div class="feat-item">
+                            <div class="feat-icn"><img src="assets/images/icons/feat-icn6.png" alt="Cost-Effective Communication" /></div>
+                            <div class="_feat">
+                                <div class="_feat-head">Easy Integration</div>
+                                <p>Seamless CRM connectivity at your fingertips.</p>
+                            </div>
+                        </div>
                     </div>
                     <div class="get-started">
                         <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill btn-lg px-5 text-uppercase">Get Started</a>
@@ -151,48 +150,45 @@
         <!-- Faet 1 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box">
             <div class="col col-md-6">
-                <h2>Why Choose <span class="text-orange">VoIPTech Solutions </span> For <span class="text-orange">Kamailio Development & Deployment?</span> </h2>
+                <h2>Why Choose <span class="text-orange">VoIPTech Solutions </span> For <span class="text-orange">Multi-Tenant Broadcasting & Conferencing Solutions?</span> </h2>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Scalable & Reliable</div>
-                                <p class="mb-0">Handle thousands of SIP sessions at once.</p>
+                                <div class="list-heading">Rapid Deployment</div>
+                                <p class="mb-0">Fast, seamless integration for instant deployment.</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Call Center Ready</div>
-                                <p class="mb-0">Powerful backbone for building custom call center solutions.</p>
+                                <div class="list-heading">Advanced Multi-Tenant Architecture</div>
+                                <p class="mb-0">Scalable multi-tenant architecture for growing businesses.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Smart Routing</div>
-                                <p class="mb-0">Flexible scripting for advanced call flows.</p>
+                                <div class="list-heading">Custom Solutions</div>
+                                <p class="mb-0">Tailored configurations for unique business needs.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Built-in Security</div>
-                                <p class="mb-0">Offers TLS, encryption, user authentication.</p>
+                                <div class="list-heading">Optimised User Experience</div>
+                                <p class="mb-0">Branded interfaces, tenant-specific UI for better usability.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Load Balancing</div>
-                                <p class="mb-0">Spreads traffic efficiently with failover support.</p>
+                                <div class="list-heading">Live Analytics and Reports</div>
+                                <p class="mb-0">Real-time dashboards for campaign and conference tracking.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Media Capable</div>
-                                <p class="mb-0">Works with media servers to enable voice, video, and messaging.</p>
+                                <div class="list-heading">Secure & Compliant</div>
+                                <p class="mb-0">Encrypted voice paths with GDPR and HIPAA-ready standards.</p>
                             </div>  
                         </li>
-                        
-                        
-                        
                         
                     </ul>
                 </div>
@@ -202,50 +198,51 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/kamailio1.svg" alt="Why Choose VoIPTech Solutions For Kamailio Development & Deployment?" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/multi-tenant1.svg" alt="Why Choose VoipTechr Solutions For Multi-Tenant Broadcasting & Conferencing Solutions
+?" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
         <!-- Faet 2 -->
         <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box py-4">
             <div class="col col-md-6">
-                <h2>Key Benefits of Choosing <span class="text-orange">VoIPTech Solutions</span> for <span class="text-orange">Kamailio Development</span></h2>
+                <h2>Key Benefits of Choosing <span class="text-orange">VoIPTech Solutions</span> for <span class="text-orange">Multi-Tenant Broadcasting & Conferencing</span></h2>
                 <div class="_content">
                     <ul class="list2">
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Smooth Interoperability</div>
-                                <p class="mb-0">Seamless communication across multiple protocols.</p>
+                                <div class="list-heading">Multilingual Support</div>
+                                <p class="mb-0">Run broadcasts and conferences in multiple languages .</p>
                             </div>
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Scalable Performance</div>
-                                <p class="mb-0">Handling high call volumes with flexible architecture.</p>
+                                <div class="list-heading">Seamless Voice Broadcasting</div>
+                                <p class="mb-0">Deliver high-volume voice messages to thousands in minutes.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Advanced Routing</div>
-                                <p class="mb-0">Smart call routing with forking and failover support.</p>
+                                <div class="list-heading">Real-Time Conferencing</div>
+                                <p class="mb-0">Host stable, high-quality voice conferences .</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Streamlines Spending</div>
-                                <p class="mb-0">Minimize operational costs with optimized performance.</p>
+                                <div class="list-heading">Customizable Workflows</div>
+                                <p class="mb-0">Tailored broadcasts and conference flows .</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Enhances Communication</div>
-                                <p class="mb-0">Boost user engagement and collaboration in real-time.</p>
+                                <div class="list-heading">Scalable Infrastructure</div>
+                                <p class="mb-0">Expands as user load or campaign volume grows.</p>
                             </div>  
                         </li>
                         <li>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Flexible Configurations</div>
-                                <p class="mb-0">Adapts to diverse telephony and messaging needs.</p>
+                                <div class="list-heading">Cost-Effective Operations</div>
+                                <p class="mb-0">Reduce infrastructure costs by up to 40% with pay-per-use billing.</p>
                             </div>  
                         </li>
                     </ul>
@@ -256,62 +253,112 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/kamailio2.svg" alt="Key Benefits of Choosing Voip Tech Solutions for Kamailio Development" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/multi-tenant2.svg" alt="Key Benefits of Choosing Voip Tech Solutions for Multi-Tenant Broadcasting & Conferencing Solutions
+" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
         <!-- Faet 3 -->
         <div class="row flex-column-reverse flex-md-row align-items-center _feat-box py-4">
             <div class="col col-md-6">
+                <h2>How VoIPTech Solutions <span class="text-orange">Multi-Tenant Broadcasting & Conferencing </span>  Works</h2>
+                <div class="_content">
+                    <p>Our multi-Tenant platform is engineered to empower service providers with enterprise- grade communication solutions Here’s how it works:</p>
+                    <ul class="list2 ">
+                        <li>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Step 1: Set Up Tenants</div>
+                                <p class="mb-0">Create isolated accounts with branding, roles, and access controls.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Step 2: Upload & Schedule Broadcasts or Conferences</div>
+                                <p class="mb-0">Input voice content or conference details manually or via API.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Step 3: Track & Manage in Real-Time</div>
+                                <p class="mb-0">Monitor call status, attendance, and engagement from a unified dashboard.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <!-- <div class="demo-btn mt-4">
+                    <a href="#" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase">Get Demo</a>
+                </div> -->
+            </div>
+            <div class="col col-md-6">
+                <div class="feat-img">
+                    <img src="assets/images/multi-tenant3.svg" alt="How VoIPTech Solutions Multi-Tenant Broadcasting Works" class="img-fluid" loading="lazy" />
+                </div>
+            </div>
+        </div>
+
+        <!-- Faet 4 -->
+        <div class="row flex-column-reverse flex-md-row-reverse align-items-center _feat-box">
+            <div class="col col-md-6">
                 <h2>Industries We Serve</h2>
                 <div class="_content">
-                    <p>Our expert-led Kamailio development services are custom-built to match the communication needs of every industry.</p>
+                    <p>Our Multi-Tenant Voice Broadcasting & Conferencing solutions serve diverse sectors for scalable communication infrastructure and broadcasting capabilities:</p>
                     <ul class="list2 icons-list">
                         <li>
                             <span class="_icn">📞</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Telecom & VoIP</div>
-                                <p class="mb-0">Handles high-volume call routing for carriers and voice providers.</p>
+                                <div class="list-heading">Telecom Service Providers</div>
+                                <p class="mb-0">Offer white-labelled voice and conferencing services, full branding control.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🏢</span>
+                            <span class="_icn">🏪 </span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Call Centers & BPOs</div>
-                                <p class="mb-0">Powers smart, scalable call handling for support and sales teams.</p>
+                                <div class="list-heading">BPO & Call Centers</div>
+                                <p class="mb-0">Scale operations with multi-client environments and centralized management dashboards.</p>
+                            </div>  
+                        </li>
+                        <li>
+                            <span class="_icn">🏫</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Educational Institutions</div>
+                                <p class="mb-0">Conduct virtual classes or campus-wide announcements.</p>
                             </div>
+                        </li>
+                       <li>
+                            <span class="_icn">🏛️ </span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Government Agencies</div>
+                                <p class="mb-0">Broadcast emergency alerts, public announcements, conduct virtual meetings securely.</p>
+                            </div>  
                         </li>
                         <li>
                             <span class="_icn">🏥</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Healthcare</div>
-                                <p class="mb-0">Secures internal calls and patient communication with encryption.</p>
-                            </div>  
-                        </li>
-                    
-                        <li>
-                            <span class="_icn">🏫</span>
-                            <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Education</div>
-                                <p class="mb-0">Facilitates live voice or video in e-learning and virtual classrooms.</p>
+                                <div class="list-heading">Healthcare Networks</div>
+                                <p class="mb-0">Manage patient communications, telemedicine, and Broadcast appointment reminders.</p>
                             </div>  
                         </li>
                         <li>
                             <span class="_icn">💰</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">Finance</div>
-                                <p class="mb-0">Enables compliant, high-security voice systems for fast-paced trading.</p>
+                                <div class="list-heading">Financial Services</div>
+                                <p class="mb-0">Provide secure multi-branch communications, secure conferencing.</p>
                             </div>  
                         </li>
                         <li>
-                            <span class="_icn">🌐</span>
+                            <span class="_icn">🏢</span>
                             <div class="list-text d-flex flex-column">
-                                <div class="list-heading">IT & Cloud Services</div>
-                                <p class="mb-0">Delivers reliable PBX and UC systems for modern enterprises.</p>
+                                <div class="list-heading">Enterprise Corporations</div>
+                                <p class="mb-0">Enable internal broadcasting, department-specific conferencing solutions.</p>
                             </div>  
                         </li>
-                        
-                        
+                        <li>
+                            <span class="_icn">📺</span>
+                            <div class="list-text d-flex flex-column">
+                                <div class="list-heading">Media & Broadcasting</div>
+                                <p class="mb-0">Run large-scale live streaming events.</p>
+                            </div>  
+                        </li>
                         
                         
                         
@@ -323,12 +370,10 @@
             </div>
             <div class="col col-md-6">
                 <div class="feat-img">
-                    <img src="assets/images/kamailio3.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
+                    <img src="assets/images/multi-tenant4.svg" alt="Industries We Serve" class="img-fluid" loading="lazy" />
                 </div>
             </div>
         </div>
-
-        
         
     </div>
     </secton>
@@ -343,8 +388,8 @@
                     <div class="process-body">
                         <div class="process-no">1</div>
                         <div class="_pro-content">
-                            <h3>Schedule a Free Demo</h3>
-                            <p>Discover how Kamailio can streamline your SIP communication.</p>
+                            <h3>Schedule a free Consultation</h3>
+                            <p>Understand your multi-tenant communication needs with our experts.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -355,8 +400,8 @@
                     <div class="process-body">
                         <div class="process-no">2</div>
                         <div class="_pro-content">
-                            <h3>Seamless Setup </h3>
-                            <p>Our team will assist you with smooth installation and customized SIP routing configuration .</p>
+                            <h3>Experience Custom Demo Environment</h3>
+                            <p>Experience a live walkthrough tailored to your use case.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -367,8 +412,8 @@
                     <div class="process-body">
                         <div class="process-no">3</div>
                         <div class="_pro-content">
-                            <h3>Launch with Confidence</h3>
-                            <p>Start using our Kamailio server with built-in security, smart traffic management, and optimized call performance</p>
+                            <h3>Deploy & Scale Rapidly</h3>
+                            <p>Launch your branded services with expert onboarding, training, and ongoing technical support.</p>
                         </div>
                     </div>
                     <div class="process-arrow">
@@ -402,7 +447,7 @@
     </section>
        <!-- Customer Testimonials -->
        <?php include 'includes/testimonials.php'; ?>
-       <!-- Contact Form Section -->
+    <!-- Contact Form Section -->
       <?php include 'includes/footer-contact-form.php'; ?>
        <!-- FAQ -->
         <section class="faq py-80">
@@ -419,150 +464,130 @@
                             <!-- Faq 1-->
                             <div class="card">
                                 <div class="card-header" id="faqhead1">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                                    aria-expanded="true" aria-controls="faq1">How does VoIPTech support Kamailio deployment and maintenance?</a>
-                                    </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
+                                    aria-expanded="true" aria-controls="faq1">How does multi-tenant voice broadcasting & conferencing architecture benefit service providers?</a></h3>
                                 </div>
 
                                 <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                     <div class="card-body">
-                                    VoIPTech Solutions delivers comprehensive Kamailio implementation through planning, deployment, optimization, and ongoing maintenance of their SIP infrastructure.
+                                    <p>Multi-tenant voice broadcasting & conferencing solutions enable serving multiple clients from single infrastructure while maintaining complete data isolation and customization.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 2-->
                             <div class="card">
                                 <div class="card-header" id="faqhead2">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                                    aria-expanded="true" aria-controls="faq2">Can Kamailio be used for SIP to PSTN conversion?</a>
-                                     </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
+                                    aria-expanded="true" aria-controls="faq2">Can multi-tenant voice broadcasting & conferencing handle large-scale campaigns simultaneously?</a></h3>
                                 </div>
 
                                 <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                                     <div class="card-body">
-                                    No, Kamailio itself doesn't convert media. It handles SIP signaling. You will need a media gateway (like Asterisk or FreeSWITCH) for the actual conversion.
+                                    <p>Yes, VoIPTech Solutions supports unlimited concurrent broadcasts with intelligent load balancing and real-time delivery optimization.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 3-->
                             <div class="card">
                                 <div class="card-header" id="faqhead3">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                                    aria-expanded="true" aria-controls="faq3">Where does Kamailio fit in the SIP to PSTN call flow?</a>
-                                    </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
+                                    aria-expanded="true" aria-controls="faq3">Which type of conferencing features are included in multi-tenant voice broadcasting & conferencing solutions?</a></h3>
                                 </div>
 
                                 <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                                     <div class="card-body">
-                                    Kamailio acts as a SIP proxy it routes SIP calls to the appropriate PSTN gateway based on your configurations.
+                                    <p>We support full HD video and audio, screen sharing, recording, chat, breakout rooms, and mobile app integrations across all tenant environments with our multi-tenant broadcasting and conferencing solutions.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 4-->
                             <div class="card">
                                 <div class="card-header" id="faqhead4">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                                    aria-expanded="true" aria-controls="faq4">Can Kamailio enhance SIP network security?</a>
-                                    </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
+                                    aria-expanded="true" aria-controls="faq4">How does white-labelling feature of multi-tenant voice broadcasting & conferencing work for reseller partners?</a></h3>
                                 </div>
 
                                 <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                                     <div class="card-body">
-                                    Absolutely. It acts as an SIP firewall, offering IP filtering, authentication, and protection against VoIP attacks.
+                                    <p>Our white-label solution offers complete branding and customization including logos, colors, domains, and feature sets tailored to each reseller's requirements.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 5-->
                             <div class="card">
                                 <div class="card-header" id="faqhead5">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                                    aria-expanded="true" aria-controls="faq5">Does Kamailio offer load balancing for PSTN gateways?</a>
-                                    </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
+                                    aria-expanded="true" aria-controls="faq5">Is VoIPTech Solutions platform suitable for international service providers offering multi-tenant voice broadcasting and conferencing solutions?</a></h3>
                                 </div>
 
                                 <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, it can distribute SIP traffic across multiple gateways, improving reliability and performance.
+                                    <p>Yes, our platform supports global scalability, secure multi-tenant architecture, and compliance with international telecom standards making it ideal for service providers worldwide.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 6-->
                             <div class="card">
                                 <div class="card-header" id="faqhead6">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
-                                    aria-expanded="true" aria-controls="faq6">Is Kamailio a free and open-source tool?</a>
-                                    </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
+                                    aria-expanded="true" aria-controls="faq6">Can multi-tenant voice broadcasting & conferencing solution integrate with existing CRM and business systems?</a></h3>
                                 </div>
 
                                 <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, Kamailio is completely open-source and highly customizable for various VoIP use cases.
+                                    <p>Yes, our comprehensive API suite enables seamless integration with popular CRMs, helpdesks, and enterprise applications for all our multi-tenant broadcasting and conferencing solutions.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 7-->
                             <div class="card">
                                 <div class="card-header" id="faqhead7">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
-                                    aria-expanded="true" aria-controls="faq7">Do I need other software with Kamailio for full VoIP functionality?</a>
-                                    </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7"
+                                    aria-expanded="true" aria-controls="faq7">Can a client brand each multi-tenant voice broadcasting & conferencing solution separately?</a></h3>
                                 </div>
 
                                 <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
                                     <div class="card-body">
-                                    Yes, you may need media servers (like Asterisk or RTPengine) to handle audio/video, voicemail, or conferencing features.
+                                    <p>Yes, each tenant can have a unique UI, domain, and settings as per your requirements.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 8-->
                             <div class="card">
                                 <div class="card-header" id="faqhead8">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
-                                    aria-expanded="true" aria-controls="faq8">Which features set Kamailio apart from other SIP servers in business environments?</a>
-                                    </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8"
+                                    aria-expanded="true" aria-controls="faq8">What is the pricing for multi-tenant voice broadcasting & conferencing deployments?</a></h3>
                                 </div>
 
                                 <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
                                     <div class="card-body">
-                                    Unmatched scalability, superior performance, extensive customization, and cost-effectiveness are some of the main features that set Kamailio apart from its competitors.
+                                        <p>We offer flexible revenue-sharing models with per-seat, per-minute, or subscription-based pricing options for optimal profitability.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 9-->
                             <div class="card">
                                 <div class="card-header" id="faqhead9">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
-                                    aria-expanded="true" aria-controls="faq9">How does VoIPTech Solutions ensure seamless integration between Kamailio and existing telephony systems?</a>
-                                    </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9"
+                                    aria-expanded="true" aria-controls="faq9">Does VoIPTech Solutions multi-tenant voice broadcasting & conferencing support CRM or ERP Integration?</a></h3>
                                 </div>
 
                                 <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
                                     <div class="card-body">
-                                    VoIPTech Solutions ensures seamless integration between Kamailio and existing systems by providing expert protocol mapping, custom API development, and thorough compatibility testing.
+                                    <p>Yes, our solutions support API integrations with major CRMs and databases.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Faq 10-->
                             <div class="card">
                                 <div class="card-header" id="faqhead10">
-                                     <h3 class="mb-0">
-                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
-                                    aria-expanded="true" aria-controls="faq10">How does implementing Kamailio through VoIPTech Solution impact business communication efficiency?</a>
-                                      </h3>
+                                    <h3 class="mb-0"><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10"
+                                    aria-expanded="true" aria-controls="faq10">Is the multi-tenant voice broadcasting & conferencing feature secure?</a></h3>
                                 </div>
 
                                 <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
                                     <div class="card-body">
-                                    Implementing Kamailio through VoIPTech Solutions boosts communication efficiency with 40-60% higher call capacity, 30% reduced latency, and a 99.99% uptime.
+                                    <p>Yes, all calls are encrypted and compliant with global data laws so that you never have to worry about data security.</p>
                                     </div>
                                 </div>
                             </div>
