@@ -40,17 +40,20 @@
                     <div class="row  align-items-center">
                         <div class="col-12 col-lg-6 hero-left">
                             <div class="banner-text-cont">
-                                <h1><span class="text-primary">Performance Marketing Agency in Dubai</span></h1>
-                                <div class="banner-tagline">Unlock exponential growth with the best performance marketing agency in Dubai that works smarter, not harder. Transform every click, impression, and lead into loyal customers who keep coming back. </div>
+                                <h1><span class="text-primary">SEO Agency in Dubai that Works While You Sleep </span></h1>
+                                <div class="banner-tagline">You are better than your competition, you know it. Now let’s make sure Google (and everyone else) knows it too! We ensure that your brand isn’t just seen, but preferred, searched, and clicked first.</div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>High-Impact Campaigns</li>
-                                        <li>Precision Targeting</li>
-                                        <li>Advanced Analytics</li>
-                                        <li>Optimised ROI</li>
-                                        <li>Real-time Reporting</li>
-                                        <li>Global Reach</li>
-                                        <li>Scalable Solutions</li>
+                                        
+                                        <li>Expert Team of Professionals</li>
+                                        <li>AI-Friendly SEO Solutions</li>
+                                        <li>Adaptive Strategies</li>
+                                        <li>10+ Years Experience</li>
+                                        <li>Proven First-page Results</li>
+                                        <li>Technical SEO Excellence</li>
+                                        <li>SGE & Voice Search Ready</li>
+                                        <li>Local & Global Reach</li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
@@ -103,10 +106,10 @@
         <div class="container">
             <div class="section-title text-center text-white">
                 <div class="above-title">
-                    <span>Don’t just grow, compound!</span>
+                    <span>Google Goldmine. Unlocked.</span>
                 </div>
-                <h2>Performance Marketing Services that Work Harder for You</h2>
-                <p> We are at the top of the Dubai market, for a reason. From personalised campaigns to scalable growth, we ensure your brand doesn’t just compete, it dominates</p>
+                <h2>SEO Company that Makes Google Work Hard For You</h2>
+                <p>If you are not showing up, your business might as well not exist. We fix that, bring qualified traffic, brand authority, and compounding growth that lasts.</p>
                 <div class="bt-cont">
                     <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5 rounded-pill">Get in Touch</a>
                 </div>
@@ -115,50 +118,51 @@
                 <div class="row">
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Optimize Marketing Spend</h3>
-                            <p>Every dollar should work as hard as you do. We cut through the clutter, targeting only high-impact channels for maximum ROI.</p>
+                            <h3>Own the First Page</h3>
+                            <p>First page position isn’t a flex, it’s a business advantage. We get your brand there and keep it there, driving traffic that converts, trust that grows, and business growth that is unstoppable</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-lg-3">
+                        <div class="feat-box text-white">
+                            <h3>Win the Backend Battle</h3>
+                            <p>We fix what’s under the hood—site speed, structure, and crawl errors—so Google doesn’t just find your site, it rewards it.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Amplify Audience Engagement</h3>
-                            <p>Real engagement is in the connection you build. We don’t just aim for likes. We foster genuine conversations and cultivate authentic relationships.</p>
+                            <h3>Make Google Your Lead Machine</h3>
+                            <p>SEO done right is 24/7 lead gen. We optimize every inch of your site and convert it into a non-stop conversion engine.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Boost Conversion Rates</h3>
-                            <p>Clicks are great, but conversions are the goal. We streamline the path from interest to purchase, with personalized messaging & conversion-focused design.</p>
+                            <h3>Cut Paid Ad Dependence</h3>
+                            <p>Organic visibility is the most cost-efficient growth channel. We build sustainable organic visibility that drives traffic and sales, so you're not stuck paying for every single click forever.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Accelerate Lead Generation</h3>
-                            <p>We’re flipping the script. Leads will find you, not the other way around. We attract high-quality prospects and bring them directly to your doorstep.</p>
+                            <h3>Crush the Local Pack</h3>
+                            <p>From Google Maps to “near me” searches, we make sure your business shows up when local customers are ready to act.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Maximize Campaign Impact</h3>
-                            <p>Great campaigns don’t just perform, they resonate. We don’t just push ads. We create unforgettable experiences that also drive desired action.</p>
+                            <h3>Stay Ahead of the Algorithm</h3>
+                            <p>Google changes fast. We change faster. Our strategies evolve in real time, so your rankings don’t just survive, they soar.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Enhance Brand Visibility</h3>
-                            <p>It's true what they say “out of sight, out of mind”. We keep your brand front and centre with targeted placements and strategic reach.</p>
+                            <h3>Dominate AI-Enhanced Results</h3>
+                            <p>Search is evolving at a rapid speed. We optimize for traditional SEO and AI-driven answers, ensuring your brand is on top of Google, SGE, and voice search.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Drive Sustainable Growth</h3>
-                            <p>Performance marketing is a marathon, not a sprint. We don’t just chase short-term wins; we build strategies for the long term.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-3">
-                        <div class="feat-box text-white">
-                            <h3>Achieve Measurable Results</h3>
-                            <p>Words don’t move the needle, results do. We don’t just set goals. We track, measure, and exceed them.</p>
+                            <h3>Scale What Works, Drop What Doesn’t</h3>
+                            <p>We test, track, and double down on what delivers. Our SEO scales with you across topics, regions, and markets all around the world.</p>
                         </div>
                     </div>
                 </div>
@@ -177,17 +181,17 @@
                             </div> -->
                             <div class="_content">
                                 <div class="above-title justify-content-start mb-2">
-                                    <span>We Deliver Real Results</span>
+                                    <span>Visibility In. Revenue Up</span>
                                 </div>
-                                <h2 class="text-light-orange">Why should you choose Impression Media for Performance Marketing in Dubai?</h2>
-                                <p>We’re not here to be a vendor for services. We’re here to be a partner who will be just as much invested in your growth as you are, if not more.</p>
+                                <h2 class="text-light-orange">Why is Impression Media the best SEO company in Dubai?</h2>
+                                <p> You have the product or service. The proof. The purpose. Now, let’s give you the position. Top rankings. Real clicks with SEO that wins.</p>
                                 <div class="grid-list">
                                     <ul>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Client-Obsessed</div>
-                                                    <p>We put YOU at the centre of everything, from strategy to execution.</p>
+                                                    <div class="list-head">Result-Obsessed</div>
+                                                    <p>We focus on ROI, not just rankings or feel-good data.</p>
                                                 </div>
                                             </div>
                                             
@@ -195,16 +199,17 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Future-Ready</div>
-                                                    <p>We’re always a step ahead to ensure your brand’s growth is future-proof.</p>
+                                                    <div class="list-head">Technically Fluent</div>
+                                                    <p>We diagnose, debug, and optimize before search engines even blink.</p>
                                                 </div>
                                             </div>
                                         </li>
+                                        <li>&nbsp;</li>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Proven-Success</div>
-                                                    <p>We’ve consistently delivered impactful results across 500+ projects in 10 years.</p>
+                                                    <div class="list-head">Future Ready</div>
+                                                    <p>We anticipate algorithm shifts before they affect your visibility.</p>
                                                 </div>
                                             </div>
                                             
@@ -212,8 +217,8 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Quality-Focused</div>
-                                                    <p>Quality is our first impulse, driving excellence at every step.</p>
+                                                    <div class="list-head">Strategy-First Thinkers</div>
+                                                    <p>Every campaign starts with research, not guesswork or templates.</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -243,26 +248,26 @@
                     <div class="row">
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Data-Driven approach</h3>
-                                <p>We turn data into action, continuously optimising campaigns based on real-time insights to maximise performance and ROI.</p>
+                                <h3>SEO Built for Business Impact </h3>
+                                <p>We don’t chase vanity metrics. Every keyword, link, and audit we do is aligned with your bottom-line goals, traffic that converts and revenue that grows.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Tailored Strategies</h3>
-                                <p>We don’t believe in one-size-fits-all. Every campaign is customised to meet your specific business goals, ensuring targeted, high-impact results.</p>
+                                <h3>Strategy, Not Shortcuts</h3>
+                                <p>No black-hat tricks or overnight gimmicks. We play the long-term game with ethical and sustainable SEO that builds trust with Google and your customers.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Cutting-Edge Technology</h3>
-                                <p>We leverage the latest tools and platforms, ensuring your campaigns are always running at their peak potential with minimal wasted spend.</p>
+                                <h3>Full-Funnel SEO Execution</h3>
+                                <p>From technical audits and content to UX and CRO, we handle every layer of SEO, ensuring your funnel is optimized from click to conversion.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Omni-Channel Expertise</h3>
-                                <p>From social media to search engines, we create cohesive, multi-channel strategies that drive consistent, cross-platform results.</p>
+                                <h3> Real Data Into Action</h3>
+                                <p>No guessing games. Just razor-sharp analytics, transparent reports, and real performance insights that fuel better decisions.</p>
                             </div>
                         </div>
                     </div>
@@ -289,14 +294,14 @@
                                 <div class="above-title justify-content-start mb-2">
                                     <span>Our Secret Sauce</span>
                                 </div>
-                                <h2 class="text-light-orange">How Our Performance Marketing Process Works?</h2>
-                                <p>After years of hit & trial, we’ve finally perfected the formula for performance marketing success and we’re ready to deliver it to you. The real question is are you ready to level up your business in Dubai?</p>
+                                <h2 class="text-light-orange">How Our Search Engine Optimization Process Works?</h2>
+                                <p> Your audience is Googling right now and we need to make sure they find you first. With our proprietary process, we turn search intent into revenue, not just rankings.</p>
                                 <div class="grid-list">
                                     <ul class=" lh-lg">
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Goal Setting & Defining KPIs</div>
+                                                    <div class="list-head">In-Depth Website Audit & Competitor Analysis</div>
                                                     
                                                 </div>
                                             </div>
@@ -305,7 +310,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Strategy & Funnel Design</div>
+                                                    <div class="list-head">Strategic Topical Research & Mapping</div>
                                                     
                                                 </div>
                                             </div>
@@ -313,7 +318,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Audience Research & Segmentation</div>
+                                                    <div class="list-head">Technical SEO Optimization</div>
                                                     
                                                 </div>
                                             </div>
@@ -322,7 +327,16 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Creative & Copy Development</div>
+                                                    <div class="list-head">AI-Optimized Content & Semantic Search Readiness</div>
+                                                   
+                                                </div>
+                                            </div>
+                                        </li>
+                                        
+                                        <li>
+                                            <div class="li-content">
+                                                <div class="cont">
+                                                    <div class="list-head">On-Page SEO Enhancements</div>
                                                    
                                                 </div>
                                             </div>
@@ -330,7 +344,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Campaign Setup & Launch</div>
+                                                    <div class="list-head">Authority Building through Link Acquisition</div>
                                                    
                                                 </div>
                                             </div>
@@ -338,7 +352,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Continuous Optimization & A/B Testing</div>
+                                                    <div class="list-head">Continuous Monitoring & Reporting</div>
                                                    
                                                 </div>
                                             </div>
@@ -346,15 +360,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Post-Launch Monitoring & Adaptation</div>
-                                                   
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="li-content">
-                                                <div class="cont">
-                                                    <div class="list-head">Weekly Reporting & Insights</div>
+                                                    <div class="list-head">Adaptive Strategy Refinement</div>
                                                    
                                                 </div>
                                             </div>

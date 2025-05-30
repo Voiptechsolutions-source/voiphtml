@@ -40,17 +40,18 @@
                     <div class="row  align-items-center">
                         <div class="col-12 col-lg-6 hero-left">
                             <div class="banner-text-cont">
-                                <h1><span class="text-primary">Performance Marketing Agency in Dubai</span></h1>
-                                <div class="banner-tagline">Unlock exponential growth with the best performance marketing agency in Dubai that works smarter, not harder. Transform every click, impression, and lead into loyal customers who keep coming back. </div>
+                                <h1><span class="text-primary">B2B & B2C Lead Generation Agency in Dubai </span></h1>
+                                <div class="banner-tagline">The leads you desire. The results you deserve. Delivered with ruthless precision, zero fluff, and full-funnel strategies that turn cold prospects into qualified buyers—consistently and at scale.</div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>High-Impact Campaigns</li>
-                                        <li>Precision Targeting</li>
-                                        <li>Advanced Analytics</li>
-                                        <li>Optimised ROI</li>
-                                        <li>Real-time Reporting</li>
-                                        <li>Global Reach</li>
-                                        <li>Scalable Solutions</li>
+                                        
+                                        <li>Conversion-Driven Funnels</li>
+                                        <li>Transparent Reporting</li>
+                                        <li>Smart Segmentation</li>
+                                        <li>Multi-Channel Reach</li>
+                                        <li>Sales-Ready Warm Leads</li>
+                                        <li>Human-Verified, Expert-Backed Leads</li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
@@ -103,10 +104,10 @@
         <div class="container">
             <div class="section-title text-center text-white">
                 <div class="above-title">
-                    <span>Don’t just grow, compound!</span>
+                    <span>Prospects In. Revenue Out</span>
                 </div>
-                <h2>Performance Marketing Services that Work Harder for You</h2>
-                <p> We are at the top of the Dubai market, for a reason. From personalised campaigns to scalable growth, we ensure your brand doesn’t just compete, it dominates</p>
+                <h2>Lead Generation that Turns Cold Dubai Traffic into Hot Leads</h2>
+                <p>Anyone can bring in leads. We bring in the right ones which are qualified, engaged, and ready to convert. Daily, predictable, and without the fluff.</p>
                 <div class="bt-cont">
                     <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5 rounded-pill">Get in Touch</a>
                 </div>
@@ -115,50 +116,51 @@
                 <div class="row">
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Optimize Marketing Spend</h3>
-                            <p>Every dollar should work as hard as you do. We cut through the clutter, targeting only high-impact channels for maximum ROI.</p>
+                            <h3>Consistent Pipeline of Qualified Prospects</h3>
+                            <p>Your ad budget is an investment, not an expense. And we’re here to prove it. We ensure every dollar generates the highest returns by strategically placing your ads.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-lg-3">
+                        <div class="feat-box text-white">
+                            <h3>Increased Sales & Revenue</h3>
+                            <p>More leads = more opportunities to close deals. A strong pipeline directly boosts your bottom line and long-term business sustainability.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Amplify Audience Engagement</h3>
-                            <p>Real engagement is in the connection you build. We don’t just aim for likes. We foster genuine conversations and cultivate authentic relationships.</p>
+                            <h3>Better Targeting & Higher Conversion Rates</h3>
+                            <p>With our smart segmentation and data-driven tactics, you're not shouting into the void instead you're speaking directly to decision-makers who care.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Boost Conversion Rates</h3>
-                            <p>Clicks are great, but conversions are the goal. We streamline the path from interest to purchase, with personalized messaging & conversion-focused design.</p>
+                            <h3>Slash Customer Acquisition Costs (CAC)</h3>
+                            <p>Why pay more to get less? Our laser-focused lead gen ensures every dollar brings in high-quality prospects, cutting waste and boosting ROI instantly.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Accelerate Lead Generation</h3>
-                            <p>We’re flipping the script. Leads will find you, not the other way around. We attract high-quality prospects and bring them directly to your doorstep.</p>
+                            <h3>Stronger Customer Relationships</h3>
+                            <p>Good lead gen isn't transactional. We build trust from the first touchpoint, setting the stage for long-term loyalty.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Maximize Campaign Impact</h3>
-                            <p>Great campaigns don’t just perform, they resonate. We don’t just push ads. We create unforgettable experiences that also drive desired action.</p>
+                            <h3>Accelerate Your Sales Cycle</h3>
+                            <p>No more slow deals. We bring in ready-to-buy leads that shorten your sales timeline and fast-track your revenue growth.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Enhance Brand Visibility</h3>
-                            <p>It's true what they say “out of sight, out of mind”. We keep your brand front and centre with targeted placements and strategic reach.</p>
+                            <h3>Market Expansion Opportunities</h3>
+                            <p>Our effective lead generation services in Dubai enable you to test and break into new segments, industries, and global markets with genuine demand.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Drive Sustainable Growth</h3>
-                            <p>Performance marketing is a marathon, not a sprint. We don’t just chase short-term wins; we build strategies for the long term.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-3">
-                        <div class="feat-box text-white">
-                            <h3>Achieve Measurable Results</h3>
-                            <p>Words don’t move the needle, results do. We don’t just set goals. We track, measure, and exceed them.</p>
+                            <h3>Scalable, Repeatable Growth</h3>
+                            <p>We don’t chase one-off wins. Our systems grow with you, campaign after campaign, market after market.</p>
                         </div>
                     </div>
                 </div>
@@ -177,17 +179,17 @@
                             </div> -->
                             <div class="_content">
                                 <div class="above-title justify-content-start mb-2">
-                                    <span>We Deliver Real Results</span>
+                                    <span>Built for ROI, Backed by Strategy</span>
                                 </div>
-                                <h2 class="text-light-orange">Why should you choose Impression Media for Performance Marketing in Dubai?</h2>
-                                <p>We’re not here to be a vendor for services. We’re here to be a partner who will be just as much invested in your growth as you are, if not more.</p>
+                                <h2 class="text-light-orange">Why Impression Media is Your #1 Choice for Lead Generation in Dubai?</h2>
+                                <p> We don’t believe in cookie-cutter outreach. At Impression Media, we build custom lead generation engines that attract the right prospects, spark real conversations, and drive the highest revenue.</p>
                                 <div class="grid-list">
                                     <ul>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Client-Obsessed</div>
-                                                    <p>We put YOU at the centre of everything, from strategy to execution.</p>
+                                                    <div class="list-head">Obsessively Client-Focused</div>
+                                                    <p>Every strategy begins with your goals, not our templates.</p>
                                                 </div>
                                             </div>
                                             
@@ -195,16 +197,16 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Future-Ready</div>
-                                                    <p>We’re always a step ahead to ensure your brand’s growth is future-proof.</p>
+                                                    <div class="list-head">Fast, Flexible & Fearless</div>
+                                                    <p>We adapt quickly and scale what drives results.</p>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Proven-Success</div>
-                                                    <p>We’ve consistently delivered impactful results across 500+ projects in 10 years.</p>
+                                                    <div class="list-head">Results Over Reports</div>
+                                                    <p>We care more about outcomes than vanity metrics.</p>
                                                 </div>
                                             </div>
                                             
@@ -212,8 +214,8 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Quality-Focused</div>
-                                                    <p>Quality is our first impulse, driving excellence at every step.</p>
+                                                    <div class="list-head">Strategists, Not Service Providers</div>
+                                                    <p>We don’t run campaigns. We build revenue engines.</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -243,26 +245,26 @@
                     <div class="row">
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Data-Driven approach</h3>
-                                <p>We turn data into action, continuously optimising campaigns based on real-time insights to maximise performance and ROI.</p>
+                                <h3>Full-Funnel Support </h3>
+                                <p>We don’t just hand over leads, we walk them through the funnel. From follow-ups to meeting bookings, we help move prospects toward the close.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Tailored Strategies</h3>
-                                <p>We don’t believe in one-size-fits-all. Every campaign is customised to meet your specific business goals, ensuring targeted, high-impact results.</p>
+                                <h3>B2B & B2C Expertise</h3>
+                                <p>From boardrooms to inboxes, we tailor outreach for every audience. Complex B2B cycle or fast-moving B2C, we’ve mastered both.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Cutting-Edge Technology</h3>
-                                <p>We leverage the latest tools and platforms, ensuring your campaigns are always running at their peak potential with minimal wasted spend.</p>
+                                <h3>Quality Over Quantity</h3>
+                                <p>No filler, just fire. We focus on high-intent leads ready to buy so that your sales team spends less time chasing, more time closing.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Omni-Channel Expertise</h3>
-                                <p>From social media to search engines, we create cohesive, multi-channel strategies that drive consistent, cross-platform results.</p>
+                                <h3>Performance-Based Pricing</h3>
+                                <p>You pay for performance, not promises. With flexible models like pay-per-lead, every dollar is invested in results you can actually count.</p>
                             </div>
                         </div>
                     </div>
@@ -289,14 +291,14 @@
                                 <div class="above-title justify-content-start mb-2">
                                     <span>Our Secret Sauce</span>
                                 </div>
-                                <h2 class="text-light-orange">How Our Performance Marketing Process Works?</h2>
-                                <p>After years of hit & trial, we’ve finally perfected the formula for performance marketing success and we’re ready to deliver it to you. The real question is are you ready to level up your business in Dubai?</p>
+                                <h2 class="text-light-orange">How Our Lead Generation Process Works?</h2>
+                                <p> Most agencies deliver just leads. We deliver momentum. With precision targeting for B2B and B2C campaigns and our expert-led full-funnel mastery, we connect you to the people who make decisions (and say yes)!</p>
                                 <div class="grid-list">
                                     <ul class=" lh-lg">
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Goal Setting & Defining KPIs</div>
+                                                    <div class="list-head">Deep Discovery & Goal Alignment</div>
                                                     
                                                 </div>
                                             </div>
@@ -305,7 +307,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Strategy & Funnel Design</div>
+                                                    <div class="list-head">Precision Audience Mapping</div>
                                                     
                                                 </div>
                                             </div>
@@ -313,7 +315,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Audience Research & Segmentation</div>
+                                                    <div class="list-head">Messaging & Offer Strategy</div>
                                                     
                                                 </div>
                                             </div>
@@ -322,7 +324,16 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Creative & Copy Development</div>
+                                                    <div class="list-head">Multi-Channel Outreach Execution</div>
+                                                   
+                                                </div>
+                                            </div>
+                                        </li>
+                                        
+                                        <li>
+                                            <div class="li-content">
+                                                <div class="cont">
+                                                    <div class="list-head">Lead Qualification & Scoring</div>
                                                    
                                                 </div>
                                             </div>
@@ -330,7 +341,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Campaign Setup & Launch</div>
+                                                    <div class="list-head">Real-Time Nurturing & Follow-Up</div>
                                                    
                                                 </div>
                                             </div>
@@ -338,7 +349,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Continuous Optimization & A/B Testing</div>
+                                                    <div class="list-head">Sales Enablement & Meeting Booking</div>
                                                    
                                                 </div>
                                             </div>
@@ -346,15 +357,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Post-Launch Monitoring & Adaptation</div>
-                                                   
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="li-content">
-                                                <div class="cont">
-                                                    <div class="list-head">Weekly Reporting & Insights</div>
+                                                    <div class="list-head">Reporting, Optimization & Scale</div>
                                                    
                                                 </div>
                                             </div>

@@ -40,17 +40,17 @@
                     <div class="row  align-items-center">
                         <div class="col-12 col-lg-6 hero-left">
                             <div class="banner-text-cont">
-                                <h1><span class="text-primary">Performance Marketing Agency in Dubai</span></h1>
-                                <div class="banner-tagline">Unlock exponential growth with the best performance marketing agency in Dubai that works smarter, not harder. Transform every click, impression, and lead into loyal customers who keep coming back. </div>
+                                <h1><span class="text-primary">Affiliate Marketing Agency in Dubai that You can Trust</span></h1>
+                                <div class="banner-tagline">Unlock new revenue streams with Impression Media, backed by a network of 200+ markets across 50+ countries. Our expert-driven, data-powered approach and commitment to your growth ensures that your brand scales and thrives through impactful affiliate partnerships.</div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>High-Impact Campaigns</li>
-                                        <li>Precision Targeting</li>
-                                        <li>Advanced Analytics</li>
-                                        <li>Optimised ROI</li>
-                                        <li>Real-time Reporting</li>
-                                        <li>Global Reach</li>
-                                        <li>Scalable Solutions</li>
+                                        <li>Flexible Pricing</li>
+                                        <li>Extensive Affiliate Networks</li>
+                                        <li>Advanced Data Analytics</li>
+                                        <li>Results-driven Approach</li>
+                                        <li>Zero Upfront Costs</li>
+                                        <li>High-Quality Affiliates</li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
@@ -103,10 +103,10 @@
         <div class="container">
             <div class="section-title text-center text-white">
                 <div class="above-title">
-                    <span>Don’t just grow, compound!</span>
+                    <span>Maximize Your Revenue with Confidence</span>
                 </div>
-                <h2>Performance Marketing Services that Work Harder for You</h2>
-                <p> We are at the top of the Dubai market, for a reason. From personalised campaigns to scalable growth, we ensure your brand doesn’t just compete, it dominates</p>
+                <h2>Affiliate Marketing Company that Makes You Money While You Sleep</h2>
+                <p>With over 10+ years of experience, we’ve forged powerful, results-driven partnerships with top-tier publishers, influencers, and media outlets so that you can focus on growing your business.</p>
                 <div class="bt-cont">
                     <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5 rounded-pill">Get in Touch</a>
                 </div>
@@ -115,50 +115,50 @@
                 <div class="row">
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Optimize Marketing Spend</h3>
-                            <p>Every dollar should work as hard as you do. We cut through the clutter, targeting only high-impact channels for maximum ROI.</p>
+                            <h3>Leverage Innovative Technology</h3>
+                            <p>Innovative Tech that drives results. We use advanced tools and AI-powered solutions to optimize your campaigns in real-time, ensuring better targeting and higher conversions.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Amplify Audience Engagement</h3>
-                            <p>Real engagement is in the connection you build. We don’t just aim for likes. We foster genuine conversations and cultivate authentic relationships.</p>
+                            <h3>Expand Locally & Globally</h3>
+                            <p>Access to 200+ affiliate markets. From MENA to Europe, Asia, and beyond, we connect you to an expansive network of influencers, bloggers, and publishers to expand your brand’s reach.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Boost Conversion Rates</h3>
-                            <p>Clicks are great, but conversions are the goal. We streamline the path from interest to purchase, with personalized messaging & conversion-focused design.</p>
+                            <h3>Build Performance-Based Partnerships</h3>
+                            <p>Only pay for results. Our affiliate marketing model is performance-driven which means you only pay for the conversions we deliver, keeping your budget in check and your results on track.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Accelerate Lead Generation</h3>
-                            <p>We’re flipping the script. Leads will find you, not the other way around. We attract high-quality prospects and bring them directly to your doorstep.</p>
+                            <h3>Get Custom Affiliate Strategies</h3>
+                            <p>Tailored campaigns for your brand. Every strategy at Impression Media is uniquely designed to align with your business goals and targets the right audience, delivering maximum results.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Maximize Campaign Impact</h3>
-                            <p>Great campaigns don’t just perform, they resonate. We don’t just push ads. We create unforgettable experiences that also drive desired action.</p>
+                            <h3>Secure Profitable, Exclusive Partnerships</h3>
+                            <p>Work with top-tier affiliates from the world. We ensure you collaborate with affiliates who are the perfect fit for your brand, helping you leverage their credibility and reach to accelerate your growth.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Enhance Brand Visibility</h3>
-                            <p>It's true what they say “out of sight, out of mind”. We keep your brand front and centre with targeted placements and strategic reach.</p>
+                            <h3>Ignite Long-Term Relationships</h3>
+                            <p>We don’t just build affiliate relationships; we cultivate partnerships. Our focus is on long-term collaborations that bring value for both you and your affiliates.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Drive Sustainable Growth</h3>
-                            <p>Performance marketing is a marathon, not a sprint. We don’t just chase short-term wins; we build strategies for the long term.</p>
+                            <h3>Maximize ROI</h3>
+                            <p>We tell you exactly where your money is going. We continuously optimize campaigns based on performance data, ensuring your budget delivers maximum returns.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
                         <div class="feat-box text-white">
-                            <h3>Achieve Measurable Results</h3>
-                            <p>Words don’t move the needle, results do. We don’t just set goals. We track, measure, and exceed them.</p>
+                            <h3>Scale Business Hassle-Free</h3>
+                            <p>Experience growth on your terms. We create bespoke solutions that help you expand quickly and efficiently, without worrying about unnecessary overheads.</p>
                         </div>
                     </div>
                 </div>
@@ -177,17 +177,17 @@
                             </div> -->
                             <div class="_content">
                                 <div class="above-title justify-content-start mb-2">
-                                    <span>We Deliver Real Results</span>
+                                    <span>Experience the Power of Affiliates</span>
                                 </div>
-                                <h2 class="text-light-orange">Why should you choose Impression Media for Performance Marketing in Dubai?</h2>
-                                <p>We’re not here to be a vendor for services. We’re here to be a partner who will be just as much invested in your growth as you are, if not more.</p>
+                                <h2 class="text-light-orange">Why is Impression Media the #1 Affiliate Marketing Agency in Dubai?</h2>
+                                <p>Affiliate marketing is complex, and we get it. With our proven strategies, we take care of the hard work, delivering promising results that keep your brand ahead of the competition.</p>
                                 <div class="grid-list">
                                     <ul>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Client-Obsessed</div>
-                                                    <p>We put YOU at the centre of everything, from strategy to execution.</p>
+                                                    <div class="list-head">Perfection Freaks</div>
+                                                    <p>We are obsessed over every detail to ensure your affiliate campaigns are flawless.</p>
                                                 </div>
                                             </div>
                                             
@@ -195,16 +195,16 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Future-Ready</div>
-                                                    <p>We’re always a step ahead to ensure your brand’s growth is future-proof.</p>
+                                                    <div class="list-head">Passionate Innovators</div>
+                                                    <p>We constantly bring fresh ideas to the ever-evolving affiliate marketing landscape.</p>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Proven-Success</div>
-                                                    <p>We’ve consistently delivered impactful results across 500+ projects in 10 years.</p>
+                                                    <div class="list-head">Data-driven Decision Makers</div>
+                                                    <p>We let the numbers do the talking, as every decision at Impression Media is rooted in data.</p>
                                                 </div>
                                             </div>
                                             
@@ -212,8 +212,8 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Quality-Focused</div>
-                                                    <p>Quality is our first impulse, driving excellence at every step.</p>
+                                                    <div class="list-head">Performance Specialists</div>
+                                                    <p>We focus on results, working with affiliates who share your vision.</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -243,26 +243,26 @@
                     <div class="row">
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Data-Driven approach</h3>
-                                <p>We turn data into action, continuously optimising campaigns based on real-time insights to maximise performance and ROI.</p>
+                                <h3>Client Customization</h3>
+                                <p>Each campaign is uniquely crafted to suit your brand’s voice, values, and audience, optimizing engagement and increasing conversions through personalized outreach and content.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Tailored Strategies</h3>
-                                <p>We don’t believe in one-size-fits-all. Every campaign is customised to meet your specific business goals, ensuring targeted, high-impact results.</p>
+                                <h3>Proprietary Management Processes</h3>
+                                <p>We’ve designed foolproof systems that streamline campaign management, ensuring seamless execution, and consistent performance across all platforms.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Cutting-Edge Technology</h3>
-                                <p>We leverage the latest tools and platforms, ensuring your campaigns are always running at their peak potential with minimal wasted spend.</p>
+                                <h3>Seamless Integration with Your Brand</h3>
+                                <p>We make affiliate marketing feel like a part of your in-house team, delivering authentic, seamless marketing that feels completely integrated with your vision.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="chalange-box">
-                                <h3>Omni-Channel Expertise</h3>
-                                <p>From social media to search engines, we create cohesive, multi-channel strategies that drive consistent, cross-platform results.</p>
+                                <h3>Scalable & Flexible Solutions</h3>
+                                <p>We enable you to grow your affiliate program seamlessly by adding affiliates, increasing reach, and maximizing profitability without losing control.</p>
                             </div>
                         </div>
                     </div>
@@ -289,14 +289,14 @@
                                 <div class="above-title justify-content-start mb-2">
                                     <span>Our Secret Sauce</span>
                                 </div>
-                                <h2 class="text-light-orange">How Our Performance Marketing Process Works?</h2>
-                                <p>After years of hit & trial, we’ve finally perfected the formula for performance marketing success and we’re ready to deliver it to you. The real question is are you ready to level up your business in Dubai?</p>
+                                <h2 class="text-light-orange">How Our Affiliate Marketing Process Works?</h2>
+                                <p>Building a successful affiliate program takes more than just connections. It’s all about strategy, execution, and optimization. We’ve mastered this over the years, to bring nothing but best for you.</p>
                                 <div class="grid-list">
                                     <ul class=" lh-lg">
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Goal Setting & Defining KPIs</div>
+                                                    <div class="list-head">In-Depth Brand & Goals Analysis</div>
                                                     
                                                 </div>
                                             </div>
@@ -305,7 +305,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Strategy & Funnel Design</div>
+                                                    <div class="list-head">Identify and Vet High-Impact Affiliates</div>
                                                     
                                                 </div>
                                             </div>
@@ -313,7 +313,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Audience Research & Segmentation</div>
+                                                    <div class="list-head">Data-Driven Audience Segmentation</div>
                                                     
                                                 </div>
                                             </div>
@@ -322,7 +322,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Creative & Copy Development</div>
+                                                    <div class="list-head">Custom Campaign Strategy & Creative Development</div>
                                                    
                                                 </div>
                                             </div>
@@ -330,7 +330,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Campaign Setup & Launch</div>
+                                                    <div class="list-head">Seamless Affiliate Integration & Launch</div>
                                                    
                                                 </div>
                                             </div>
@@ -338,7 +338,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Continuous Optimization & A/B Testing</div>
+                                                    <div class="list-head">Continuous Monitoring & Real-Time Optimization</div>
                                                    
                                                 </div>
                                             </div>
@@ -346,7 +346,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Post-Launch Monitoring & Adaptation</div>
+                                                    <div class="list-head">Transparent Reporting & Performance Tracking</div>
                                                    
                                                 </div>
                                             </div>
@@ -354,7 +354,7 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Weekly Reporting & Insights</div>
+                                                    <div class="list-head">Long-Term Partnership & Scaling</div>
                                                    
                                                 </div>
                                             </div>

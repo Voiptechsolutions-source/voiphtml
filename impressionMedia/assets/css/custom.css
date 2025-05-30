@@ -75,8 +75,9 @@ main.main-wrapper{
 .home-banner .banner-text-cont .banner-feats-list ul {
 	list-style: none;
 	padding-left: 0;
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
+	/* display: grid;
+	grid-template-columns: repeat(2, 1fr); */
+    column-count: 2;
 	line-height: 40px;
     gap: 0 20px;
 }
@@ -2032,6 +2033,7 @@ background-attachment: fixed;
     }
     .home-banner .banner-text-cont .banner-feats-list ul{
         grid-template-columns: repeat(1, 1fr);
+        column-count: 1;
     }
     .grid-list ul{grid-template-columns: repeat(1, 1fr);}
     .vimi-box {

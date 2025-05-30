@@ -56,7 +56,7 @@
       )()
 </script>
         
-		<!-- Google Tag Manager 3-4-2025 added by david-->
+		<!-- Google Tag Manager 3-4-2025 added-->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -64,25 +64,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WBPHFSDX');</script>
 <!-- End Google Tag Manager -->
 		
-
-<!-- Google tag (gtag.js) 18-4-2025-->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SPJRSLL762"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SPJRSLL762');
-</script>
-
+		
 </head>
 <body>
 <!-- Google Tag Manager (noscript) 3-4-2025 added-->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBPHFSDX"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-
-
 
     <!-- Header Section -->
     <header class="header-section">
@@ -110,13 +98,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="nav-item"><a class="nav-link" href="https://www.voiptechsolutions.com/">
                             Home
                         </a></li>
-                        <li class="nav-item"><a class="nav-link" href="https://www.voiptechsolutions.com/about-us">
+                        <li class="nav-item"><a class="nav-link" href="https://www.voiptechsolutions.com/about_us">
                             About Us
                         </a></li>
-                        <li class="nav-item"><a class="nav-link" href="https://www.voiptechsolutions.com/products/sms">
+                        <li class="nav-item"><a class="nav-link" href="https://www.voiptechsolutions.com/services/sms">
                             Services
                         </a></li>
-                        <li class="nav-item"><a class="nav-link" href="#faqs">FAQ</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.voiptechsolutions.com/faq">FAQ</a></li>
                         <li class="nav-item"><a class="nav-link form-popup" href="#" >Contact</a></li>
                     </ul>
                 </div>    
@@ -269,7 +257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div> -->
                 <!-- Get Started Button -->
-                <a class="btn btn-primary ms-3" href="https://wa.link/voiptech-solutions" target="_blank" >Get Started</a>
+                <a class="btn btn-primary ms-3" href="https://wa.link/voiptech" target="_blank" >Get Started</a>
                 </div>
             </div>
         </nav>
@@ -282,7 +270,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Get the most robust SMS communication platform with VolPTech! Automate, schedule, and send perfect messages instantly—bulk SMS, two-way messaging, or global reach.</p>
                     
 
-                <a href="https://wa.link/voiptech-solutions" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-flex align-items-center gap-2 col-12 col-md-8 col-lg-6 col-xxl-5  justify-content-center">
+                <a href="https://wa.link/voiptech" target="_blank" class="btn bg-white py-2 px-4 rounded text-danger text-xl d-flex align-items-center gap-2 col-12 col-md-8 col-lg-6 col-xxl-5  justify-content-center">
                 7 Days Free Trial
                 <span class="d-flex align-items-center">
                     <img src="images/right-ang.png" alt="" class="w-25">
@@ -673,7 +661,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 
 <!-- FAQ Section -->
-<section id="faqs" class="faq-section">
+<section class="faq-section">
     <div class="container">
         <h2 class="text-center">Frequently Asked Questions</h2>
         <div class="faq-grid">
@@ -856,41 +844,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 </section>
-
-
-
-
-<!-- Start of LiveChat (www.livechat.com) code -->
-<script>
-    window.__lc = window.__lc || {};
-    window.__lc.license = 19121281;
-    window.__lc.integration_name = "manual_channels";
-window.__lc.chat_started_callback = function(data) {
-  LiveChatWidget.get('customer_data', function(customerData) {
-    // Send this data to your server
-    fetch('https://app.voiptechsolutions.com/api/savelead', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(customerData)
-    });
-  });
-};
-    window.__lc.product_name = "livechat";
-    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
-</script>
-<noscript><a href="https://www.livechat.com/chat-with/19121281/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
-<!-- End of LiveChat code -->
-
-
-
-<script>
-  window.addEventListener("OpenWidgetReady", function () {
-    if (window.OpenWidget && typeof OpenWidget.call === "function") {
-      OpenWidget.call("resetSession");
-    }
-  });
-</script>
-
 <!-- Footer Section -->
 
 <footer class="footer-section">
@@ -913,7 +866,7 @@ window.__lc.chat_started_callback = function(data) {
                 <h4>Explore</h4>
                 <ul>
                     <li><a href="https://www.voiptechsolutions.com/">Home</a></li>
-                    <li><a href="https://www.voiptechsolutions.com/faqs">FAQ</a></li>
+                    <li><a href="https://www.voiptechsolutions.com/faq">FAQ</a></li>
                     <li><a href="#" class="form-popup">Contact Us</a></li>
                 </ul>
             </div>
@@ -932,7 +885,7 @@ window.__lc.chat_started_callback = function(data) {
                     <li><a href="https://www.facebook.com/VoIPTechSolutions" target="_blank"><img src="images/fb-icon.png" alt="" class="img-fluid"></a></li>
                     <li><a href="https://www.instagram.com/voiptechsolutions" target="_blank"><img src="images/insta-icon.png" class="img-fluid"></a></li>
                     <li><a href="https://www.linkedin.com/company/voiptechsolutions" target="_blank"><img src="images/linkedin-icon.png" class="img-fluid"></a></li>
-                    <li><a href="https://wa.link/voiptech-solutions" target="_blank"><img src="images/whatsapp-icon.png" class="img-fluid"></a></li>
+                    <li><a href="https://wa.link/voiptech" target="_blank"><img src="images/whatsapp-icon.png" class="img-fluid"></a></li>
                     <li><a href="tel:+917949107742" target="_blank"><img src="images/call-icon.png" class="img-fluid"></a></li>
                 </ul>
             </div>
@@ -943,7 +896,7 @@ window.__lc.chat_started_callback = function(data) {
 
         <!-- Copyright Section -->
         <div class="footer-bottom">
-            <p>Copyright 2025 © VoIPTech Solutions Pvt. Ltd. All Rights Reserved.</p>
+            <p>Copyright 2025 © VoiPTech Solutions Pvt. Ltd. All Rights Reserved.</p>
         </div>
     </div>
 </footer>
@@ -1066,7 +1019,7 @@ window.__lc.chat_started_callback = function(data) {
 
 <div class="position-fixed d-flex justify-content-center gap-4 align-items-center d-md-none col-12 bottom-0  p-2 z-11 floating-contact">
         <div><a href="tel:+917949107742" class="flex gap-2 items-center text-white pr-4 border-r-1 border-white font-semibold"> Call Us <img src="images/icons/ph-icn.png" alt=""></a></div>
-<div><a href="https://wa.link/voiptech-solutions" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt=""></a></div>
+<div><a href="https://wa.link/voiptech" target="_blank" class="flex gap-2 items-center text-white font-semibold"> WhatsApp <img src="images/icons/whatsapp-icn.png" alt=""></a></div>
 </div>
 
 
@@ -1077,6 +1030,19 @@ window.__lc.chat_started_callback = function(data) {
     </div> -->
 
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/67ea7627ed09f71909aab207/1inltr3e0';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
 
 
@@ -1240,7 +1206,7 @@ function submitForm() {
 
     const authToken = 'Basic dm9vcHRlY2hjcm0=';
 
-    fetch('https://app.voiptechsolutions.com/api/savelead', {
+    fetch('https://crm.voiptechsolutions.com/api/savelead', {
         method: 'POST',
         headers: {
             'Authorization': authToken,
@@ -1369,7 +1335,7 @@ function submitForm2() {
         jsonData2[key] = value;
     });
 
-    fetch('https://app.voiptechsolutions.com/api/savelead', {
+    fetch('https://crm.voiptechsolutions.com/api/savelead', {
         method: 'POST',
         headers: {
             'Authorization': 'Basic dm9vcHRlY2hjcm0=',
@@ -1494,7 +1460,6 @@ function submitForm2() {
         
         
 </script>
-
 
 
 </body>

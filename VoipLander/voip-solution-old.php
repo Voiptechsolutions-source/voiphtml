@@ -23,9 +23,23 @@
     </style>
     <script src="./js/captcha.js"></script>
 
-
-
-
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '439281575277179');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=439281575277179&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 
 
 <!-- Google Tag Manager 31.3.2025added-->
@@ -67,17 +81,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       )()
 </script>
 
-
-
-<!-- Google tag (gtag.js) 18-4-2025 added by david-->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-V9RGFDCZWL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-V9RGFDCZWL');
-</script>
 
 </head>
 <body>
@@ -226,9 +229,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="hidden md:ml-6 md:block">
                                 <ul class="flex space-x-4">
                                     <li><a href="https://www.voiptechsolutions.com/">Home</a></li>
-                                    <li><a href="https://www.voiptechsolutions.com/about-us">About Us</a></li>
-                                    <li><a href="https://www.voiptechsolutions.com/products/voip">Services</a></li>
-                                    <li><a href="https://www.voiptechsolutions.com/faqs">FAQ</a></li>
+                                    <li><a href="https://www.voiptechsolutions.com/about_us">About Us</a></li>
+                                    <li><a href="https://www.voiptechsolutions.com/services/voip">Services</a></li>
+                                    <li><a href="https://www.voiptechsolutions.com/faq">FAQ</a></li>
                                     <li><a href="#" class="form-popup">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -242,7 +245,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul class="space-y-2 px-2 pb-3 pt-2 text-lg">
                         <li><a href="https://www.voiptechsolutions.com/">Home</a></li>
                         <li><a href="https://www.voiptechsolutions.com/about_us">About Us</a></li>
-                        <li><a href="https://www.voiptechsolutions.com/products/voip">Services</a></li>
+                        <li><a href="https://www.voiptechsolutions.com/services/voip">Services</a></li>
                         <li><a href="https://www.voiptechsolutions.com/faq">FAQ</a></li>
                         <li><a href="#" class="form-popup">Contact Us</a></li>
                         <li><a href="https://wa.link/voiptech" target="_blank" class=" bg-[#e5462c] text-white py-2 px-6 rounded-md">Enquire Now</a></li>
@@ -1061,7 +1064,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="text-white text-center lg:text-left">
                     <h4 class="text-3xl">Company</h4>
                     <ul class="mt-6 flex flex-col gap-4">
-                        <li><a href="https://www.voiptechsolutions.com/about-us">About Us</a></li>
+                        <li><a href="https://www.voiptechsolutions.com/about_us">About Us</a></li>
                         <li><a href="#">Testimonials</a></li>
                         <li><a href="#">Products</a></li>
                     </ul>
@@ -1069,9 +1072,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="text-white text-center lg:text-left">
                     <h4 class="text-3xl">Services</h4>
                     <ul class="mt-6 flex flex-col gap-4">
-                        <li><a href="https://www.voiptechsolutions.com/products/voip/minutes">VoIP Minutes</a></li>
-                        <li><a href="https://www.voiptechsolutions.com/products/voip/cc-traffic">CC Traffic</a></li>
-                        <li><a href="https://www.voiptechsolutions.com/products/voip/cli-ncli">CLI/NCLI </a></li>
+                        <li><a href="https://www.voiptechsolutions.com/services/voip/voip-minutes">VoIP Minutes</a></li>
+                        <li><a href="https://www.voiptechsolutions.com/services/voip/cc-traffic">CC Traffic</a></li>
+                        <li><a href="https://www.voiptechsolutions.com/services/voip/cli-ncli">CLI/NCLI </a></li>
                     </ul>
                 </div>
                 <div class="text-white  text-center lg:text-left">
@@ -1609,7 +1612,7 @@ function submitForm() {
     const authToken = 'Basic dm9vcHRlY2hjcm0=';
     //console.log('Authorization Header:', authToken);
 
-    fetch('https://app.voiptechsolutions.com/api/savelead', {
+    fetch('https://crm.voiptechsolutions.com/api/savelead', {
         method: 'POST',
         headers: {
             'Authorization': authToken,
@@ -1815,7 +1818,7 @@ function submitForm1() {
 
 
     // Send data as JSON to the API
-  fetch('https://app.voiptechsolutions.com/api/savelead', {
+  fetch('https://crm.voiptechsolutions.com/api/savelead', {
         method: 'POST',
         headers: {
             'Authorization': authToken,
@@ -1949,6 +1952,19 @@ function submitForm1() {
 
 
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/67e66113107c6f190f142e96/1indume3u';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
 
 
@@ -1963,29 +1979,6 @@ function submitForm1() {
 
 
 
-
-
-
-<!-- Start of LiveChat (www.livechat.com) code -->
-<script>
-    window.__lc = window.__lc || {};
-    window.__lc.license = 19121281;
-    window.__lc.integration_name = "manual_channels";
-window.__lc.chat_started_callback = function(data) {
-  LiveChatWidget.get('customer_data', function(customerData) {
-    // Send this data to your server
-    fetch('https://app.voiptechsolutions.com/api/savelead', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(customerData)
-    });
-  });
-};
-    window.__lc.product_name = "livechat";
-    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
-</script>
-<noscript><a href="https://www.livechat.com/chat-with/19121281/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
-<!-- End of LiveChat code -->
 
 
 

@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.28">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.29">
 </head>
 <body>
     <header>
@@ -230,7 +230,7 @@
                             <div class="vimi-box vimi-left shadow-lg">
                                 <div class="vimi-content">
                                     <h2>Our Vision</h2>
-                                    <p>At Impression Media, we share one mission: to be the catalyst behind every brand’s growth, turning ambition into measurable success. We combine strategy, creativity, and data to create marketing that moves the needle.</p>
+                                    <p>At Impression Media, we share one vision: to be the catalyst behind every brand’s growth, turning ambition into measurable success. We combine strategy, creativity, and data to create marketing that moves the needle.</p>
                                 </div>
                                 <div class="vimi-icn">
                                     <img src="assets/images/icons/vision-icn.png" alt="our vision" />
@@ -336,7 +336,7 @@
                             <div class="service-box aff-mrkt service-row-1">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
-                                    <h3><a href="#">Affiliate Marketing</a></h3>
+                                    <h3><a href="affiliate-marketing.php">Affiliate Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
                                     <p>Drive growth through high-performing affiliate partnerships. Real-time tracking, commission-based models, and targeted recruitment amplify reach, conversions, and cost-efficiency.</p>
@@ -380,7 +380,7 @@
                             <div class="service-box b2b-mrkt service-row-2">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
-                                    <h3><a href="#">B2B Lead Generation & Marketing</a></h3>
+                                    <h3><a href="lead-generation.php">B2B Lead Generation & Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
                                     <p>Generate and nurture high-quality business leads using targeted campaigns on Google, Meta and beyond. Optimize every touchpoint with detailed analytics and refined messaging.</p>
@@ -391,7 +391,7 @@
                             <div class="service-box seo service-row-3">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
-                                    <h3><a href="#">Search Engine Optimization(SEO)</a></h3>
+                                    <h3><a href="search-engine-optimization.php">Search Engine Optimization(SEO)</a></h3>
                                 </div>
                                 <div class="service-desc">
                                     <p>Improve visibility with technical, on-page, and off-page SEO strategies. Drive organic traffic through keyword targeting, performance audits, and continuous content optimization.</p>
