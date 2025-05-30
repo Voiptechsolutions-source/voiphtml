@@ -21,6 +21,9 @@ header {
 	top: 0;
 }
 a{color: var(--primary-color);}
+.font-weight-800{
+	font-weight: 800 !important;
+}
 .rounded-xl {
 	border-radius: 20px;
 }
@@ -466,7 +469,7 @@ footer .contact-icons svg{
 .biz-boxes ._box img {
 	width: 55px;
 }
-.biz-boxes ._box h4 {
+.biz-boxes ._box h4, .biz-boxes ._box .h4 {
 	font-size: 40px;
 	margin-bottom: 0;
 	line-height: 35px;
@@ -1638,7 +1641,7 @@ textarea.form-control {
 .upcoming-events-tab-content{
     margin-top: 30px;
 }
-.upcoming-event-card .upcoming-event-info h3 {
+.upcoming-event-card .upcoming-event-info h3, .upcoming-event-card .upcoming-event-info .h3 {
 	font-size: 24px;
 	font-weight: 600;
 }
@@ -1663,7 +1666,7 @@ textarea.form-control {
 	width: 16px;
 	max-width: 16px;
 }
-.upcoming-event-card .upcoming-event-info h3 a{
+.upcoming-event-card .upcoming-event-info h3 a, .upcoming-event-card .upcoming-event-info .h3 a{
     color: #333;
     text-decoration: none;
 }

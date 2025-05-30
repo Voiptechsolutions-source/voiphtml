@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.25">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.28">
 </head>
 <body>
     <header>
@@ -53,7 +53,7 @@
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
-                                    <a href="#" class="btn btn-secondary btn-lg  text-uppercase px-4 rounded-pill">Get Started</a>
+                                    <a href="#" class="btn btn-secondary btn-lg  text-uppercase px-4 rounded-pill" data-bs-toggle="modal" data-bs-target="#myModalForm">Get Started Now</a>
                                 </div>
                                 <div class="_trusted d-flex align-items-center mt-4 mb-4 gap-1">
                                     <div class="stars d-flex">
@@ -107,7 +107,7 @@
                 <h2>We’re Not Just an Agency, We’re Architects of Your Brand’s Digital Future</h2>
                 <p>At Impression Media, innovation is at the pulse, precision in our blood, and a deep commitment to your success in our soul.</p>
                 <div class="bt-cont">
-                    <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5 rounded-pill">Get Started</a>
+                    <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5 rounded-pill" data-bs-toggle="modal" data-bs-target="#myModalForm">Get Started Now</a>
                 </div>
             </div>
             <div class="feats-list mt-5">
@@ -325,7 +325,7 @@
                             <div class="service-box per-mrkt service-row-1">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
-                                    <h3><a href="service-detail.php">Performance Marketing</a></h3>
+                                    <h3><a href="performance-marketing.php">Performance Marketing</a></h3>
                                 </div>
                                 <div class="service-desc">
                                     <p>Maximize ROI with precision-targeted, multi-channel campaigns. Continuous optimization and in-depth reporting ensure every marketing dollar delivers measurable, scalable performance.</p>
@@ -347,7 +347,7 @@
                             <div class="service-box digi-med-buy service-row-1">
                                 <div class="service-icn"></div>
                                 <div class="service-title">
-                                    <h3><a href="#">Digital Media Buying</a></h3>
+                                    <h3><a href="media-buying.php">Digital Media Buying</a></h3>
                                 </div>
                                 <div class="service-desc">
                                     <p>Strategic ad placement across premium digital platforms. Real-time A/B testing and performance tuning ensure maximum impact and ROI from every media buy.</p>
