@@ -78,9 +78,9 @@
                                 <div class="as-seen-on">
                                     <p>As seen on</p>
                                     <div class="d-flex gap-2 as-seen-on-logos">
-                                        <img src="assets/images/logos/enterpreneur.png" alt="Enterpreneur" class="img-fluid" width="100" height="31" />
+                                        <img src="assets/images/logos/enterpreneur.png" alt="Enterpreneur" class="img-fluid" width="120" height="31" />
                                         <!-- <img src="assets/images/logos/ht.png" alt="Hindustan Times" class="img-fluid" width="140" height="28" /> -->
-                                        <img src="assets/images/logos/ndtv.png" alt="msn" class="img-fluid msn-logo" width="80" height="20" />
+                                        <img src="assets/images/logos/msn.png" alt="msn" class="img-fluid msn-logo" width="80" height="20" />
                                         <!-- <img src="assets/images/logos/toi.png" alt="Times of India" class="img-fluid" width="100" height="57" /> -->
                                     </div>
                                 </div>
@@ -199,7 +199,7 @@
         </section>
 
         
-        
+       
         <!-- We work all over the world -->
         <?php include 'includes/our-locations-section.php'; ?>
         

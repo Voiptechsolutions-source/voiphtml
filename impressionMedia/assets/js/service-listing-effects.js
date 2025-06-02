@@ -53,7 +53,7 @@ tl.from('.services-listing-section .all-services-list .service-row-1',{
         scroller:'body',
         // scrub:1,
         markers:false,
-        start: 'top 80%',
+        start: 'top 70%',
         end: 'top 30%',
         
     },
@@ -67,7 +67,7 @@ tl.from('.services-listing-section .all-services-list .service-row-1',{
         scroller:'body',
         // scrub:1,
         markers:false,
-        start: 'top 80%',
+        start: 'top 70%',
         end: 'top 30%',
         
     },
@@ -155,14 +155,14 @@ gsap.from('.section10-5 .section-title', {
     scrollTrigger:{
         trigger: '.section10-5 ',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     y:'-200%',
 }
@@ -171,14 +171,14 @@ gsap.from('.section10-5 .all-biz-locations', {
     scrollTrigger:{
         trigger: '.section10-5 .all-biz-locations',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'-200%',
 }
@@ -188,14 +188,14 @@ gsap.from('.section-11 .sec-11-left', {
     scrollTrigger:{
         trigger: '.section-11 ',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'-200%',
 }
@@ -204,14 +204,14 @@ gsap.from('.section-11 .sec-11-right', {
     scrollTrigger:{
         trigger: '.section-11',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'200%',
 }

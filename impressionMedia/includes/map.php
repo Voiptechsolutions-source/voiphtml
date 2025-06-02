@@ -1,0 +1,3 @@
+<section class="loc-map-section">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7220.532388102941!2d55.288915!3d25.194244!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6823ca637e57%3A0x8b085cce46d2441e!2sMillennium%20Central%20Downtown!5e0!3m2!1sen!2sin!4v1748865882981!5m2!1sen!2sin" width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>

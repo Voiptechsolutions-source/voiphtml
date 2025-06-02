@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.31">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.30">
 </head>
 <body>
     <header>
@@ -665,7 +665,142 @@
                 </div>
             </div>
         </section> 
-        
+        <!-- Section 6.6 Success Stories -->
+        <section class="section6-6 py-5 bg-light sec-success-stories">
+            <div class="container">
+                <div class="section-title text-center">
+                    <div class="above-title mb-2 ">
+                        <span>Dummy Heading Here</span>
+                    </div>
+                    <h2 class="text-light-orange">Meet the new generation of digital marketing services</h2>
+                    
+                </div>
+                <div class="pay-as-services-tabs mt-5">
+                    <div class="row">
+                        <div class="col-12 col-md-3 pe-0">
+                            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="v-pills-payTab1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-payTab1" type="button" role="tab" aria-controls="v-pills-payTab1" aria-selected="true">Performance Marketing</button>
+                            <button class="nav-link" id="v-pills-payTab2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-payTab2" type="button" role="tab" aria-controls="v-pills-payTab2" aria-selected="false">Affiliate Marketing</button>
+                            <button class="nav-link" id="v-pills-payTab3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-payTab3" type="button" role="tab" aria-controls="v-pills-payTab3" aria-selected="false">Digital Media Buying</button>
+                            <button class="nav-link" id="v-pills-payTab4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-payTab4" type="button" role="tab" aria-controls="v-pills-payTab5" aria-selected="false">E-commerce Marketing</button>
+                            <button class="nav-link" id="v-pills-payTab5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-payTab5" type="button" role="tab" aria-controls="v-pills-payTab5" aria-selected="false">B2B Lead Generation & Marketing</button>
+                            <button class="nav-link" id="v-pills-payTab6-tab" data-bs-toggle="pill" data-bs-target="#v-pills-payTab6" type="button" role="tab" aria-controls="v-pills-payTab6" aria-selected="false">Search Engine Optimization</button>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-9 ps-0">
+                            <div class="tab-content" id="v-pills-tabContent">
+                                <div class="tab-pane fade show active" id="v-pills-payTab1" role="tabpanel" aria-labelledby="v-pills-payTab1-tab">
+                                <div class="pay-tab-content">
+                                        <p>VoIPVoIP gives every customer a unique SIP number (e.g., 123456) that can be used to receive free calls from other VoIPVoIP users. There are no monthly fees for this number, but it cannot receive calls from traditional or mobile phones.</p>
+    
+                                        <p>If you want to receive calls from regular phones, you can purchase a Virtual Phone Number. This number acts as an alias for your VoIP account, allowing calls from traditional phones to connect.</p>
+                                        <h3>Advantages of Virtual Phone Numbers:</h3>
+                                        <ol>
+                                            <li>Keep your number wherever you go. </li>
+                                            <li>Choose any area code, not tied to your local one. </li>
+                                            <li>Select an international number for global access. </li>
+                                        </ol>
+                                        <div class="_btn mt-4">
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
+                                        </div>
+                                    </div>
+                                    <div class="_service-img">
+                                        <img src="assets/images/success-tab-img1.png" alt="VoIP SIP" />
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-payTab2" role="tabpanel" aria-labelledby="v-pills-payTab2-tab">
+                                    <div class="pay-tab-content">
+                                        <p>Replace your phone company with VoIPVoIP and keep your US number, saving on your bill.
+    
+                                            For just $2/month, you can receive calls on your chosen US number or keep your current one.
+    
+                                            Enjoy a multichannel number with free incoming calls using a VoIP app or device, webphone, Chrome extension or CRM and an internet connection.
+    
+                                            Get features like voicemail to email, call forwarding, Caller ID, Cloud PBX and more.</p>
+                                            <div class="_btn mt-4">
+                                                <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
+                                            </div>
+                                        
+                                    </div>
+                                    <div class="_service-img">
+                                        <img src="assets/images/success-tab-img1.png" alt="VoIP SIP" />
+                                    </div>
+                                   
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-payTab3" role="tabpanel" aria-labelledby="v-pills-payTab3-tab">
+                                <div class="pay-tab-content">
+                                        <p>Get a local number from your home country. Your family, friends, or business associates can call you as if you were just across the street, avoiding long-distance charges.
+    
+                                        With a multichannel international phone number, receive calls from anywhere with just an internet connection.
+    
+                                        Enhance your phone system with features like free Cloud PBX, free CRM, IVR, website widgets, speech recognition and more.</p>
+    
+                                       
+                                        <div class="_btn mt-4">
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
+                                        </div>
+                                    </div>
+                                    <div class="_service-img">
+                                        <img src="assets/images/success-tab-img1.png" alt="VoIP SIP" />
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-payTab4" role="tabpanel" aria-labelledby="v-pills-payTab4-tab">
+                                <div class="pay-tab-content">
+                                        <p>If you don't have an internet connection or prefer not to use a VoIP service, you can forward calls to any mobile or landline worldwide.
+    
+                                        Simply activate call forwarding in your account to receive calls on any phone.
+    
+                                        Call forwarding fees are based on the destination's calling rate. For example, forwarding to a US mobile phone costs $0.012 per minute.
+    
+                                        Check the exact forwarding rates for your destination here.
+                                        Call forwarding charges are deducted from your VoipVoip account balance.</p>
+    
+                                        
+                                        <div class="_btn mt-4">
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
+                                        </div>
+                                    </div>
+                                    <div class="_service-img">
+                                        <img src="assets/images/success-tab-img1.png" alt="VoIP SIP" />
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-payTab5" role="tabpanel" aria-labelledby="v-pills-payTab5-tab">
+                                    <div class="pay-tab-content">
+                                        <p>You can use your virtual number with our free voicemail feature included in the Cloud PBX.
+    
+                                            Record a custom greeting or generate one from text, and receive voicemails via your personal account and email.</p>
+    
+                                       
+                                        <div class="_btn mt-4">
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
+                                        </div>
+                                    </div>
+                                    <div class="_service-img">
+                                        <img src="assets/images/success-tab-img1.png" alt="VoIP SIP" />
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-payTab6" role="tabpanel" aria-labelledby="v-pills-payTab6-tab">
+                                    <div class="pay-tab-content">
+                                        <p>You can use your virtual number with our free voicemail feature included in the Cloud PBX.
+    
+                                            Record a custom greeting or generate one from text, and receive voicemails via your personal account and email.</p>
+    
+                                       
+                                        <div class="_btn mt-4">
+                                            <a href="#" class="btn btn-secondary px-4 text-white rounded-pill">Get Started Now</a>
+                                        </div>
+                                    </div>
+                                    <div class="_service-img">
+                                        <img src="assets/images/success-tab-img1.png" alt="VoIP SIP" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+    
+                </div>
+            </div>
+        </section> 
         <!-- Section 7 Client testimonials -->
         <?php include 'includes/testimonials.php' ?>
 
@@ -765,10 +900,6 @@
 
         <!-- Section 10 FAQ -->
         <?php include 'includes/faq.php'; ?>
-        <!-- Map Section -->
-        <?php include 'includes/map.php'; ?>
-        <!-- Footer Contact Island -->
-        <?php include 'includes/footer-contact-island.php'; ?>
         <!-- We work all over the world -->
         <?php include 'includes/our-locations-section.php'; ?>
         <!-- Section 11 Footer Contact-->
@@ -807,6 +938,6 @@
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>   
  <script src="assets/js/custom.js?v=1.11"></script>
- <script src="assets/js/home-effects.js?v=1.002"></script>
+ <script src="assets/js/home-effects.js?v=1.001"></script>
 </body>
 </html>

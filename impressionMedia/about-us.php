@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.22">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.32">
 </head>
 <body>
     <header>
@@ -43,16 +43,16 @@
                         </div>
                         <div class="_content">
                             <div class="banner-text-cont">
-                                <h1><span class="text-primary">From Dubai’s  #1 Tech</span> Nerds to a Global Force</h1>
+                                <h1><span class="text-primary">Dubai’s #1 Digital Force</span>, Powering Global Brands</h1>
                                 
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>Cost-Effective Communication</li>
-                                        <li>Global Reach</li>
-                                        <li>Crystal-Clear Call Quality</li>
-                                        <li>Easy Integration</li>
-                                        <li>24/7 Expert Support</li>
-                                        <li>Scalable Plans</li>
+                                        <li>Higher Conversion Rates</li>
+                                        <li>Targeted Audience Reach</li>
+                                        <li>Improved Brand Visibility</li>
+                                        <li>Cost-Effective Solutions</li>
+                                        <li>Scalable Architecture</li>
+                                        <li>Real-Time Analytics & Tracking</li>
                                     </ul>
                                 </div>
                                 <div class="_trusted d-flex align-items-center mt-4 mb-4 gap-1">
@@ -92,11 +92,10 @@
         <div class="container">
             <div class="section-title text-center text-white">
                 <div class="above-title">
-                    <span>Dummy Heading Here</span>
+                    <span>From clicks to customers, we turn strategy into results</span>
                 </div>
-                <h2>Welcome To Impression Media</h2>
-                <p>As leadign media buying agency, we create performance- driven strategies that boost brand visibility, 
-                    drive quality traffice, and deliver measurable results, ensuring your business achieves growth and success</p>
+                <h2>Welcome to Impression Media</h2>
+                <p>We are your growth-focused digital partner. We blend strategy, creativity, and performance marketing to help brands increase visibility, drive engagement, and achieve measurable results across every digital channel</p>
                 <!-- <div class="bt-cont">
                     <a href="#" class="btn btn-secondary btn-lg text-uppercase px-5">Book a Demo</a>
                 </div> -->
@@ -108,8 +107,8 @@
                             <div class="_icn">
                                 <img src="assets/images/icons/welcome-icn1.png" alt="Targeted Media Planning" />
                             </div>
-                            <h3>Targeted Media Planning</h3>
-                            <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
+                            <h3>Precision Targeting</h3>
+                            <p>Reach the right audience at the right time. Our data-driven targeting and segmentation reduce ad waste and deliver campaigns that drive real engagement.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
@@ -117,8 +116,8 @@
                             <div class="_icn">
                                 <img src="assets/images/icons/welcome-icn2.png" alt="Targeted Media Planning" />
                             </div>
-                            <h3>Campaign Execution</h3>
-                            <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
+                            <h3>ROI-Focused Strategy</h3>
+                            <p>Every strategy is built for performance. We align budgets with outcomes to ensure your investment delivers measurable growth and customer acquisition.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
@@ -126,8 +125,8 @@
                             <div class="_icn">
                                 <img src="assets/images/icons/welcome-icn3.png" alt="Targeted Media Planning" />
                             </div>
-                            <h3>Performance Analysis</h3>
-                            <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
+                            <h3>Creative Excellence</h3>
+                            <p>We create high-impact visuals and messaging that resonate. Our storytelling approach builds trust and drives deeper brand connections across all platforms.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-3">
@@ -135,8 +134,8 @@
                             <div class="_icn">
                                 <img src="assets/images/icons/welcome-icn4.png" alt="Targeted Media Planning" />
                             </div>
-                            <h3>Industry Specialization</h3>
-                            <p>Reach the right audience at the right time with our data-driven approach. We ensure your campaigns target the most relevant individuals for better engagement and conversions.</p>
+                            <h3>End-to-End Execution</h3>
+                            <p>We handle the entire campaign lifecycle from concept to reporting ensuring speed, consistency, and results, so you can focus on business growth.</p>
                         </div>
                     </div>
                 </div>
@@ -159,11 +158,11 @@
                             </div>
                             <div class="_content">
                                 <div class="above-title justify-content-start mb-2">
-                                    <span>About the Fouvnder</span>
+                                    <span>Meet Our Founder</span>
                                 </div>
-                                <h2 class="text-light-orange">Mr. Dwibendu Dubai</h2>
-                                <h3>Meet the Visionary Behind Impression Media</h3>
-                                <p>At the heart of Impression Media is a passionate founder whose creative vision and strategic mindset have driven the agency's success for over 8 years. With a deep-rooted expertise in branding, design, and digital media, they’ve transformed countless ideas into impactful visual stories — helping businesses leave a lasting impression.</p>
+                                <h2 class="text-light-orange">Dwibendu Maharana</h2>
+                                <h3>Founder & Head of Impression Media</h3>
+                                <p>With over 14 years of experience in digital marketing and telecom, he specializes in heading teams that craft campaigns which truly connect with the users to deliver results. By combining creativity, data, and smart technology, under his guidance, the teams build scalable solutions that help brands grow. Passionate about creating strong, memorable identities, he’s driven by one goal helping businesses succeed in today’s fast-changing and competitive world..</p>
                                 
                             </div>
                         </div>
@@ -180,20 +179,19 @@
                         <div class="why-us-content1">
                             
                             <div class="_content">
-                                <div class="above-title justify-content-start mb-2">
+                                <!-- <div class="above-title justify-content-start mb-2">
                                     <span>Dummy Heading Here</span>
-                                </div>
+                                </div> -->
                                 <h2 class="text-light-orange">Why Choose us</h2>
-                                <h3>Meet the Visionary Behind Impression Media</h3>
-                                <p>Thinking about solving our clients' problems has us constantly spinning our wheels. If you are new to creating video content or an experienced hand, you can check out our thoughts on many subjects related to our full-service advertising agency.</p>
+                                <h3>We don’t just market brands we, create digital stories that sell</h3>
+                                <p>We blend strategy, ideas, and performance to help brands grow faster, connect with people in a meaningful way, and turn interest into action delivering campaigns that stand out and truly make an impact.</p>
                                 <div class="grid-list">
                                     <ul>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Flexible Plans</div>
-                                                    <p>Choose from prepaid VoIP minutes 
-                                                    or postpaid billing.</p>
+                                                    <div class="list-head">Data-Driven Decisions</div>
+                                                    <p>Backed by insights, not guesswork, no assumptions.</p>
                                                 </div>
                                             </div>
                                             
@@ -201,18 +199,16 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Flexible Plans</div>
-                                                    <p>Choose from prepaid VoIP minutes 
-                                                    or postpaid billing.</p>
+                                                    <div class="list-head">Creatives That Convert</div>
+                                                    <p>Design and messaging built to drive conversions not just clicks.</p>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Unbeatable Pricing</div>
-                                                    <p>Save more with cost-effective 
-                                                        VoIP solutions.</p>
+                                                    <div class="list-head">Agile & Adaptive</div>
+                                                    <p>We move fast, test fast, and scale smart. Time is money.</p>
                                                 </div>
                                             </div>
                                             
@@ -220,9 +216,8 @@
                                         <li>
                                             <div class="li-content">
                                                 <div class="cont">
-                                                    <div class="list-head">Unbeatable Pricing</div>
-                                                    <p>Save more with cost-effective 
-                                                        VoIP solutions.</p>
+                                                    <div class="list-head">Proven Track Record</div>
+                                                    <p>Trusted by brands to deliver real, measurable results.</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -244,7 +239,7 @@
                             <div class="vimi-box vimi-left shadow-lg bg-white">
                                 <div class="vimi-content">
                                     <h2>Our Vision</h2>
-                                    <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG. The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
+                                    <p>At Impression Media, we share one vision: to be the catalyst behind every brand’s growth, turning ambition into measurable success. We combine strategy, creativity, and data to create marketing that moves the needle..</p>
                                 </div>
                                 <div class="vimi-icn">
                                     <img src="assets/images/icons/vision-icn.png" alt="our vision" />
@@ -255,7 +250,7 @@
                             <div class="vimi-box vimi-right shadow-lg bg-white">
                                 <div class="vimi-content">
                                     <h2>Our Mission</h2>
-                                    <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG. The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
+                                    <p>The mission is simple: to break the mold, redefine expectations, and deliver marketing that doesn’t just perform but transforms brands. We partner with ambitious businesses to craft bold, data-backed strategies that create lasting impact..</p>
                                 </div>
                                 <div class="vimi-icn">
                                     <img src="assets/images/icons/mission-icn.png" alt="our mission" />
@@ -275,13 +270,51 @@
             <div class="container">
                 <div class="our-work-cta">
                     <div class="section-title text-center text-white mb-5 mt-2">
-                        <div class="above-title mb-2 text-white">
+                        <!-- <div class="above-title mb-2 text-white">
                             <span>Dummy Heading Here</span>
-                        </div>
-                        <h2>We’re Here to Help Your Business Grow</h2>
+                        </div> -->
+                        <h2>Grow Faster with Data-Driven Marketing Built to Scale</h2>
                     </div>
                     <div class="our-work-cta-img">
-                        <img src="assets/images/our-work-cta-img.png" alt="Our Work" />
+                        <!-- <img src="assets/images/our-work-cta-img.png" alt="Our Work" /> -->
+                         <div class="row">
+                            <div class="col-12 col-lg-3">
+                                <div class="abt-cta-info">
+                                    <div class="_icn">
+                                        <img src="assets/images/icons/abt-cta-icn1.png" alt="" />
+                                    </div>
+                                    <div class="nos">4</div>
+                                    <div class="txt-info">years of Media Buying Expertise</div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="abt-cta-info">
+                                    <div class="_icn">
+                                        <img src="assets/images/icons/abt-cta-icn2.png" alt="" />
+                                    </div>
+                                    <div class="nos">100+</div>
+                                    <div class="txt-info">Successful campaign runs</div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="abt-cta-info">
+                                    <div class="_icn">
+                                        <img src="assets/images/icons/abt-cta-icn3.png" alt="" />
+                                    </div>
+                                    <div class="nos">200+</div>
+                                    <div class="txt-info">Targeted Ads delivered </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="abt-cta-info">
+                                    <div class="_icn">
+                                        <img src="assets/images/icons/abt-cta-icn4.png" alt="" />
+                                    </div>
+                                    <div class="nos">50000+</div>
+                                    <div class="txt-info">Conversions Optimised</div>
+                                </div>
+                            </div>
+                         </div>
                     </div>
                 </div>
             </div>
@@ -292,46 +325,66 @@
                 <!-- Time Line -->
                  <div class="time-line-cont">
                     <div class="section-title text-center text-white mb-5 mt-2">
-                        <h2 class="text-light-orange">Impression Media-timeline</h2>
-                        <p>From local businesses to global enterprises, we've helped countless brands achieve success</p>
+                        <h2 class="text-light-orange">Our Story so far</h2>
+                        <p>From bold beginnings to market leaders, we fuel brand journeys with tailored strategies that deliver lasting impact</p>
                     </div>
                     <div class="_line-item">
-                        <div class="time-year"><span>2018</span></div>
+                        <div class="time-year"><span>2022</span></div>
                         <ul class="timeline-list">
                             <!-- Single Experience -->
                             <li>
                                 <div class="timeline_content">
-                                <h4>Sep</h4>
-                                <p>We gather your business and products information. We then determine the direction of the project and understand your goals and we combine your ideas with ours for an amazing website.</p>
+                                <p>We launched in Dubai to empower businesses with data-driven digital strategies and creative campaigns, quickly became Dubai’s #1 agency for measurable digital growth.</p>
                                 </div>
                             </li>
                             <!-- Single Experience -->
-                            <li>
+                            <!-- <li>
                                 <div class="timeline_content">
                                 <h4>Nov</h4>
                                 <p>We gather your business and products information. We then determine the direction of the project and understand your goals and we combine your ideas with ours for an amazing website.</p>
                                 </div>
-                            </li>
+                            </li> -->
                             
                         </ul>
                     </div>
                     <div class="_line-item mt-4">
-                        <div class="time-year"><span>2019</span></div>
+                        <div class="time-year"><span>2023</span></div>
+                        <ul class="timeline-list">
+                            <!-- Single Experience -->
+                            <li class="empty">&nbsp;</li>
+                            <li>
+                                <div class="timeline_content">
+                                <p>We scaled operations by hiring top talent, expanding our client base, and enhancing services to meet the increasing demand for conversion-driven digital marketing.</p>
+                                </div>
+                            </li>
+                           
+                            
+                        </ul>
+                    </div>
+                    <div class="_line-item mt-4">
+                        <div class="time-year"><span>2024</span></div>
                         <ul class="timeline-list">
                             <!-- Single Experience -->
                             <li>
                                 <div class="timeline_content">
-                                <h4>Sep</h4>
-                                <p>We gather your business and products information. We then determine the direction of the project and understand your goals and we combine your ideas with ours for an amazing website.</p>
+                                <p>We delivered creative campaigns powered by real-time insights, driving over 50000 conversions, boosting ROI, and fostering trust, engagement, and consistent growth across multiple channels.</p>
                                 </div>
                             </li>
+                           
+                            
+                        </ul>
+                    </div>
+                    <div class="_line-item mt-4">
+                        <div class="time-year"><span>2025</span></div>
+                        <ul class="timeline-list">
+                            <li class="empty">&nbsp;</li>
                             <!-- Single Experience -->
                             <li>
                                 <div class="timeline_content">
-                                <h4>Nov</h4>
-                                <p>We gather your business and products information. We then determine the direction of the project and understand your goals and we combine your ideas with ours for an amazing website.</p>
+                                <p>We became a go-to digital partner, helping ambitious brands lead with purpose through bold strategies, meaningful content, and performance marketing that drives lasting impact.</p>
                                 </div>
                             </li>
+                           
                             
                         </ul>
                     </div>
@@ -423,7 +476,10 @@
                 </div>
             </div>
         </section> -->
-
+    <!-- Map Section -->
+        <?php include 'includes/map.php'; ?>
+        <!-- Footer Contact Island -->
+        <?php include 'includes/footer-contact-island.php'; ?>
         <!-- We work all over the world -->
         <?php include 'includes/our-locations-section.php'; ?>
         <!-- Section 11 Footer Contact-->
@@ -462,6 +518,6 @@
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>   
  <script src="assets/js/custom.js?v=1.11"></script>
- <script src="assets/js/about-effects.js?v=1.001"></script>
+ <script src="assets/js/about-effects.js?v=1.002"></script>
 </body>
 </html>

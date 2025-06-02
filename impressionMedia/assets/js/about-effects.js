@@ -25,28 +25,28 @@ tl.from('.hero-section .banner-text-cont', {
     scrollTrigger: {
         trigger: '.section-2 .section-title',
         scroller:'body',
-        scrub: 2,
+        // scrub: 2,
         start: 'top 60%',
         end: 'top 30%',
     },
     y: -200,
    
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     scale:0
 });
 gsap.from('.section-2 .feats-list', {
     scrollTrigger:{
         trigger: '.section-2 .feats-list',
         scroller:'body',
-        scrub: 1,
+        // scrub: 1,
         markers: false,
         start:'top 80%',
         end: 'top 60%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
    x:'-200%',
     
 }
@@ -56,14 +56,14 @@ gsap.from('.section-3 .why-us-img', {
     scrollTrigger:{
         trigger: '.section-3',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'-200%',
 }
@@ -72,14 +72,14 @@ gsap.from('.section-3 .why-us-img1', {
     scrollTrigger:{
         trigger: '.section-3 .section-why-us',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'200%',
 }
@@ -88,14 +88,14 @@ gsap.from('.section-3 .why-us-content1', {
     scrollTrigger:{
         trigger: '.section-3 .section-why-us',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'-200%',
 }
@@ -104,14 +104,14 @@ gsap.from('.section-3 .content_img', {
     scrollTrigger:{
         trigger: '.section-3',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     y:'-200%',
 }
@@ -120,14 +120,14 @@ gsap.from('.section-3 ._content', {
     scrollTrigger:{
         trigger: '.section-3',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'200%',
 }
@@ -138,14 +138,14 @@ gsap.from('.section-3-5 .vimi-left', {
     scrollTrigger:{
         trigger: '.section-3-5',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'-200%',
 }
@@ -154,14 +154,14 @@ gsap.from('.section-3-5 .vimi-right', {
     scrollTrigger:{
         trigger: '.section-3-5',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'200%',
 }
@@ -189,14 +189,14 @@ gsap.from('.section-5 .our-work-cta', {
     scrollTrigger:{
         trigger: '.section-5 .our-work-cta',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'-200%',
 }
@@ -206,14 +206,14 @@ gsap.from('.section-5-5 .section-title', {
     scrollTrigger:{
         trigger: '.section-5-5',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     y:'-200%',
 }
@@ -222,14 +222,14 @@ gsap.from('.section-5-5 .time-year', {
     scrollTrigger:{
         trigger: '.section-5-5 ._line-item',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'200%',
 }
@@ -238,14 +238,14 @@ gsap.from('.section-5-5 .timeline-list', {
     scrollTrigger:{
         trigger: '.section-5-5 ._line-item',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'-200%',
 }
@@ -358,14 +358,14 @@ gsap.from('.section10-5 .section-title', {
     scrollTrigger:{
         trigger: '.section10-5 ',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     y:'-200%',
 }
@@ -374,14 +374,14 @@ gsap.from('.section10-5 .all-biz-locations', {
     scrollTrigger:{
         trigger: '.section10-5 .all-biz-locations',
         scroller:'body',
-        scrub:1,
+        // scrub:1,
         markers:false,
         start: 'top 90%',
         end: 'top 30%',
         
     },
-    delay:1,
-    duration: 2,
+    delay:0,
+    duration: 1,
     opacity:0,
     x:'-200%',
 }

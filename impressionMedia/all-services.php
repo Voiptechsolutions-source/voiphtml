@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.22">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.32">
 </head>
 <body>
     <header>
@@ -78,9 +78,9 @@
                                 <div class="as-seen-on">
                                     <p>As seen on</p>
                                     <div class="d-flex gap-2 as-seen-on-logos">
-                                        <img src="assets/images/logos/enterpreneur.png" alt="Enterpreneur" class="img-fluid" width="100" height="31" />
+                                       <img src="assets/images/logos/enterpreneur.png" alt="Enterpreneur" class="img-fluid" width="120" height="31" />
                                         <!-- <img src="assets/images/logos/ht.png" alt="Hindustan Times" class="img-fluid" width="140" height="28" /> -->
-                                        <img src="assets/images/logos/ndtv.png" alt="msn" class="img-fluid msn-logo" width="80" height="20" />
+                                        <img src="assets/images/logos/msn.png" alt="msn" class="img-fluid msn-logo" width="80" height="20" />
                                         <!-- <img src="assets/images/logos/toi.png" alt="Times of India" class="img-fluid" width="100" height="57" /> -->
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@
         </section>
         
         <!-- Section 2 Services Listing -->
-        <section class="services-listing-vimi-section bg-dark pt-1 pb-5 ">
+        <!-- <section class="services-listing-vimi-section bg-dark pt-1 pb-5 ">
             <div class="container">
                 <div class="vimi-cont">
                     <div class="row">
@@ -133,12 +133,12 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <section class="services-listing-section bg-dark pt-1 pb-5 grad-bg1-right">    
             <div class="container">
                 <div class="section-title text-center">
                     <h2 class="text-light-orange">Our Services</h2>
-                    <div class="text-capsule"><span class="grad-text">Landing Pages & Funnels</span></div>
+                    <!-- <div class="text-capsule"><span class="grad-text">Landing Pages & Funnels</span></div> -->
                     <p class="text-white">We’re experts in all things marketing. B2B, blockchain, fintech, software, and high-growth startup brands are our sweet spot. Discover how we can scale your business to new heights through our strategic services below:</p>
                 </div>
 
@@ -376,7 +376,10 @@
         </section>
 
         
-        
+        <!-- Map Section -->
+        <?php include 'includes/map.php'; ?>
+        <!-- Footer Contact Island -->
+        <?php include 'includes/footer-contact-island.php'; ?>
         <!-- We work all over the world -->
         <?php include 'includes/our-locations-section.php'; ?>
         <!-- Section 11 Footer Contact-->
@@ -398,6 +401,6 @@
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>   
  <script src="assets/js/custom.js?v=1.11"></script>
- <script src="assets/js/service-listing-effects.js"></script>
+ <script src="assets/js/service-listing-effects.js?v=1.002"></script>
 </body>
 </html>

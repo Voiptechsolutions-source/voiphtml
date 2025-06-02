@@ -44,8 +44,8 @@
                             <li><a href="performance-marketing.php">Performance Marketing</a></li>
                             <li><a href="affiliate-marketing.php">Affiliate Marketing</a></li>
                             <li><a href="media-buying.php">Digital Media Buying</a></li>
-                            <li><a href="#">Social Media Advertising</a></li>
-                            <li><a href="#">E-commerce Marketing</a></li>
+                            <li><a href="socila-media-advertising.php">Social Media Advertising</a></li>
+                            <li><a href="ecommerce-marketing.php">E-commerce Marketing</a></li>
                             <li><a href="lead-generation.php">B2B Lead Generation & Marketing</a></li>
                             <li><a href="search-engine-optimization.php">Search Engine Optimization</a></li>
                             <li><a href="#">Social Media Management</a></li>
