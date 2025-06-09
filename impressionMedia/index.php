@@ -88,7 +88,7 @@
                         </div>
                         <div class="col-12 col-lg-6 hero-right">
                             <div class="banner-img">
-                                <img src="assets/images/banner-img.webp" alt="Hero image" class="img-fluid" />
+                                <img src="assets/images/banner-img-new.webp" alt="Hero image" class="img-fluid" />
                             </div>
                         </div>
                         

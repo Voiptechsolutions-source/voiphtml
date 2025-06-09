@@ -72,6 +72,7 @@ a{color: var(--primary-color);}
 .hero-img {
 	position: relative;
 	z-index: 9;
+	/* width: 100%; */
 }
 .why-us{
     position: relative;
@@ -2087,6 +2088,73 @@ aside .nav-pills .nav-link._sub {
   .slider.round:before {
     border-radius: 50%;
   }
+
+  /*----------------------WHY US NEW Design-----------------*/
+.why-us-main-row {
+	display: grid;
+	grid-template-columns: repeat(5,1fr);
+	gap: 15px;
+	position: relative;
+	z-index: 99;
+	margin-top: 80px;
+}
+.why-us-main-row .why-us-row {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	min-height: 600px;
+}
+.why-us-row.row1,.why-us-row.row3 {
+	justify-content: end;
+}
+.why-us-row.row5 {
+	justify-content: center;
+}
+.why-us-main-row .why-us-row .why-us-item {
+	background: #fcfcfc;
+	border-radius: 20px;
+	padding: 10px 10px 0;
+	box-shadow: 0 0 25px #ccc;
+	overflow: hidden;
+}
+.why-us-main-row .why-us-row .why-icn {
+	height: 180px;
+	width: 100%;
+	background: url(../images/icons/why-sprite.webp) no-repeat;
+	background-size: 1080px;
+}
+.why-us-main-row .why-us-row ._why1 .why-icn{
+	background-position: top 10px left -7px;
+}
+.why-us-main-row .why-us-row ._why2 .why-icn {
+	background-position: top -292px left -8px;
+}
+.why-us-main-row .why-us-row ._why3 .why-icn {
+	background-position: top 10px left -230px;
+}
+.why-us-main-row .why-us-row ._why4 .why-icn {
+	background-position: top -270px left -230px;
+}
+.why-us-main-row .why-us-row ._why5 .why-icn {
+	background-position: top 10px left -440px;
+}
+.why-us-main-row .why-us-row ._why6 .why-icn {
+	background-position: top -292px left -457px;
+}
+.why-us-main-row .why-us-row ._why7 .why-icn {
+	background-position: top 10px left -651px;
+}
+.why-us-main-row .why-us-row ._why8 .why-icn {
+	background-position: top -284px left -677px;
+}
+.why-us-main-row .why-us-row ._why9 .why-icn {
+	background-position: top 10px left -870px;
+}
+.why-us-title {
+	display: flex;
+	flex-direction: column;
+	font-size: 18px;
+}
  /*-----------------------Switch Style-----------------*/ 
 /*--------------------Effects------------------*/
 .bounce2 {
@@ -2525,6 +2593,36 @@ aside .nav-pills .nav-link._sub {
 	padding: 0;
 	margin-bottom: 40px;
     }
+	.why-us-main-row{
+		grid-template-columns: repeat(2,1fr);
+	}
+	.why-us-main-row .why-us-row{
+		min-height: auto;
+	}
+	.why-us-row.row1, .why-us-row.row3 {
+		justify-content: initial;
+	}
+	.why-us-row.row5 {
+		justify-content: initial;
+	}
+	.why-us-main-row .why-us-row .why-icn {
+		height: 200px;
+		width: 200px;
+		background: url(../images/icons/why-sprite.webp) no-repeat;
+		background-size: 1080px;
+		margin: 0 auto;
+	}
+	.why-us-main-row .why-us-row .why-us-item {
+		background: #fcfcfc;
+		border-radius: 20px;
+		padding: 10px 10px 0;
+		box-shadow: 0 0 25px #ccc;
+		overflow: hidden;
+		min-height: 280px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
 }
 @media (max-width: 767.98px) {
     .as-seen-on p {
@@ -2698,4 +2796,10 @@ aside .nav-pills .nav-link._sub {
     .event-organisers{
         flex-direction: column;
     }
+	.why-us-main-row {
+		grid-template-columns: repeat(1,1fr);
+	}
+	.why-us-main-row .why-us-row .why-us-item{
+		min-height: auto;
+	}
 }

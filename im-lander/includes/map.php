@@ -1,0 +1,3 @@
+<section class="loc-map-section">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1805.2610124839812!2d55.279030989077754!3d25.185612221652764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69e12bfbfc49%3A0x25218ce884b49808!2sBay%20square%20building%2012!5e0!3m2!1sen!2sin!4v1749041872753!5m2!1sen!2sin" width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>

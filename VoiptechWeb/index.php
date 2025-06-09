@@ -67,7 +67,16 @@
                 </div>
                 <!-- Hero image -->
                  <div class="hero-img">
-                    <img src="assets/images/banner-img.webp" alt="Call center solution" class="img-fluid" />
+                    <div class="banner-slide owl-carousel">
+                        <div class="item">
+                            <img src="assets/images/banner-img.webp" alt="Call center solution" class="img-fluid" />
+                            
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/banner-img1.avif" alt="Call center solution" class="img-fluid" />
+                        </div>
+                    </div>
+                    
                  </div>
             </div>
             <div class="top__gradient oval_blue"></div>
@@ -165,7 +174,80 @@
                     <h2>Why Should You Choose Us?</h2>
                     <p>Customer Trust is Our Priority </p>
                 </div>
-                <div class="row mt-5">
+                <div class="why-us-main-row">
+                    <div class="why-us-row row1">
+                        <div class="why-us-item _why1">
+                            <div class="why-us-title text-center  font-weight-bold">
+                                <span class="text-orange">Data</span> Privacy
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                        <div class="why-us-item _why2">
+                            <div class="why-us-title text-center font-weight-bold">
+                                <span class="text-orange">Proven Industry</span>Experience
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                    </div>
+
+                    <div class="why-us-row row2">
+                        <div class="why-us-item _why3">
+                            <div class="why-us-title text-center  font-weight-bold">
+                                <span class="text-orange">100%</span> Server Up-time
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                        <div class="why-us-item _why4">
+                            <div class="why-us-title text-center font-weight-bold">
+                                <span class="text-orange">Customized</span>Solutions
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                    </div>
+
+                    <div class="why-us-row row3">
+                        <div class="why-us-item _why5">
+                            <div class="why-us-title text-center  font-weight-bold">
+                                <span class="text-orange">Data</span> Compliance
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                        <div class="why-us-item _why6">
+                            <div class="why-us-title text-center font-weight-bold">
+                                <span class="text-orange">Uninterrupted</span>Connectivity
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                    </div>
+
+                    <div class="why-us-row row4">
+                        <div class="why-us-item _why7">
+                            <div class="why-us-title text-center  font-weight-bold">
+                                <span class="text-orange">Cutting-edge</span> Technology
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                        <div class="why-us-item _why8">
+                            <div class="why-us-title text-center font-weight-bold">
+                                <span class="text-orange">Cost-effective</span>Services
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                    </div>
+
+                    <div class="why-us-row row5">
+                        <div class="why-us-item _why9">
+                            <div class="why-us-title text-center  font-weight-bold">
+                                <span class="text-orange">24/7 Expert</span> Support
+                            </div>
+                            <div class="why-icn"></div>
+                        </div>
+                        
+                    </div>
+
+                </div>
+                
+                <!-- <div class="row mt-5">
                     <div class="col-12 col-md-3">
                         <div class="bg-white text-center p-3 why-box">
                             <div class="icn-cont mb-2">
@@ -247,7 +329,7 @@
                     </div>
                     
                     
-                </div>
+                </div> -->
                 <div class="top__gradient oval_blue"></div>
                 <div class="top__gradient2 oval_orange"></div>
             </div>
@@ -275,6 +357,7 @@
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>  
 <script src="assets/js/owl.carousel.min.js"></script>
+
 <script>
     $(document).ready(function(){
         $('.testim-carousel').owlCarousel({
@@ -312,6 +395,25 @@
                 },
                 1000:{
                     items:5
+                }
+            }
+        });
+        $('.banner-slide').owlCarousel({
+            loop:true,
+            margin:0,
+            nav:false,
+            dots:false,
+            autoplay:true,
+            autoplayTimeout:5000,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
                 }
             }
         });
