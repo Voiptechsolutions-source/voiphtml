@@ -37,7 +37,7 @@
             <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-center banner-content-container">
                 <!-- Banner Content -->
                 <div class="banner-content">
-                    <h1>Designed for Performance, Scale, <span class="text-orange">and Profitability</span> </h1>
+                    <h1>Smart SMS Solutions to Engage, Inform, <span class="text-orange">and Convert</span> </h1>
                     <p>Empowering carriers and enterprises with high-quality VoIP minutes, CC traffic, and reliable wholesale routes.</p>
                     <div class="get-started">
                         <a href="#"  data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill btn-lg px-5 text-uppercase">Get Started</a>
@@ -891,7 +891,7 @@
         <div class="container py-5 px-5 bg-orange rounded-xl">
             <div class="row align-items-center">
                 <div class="col-12 col-lg-5">
-                    <h2 class="">Revolutionizing Telecommunication with Advanced VoIP Solutions</h2>
+                    <h2 class="">Manage All Your SMS Campaigns From One Dashboard</h2>
                     <div class="call-btn mt-4">
                         <a href="https://wa.link/voiptech" target="_blank" class="btn btn-lg rounded-pill bg-white  text-orange px-4 cta-btn align-items-center"><span><img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
                         </span> WhatsApp Us</a>

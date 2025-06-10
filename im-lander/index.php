@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/custom.css?v=1.36">
+    <link rel="stylesheet" href="assets/css/custom.css?v=1.37">
 </head>
 <body>
     <header>
@@ -40,16 +40,16 @@
                     <div class="row  align-items-center justify-content-between">
                         <div class="col-12 col-lg-6 hero-left">
                             <div class="banner-text-cont">
-                                <h1><span class="text-primary">Impression Media </span> for Customer Growth</h1>
-                                <div class="banner-tagline">Streamline operations and enhance customer interaction with our voice solutions. . </div>
+                                <h1><span class="text-primary">Impression Media </span> Powering Brand Futures</h1>
+                                <div class="banner-tagline">From marketing to AI and blockchain, we deliver scalable, data-driven growth. </div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>End to End Marketing Solutions</li>
-                                        <li>Scalable & Sustainable Growth</li>
-                                        <li>Reliable, Flexible & Agile</li>
-                                        <li>Impeccable Quality You Can Trust</li>
-                                        <li>Data-backed Approach</li>
-                                        <li>Specialized & Certified Experts</li>
+                                        <li>Crafting Future-Ready Brand Solutions</li>
+                                        <li>Driving Data-Led, Scalable Growth</li>
+                                        <li>All Your Needs, One Partner</li>
+                                        <li>Turning Audiences into Loyal Customers</li>
+                                        <li>Pushing Boundaries to Evolve Businesses</li>
+                                        <li>Committed to Your Digital Journey</li>
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
@@ -195,16 +195,16 @@
                         </div>
                         <div class="col-12 col-lg-6">
                             <div class="banner-text-cont text-white">
-                                <h2><span class="text-primary">We’ve helped 1000’s of businesses, </span> big and small, reach their full potential.</h2>
-                                <div class="banner-tagline">Our team have successful experience with DMT projects with. </div>
+                                <h2><span class="text-primary">We turn bold ideas into market leaders, </span> empowering thousands of brands to scale, sell, and succeed.</h2>
+                                <div class="banner-tagline">Creating digital solutions that elevate your business with. </div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>End to End Marketing Solutions</li>
-                                        <li>Scalable & Sustainable Growth</li>
-                                        <li>Reliable, Flexible & Agile</li>
-                                        <li>Impeccable Quality You Can Trust</li>
-                                        <li>Data-backed Approach</li>
-                                        <li>Specialized & Certified Experts</li>
+                                        <li>Accelerated Revenue Growth</li>
+                                        <li>Enhanced Brand Visibility</li>
+                                        <li>Stronger Customer Engagement</li>
+                                        <li>Streamlined Digital Operations</li>
+                                        <li>Cutting-Edge Innovation</li>
+                                        <li>Long-Term Strategic Partnership</li>
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
@@ -220,33 +220,33 @@
         <section class="section-3 pt-1 pb-5 real-challanges">
             <div class="container">
                 <div class="section-title text-center text-white">
-                    <h2 class="text-primary">Real Challenges  we help Business Overcome</h2>
-                    <p>It is a long established fact that a reader will be distracted by the  readable content of when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution</p>
+                    <h2 class="text-primary">From Overcoming Challenges to Expanding Possibilities</h2>
+                    <p>Impression Media blends data-driven strategies with breakthrough technology to tackle real business challenges from growth to innovation, fuelling every stage of your digital journey</p>
                 </div>
                 <div class="challange-boxes text-white">
                     <div class="row">
                         <div class="col-12 col-lg-3">
                             <div class="_challange-box">
-                                <h3>5A digital maturity framework</h3>
-                                <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
+                                <h3>Turn Visibility into Revenue</h3>
+                                <p>We drive high-intent traffic through SEO, influencer marketing, and media buying transforming visibility into revenue and delivering real business growth.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="_challange-box">
-                                <h3>Audience</h3>
-                                <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
+                                <h3>Engage & Retain Your Audience</h3>
+                                <p>We create lasting audience connections through social media, video marketing, and community management boosting engagement, loyalty, and brand relevance.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="_challange-box">
-                                <h3>Access</h3>
-                                <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
+                                <h3>Optimize Operations for Scale</h3>
+                                <p>We streamline operations using AI, blockchain, and web development enhancing efficiency, reducing friction, and enabling scalable digital transformation.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="_challange-box">
-                                <h3 class="text-center"><img src="assets/images/sad-face.png" alt="saf face emoji" style="width: 86px" /></h3>
-                                <p>The Digital Maturity Transformation is holistic approach to upgrade your digital marketing based on 5A digital maturity framework by Google & BCG.</p>
+                                <h3>Build a Brand That Stands Out</h3>
+                                <p>We craft standout brand experiences with strategic branding, creative design, and compelling content, helping businesses differentiate, build trust, and grow impactfully.</p>
                             </div>
                         </div>
                     </div>
@@ -262,10 +262,10 @@
             <div class="container cta-box-cont">
                 <div class="cta-box">
                     <div class="_content">
-                        <h2>Are You Ready to Supercharge Your Brand’s Future?</h2>
-                        <p>We’ve dedicated significant time and resources to create & hone strategies that bring your brand to the forefront of your industry. Now, we’re here to help you leverage that success!</p>
+                        <h2>Are You Ready to Take the Lead and Set the Standard?</h2>
+                        <p>We’ve dedicated our expertise to crafting proven digital strategies that cut through the noise. From SEO and influencer campaigns to app development, we deliver adaptable solutions that convert and position your brand as a market leader ready to elevate your brand and start the journey to success.</p>
                         <div class="btn-cont">
-                            <a href="#" class="btn btn-dark rounded-pill" data-bs-toggle="modal" data-bs-target="#myModalForm">Speak with an Expert Now</a>
+                            <a href="#" class="btn btn-dark rounded-pill" data-bs-toggle="modal" data-bs-target="#myModalForm">Talk to a Digital Expert Now - We’re Just a Call Away</a>
                         </div>
                     </div>
                     <div class="_cta-img">
@@ -284,23 +284,23 @@
                         <div class="section-5-left text-white">
                             <div class="section-title text-left m-0">
                                 <div class="above-title mb-2 text-white justify-content-start">
-                                    <span>No. 1 Digital Marketing Agency in Dubai</span>
+                                    <span>Average doesn't scale strategy, tech, and creativity do</span>
                                 </div>
-                                <h2 ><span class="text-light-orange">Which type of UGC Creatives</span> achieve better results?</h2>
+                                <h2 >Is Your Brand Built to Compete in a <span class="text-light-orange">Digital-first World?</span> </h2>
                             </div>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content at its layout. </p>
+                            <p>We craft powerful digital stories by blending sharp marketing, innovative tech, and creative flair helping your brand captivate audiences, ignite conversions, and scale with confidence, turning every click into growth and every campaign into a lasting connection. </p>
                             <div class="_results">
                                 <div class="_result-item">
-                                    <div class="h3">63%</div>
-                                    <p>Lower CPI</p>
+                                    <div class="h3">68%</div>
+                                    <p>Faster Launch</p>
                                 </div>
                                 <div class="_result-item">
-                                    <div class="h3">56%</div>
-                                    <p>Better CPA</p>
+                                    <div class="h3">59%</div>
+                                    <p>Lower Costs</p>
                                 </div>
                                 <div class="_result-item">
-                                    <div class="h3">45%</div>
-                                    <p>Better CTR</p>
+                                    <div class="h3">47%</div>
+                                    <p>More Engagement</p>
                                 </div>
 
                             </div>
@@ -394,7 +394,7 @@
         <section class="working-process-section py-5 bg-dark-blue">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2 class="text-light-orange">Our Working Process</h2>
+                    <h2 class="text-light-orange">How We Work</h2>
                 </div>
                 <div class="working-process-cont">
                     <div class="working-step step-1">
@@ -405,7 +405,7 @@
                             <img src="assets/images/icons/working-icn1.png" alt="Step 1 Icon" class="img-fluid">
                         </div>
                         <div class="step-title">
-                            Discover the Vision
+                            Discover & Define
                         </div>
                     </div>
                     <div class="working-step step-2">
@@ -416,7 +416,7 @@
                             <img src="assets/images/icons/working-icn2.png" alt="Step 1 Icon" class="img-fluid">
                         </div>
                         <div class="step-title">
-                            Discover the Vision
+                            Strategize & Plan
                         </div>
                     </div>
                     <div class="working-step step-3">
@@ -427,7 +427,7 @@
                             <img src="assets/images/icons/working-icn3.png" alt="Step 1 Icon" class="img-fluid">
                         </div>
                         <div class="step-title">
-                            Design & Create
+                            Execute & Launch
                         </div>
                     </div>
                     <div class="working-step step-4">
@@ -438,7 +438,7 @@
                             <img src="assets/images/icons/working-icn4.png" alt="Step 1 Icon" class="img-fluid">
                         </div>
                         <div class="step-title">
-                            Launch & Deliver
+                            Optimize & Scale
                         </div>
                     </div>
                 </div>

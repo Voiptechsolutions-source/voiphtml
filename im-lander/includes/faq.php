@@ -6,7 +6,8 @@
                             <div class="title-text-cont">
                                 <div class="title-text text-white">FAQ</div>
                                 <h2 class="text-white mt-3">Frequently Asked Questions</h2>
-                                <p class="text-white mt-3">You have the vision; we have the expertise to bring it to life. Impression Media is a globally recognised digital marketing agency in Dubai dedicated to uplifting brands through innovative thinking, creative excellence, and a wealth of experience. Here are the top 5 FAQs to help you understand how we lead the charge in digital marketing. </p>
+                                <p class="text-white mt-3">You have the vision  we have the expertise to bring it to life.
+                                  Impression Media is a digital powerhouse helping brands connect, convert, and scale. Below are the answers to the most common questions our clients ask. </p>
                             </div>
                         </div>
                     </div>
@@ -15,36 +16,36 @@
                             <div class="accordion-item">
                               <h3 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#qs1" aria-expanded="true" aria-controls="qs1">
-                                  How does Impression Media stay ahead of the industry trends?
+                                  Does Impression Media handle everything in-house?
                                 </button>
                               </h3>
                               <div id="qs1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  Success isn't about following a straight path; it's about mastering the detours along the way. With a team of industry pioneers, we invest in cutting-edge market research, advanced data insights, and ongoing professional development to stay ahead. Our approach is rooted in innovation and flexibility, enabling us to quickly adapt and deliver forward-thinking results that keep our clients leading their markets.
+                                  Yes, all core services from strategy to execution are handled by our expert in-house team, ensuring consistent quality and accountability.
                                 </div>
                               </div>
                             </div>
                             <div class="accordion-item">
                               <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#qs2" aria-expanded="false" aria-controls="qs2">
-                                  Can Impression Media help businesses of all sizes, from startups to enterprises?
+                                  Are your services customized or packaged?
                                 </button>
                               </h3>
                               <div id="qs2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  Yes. Whether you’re a startup looking to establish your brand or an enterprise aiming to scale rapidly, Impression Media has the expertise to drive success. We offer tailored packages that suit businesses of all sizes, ensuring each client receives the attention and customization they deserve. Our approach is scalable, allowing us to optimize strategies that align with your business goals, whether you're just getting started or looking to expand into new markets.
+                                  Every engagement is personalized. We build flexible, scalable solutions based on your unique goals, not one-size-fits-all packages.
                                 </div>
                               </div>
                             </div>
                             <div class="accordion-item">
                               <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#qs3" aria-expanded="false" aria-controls="qs3">
-                                  How “hands-on” or “hands-off” can I be while working with Impression Media?
+                                  Do you provide analytics and reporting?
                                 </button>
                               </h3>
                               <div id="qs3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  The right answer depends on you. Whether you want to be hands-on in the day-to-day decisions or prefer to let us handle the details, we’ll meet you where you’re comfortable. We offer full transparency and ensure that you’re always in the loop, while giving you the flexibility to focus on what matters most - growing your business. Our approach is collaborative, and we adjust to your needs, providing as much or as little input as you’d like.
+                                  Always. Transparent, real-time reporting and detailed insights are baked into every campaign to keep you fully informed and empowered.
 
                                 </div>
                               </div>
@@ -53,12 +54,12 @@
                             <div class="accordion-item">
                               <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#qs4" aria-expanded="false" aria-controls="qs4">
-                                  What industries does Impression Media serve?
+                                  How soon can we expect results?
                                 </button>
                               </h3>
                               <div id="qs4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  At Impression Media, we specialize in versatility. With over 10 years of experience and a diverse portfolio spanning 30+ industries, we’ve crafted strategies that drive results for businesses in any sector. From e-commerce to healthcare, real estate, finance, and technology, our team knows how to tackle industry-specific challenges and capitalize on unique opportunities. 
+                                  Timelines vary by service, but many clients see measurable improvements within weeks. We balance speed with sustainability to ensure long-term success. 
 
                                 </div>
                               </div>
@@ -66,12 +67,12 @@
                             <div class="accordion-item">
                               <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#qs5" aria-expanded="false" aria-controls="qs5">
-                                  Does Impression Media provide post-project support?
+                                  Is onboarding time-consuming or complex?
                                 </button>
                               </h3>
                               <div id="qs5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  Yes, 100%. We’re with you every step of the way. We offer dedicated post-implementation support and optimization to ensure your digital marketing strategies continue to drive results. Whether it’s performance tracking, campaign adjustments, or providing insights for future growth, our team is here to help you sustain and scale long after the project is finished.
+                                  Not at all. Our streamlined onboarding process ensures we get up to speed quickly, with minimal lift required from your end
 
                                 </div>
                               </div>
