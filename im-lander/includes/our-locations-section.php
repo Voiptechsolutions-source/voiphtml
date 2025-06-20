@@ -2,7 +2,7 @@
             <div class="container">
                 <div class="section-title text-center">
                     <h2 class="text-light-orange">We Work Worldwide</h2>
-                    <p>Impression Media Team has offices in different countries of the world, enabling us to tap into top-tier talent from around the globe to deliver exceptional results for your brand. </p>
+                    <p>We’re where your market is. Our offices span the globe to serve businesses with cultural clarity and strategic precision. </p>
                 </div>
                 <div class="all-biz-locations">
                   <div class="_location">
@@ -11,7 +11,7 @@
                       </div>
                       <div class="_body">
                         <h3>Dubai</h3>
-                        <p>Bay Square - Building 12 - P floor - Business Bay</p>
+                        <p>Bay Square - Building 11 - Office Number 201 - Business Bay </p>
                       </div>
                     </div>
                   <div class="_location">
@@ -46,7 +46,7 @@
                       </div>
                       <div class="_body">
                         <h3>Noida</h3>
-                        <p>B-23/C1, 4th floor, Block B, Sector 62, Noida - 201309, Uttar Pradesh, India </p>
+                        <p>Office no - 601A 6th floor Tower A, I-thumb, Sector 62 Noida - 201301, Uttar Pradesh, India </p>
                       </div>
                     </div>
                     <div class="_location">

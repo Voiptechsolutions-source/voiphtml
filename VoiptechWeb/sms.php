@@ -151,7 +151,7 @@
             <div class="row mt-5">
                 <div class="col-12 col col-md-3">
                     <div class="service_icn">
-                            <img src="assets/images/icons/bulk-sms-icn.svg" alt="Bulk SMS" class="img-fluid" loading="lazy" />
+                            <img src="assets/images/icons/Bulk-SMS.png" alt="Bulk SMS" class="img-fluid" loading="lazy" />
                         </div>
                     <a href="bulk-sms.php" class="service-box text-center text-white">
                         
@@ -161,7 +161,7 @@
                 </div>
                 <div class="col-12 col col-md-3">
                     <div class="service_icn">
-                        <img src="assets/images/icons/otp-sms-icn.svg" alt="OTP SMS" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/icons/otp-sms.png" alt="OTP SMS" class="img-fluid" loading="lazy" />
                     </div>
                     <a href="otp-sms.php" class="service-box text-center text-white">
                         
@@ -170,7 +170,7 @@
                 </div>
                 <div class="col-12 col col-md-3">
                     <div class="service_icn">
-                        <img src="assets/images/icons/promotional-sms-icn.svg" alt="Promotional SMS" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/icons/Promotiomal-SMS.png" alt="Promotional SMS" class="img-fluid" loading="lazy" />
                     </div>
                     <a href="promotional-sms.php" class="service-box text-center text-white">
                         
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col-12 col col-md-3">
                     <div class="service_icn">
-                        <img src="assets/images/icons/transactional-sms-icn.svg" alt="Transactional SMS" class="img-fluid" loading="lazy" />
+                        <img src="assets/images/icons/Transactional-SMS.png" alt="Transactional SMS" class="img-fluid" loading="lazy" />
                     </div>
                     <a href="transactional-sms.php" class="service-box text-center text-white">
                         

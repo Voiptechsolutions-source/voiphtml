@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg im-nav">
             <div class="container">
                 <!-- Logo on the left -->
-                <a class="navbar-brand" href="index.php">
+                <a class="navbar-brand" href="https://www.impressionmedia.ae/" targe="_blank">
                     <img src="assets/images/logo.png" alt="Logo" height="40">
                 </a>
     

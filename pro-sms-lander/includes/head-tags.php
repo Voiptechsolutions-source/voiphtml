@@ -1,6 +1,4 @@
-<!-- Remove this tag before making live -->
-<meta name="robots" content="noindex, nofollow" />
-<!-- Remove this tag before making live -->
+
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Call Center Solutions India | Auto Dialer Software | VoIPTech Solutions</title>
@@ -23,6 +21,6 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/newstyle.css?v=1.0072">
+    <link rel="stylesheet" href="assets/css/newstyle.css?v=1.0074">
     <!-- <link rel="stylesheet" href="assets/css/newstyle-16-May-2025?v=1.0062"> -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">

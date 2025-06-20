@@ -23,6 +23,6 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/newstyle.css?v=1.0072">
+    <link rel="stylesheet" href="assets/css/newstyle.css?v=1.0075">
     <!-- <link rel="stylesheet" href="assets/css/newstyle-16-May-2025?v=1.0062"> -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">

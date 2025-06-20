@@ -45,7 +45,7 @@
 
      <!-- Priicng Section -->
     <secton class="pricing-section">
-        <div class="container ">
+        <div class="container-fluid ">
 
             <div class="row">
                 <div class="col-md-11 col-xl-11 mx-auto">
@@ -63,7 +63,7 @@
                     <div class="tab-content pricing-tab-content">
                         <div class="tab-pane fade show active" id="annual">
                             <div class="row py-4">
-                                <div class="col-lg-4 mb-3 mb-md-0">
+                                <div class="col-lg-3 mb-3 mb-md-0">
                                     <div class="card  pricing-plan shadow-sm">
                                         <div class="card-body d-flex flex-column">
                                             <div class="mb-1">
@@ -93,7 +93,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 mb-3 mb-md-0">
+                                <div class="col-lg-3 mb-3 mb-md-0">
                                     <div class="card h-100 pricing-plan _recomended">
                                         <div class="card-body d-flex flex-column">
                                             <div class="mb-4">
@@ -125,7 +125,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 mb-3 mb-md-0">
+                                <div class="col-lg-3 mb-3 mb-md-0">
                                     <div class="card pricing-plan shadow-sm">
                                         <div class="card-body d-flex flex-column">
                                             <div class="mb-4">
@@ -154,6 +154,36 @@
                                             <div class="mt-auto">
                                                 <a href="#" class="btn text-white bg-orange btn-block">Choose Plan</a>
                                             </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 mb-3 mb-md-0">
+                                    <div class="card pricing-plan shadow-sm _custom-plan">
+                                        <div class="card-body d-flex flex-column">
+                                            <div class="mb-4">
+                                                <div class="plan-icn"><img src="assets/images/icons/custom-plan.png" alt="Basic Plan" style="width: 30px;" /></div>
+                                                <div class="plan-name">Custom Solution for Enterprises</div>
+                                                <div class="price-cont">
+                                                    <div class="_price">Get in touch</div>
+                                                    <!-- <div class="_per">/Month</div> -->
+                                                </div>
+                                                <div class="plan-desc">
+                                                    <p>We work with some of the biggest companies and help them with customized cloud conversation solutions.</p>
+                                                </div>
+                                            </div>
+                                            <div class="_includes text-center">
+                                                <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
+                                                <div class="h5 text-center my-5">(OR) WhatsaApp Us</div>
+                                                <div >
+                                                    <a href="https://wa.link/voiptech" target="_blank" class="whatsapp-no">
+                                                        <img src="assets/images/icons/whatsapp-icn.png" alt="WhatsApp">
+                                                        <span>WhatsApp Us</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <!-- <div class="mt-auto">
+                                                <a href="#" class="btn text-white bg-orange btn-block">Choose Plan</a>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>

@@ -67,7 +67,26 @@
                 </div>
                 <!-- Hero image -->
                  <div class="hero-img">
-                    <div class="banner-slide owl-carousel">
+                    <section id="image-carousel" class="splide" aria-label="Beautiful Images">
+                        <div class="splide__track">
+                                <ul class="splide__list">
+                                    <li class="splide__slide">
+                                        <img src="assets/images/banner-img.webp" alt="">
+                                    </li>
+                                    <li class="splide__slide">
+                                        <img src="assets/images/Slider-2.webp" alt="">
+                                    </li>
+                                    <li class="splide__slide">
+                                        <img src="assets/images/Slider-3.webp" alt="">
+                                    </li>
+                                    <li class="splide__slide">
+                                        <img src="assets/images/Slider-5.webp" alt="">
+                                    </li>
+                                    
+                                </ul>
+                        </div>
+                    </section>
+                    <!-- <div class="banner-slide owl-carousel">
                         <div class="item">
                             <img src="assets/images/banner-img.webp" alt="Call center solution" class="img-fluid" />
                             
@@ -75,7 +94,7 @@
                         <div class="item">
                             <img src="assets/images/banner-img1.avif" alt="Call center solution" class="img-fluid" />
                         </div>
-                    </div>
+                    </div> -->
                     
                  </div>
             </div>
@@ -357,7 +376,15 @@
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>  
 <script src="assets/js/owl.carousel.min.js"></script>
-
+<script src=" https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js "></script>
+<script>
+  document.addEventListener( 'DOMContentLoaded', function () {
+    new Splide( '#image-carousel',{
+        type: 'loop',
+        autoplay: true
+    } ).mount();
+  } );
+</script>
 <script>
     $(document).ready(function(){
         $('.testim-carousel').owlCarousel({
@@ -400,7 +427,7 @@
         });
         $('.banner-slide').owlCarousel({
             loop:true,
-            margin:0,
+            margin:20,
             nav:false,
             dots:false,
             autoplay:true,

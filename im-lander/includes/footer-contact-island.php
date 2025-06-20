@@ -43,7 +43,7 @@
                                 <a href="javascript:;" class="d-flex gap-2">
                                         <img src="assets/images/icons/loc-icn.png" loading="lazy" alt="mail" class="float-left" height="28" width="30" style="margin-top: 9px;">
                                             <div class="contact-txt">
-                                                <div class="text-dark fw-bold">Bay Square - Building 12 - P floor</div>
+                                                <div class="text-dark fw-bold">Bay Square - Building 11 - Office #201</div>
                                                 <p><b class="site_color">Business Bay, Dubai</b></p>
                                             </div>
                                         </a>

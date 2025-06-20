@@ -3,7 +3,13 @@
 <head>
     
     <?php include 'includes/head-tags.php'; ?>
-    
+    <style>
+        @media(min-width: 992px){
+            .form-img.mt-5 {
+                margin-top: 120px !important;
+            }
+        }
+    </style>       
 </head>
 <body>
 
@@ -15,15 +21,15 @@
     <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between py-2">
             <div class="logo">
-                <a href="index.php">
+                <a href="https://www.voiptechsolutions.com/">
                     <img src="assets/images/logo.png" alt="VoIPTech Solutions" class="img-fluid">
                 </a>
             </div>
             <!-- Main Menu -->
-            <?php include 'includes/header-menu.php'; ?>
+            <?php //include 'includes/header-menu.php'; ?>
 
             <!-- Get Started Button -->
-             <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
+             <a href="https://wa.link/voiptech" target="_blank" class="btn bg-orange text-white rounded-pill  px-5 text-uppercase">Get Started</a>
         </div>
     </div>
 </header>
@@ -34,13 +40,57 @@
     <!-- Hero Section -->
      <section class="py-5 service-detail-banner">
         <div class="container">
-            <div class="d-flex justify-content-between flex-column flex-lg-row mt-5 align-items-center banner-content-container">
+            <div class="d-flex justify-content-between flex-column flex-lg-row banner-content-container">
                 <!-- Banner Content -->
                 <div class="banner-content">
                     <h1>Handle Every Call with <span class="text-orange">Cloud Power</span> </h1>
                     <p>Boost efficiency, reduce costs, and manage customer calls from anywhere, anytime.</p>
+                    <div class="banner-feats">
+                        <div class="feat-item">
+                            <div class="feat-icn"><img src="assets/images/icons/feat-icn1.png" alt="Cost-Effective Communication"></div>
+                            <div class="_feat">
+                                <div class="_feat-head">Cost-Efficiency</div>
+                                <p>Say goodbye to high upfront hardware costs.</p>
+                            </div>
+                        </div>
+                        <div class="feat-item">
+                            <div class="feat-icn"><img src="assets/images/icons/feat-icn2.png" alt="Cost-Effective Communication"></div>
+                            <div class="_feat">
+                                <div class="_feat-head">Scalability </div>
+                                <p>Add lines or users without any hassle.</p>
+                            </div>
+                        </div>
+                        <div class="feat-item">
+                            <div class="feat-icn"><img src="assets/images/icons/feat-icn3.png" alt="Cost-Effective Communication"></div>
+                            <div class="_feat">
+                                <div class="_feat-head">Remote Access</div>
+                                <p>Work from anywhere with full PBX functionality.</p>
+                            </div>
+                        </div>
+                        <div class="feat-item">
+                            <div class="feat-icn"><img src="assets/images/icons/feat-icn4.png" alt="Cost-Effective Communication"></div>
+                            <div class="_feat">
+                                <div class="_feat-head">Advanced Features</div>
+                                <p>Voicemail-to-email, auto-attendant &amp; more.</p>
+                            </div>
+                        </div>
+                        <div class="feat-item">
+                            <div class="feat-icn"><img src="assets/images/icons/feat-icn5.png" alt="Cost-Effective Communication"></div>
+                            <div class="_feat">
+                                <div class="_feat-head">Minimal Maintenance</div>
+                                <p>No on-site infrastructure to maintain.</p>
+                            </div>
+                        </div>
+                        <div class="feat-item">
+                            <div class="feat-icn"><img src="assets/images/icons/feat-icn6.png" alt="Cost-Effective Communication"></div>
+                            <div class="_feat">
+                                <div class="_feat-head">Quick Setup</div>
+                                <p>Get started fast with cloud deployment.</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="get-started">
-                        <a href="#"  data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill btn-lg px-5 text-uppercase">Get Started</a>
+                        <a href="https://wa.link/voiptech" target="_blank" class="btn bg-orange text-white rounded-pill btn-lg px-5 text-uppercase">Get Started</a>
                     </div>
                     <div class="_trusted d-flex align-items-center mt-4 mb-4 gap-1">
                         <div class="stars d-flex">
@@ -78,22 +128,109 @@
                         
                     </div>
                     <div class="form-fields bg-white p-4">
+                    <form id="dataform" method="post" novalidate>
                         <div class="form-group">
-                            <input type="text" placeholder="Full Name" class="form-control">
+                             <input type="text" id="full_name" name="full_name" placeholder="Full Name" class="form-control" >
+                             <div id="nameError" class="error-message"></div>
                         </div>
                         <div class="form-group">
-                            <input type="email" placeholder="E-mail" class="form-control">
+                            <input type="email" id="email" name="email" placeholder="Official E-mail Id" class="form-control">
+                             <div id="emailError" class="error-message"></div>
                         </div>
                         <div class="form-group">
-                            <input type="tel" placeholder="Phone Number" class="form-control">
+                            <div class="d-flex flex-row nuber-select">
+                                <select class="form-control country-code" id="country_code" name="country_code" style="width: 90px;">
+                                    <option value="+91">🇮🇳 +91</option>
+                                    <option value="+1">🇺🇸 +1</option>
+                                    <option value="+1">🇨🇦 +1</option>
+                                    <option value="+971">🇦🇪 +971</option>
+                                    <option value="+44">🇬🇧 +44</option>
+                                    <option value="+61">🇦🇺 +61</option>
+                                    <option value="+63">🇵🇭 +63</option>
+                                    <option value="+92">🇵🇰 +92</option>
+                                    <option value="+880">🇧🇩 +880</option>
+                                    <option value="+966">🇸🇦 +966</option>
+                                    <option value="+968">🇴🇲 +968</option>
+                                    <option value="+973">🇧🇭 +973</option>
+                                    <option value="+977">🇳🇵 +977</option>
+                                    <option value="+49">🇩🇪 +49</option>
+                                    <option value="+33">🇫🇷 +33</option>
+                                    <option value="+34">🇪🇸 +34</option>
+                                    <option value="+39">🇮🇹 +39</option>
+                                    <option value="+55">🇧🇷 +55</option>
+                                    <option value="+54">🇦🇷 +54</option>
+                                    <option value="+48">🇵🇱 +48</option>
+                                    <option value="+27">🇿🇦 +27</option>
+                                    <option value="+52">🇲🇽 +52</option>
+                                    <option value="+65">🇸🇬 +65</option>
+                                    <option value="+40">🇷🇴 +40</option>
+                                    <option value="+216">🇹🇳 +216</option>
+                                    <option value="+57">🇨🇴 +57</option>
+                                    <!-- Add more country codes as needed -->
+                                </select>
+                               
+                               <input type="tel" id="contact_no" name="contact_no" placeholder="WhatsApp Number/ Phone Number" class="form-control" maxlength="12">
+                                
+                            </div>
+                            <div id="contactError" class="error-message"></div>
                         </div>
                         <div class="form-group">
-                            <textarea name="msg" class="form-control" placeholder="Message"></textarea>
+                            <select class="form-control" id="number_of_users" name="number_of_users">
+                                <option value="">Number of Users</option>
+                                <option value="5">5</option>
+                                <option value="10-20">10-20</option>
+                                <option value="50+">50+</option>
+                                <option value="other">Other</option>
+                            </select>
+                            <div id="userNumError" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                           <select class="form-control" id="industry" name="industry" >
+                                <option value="">Select Your Industry</option>
+                                <option value="Retail and E-commerce">Retail and E-commerce</option>
+                                <option value="Healthcare">Healthcare</option>
+                                <option value="Education">Education</option>
+                                <option value="Banking and Finance">Banking and Finance</option>
+                                <option value="Real Estate">Real Estate</option>
+                                <option value="Travel and Tourism">Travel and Tourism</option>
+                                <option value="Event Management">Event Management</option>
+                                <option value="Telecommunications">Telecommunications</option>
+                                <option value="Government and Public Services">Government and Public Services</option>
+                                <option value="Non-profit and Charities">Non-profit and Charities</option>
+                                <option value="Hospitality and Food Services">Hospitality and Food Services</option>
+                                <option value="Transportation and Logistics">Transportation and Logistics</option>
+                                <option value="Media and Entertainment">Media and Entertainment</option>
+                                <option value="Production and Manufacturing ">Production and Manufacturing </option>
+                                <option value="Energy Utility and Waste ">Energy Utility and Waste </option>
+                                <option value="Others">Others</option>
+                            </select>
+                            <div id="industryError" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                             <select class="form-control" id="services" name="services">
+                                <option value="">Select Product</option>
+                                <option value="A-Z Routes">A-Z Routes</option>
+                                <option value="CC Routes">CC Routes</option>
+                                <option value="CLI/NCLI Routes">CLI/NCLI Routes</option>
+                                <option value="Wholesale VoIP">Wholesale VoIP</option>
+                                <option value="Call Center Solutions">Call Center Solutions</option>
+                                <option value="other">Other</option>
+                            </select>
+                             <div id="servicesError" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                           <textarea name="msg" id="message" class="form-control" placeholder="Describe Your Need"></textarea>
+                             <input type="hidden" name="service_type" value="hosted-cc-solution">
+                             <input type="hidden" id="source" name="source" >
                         </div>
                         <div class="form-group text-center">
                             <input type="submit" value="Get a Free Demo" class="btn bg-orange text-white rounded-pill px-5 text-uppercase">
                         </div>
-                    </div>
+
+                      </form>   
+                </div>
+
+
                  </div>
             </div>
             <div class="top__gradient oval_blue"></div>
@@ -110,12 +247,28 @@
             <div class="d-flex justify-content-between align-items-center">
                 
                 <div class="owl-carousel owl-theme comp-logos">
-                    <img src="assets/images/logos/colt.png" alt="Colt" class="img-fluid1" loading="lazy" style="width: 60px;"/>
-                    <img src="assets/images/logos/microtalk.png" alt="Microtalk" class="img-fluid1" loading="lazy" />
+                     <!-- <img src="assets/images/logos/colt.png" alt="Colt" class="img-fluid1" loading="lazy" style="width: 60px;"/>
+                    <img src="assets/images/logos/microtalk.png" alt="Microtalk" class="img-fluid1" loading="lazy" /> -->
                     <img src="assets/images/logos/verizon.png" alt="Verizon" class="img-fluid1" loading="lazy" />
                     <img src="assets/images/logos/tata.png" alt="Tata" class="img-fluid1" loading="lazy" style="width: 49px;" />
-                    <img src="assets/images/logos/sinch.png" alt="Sinch" class="img-fluid1" loading="lazy" />
+                    <!-- <img src="assets/images/logos/sinch.png" alt="Sinch" class="img-fluid1" loading="lazy" /> -->
                     <img src="assets/images/logos/vonage.png" alt="Vonage" class="img-fluid1" loading="lazy" />
+                    <img src="assets/images/logos/at&t.svg" alt="AT&T" class="img-fluid1" loading="lazy" />
+                    <img src="assets/images/logos/orange.png" alt="orange" class="img-fluid1" loading="lazy " style="width: 69px;" />
+                    <img src="assets/images/logos/stc.svg" alt="stc" class="img-fluid1" loading="lazy" style="width: 85px;" />
+                    <img src="assets/images/logos/signtel.png" alt="signtel" class="img-fluid1" loading="lazy" />
+                    <img src="assets/images/logos/globe.webp" alt="globe" class="img-fluid1" loading="lazy" style="max-width: 140px;" />
+                    
+                    <img src="assets/images/logos/etisalat.svg" alt="etisalat" class="img-fluid1" loading="lazy" style="width: 75px;"  />
+                    <img src="assets/images/logos/gtt.png" alt="gtt" class="img-fluid1" loading="lazy" style="max-width: 140px;" />
+                    <img src="assets/images/logos/mtn.svg" alt="mtn" class="img-fluid1" loading="lazy" />
+                    <img src="assets/images/logos/china-mobile.svg" alt="china-mobile" class="img-fluid1" loading="lazy" style="max-width: 255px;" />
+                    <img src="assets/images/logos/inmarsat.svg" alt="inmarsat" class="img-fluid1" loading="lazy" style="fill:#000" />
+                    
+                    <img src="assets/images/logos/bt.png" alt="bt" class="img-fluid1" loading="lazy" />
+                    <img src="assets/images/logos/ericson.png" alt="ericson" class="img-fluid1" loading="lazy" style="max-width: 155px;" />
+                    <img src="assets/images/logos/francetelecom.png" alt="francetelecom" class="img-fluid1" loading="lazy" style="max-width: 155px;" />
+                    <img src="assets/images/logos/genesys.png" alt="genesys" class="img-fluid1" loading="lazy" style="max-width: 155px;" />
                 </div>
             </div>
         </div>
@@ -216,7 +369,7 @@
     <!-- Customer Testimonials -->
     <?php include 'includes/testimonials.php'; ?>
     <!-- Smart Routing -->
-    <section class="smart-routing py-5">
+    <!-- <section class="smart-routing py-5">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
@@ -275,18 +428,19 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Services Types -->
-    <section class="services-types">
+    <section class="services-types mt-0">
         <div class="container">
             <nav>
                 <div class="nav nav-tabs" id="nav-tab" role="tablist">
                     <button class="nav-link active" id="nav-business-tab" data-toggle="tab" data-target="#nav-business" type="button" role="tab" aria-controls="nav-business" aria-selected="true">By Business Size</button>
                     <button class="nav-link" id="nav-useCase-tab" data-toggle="tab" data-target="#nav-useCase" type="button" role="tab" aria-controls="nav-useCase" aria-selected="false">By Use Case</button>
+                    <button class="nav-link" id="nav-industry-tab" data-toggle="tab" data-target="#nav-industry" type="button" role="tab" aria-controls="nav-industry" aria-selected="false">By Industry</button>
                     
                 </div>
             </nav>
-            <div class="tab-content" id="nav-tabContent">
+            <div class="tab-content text-center" id="nav-tabContent">
                 <div class="tab-pane fade show active" id="nav-business" role="tabpanel" aria-labelledby="nav-business-tab">
                     <div class="_services-boxes">
                         <div class="row">
@@ -296,9 +450,7 @@
                                         <img src="assets/images/service-type1.png" alt="Service Type" />
                                     </div>
                                     <div class="title">Small Business</div>
-                                    <div class="learn-btn">
-                                        <a href="#">Learn More <span> &gt;</span></a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <div class="col-12 col-lg-3">
@@ -307,9 +459,7 @@
                                         <img src="assets/images/service-type2.png" alt="Service Type" />
                                     </div>
                                     <div class="title">Medium Business</div>
-                                    <div class="learn-btn">
-                                        <a href="#">Learn More <span> &gt;</span></a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <div class="col-12 col-lg-3">
@@ -318,9 +468,7 @@
                                         <img src="assets/images/service-type3.png" alt="Service Type" />
                                     </div>
                                     <div class="title">Enterprise</div>
-                                    <div class="learn-btn">
-                                        <a href="#">Learn More <span> &gt;</span></a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <div class="col-12 col-lg-3">
@@ -329,9 +477,7 @@
                                         <img src="assets/images/service-type4.png" alt="Service Type" />
                                     </div>
                                     <div class="title">Startup</div>
-                                    <div class="learn-btn">
-                                        <a href="#">Learn More <span> &gt;</span></a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -346,9 +492,7 @@
                                         <img src="assets/images/service-type1.png" alt="Service Type" />
                                     </div>
                                     <div class="title">Inbound Support</div>
-                                    <div class="learn-btn">
-                                        <a href="#">Learn More <span> &gt;</span></a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <div class="col-12 col-lg-3">
@@ -357,9 +501,7 @@
                                         <img src="assets/images/service-type2.png" alt="Service Type" />
                                     </div>
                                     <div class="title">Outbound Sales</div>
-                                    <div class="learn-btn">
-                                        <a href="#">Learn More <span> &gt;</span></a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <div class="col-12 col-lg-3">
@@ -368,9 +510,7 @@
                                         <img src="assets/images/service-type3.png" alt="Service Type" />
                                     </div>
                                     <div class="title">Remote Teams</div>
-                                    <div class="learn-btn">
-                                        <a href="#">Learn More <span> &gt;</span></a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <div class="col-12 col-lg-3">
@@ -379,9 +519,85 @@
                                         <img src="assets/images/service-type4.png" alt="Service Type" />
                                     </div>
                                     <div class="title">Customer Service </div>
-                                    <div class="learn-btn">
-                                        <a href="#">Learn More <span> &gt;</span></a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="nav-industry" role="tabpanel" aria-labelledby="nav-useCase-tab">
+                    <div class="_services-boxes">
+                        <div class="row">
+                            <div class="col-12 col-lg-3">
+                                <div class="_service">
+                                    <div class="_img">
+                                        <img src="assets/images/Retail-and-Ecommerce.png" alt="Service Type" />
                                     </div>
+                                    <div class="title">Retail and Ecommerce</div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="_service">
+                                    <div class="_img">
+                                        <img src="assets/images/Healthcare.png" alt="Service Type" />
+                                    </div>
+                                    <div class="title">Healthcare</div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="_service">
+                                    <div class="_img">
+                                        <img src="assets/images/Education.png" alt="Service Type" />
+                                    </div>
+                                    <div class="title">Education</div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="_service">
+                                    <div class="_img">
+                                        <img src="assets/images/Banking-and-Finance.png" alt="Service Type" />
+                                    </div>
+                                    <div class="title">Banking and Finance</div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="_service">
+                                    <div class="_img">
+                                        <img src="assets/images/Real-Estate.png" alt="Service Type" />
+                                    </div>
+                                    <div class="title">Real Estate</div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="_service">
+                                    <div class="_img">
+                                        <img src="assets/images/Travel-and-Tourism.png" alt="Service Type" />
+                                    </div>
+                                    <div class="title">Travel and Tourism</div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="_service">
+                                    <div class="_img">
+                                        <img src="assets/images/Event-Management.png" alt="Service Type" />
+                                    </div>
+                                    <div class="title">Event Management</div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-3">
+                                <div class="_service">
+                                    <div class="_img">
+                                        <img src="assets/images/Transportation-and-Logistics.png" alt="Service Type" />
+                                    </div>
+                                    <div class="title">Transportation and Logistics</div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -432,15 +648,15 @@
             </div>
         </div>
     </section>
-    <section class="support-you-section near-footer mt-4">
+    <section class="support-you-section mt-4">
         <div class="container">
             <div class="section-title text-center">
                 <h2>We’re Here Whenever <span class="text-orange">You Need Help</span></h2>
             </div>
             <div class="form-section">
                 <div class="row">
-                    <div class="col-12 col-lg-6">
-                        <div class="form-img">
+                    <div class="col-12 col-lg-7">
+                        <div class="form-img mt-5">
                             <img src="assets/images/form-img.webp" class="img-fluid" alr="support you" />
                         </div>
                     </div>
@@ -457,21 +673,107 @@
                                 
                             </div>
                             <div class="form-fields bg-white p-4">
-                                <div class="form-group">
-                                    <input type="text" placeholder="Full Name" class="form-control">
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" placeholder="E-mail" class="form-control">
-                                </div>
-                                <div class="form-group">
-                                    <input type="tel" placeholder="Phone Number" class="form-control">
-                                </div>
-                                <div class="form-group">
-                                    <textarea name="msg" class="form-control" placeholder="Message"></textarea>
-                                </div>
-                                <div class="form-group text-center">
-                                    <input type="submit" value="Get a Free Demo" class="btn bg-orange text-white rounded-pill px-5 text-uppercase">
-                                </div>
+                                
+                             <form id="dataform1" method="post" novalidate>
+                        <div class="form-group">
+                             <input type="text" id="full_name1" name="full_name" placeholder="Full Name" class="form-control" >
+                             <div id="nameError1" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email1" name="email" placeholder="Official E-mail Id" class="form-control">
+                             <div id="emailError1" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                            <div class="d-flex flex-row nuber-select">
+                                <select class="form-control country-code" id="country_code1" name="country_code" style="width: 90px;">
+                                    <option value="+91">🇮🇳 +91</option>
+                                    <option value="+1">🇺🇸 +1</option>
+                                    <option value="+1">🇨🇦 +1</option>
+                                    <option value="+971">🇦🇪 +971</option>
+                                    <option value="+44">🇬🇧 +44</option>
+                                    <option value="+61">🇦🇺 +61</option>
+                                    <option value="+63">🇵🇭 +63</option>
+                                    <option value="+92">🇵🇰 +92</option>
+                                    <option value="+880">🇧🇩 +880</option>
+                                    <option value="+966">🇸🇦 +966</option>
+                                    <option value="+968">🇴🇲 +968</option>
+                                    <option value="+973">🇧🇭 +973</option>
+                                    <option value="+977">🇳🇵 +977</option>
+                                    <option value="+49">🇩🇪 +49</option>
+                                    <option value="+33">🇫🇷 +33</option>
+                                    <option value="+34">🇪🇸 +34</option>
+                                    <option value="+39">🇮🇹 +39</option>
+                                    <option value="+55">🇧🇷 +55</option>
+                                    <option value="+54">🇦🇷 +54</option>
+                                    <option value="+48">🇵🇱 +48</option>
+                                    <option value="+27">🇿🇦 +27</option>
+                                    <option value="+52">🇲🇽 +52</option>
+                                    <option value="+65">🇸🇬 +65</option>
+                                    <option value="+40">🇷🇴 +40</option>
+                                    <option value="+216">🇹🇳 +216</option>
+                                    <option value="+57">🇨🇴 +57</option>
+                                    <!-- Add more country codes as needed -->
+                                </select>
+                               
+                               <input type="tel" id="contact_no1" name="contact_no" placeholder="WhatsApp Number/ Phone Number" class="form-control" maxlength="12">
+                                
+                            </div>
+                            <div id="contactError1" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                            <select class="form-control" id="number_of_users1" name="number_of_users" >
+                                <option value="">Number of Users</option>
+                                <option value="5">5</option>
+                                <option value="10-20">10-20</option>
+                                <option value="50+">50+</option>
+                                <option value="other">Other</option>
+                            </select>
+                            <div id="userNumError1" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                           <select class="form-control" id="industry1" name="industry" >
+                                <option value="">Select Your Industry</option>
+                                <option value="Retail and E-commerce">Retail and E-commerce</option>
+                                <option value="Healthcare">Healthcare</option>
+                                <option value="Education">Education</option>
+                                <option value="Banking and Finance">Banking and Finance</option>
+                                <option value="Real Estate">Real Estate</option>
+                                <option value="Travel and Tourism">Travel and Tourism</option>
+                                <option value="Event Management">Event Management</option>
+                                <option value="Telecommunications">Telecommunications</option>
+                                <option value="Government and Public Services">Government and Public Services</option>
+                                <option value="Non-profit and Charities">Non-profit and Charities</option>
+                                <option value="Hospitality and Food Services">Hospitality and Food Services</option>
+                                <option value="Transportation and Logistics">Transportation and Logistics</option>
+                                <option value="Media and Entertainment">Media and Entertainment</option>
+                                <option value="Production and Manufacturing ">Production and Manufacturing </option>
+                                <option value="Energy Utility and Waste ">Energy Utility and Waste </option>
+                                <option value="Others">Others</option>
+                            </select>
+                            <div id="industryError1" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                             <select class="form-control" id="services1" name="services">
+                                <option value="">Select Product</option>
+                                <option value="A-Z Routes">A-Z Routes</option>
+                                <option value="CC Routes">CC Routes</option>
+                                <option value="CLI/NCLI Routes">CLI/NCLI Routes</option>
+                                <option value="Wholesale VoIP">Wholesale VoIP</option>
+                                <option value="Call Center Solutions">Call Center Solutions</option>
+                                <option value="other">Other</option>
+                            </select>
+                             <div id="servicesError1" class="error-message"></div>
+                        </div>
+                        <div class="form-group">
+                           <textarea name="msg" id="message" class="form-control" placeholder="Describe Your Need"></textarea>
+                             <input type="hidden" name="service_type" value="hosted-cc-solution">
+                             <input type="hidden" id="source1" name="source" >
+                        </div>
+                        <div class="form-group text-center">
+                            <input type="submit" value="Get a Free Demo" class="btn bg-orange text-white rounded-pill px-5 text-uppercase">
+                        </div>
+
+                      </form>   
                             </div>
                         </div>
                     </div>
@@ -481,21 +783,845 @@
                 <div class="heading h2 font-weight-bold mb-4">Get Tailored  <br> <span class="text-orange">Call Center Solutions</span> from  Experts </div>
                 <p>Want a custom setup or have questions? Let’s schedule a walkthrough just for you.</p>
                 <div class="_btn mt-4">
-                    <a href="#" data-toggle="modal" data-target="#myModalForm" class="btn bg-orange text-white rounded-pill py-3  px-5 text-uppercase font-weight-bold"> Start Your 7-Day Free Trial</a>
+                    <a href="https://wa.link/voiptech" target="_blank" class="btn bg-orange text-white rounded-pill py-3  px-5 text-uppercase font-weight-bold"> Start Your Free Trial</a>
                 </div>
             </div>
         </div>
     </section>
+    <!-- FAQ Section -->
+    <section class="faq-section faq py-80 mt-5 near-footer bg-light" id="main">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-12">
+                    <div class="section-title text-center mb-5">
+                        <h2>Frequently Asked Questions <span class="text-orange">(FAQs)</span></h2>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-12">
+                    <div class="accordion" id="faq">
+                            <!-- Faq 1-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead1">
+                                     <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1" aria-expanded="true" aria-controls="faq1">How does a Hosted PBX improve communication for remote teams?</a>
+                                      </h3>
+                                </div>
 
+                                <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
+                                    <div class="card-body">
+                                    Hosted PBX enables employees to make and receive business calls from anywhere using internet-connected devices.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 2-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead2">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2" aria-expanded="true" aria-controls="faq2">Why is Hosted PBX more cost-effective than traditional phone systems?</a>
+                                     </h3>
+                                </div>
+
+                                <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
+                                    <div class="card-body">
+                                    Hosted PBX eliminates on-site hardware and maintenance costs, offering a subscription-based model with scalable pricing.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 3-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead3">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3" aria-expanded="true" aria-controls="faq3">Can Hosted PBX support call recording, voicemail, and auto-attendants?</a>
+                                     </h3>
+                                </div>
+
+                                <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
+                                    <div class="card-body">
+                                    Yes, Hosted PBX includes advanced features like voicemail-to-email, call recording, IVR, and automated greetings.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 4-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead4">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4" aria-expanded="true" aria-controls="faq4">How does VoIPTech Solutions simplify Hosted PBX migration for businesses?</a>
+                                     </h3>
+                                </div>
+
+                                <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
+                                    <div class="card-body">
+                                    VoIPTech Solutions handles number porting, setup, training, and full migration support to ensure a seamless transition to Hosted PBX.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 5-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead5">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5" aria-expanded="true" aria-controls="faq5">Is Hosted PBX suitable for small businesses with limited IT resources?</a>
+                                     </h3>
+                                </div>
+
+                                <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
+                                    <div class="card-body">
+                                    Yes, Hosted PBX is fully managed in the cloud, requiring no on-premise servers or technical expertise from the user’s side.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 6-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead6">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq6" aria-expanded="true" aria-controls="faq6">Why do businesses choose Hosted PBX for multi-location connectivity?</a>
+                                     </h3>
+                                </div>
+
+                                <div id="faq6" class="collapse" aria-labelledby="faqhead6" data-parent="#faq">
+                                    <div class="card-body">
+                                    Hosted PBX unifies communication across multiple branches with centralized management and consistent call routing.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 7-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead7">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq7" aria-expanded="true" aria-controls="faq7">Can Hosted PBX integrate with CRM and collaboration tools?</a>
+                                     </h3>
+                                </div>
+
+                                <div id="faq7" class="collapse" aria-labelledby="faqhead7" data-parent="#faq">
+                                    <div class="card-body">
+                                    Yes, Hosted PBX supports integration with platforms like Salesforce, Microsoft Teams, and Slack to streamline workflows.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 8-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead8">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq8" aria-expanded="true" aria-controls="faq8">How does VoIPTech Solutions ensure reliability in Hosted PBX services?</a>
+                                     </h3>
+                                </div>
+
+                                <div id="faq8" class="collapse" aria-labelledby="faqhead8" data-parent="#faq">
+                                    <div class="card-body">
+                                    VoIPTech Solutions provides geo-redundant infrastructure, 24/7 monitoring, and enterprise-grade uptime for Hosted PBX users.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 9-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead9">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq9" aria-expanded="true" aria-controls="faq9">Does Hosted PBX allow real-time analytics and call reporting?</a>
+                                     </h3>
+                                </div>
+
+                                <div id="faq9" class="collapse" aria-labelledby="faqhead9" data-parent="#faq">
+                                    <div class="card-body">
+                                    Yes, Hosted PBX platforms offer detailed dashboards and reporting tools for tracking call volumes, agent performance, and more.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Faq 10-->
+                            <div class="card">
+                                <div class="card-header" id="faqhead10">
+                                    <h3 class="mb-0">
+                                    <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq10" aria-expanded="true" aria-controls="faq10">Why is Hosted PBX considered future-proof for growing businesses?</a>
+                                    </h3>
+                                </div>
+
+                                <div id="faq10" class="collapse" aria-labelledby="faqhead10" data-parent="#faq">
+                                    <div class="card-body">
+                                    Hosted PBX allows easy scaling, feature upgrades, and remote access—making it ideal for evolving communication needs.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            
+        </div>
+    </section>
  </main>
 
  <!-- Footer -->
  <?php include 'includes/footer-menu.php' ?>
-
+<div class="position-fixed d-flex justify-content-center gap-4 align-items-center d-md-none col-12 bottom-0  p-2 z-11 floating-contact">
+        <div><a href="tel:+917949107742" class="flex gap-2 items-center text-white pr-4 border-r-1 border-white font-semibold"><span class="contact-icons">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"></path></svg>
+                  </span> Call Us </a></div>
+<div><a href="https://wa.link/voiptech-solutions" target="_blank" class="flex gap-2 items-center text-white font-semibold"><span class="contact-icons">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>
+                  </span> WhatsApp </a></div>
+</div>
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>  
 <script src="assets/js/owl.carousel.min.js"></script>
+
+<script>
+				
+$(document).ready(function() {
+
+
+document.getElementById('source').value = location.href+", Header Form";
+
+    // Real-time validation on input/change
+    $('#full_name').on('input', validateFullName);
+    $('#email').on('input', validateEmail);
+    $('#contact_no').on('input', validateContact);
+    $('#number_of_users').on('change', validateNoOfUsers);
+    $('#industry').on('change', validateIndustry);
+    $('#services').on('change', validateServices);
+
+    // Form submission handler (unchanged)
+    $('#dataform').submit(function(e) {
+        e.preventDefault();
+        if (validateForm()) {
+            //alert('Form validated successfully!');
+            submitForm(); 
+        }
+    });
+});
+
+// Individual validation functions
+function validateFullName() {
+    const $field = $('#full_name');
+    const $error = $('#nameError');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Full name is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (value.length > 500) {
+        $error.text('Name must be ≤500 characters');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateEmail() {
+    const $field = $('#email');
+    const $error = $('#emailError');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Email is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) {
+        $error.text('Invalid email format');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateContact() {
+    const $field = $('#contact_no');
+    const $error = $('#contactError');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Contact number is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (!/^\d{8,12}$/.test(value)) {
+        $error.text('Must be 8-12 digits');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateNoOfUsers() {
+    const $field = $('#number_of_users');
+    const $error = $('#userNumError');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select no of users');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateIndustry() {
+    const $field = $('#industry');
+    const $error = $('#industryError');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select industry');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateServices() {
+    const $field = $('#services');
+    const $error = $('#servicesError');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select product');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+// Combined validation for form submission
+function validateForm() {
+    const isNameValid = validateFullName();
+    const isEmailValid = validateEmail();
+    const isContactValid = validateContact();
+    const isNoOfusersValid = validateNoOfUsers();
+    const isIndustryValid = validateIndustry();
+    const isServicesValid = validateServices();
+    
+    return isNameValid && isEmailValid && isContactValid && isNoOfusersValid &&
+           isIndustryValid && isServicesValid;
+}
+
+
+
+// Form submission function
+function submitForm() {
+    const formElement = document.getElementById('dataform');
+    const formData = new FormData(formElement);
+    const jsonData = {};
+    formData.forEach((value, key) => {
+        jsonData[key] = value;
+    });
+
+    //console.log('Sending:', jsonData);
+    const authToken = 'Basic dm9vcHRlY2hjcm0=';
+    //console.log('Authorization Header:', authToken);
+
+    fetch('https://app.voiptechsolutions.com/api/savelead', {
+        method: 'POST',
+        headers: {
+            'Authorization': authToken,
+            'Content-Type': 'application/json',
+            'Accept': 'application/json'
+        },
+        body: JSON.stringify(jsonData)
+    })
+    .then(response => {
+        console.log('Response status:', response.status);
+        if (response.ok) {
+            const contentType = response.headers.get('content-type');
+            if (contentType && contentType.includes('application/json')) {
+                return response.json();
+            } else {
+                throw new Error('Non-JSON response');
+            }
+        } else {
+            return response.json().then(errorData => {
+                console.log('Error response:', errorData);
+                throw new Error(errorData.error || `HTTP Error: ${response.status}`);
+            });
+        }
+    })
+    .then(data => {
+        console.log('Success:', data);
+        if (data.status === 'success') {
+            formElement.reset();
+		
+// Add a 1-second delay before redirecting
+setTimeout(function() {
+    window.location.href = "thank-you.php";
+}, 1000);  // 1-second delay before redirection
+		   
+		   
+        } else {
+            throw new Error(data.error || 'Unknown error');
+        }
+    })
+    .catch(error => {
+        console.error('Fetch error:', error.message);
+        alert('Error: ' + error.message + '. Please try again.');
+    });
+}
+
+
+				
+			
+
+//footer form		
+$(document).ready(function() {
+
+
+document.getElementById('source1').value = location.href+", Footer Form";
+
+    // Real-time validation on input/change
+    $('#full_name1').on('input', validateFullName1);
+    $('#email1').on('input', validateEmail1);
+    $('#contact_no1').on('input', validateContact1);
+    $('#number_of_users1').on('change', validateNoOfUsers1);
+    $('#industry1').on('change', validateIndustry1);
+    $('#services1').on('change', validateServices1);
+
+    // Form submission handler (unchanged)
+    $('#dataform1').submit(function(e) {
+        e.preventDefault();
+        if (validateForm1()) {
+            //alert('Form validated successfully!');
+            submitForm1(); 
+        }
+    });
+});
+
+// Individual validation functions
+function validateFullName1() {
+    const $field = $('#full_name1');
+    const $error = $('#nameError1');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Full name is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (value.length > 500) {
+        $error.text('Name must be ≤500 characters');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateEmail1() {
+    const $field = $('#email1');
+    const $error = $('#emailError1');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Email is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) {
+        $error.text('Invalid email format');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateContact1() {
+    const $field = $('#contact_no1');
+    const $error = $('#contactError1');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Contact number is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (!/^\d{8,12}$/.test(value)) {
+        $error.text('Must be 8-12 digits');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateNoOfUsers1() {
+    const $field = $('#number_of_users1');
+    const $error = $('#userNumError1');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select no of users');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateIndustry1() {
+    const $field = $('#industry1');
+    const $error = $('#industryError1');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select industry');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateServices1() {
+    const $field = $('#services1');
+    const $error = $('#servicesError1');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select product');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+// Combined validation for form submission
+function validateForm1() {
+    const isNameValid = validateFullName1();
+    const isEmailValid = validateEmail1();
+    const isContactValid = validateContact1();
+    const isNoOfusersValid = validateNoOfUsers1();
+    const isIndustryValid = validateIndustry1();
+    const isServicesValid = validateServices1();
+    
+    return isNameValid && isEmailValid && isContactValid && isNoOfusersValid &&
+           isIndustryValid && isServicesValid;
+}
+
+
+
+// Form submission function
+function submitForm1() {
+    const formElement = document.getElementById('dataform1');
+    const formData = new FormData(formElement);
+    const jsonData = {};
+    formData.forEach((value, key) => {
+        jsonData[key] = value;
+    });
+
+    //console.log('Sending:', jsonData);
+    const authToken = 'Basic dm9vcHRlY2hjcm0=';
+    //console.log('Authorization Header:', authToken);
+
+    fetch('https://app.voiptechsolutions.com/api/savelead', {
+        method: 'POST',
+        headers: {
+            'Authorization': authToken,
+            'Content-Type': 'application/json',
+            'Accept': 'application/json'
+        },
+        body: JSON.stringify(jsonData)
+    })
+    .then(response => {
+        console.log('Response status:', response.status);
+        if (response.ok) {
+            const contentType = response.headers.get('content-type');
+            if (contentType && contentType.includes('application/json')) {
+                return response.json();
+            } else {
+                throw new Error('Non-JSON response');
+            }
+        } else {
+            return response.json().then(errorData => {
+                console.log('Error response:', errorData);
+                throw new Error(errorData.error || `HTTP Error: ${response.status}`);
+            });
+        }
+    })
+    .then(data => {
+        console.log('Success:', data);
+        if (data.status === 'success') {
+            formElement.reset();
+		
+// Add a 1-second delay before redirecting
+setTimeout(function() {
+    window.location.href = "thank-you.php";
+}, 1000);  // 1-second delay before redirection
+		   
+		   
+        } else {
+            throw new Error(data.error || 'Unknown error');
+        }
+    })
+    .catch(error => {
+        console.error('Fetch error:', error.message);
+        alert('Error: ' + error.message + '. Please try again.');
+    });
+}
+
+
+
+
+
+//Exit  form		
+$(document).ready(function() {
+
+
+document.getElementById('source2').value = location.href+", Exit Popup Form";
+
+    // Real-time validation on input/change
+    $('#full_name2').on('input', validateFullName2);
+    $('#email2').on('input', validateEmail2);
+    $('#contact_no2').on('input', validateContact2);
+    $('#number_of_users2').on('change', validateNoOfUsers2);
+    $('#industry2').on('change', validateIndustry2);
+    $('#services2').on('change', validateServices2);
+
+    // Form submission handler (unchanged)
+    $('#dataform2').submit(function(e) {
+        e.preventDefault();
+        if (validateForm2()) {
+            //alert('Form validated successfully!');
+            submitForm2(); 
+        }
+    });
+});
+
+// Individual validation functions
+function validateFullName2() {
+    const $field = $('#full_name2');
+    const $error = $('#nameError2');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Full name is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (value.length > 500) {
+        $error.text('Name must be ≤500 characters');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateEmail2() {
+    const $field = $('#email2');
+    const $error = $('#emailError2');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Email is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) {
+        $error.text('Invalid email format');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateContact2() {
+    const $field = $('#contact_no2');
+    const $error = $('#contactError2');
+    const value = $field.val().trim();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Contact number is required');
+        $field.addClass('is-invalid-custom');
+        return false;
+    } else if (!/^\d{8,12}$/.test(value)) {
+        $error.text('Must be 8-12 digits');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateNoOfUsers2() {
+    const $field = $('#number_of_users2');
+    const $error = $('#userNumError2');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select no of users');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateIndustry2() {
+    const $field = $('#industry2');
+    const $error = $('#industryError2');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select industry');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+function validateServices2() {
+    const $field = $('#services2');
+    const $error = $('#servicesError2');
+    const value = $field.val();
+    
+    $field.removeClass('is-invalid-custom');
+    $error.text('');
+    
+    if (!value) {
+        $error.text('Please select product');
+        $field.addClass('is-invalid-custom');
+        return false;
+    }
+    return true;
+}
+
+// Combined validation for form submission
+function validateForm2() {
+    const isNameValid = validateFullName2();
+    const isEmailValid = validateEmail2();
+    const isContactValid = validateContact2();
+    const isNoOfusersValid = validateNoOfUsers2();
+    const isIndustryValid = validateIndustry2();
+    const isServicesValid = validateServices2();
+    
+    return isNameValid && isEmailValid && isContactValid && isNoOfusersValid &&
+           isIndustryValid && isServicesValid;
+}
+
+
+
+// Form submission function
+function submitForm2() {
+    const formElement = document.getElementById('dataform2');
+    const formData = new FormData(formElement);
+    const jsonData = {};
+    formData.forEach((value, key) => {
+        jsonData[key] = value;
+    });
+
+    //console.log('Sending:', jsonData);
+    const authToken = 'Basic dm9vcHRlY2hjcm0=';
+    //console.log('Authorization Header:', authToken);
+
+    fetch('https://app.voiptechsolutions.com/api/savelead', {
+        method: 'POST',
+        headers: {
+            'Authorization': authToken,
+            'Content-Type': 'application/json',
+            'Accept': 'application/json'
+        },
+        body: JSON.stringify(jsonData)
+    })
+    .then(response => {
+        console.log('Response status:', response.status);
+        if (response.ok) {
+            const contentType = response.headers.get('content-type');
+            if (contentType && contentType.includes('application/json')) {
+                return response.json();
+            } else {
+                throw new Error('Non-JSON response');
+            }
+        } else {
+            return response.json().then(errorData => {
+                console.log('Error response:', errorData);
+                throw new Error(errorData.error || `HTTP Error: ${response.status}`);
+            });
+        }
+    })
+    .then(data => {
+        console.log('Success:', data);
+        if (data.status === 'success') {
+            formElement.reset();
+		
+// Add a 1-second delay before redirecting
+setTimeout(function() {
+    window.location.href = "thank-you.php";
+}, 1000);  // 1-second delay before redirection
+		   
+		   
+        } else {
+            throw new Error(data.error || 'Unknown error');
+        }
+    })  
+    .catch(error => {
+        console.error('Fetch error:', error.message);
+        alert('Error: ' + error.message + '. Please try again.');
+    });
+}
+
+
+				
+				
+				
+				</script>
+
+
+
+<!-- Start of LiveChat (www.livechat.com) code -->
+<script>
+    window.__lc = window.__lc || {};
+    window.__lc.license = 19121281;
+    window.__lc.integration_name = "manual_channels";
+window.__lc.chat_started_callback = function(data) {
+  LiveChatWidget.get('customer_data', function(customerData) {
+    // Send this data to your server
+    fetch('https://app.voiptechsolutions.com/api/savelead', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(customerData)
+    });
+  });
+};
+    window.__lc.product_name = "livechat";
+    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+</script>
+<noscript><a href="https://www.livechat.com/chat-with/19121281/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+<!-- End of LiveChat code -->
+
+
+
 <script>
     $(document).ready(function(){
         $('.testim-carousel').owlCarousel({
@@ -513,7 +1639,7 @@
                     items:1
                 },
                 1000:{
-                    items:1
+                    items:2
                 }
             }
         });
@@ -523,7 +1649,10 @@
             nav:false,
             dots:false,
             autoplay:true,
-            autoplayTimeout:5000,
+            slideTransition: 'linear',
+            autoplayTimeout: 2000,
+            autoplaySpeed: 3000,
+            smartSpeed:450,
             responsive:{
                 0:{
                     items:3

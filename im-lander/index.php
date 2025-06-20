@@ -40,16 +40,16 @@
                     <div class="row  align-items-center justify-content-between">
                         <div class="col-12 col-lg-6 hero-left">
                             <div class="banner-text-cont">
-                                <h1><span class="text-primary">Impression Media </span> Powering Brand Futures</h1>
-                                <div class="banner-tagline">From marketing to AI and blockchain, we deliver scalable, data-driven growth. </div>
+                                <h1><span class="text-primary">Powering Brands </span> Through Performance and Precision</h1>
+                                <div class="banner-tagline">We grow brands with strategic media, marketing, and branding solutions.</div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>Crafting Future-Ready Brand Solutions</li>
-                                        <li>Driving Data-Led, Scalable Growth</li>
-                                        <li>All Your Needs, One Partner</li>
-                                        <li>Turning Audiences into Loyal Customers</li>
-                                        <li>Pushing Boundaries to Evolve Businesses</li>
-                                        <li>Committed to Your Digital Journey</li>
+                                        <li>Targeted Media Buying</li>
+                                        <li>Strategic Brand Building</li>
+                                        <li>Performance-Driven Marketing</li>
+                                        <li>Insight-Led Campaigns</li>
+                                        <li>Engaging Digital Experiences</li>
+                                        <li>Consistent Business Growth</li>
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
@@ -195,16 +195,16 @@
                         </div>
                         <div class="col-12 col-lg-6">
                             <div class="banner-text-cont text-white">
-                                <h2><span class="text-primary">We turn bold ideas into market leaders, </span> empowering thousands of brands to scale, sell, and succeed.</h2>
-                                <div class="banner-tagline">Creating digital solutions that elevate your business with. </div>
+                                <h2><span class="text-primary">We Shape Creativity  </span> Into Brands That Scale and Lead.</h2>
+                                <div class="banner-tagline">Turning creativity into growth with focused, cross-industry marketing precision. </div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>Accelerated Revenue Growth</li>
-                                        <li>Enhanced Brand Visibility</li>
-                                        <li>Stronger Customer Engagement</li>
-                                        <li>Streamlined Digital Operations</li>
-                                        <li>Cutting-Edge Innovation</li>
-                                        <li>Long-Term Strategic Partnership</li>
+                                        <li>Cross-Sector Expertise</li>
+                                        <li>Custom Media Plans</li>
+                                        <li>Creative That Converts</li>
+                                        <li>Omni-Channel Execution</li>
+                                        <li>Performance-First Focus</li>
+                                        <li>Industry-Wise Insights</li>
                                     </ul>
                                 </div>
                                 <div class="banner-bnt my-2">
@@ -220,33 +220,33 @@
         <section class="section-3 pt-1 pb-5 real-challanges">
             <div class="container">
                 <div class="section-title text-center text-white">
-                    <h2 class="text-primary">From Overcoming Challenges to Expanding Possibilities</h2>
-                    <p>Impression Media blends data-driven strategies with breakthrough technology to tackle real business challenges from growth to innovation, fuelling every stage of your digital journey</p>
+                    <h2 class="text-primary">From Audience Attention to Lasting Brand Impressions</h2>
+                    <p>We turn targeted exposure into brand growth using data, technology, and storytelling — delivering high-impact experiences across every audience touchpoint.</p>
                 </div>
                 <div class="challange-boxes text-white">
                     <div class="row">
                         <div class="col-12 col-lg-3">
                             <div class="_challange-box">
-                                <h3>Turn Visibility into Revenue</h3>
-                                <p>We drive high-intent traffic through SEO, influencer marketing, and media buying transforming visibility into revenue and delivering real business growth.</p>
+                                <h3>Visibility That Converts</h3>
+                                <p>Smart media buying, SEO, and influencer campaigns that attract high-intent audiences — turning attention into qualified traffic and real business results.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="_challange-box">
-                                <h3>Engage & Retain Your Audience</h3>
-                                <p>We create lasting audience connections through social media, video marketing, and community management boosting engagement, loyalty, and brand relevance.</p>
+                                <h3>Strategy That Performs</h3>
+                                <p>From launch to scale, our campaigns are built to deliver — combining insight, precision, and optimization for measurable brand growth.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="_challange-box">
-                                <h3>Optimize Operations for Scale</h3>
-                                <p>We streamline operations using AI, blockchain, and web development enhancing efficiency, reducing friction, and enabling scalable digital transformation.</p>
+                                <h3>Creative That Resonates</h3>
+                                <p>We design bold, consistent brand experiences that not only look great but also connect emotionally and drive long-term audience loyalty.</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3">
                             <div class="_challange-box">
-                                <h3>Build a Brand That Stands Out</h3>
-                                <p>We craft standout brand experiences with strategic branding, creative design, and compelling content, helping businesses differentiate, build trust, and grow impactfully.</p>
+                                <h3>Technology That Enables</h3>
+                                <p>Future-ready digital tools like AI, blockchain, and custom development streamline operations, improve agility, and scale your brand faster.</p>
                             </div>
                         </div>
                     </div>
@@ -262,10 +262,10 @@
             <div class="container cta-box-cont">
                 <div class="cta-box">
                     <div class="_content">
-                        <h2>Are You Ready to Take the Lead and Set the Standard?</h2>
-                        <p>We’ve dedicated our expertise to crafting proven digital strategies that cut through the noise. From SEO and influencer campaigns to app development, we deliver adaptable solutions that convert and position your brand as a market leader ready to elevate your brand and start the journey to success.</p>
+                        <h2>Are You Ready to Build a Brand That Audiences Remember Forever?</h2>
+                        <p>We help you craft unforgettable brand experiences through strategic media, performance marketing, and storytelling that resonates across every audience touchpoint.</p>
                         <div class="btn-cont">
-                            <a href="#" class="btn btn-dark rounded-pill" data-bs-toggle="modal" data-bs-target="#myModalForm">Talk to a Digital Expert Now - We’re Just a Call Away</a>
+                            <a href="#" class="btn btn-dark rounded-pill" data-bs-toggle="modal" data-bs-target="#myModalForm">Talk to Our Experts Now</a>
                         </div>
                     </div>
                     <div class="_cta-img">
@@ -284,23 +284,23 @@
                         <div class="section-5-left text-white">
                             <div class="section-title text-left m-0">
                                 <div class="above-title mb-2 text-white justify-content-start">
-                                    <span>Average doesn't scale strategy, tech, and creativity do</span>
+                                    <span>Only Results-Driven Reach Matters</span>
                                 </div>
-                                <h2 >Is Your Brand Built to Compete in a <span class="text-light-orange">Digital-first World?</span> </h2>
+                                <h2 >Is Your <span class="text-light-orange">Media Strategy</span> Ready for the Platforms That Matter  </h2>
                             </div>
-                            <p>We craft powerful digital stories by blending sharp marketing, innovative tech, and creative flair helping your brand captivate audiences, ignite conversions, and scale with confidence, turning every click into growth and every campaign into a lasting connection. </p>
+                            <p>We align your brand with high-performing platforms through precision media buying—maximizing reach, engagement, and ROI while ensuring every ad hits the right audience, at the right time, every time.</p>
                             <div class="_results">
                                 <div class="_result-item">
-                                    <div class="h3">68%</div>
-                                    <p>Faster Launch</p>
+                                    <div class="h3">+78%</div>
+                                    <p>Audience Reach</p>
                                 </div>
                                 <div class="_result-item">
-                                    <div class="h3">59%</div>
-                                    <p>Lower Costs</p>
+                                    <div class="h3">+62%</div>
+                                    <p>Engagement Rate</p>
                                 </div>
                                 <div class="_result-item">
-                                    <div class="h3">47%</div>
-                                    <p>More Engagement</p>
+                                    <div class="h3">+45%</div>
+                                    <p>Conversion Growth</p>
                                 </div>
 
                             </div>
@@ -324,7 +324,7 @@
             <div class="container">
                 <div class="section-title">
                     <div class="title-text-cont1 text-center">
-                        <h2 class="text-light-orange mt-3">Exclusive Marketing Insights from Our Knowledge Vault</h2>
+                        <h2 class="text-light-orange mt-3">Discover What’s New in Branding, Media, and Strategy</h2>
                     </div>
                 </div>
                 
@@ -405,7 +405,7 @@
                             <img src="assets/images/icons/working-icn1.png" alt="Step 1 Icon" class="img-fluid">
                         </div>
                         <div class="step-title">
-                            Discover & Define
+                            Listen Deeply
                         </div>
                     </div>
                     <div class="working-step step-2">
@@ -416,7 +416,7 @@
                             <img src="assets/images/icons/working-icn2.png" alt="Step 1 Icon" class="img-fluid">
                         </div>
                         <div class="step-title">
-                            Strategize & Plan
+                            Think Strategically
                         </div>
                     </div>
                     <div class="working-step step-3">
@@ -427,7 +427,7 @@
                             <img src="assets/images/icons/working-icn3.png" alt="Step 1 Icon" class="img-fluid">
                         </div>
                         <div class="step-title">
-                            Execute & Launch
+                            Act Creatively
                         </div>
                     </div>
                     <div class="working-step step-4">
@@ -438,7 +438,7 @@
                             <img src="assets/images/icons/working-icn4.png" alt="Step 1 Icon" class="img-fluid">
                         </div>
                         <div class="step-title">
-                            Optimize & Scale
+                            Scale Meaningfully
                         </div>
                     </div>
                 </div>

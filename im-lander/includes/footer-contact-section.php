@@ -3,17 +3,17 @@
                 <div class="row justify-content-between align-items-center">
                     <div class="col-12 col-lg-6 sec-11-left">
                         <div class="banner-text-cont text-white">
-                                <p class="mb-0"><strong>Catch the Success</strong></p>
+                                <p class="mb-0"><strong>Let’s Connect</strong></p>
                                 <h2><span class="text-primary">Ready to take your marketing to the next level?</span> </h2>
                                 <div class="banner-tagline">Book a demo and discovery call to get a look at: </div>
                                 <div class="banner-feats-list">
                                     <ul>
-                                        <li>End to End Marketing Solutions</li>
-                                        <li>Scalable &amp; Sustainable Growth</li>
-                                        <li>Reliable, Flexible &amp; Agile</li>
-                                        <li>Impeccable Quality You Can Trust</li>
-                                        <li>Data-backed Approach</li>
-                                        <li>Specialized &amp; Certified Experts</li>
+                                        <li>Strategic Overview</li>
+                                        <li>Media Roadmap</li>
+                                        <li>Creative Direction</li>
+                                        <li>Performance Insights</li>
+                                        <li>Tech Recommendations</li>
+                                        <li>Expert Guidance</li>
                                     </ul>
                                 </div>
                                 
