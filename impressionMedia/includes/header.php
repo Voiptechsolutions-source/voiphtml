@@ -24,26 +24,26 @@
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="all-services.php">Services</a>
                             <div class="dropdown-menu mega-menu p-3">
                                 <ul class="services-mag-menu">
-                                    <li><a href="https://www.impressionmedia.ae/services/performance-marketing">Performance Marketing</a></li>
-                                    <li><a href="https://www.impressionmedia.ae/services/affiliate-marketing">Affiliate Marketing</a></li>
-                                    <li><a href="https://www.impressionmedia.ae/services/media-buying">Digital Media Buying</a></li>
-                                    <li><a href="https://www.impressionmedia.ae/services/social-media-advertising">Social Media Advertising</a></li>
-                                    <li><a href="https://www.impressionmedia.ae/services/e-commerce-marketing">E-commerce Marketing</a></li>
-                                    <li><a href="https://www.impressionmedia.ae/services/lead-generation">B2B Lead Generation &amp; Marketing</a></li>
-                                    <li><a href="https://www.impressionmedia.ae/services/seo">Search Engine Optimization</a></li>
-                                    <li><a href="#">Social Media Management</a></li>
-                                    <li><a href="#">Influencer Marketing</a></li>
-                                    <li><a href="#">PR &amp; Outreach</a></li>
-                                    <li><a href="#">Video Production</a></li>
-                                    <li><a href="#">Video Marketing</a></li>
-                                    <li><a href="#">Branding</a></li>
-                                    <li><a href="#">Community Management</a></li>
-                                    <li><a href="#">Website Development</a></li>
-                                    <li><a href="#">Mobile App Development</a></li>
-                                    <li><a href="#">Web Design</a></li>
-                                    <li><a href="#">Graphics Design</a></li>
-                                    <li><a href="#">Blockchain Development</a></li>
-                                    <li><a href="#">Artificial Intelligence</a></li>
+                                    <li class="per-market"><a href="https://www.impressionmedia.ae/services/performance-marketing"><span class="service-icn"></span>Performance Marketing</a></li>
+                                    <li class="aff-market"><a href="https://www.impressionmedia.ae/services/affiliate-marketing"><span class="service-icn"></span>Affiliate Marketing</a></li>
+                                    <li class="med-buy"><a href="https://www.impressionmedia.ae/services/media-buying"><span class="service-icn"></span>Digital Media Buying</a></li>
+                                    <li class="sma"><a href="https://www.impressionmedia.ae/services/social-media-advertising"><span class="service-icn"></span>Social Media Advertising</a></li>
+                                    <li class="ecom-market"><a href="https://www.impressionmedia.ae/services/e-commerce-marketing"><span class="service-icn"></span>E-commerce Marketing</a></li>
+                                    <li class="lead-market"><a href="https://www.impressionmedia.ae/services/lead-generation"><span class="service-icn"></span>Lead Generation &amp; Marketing</a></li>
+                                    <li class="seo"><a href="https://www.impressionmedia.ae/services/seo"><span class="service-icn"></span>Search Engine Optimization</a></li>
+                                    <li class="smm"><a href="#"><span class="service-icn"></span>Social Media Management</a></li>
+                                    <li class="inf-market"><a href="#"><span class="service-icn"></span>Influencer Marketing</a></li>
+                                    <li class="pr-out"><a href="#"><span class="service-icn"></span>PR &amp; Outreach</a></li>
+                                    <li class="vid-prod"><a href="#"><span class="service-icn"></span>Video Production</a></li>
+                                    <li class="vid-market"><a href="#"><span class="service-icn"></span>Video Marketing</a></li>
+                                    <li class="branding"><a href="#"><span class="service-icn"></span>Branding</a></li>
+                                    <li class="comm-mgt"><a href="#"><span class="service-icn"></span>Community Management</a></li>
+                                    <li class="web-dev"><a href="#"><span class="service-icn"></span>Website Development</a></li>
+                                    <li class="mob-dev"><a href="#"><span class="service-icn"></span>Mobile App Development</a></li>
+                                    <li class="web-design"><a href="#"><span class="service-icn"></span>Web Design</a></li>
+                                    <li class="graphic-design"><a href="#"><span class="service-icn"></span>Graphics Design</a></li>
+                                    <li class="block-dev"><a href="#"><span class="service-icn"></span>Blockchain Development</a></li>
+                                    <li class="ai-dev"><a href="#"><span class="service-icn"></span>Artificial Intelligence</a></li>
                                 </ul>
                             </div>
                         </li>
