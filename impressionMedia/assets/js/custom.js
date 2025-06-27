@@ -87,7 +87,8 @@ function topFunction() {
 
 /* BS Menus Dropdown */
 window.addEventListener("resize", function() {
-            "use strict"; window.location.reload(); 
+            "use strict"; 
+            // window.location.reload(); 
           });
          document.addEventListener("DOMContentLoaded", function()
          {
@@ -148,3 +149,63 @@ window.addEventListener("resize", function() {
          // end if innerWidth
          });
          // DOMContentLoaded  end
+
+         //sticky-section
+        //   window.onload = function() {
+        //     const stickySection = document.getElementById('myStickySection');
+        //     const stickyOffset = stickySection.offsetTop; // Get the initial position of the section
+
+        //     window.onscroll = function() {
+        //         if (window.pageYOffset >= stickyOffset) {
+        //             stickySection.classList.add('sticky-sidebar');
+        //         } else {
+        //             stickySection.classList.remove('sticky-sidebar');
+        //         }
+        //     };
+        // };
+ //Scroll Spy
+ document.addEventListener('DOMContentLoaded', function() {
+            const sidebarLinks = document.querySelectorAll('#v-pills-tab a.nav-link');
+            const sections = document.querySelectorAll('.conent-section-blog');
+
+            // Smooth scroll functionality
+            sidebarLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const targetId = this.getAttribute('href');
+                    const targetSection = document.querySelector(targetId);
+                    const headerOffset = 120;
+                    const targetPosition = targetSection.getBoundingClientRect().top;
+                    const offsetPosition = targetPosition + window.pageYOffset - headerOffset;
+                    //targetSection.scrollIntoView({ behavior: 'smooth' });
+                    window.scrollTo({
+                        top: offsetPosition,
+                        behavior: "smooth"
+                    })
+                });
+            });
+
+            // Scrollspy functionality
+            window.addEventListener('scroll', function() {
+                let currentSection = '';
+                
+                sections.forEach(section => {
+                    const sectionTop = section.offsetTop;
+                    const sectionHeight = section.clientHeight;
+                    if (window.scrollY >= sectionTop + sectionHeight * 0.021) {
+                        currentSection = section.getAttribute('id');
+                    }
+                });
+
+                sidebarLinks.forEach(link => {
+                    link.classList.remove('active');
+                    const href = link.getAttribute('href').substring(1);
+                    if (href === currentSection) {
+                        link.classList.add('active');
+                    }
+                });
+            });
+
+            // Trigger scroll event to set initial active link
+            window.dispatchEvent(new Event('scroll'));
+        });
