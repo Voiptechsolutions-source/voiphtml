@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <?php include 'includes/head-tags.php'; ?>
+
 </head>
 <body>
 
@@ -68,7 +69,7 @@
      </section>
 
      <!-- All Events -->
-     <section class="bg-light-orange py-80 all-events-section">
+     <section class="bg-light-orange pt-80 all-events-section d-none">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-4">
@@ -399,25 +400,34 @@
      </section>
 
      <!-- All upcoming Events -->
-    <section class="all-upcoming-events py-5">
+    <section class="all-upcoming-events pt-5 bg-light near-footer">
         <div class="container">
             <div class="section-title text-center">
-                <h2 class="text-orange">All Upcoming Events</h2>
+                <h2 class="text-orange">All Events</h2>
                 <p>Be part of every groundbreaking event in the industry—don’t miss out</p>
             </div>
             <div class="event-tabs-main">
+                <?php /* ?>
                 <div class="row justify-content-center mt-3 mb-2">
                     <div class="col-auto">
-                        <nav class="nav btn-group pricing-tabs">
-                            <a href="#day1" class="btn btn-outline-primary active" data-toggle="tab">1st Day</a>
-                            <a href="#day2" class="btn btn-outline-primary" data-toggle="tab">2nd Day</a>
-                            <a href="#day3" class="btn btn-outline-primary" data-toggle="tab">3rd Day</a>
+                        <nav class="nav btn-group pricing-tabs ">
+                            <div class="event-tabs owl-carousel owl-theme">
+                                <a href="#upcoming_evs" class="btn btn-outline-primary active" data-toggle="tab">Upcoming Events</a>
+                                <a href="#2025" class="btn btn-outline-primary" data-toggle="tab">2025</a>
+                                <a href="#2024" class="btn btn-outline-primary" data-toggle="tab">2024</a>
+                                <!-- <a href="#2023" class="btn btn-outline-primary" data-toggle="tab">2023</a>
+                                <a href="#2022" class="btn btn-outline-primary" data-toggle="tab">2022</a>
+                                <a href="#2021" class="btn btn-outline-primary" data-toggle="tab">2021</a>
+                                <a href="#2020" class="btn btn-outline-primary" data-toggle="tab">2020</a> -->
+                            </div>
+                            
                         </nav>
                     </div>
                 </div>
                 <div class="tab-content upcoming-events-tab-content">
-                    <div class="tab-pane fade show active" id="day1">
-                        <div class="upcoming-event-card">
+                    <div class="tab-pane fade show active" id="upcoming_evs">
+                        <div class="event-carousel owl-carousel owl-theme">
+                            <div class="upcoming-event-card">
                             <div class="upcoming-date">
                                 <div class="day">25</div>
                                 <div class="month-year">
@@ -446,69 +456,71 @@
                                 </div>
                             </div>  
                                 
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2025</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img2.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2025</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img3.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
                         </div>
-                        <div class="upcoming-event-card">
-                            <div class="upcoming-date">
-                                <div class="day">25</div>
-                                <div class="month-year">
-                                    <span class="month">May,</span>
-                                    <span class="year">2025</span>
-                                </div>
-                            </div>
-                            <div class="upcomng-event-thumb">
-                                <img src="assets/images/event-thumb-img2.png" alt="Event" class="img-fluid" />
-                            </div>
-                            <div class="upcoming-event-info">
-                                <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
-                                <div class="upcoming-event-address-time">
-                                    <div class="_address">
-                                        <div class="location-icn">
-                                            <img src="assets/images/icons/loc-icn3.png" alt="location" />
-                                        </div>
-                                        <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
-                                    </div>
-                                    <div class="_time">
-                                        <div class="clock-icn">
-                                            <img src="assets/images/icons/clock-icn.png" alt="clock" />
-                                        </div>
-                                        <div class="_time">10:00 AM - 5:00 PM</div>
-                                    </div>
-                                </div>
-                            </div>  
-                                
-                        </div>
-                        <div class="upcoming-event-card">
-                            <div class="upcoming-date">
-                                <div class="day">25</div>
-                                <div class="month-year">
-                                    <span class="month">May,</span>
-                                    <span class="year">2025</span>
-                                </div>
-                            </div>
-                            <div class="upcomng-event-thumb">
-                                <img src="assets/images/event-thumb-img3.png" alt="Event" class="img-fluid" />
-                            </div>
-                            <div class="upcoming-event-info">
-                                <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
-                                <div class="upcoming-event-address-time">
-                                    <div class="_address">
-                                        <div class="location-icn">
-                                            <img src="assets/images/icons/loc-icn3.png" alt="location" />
-                                        </div>
-                                        <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
-                                    </div>
-                                    <div class="_time">
-                                        <div class="clock-icn">
-                                            <img src="assets/images/icons/clock-icn.png" alt="clock" />
-                                        </div>
-                                        <div class="_time">10:00 AM - 5:00 PM</div>
-                                    </div>
-                                </div>
-                            </div>  
-                                
-                        </div>
+                        
                     </div> 
-                    <div class="tab-pane fade " id="day2">
+                    <div class="tab-pane fade " id="2025">
                     <div class="upcoming-event-card">
                             <div class="upcoming-date">
                                 <div class="day">26</div>
@@ -600,7 +612,7 @@
                                 
                         </div>
                     </div> 
-                    <div class="tab-pane fade " id="day3">
+                    <div class="tab-pane fade " id="2024">
                     <div class="upcoming-event-card">
                             <div class="upcoming-date">
                                 <div class="day">27</div>
@@ -693,6 +705,596 @@
                         </div>
                     </div>    
                 </div>
+                <?php */ ?>
+            </div>
+
+
+
+            <div class="card event-tabs-main">
+                <div class="card-header">
+                    <div class="tab-carousel-container">
+                        <div class="owl-carousel owl-theme" id="tabCarousel">
+                            <!-- Tab buttons will be generated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="tab-content" id="tabContent">
+                    <div class="tab-pane active" id="upcoming-events">
+                        <h3>See you soon…</h3>
+                        <p> We are a regular at major industry event. Keep watching this space to learn about our latest outings across the world. </p>
+                    </div>
+                    
+                    <div class="tab-pane" id="2025">
+                        <div class="event-carousel owl-carousel owl-theme">
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2025</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img1.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2025</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img2.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2025</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img3.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane" id="2024">
+                        <div class="event-carousel owl-carousel owl-theme">
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2024</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img1.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2024</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img2.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2024</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img3.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane" id="2023">
+                        <div class="event-carousel owl-carousel owl-theme">
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2023</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img1.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2023</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img2.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2023</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img3.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane" id="2022">
+                        <div class="event-carousel owl-carousel owl-theme">
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2022</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img1.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2022</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img2.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2022</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img3.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="2021">
+                        <div class="event-carousel owl-carousel owl-theme">
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2021</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img1.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2021</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img2.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2021</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img3.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="2020">
+                        <div class="event-carousel owl-carousel owl-theme">
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2020</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img1.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2020</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img2.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                            <div class="upcoming-event-card">
+                                <div class="upcoming-date">
+                                    <div class="day">25</div>
+                                    <div class="month-year">
+                                        <span class="month">May,</span>
+                                        <span class="year">2020</span>
+                                    </div>
+                                </div>
+                                <div class="upcomng-event-thumb">
+                                    <img src="assets/images/event-thumb-img3.png" alt="Event" class="img-fluid" />
+                                </div>
+                                <div class="upcoming-event-info">
+                                    <h3><a href="#">VoIPTech Solutions Conference 2025</a></h3>
+                                    <div class="upcoming-event-address-time">
+                                        <div class="_address">
+                                            <div class="location-icn">
+                                                <img src="assets/images/icons/loc-icn3.png" alt="location" />
+                                            </div>
+                                            <div class="_location">1047 Brea Mall #1047 Brea, CA 92821</div>
+                                        </div>
+                                        <div class="_time">
+                                            <div class="clock-icn">
+                                                <img src="assets/images/icons/clock-icn.png" alt="clock" />
+                                            </div>
+                                            <div class="_time">10:00 AM - 5:00 PM</div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
             </div>
         </div>
     </section>
@@ -728,25 +1330,131 @@
                 }
             }
         });
-        $('.comp-logos').owlCarousel({
-            loop:true,
+        // $('.event-tabs').owlCarousel({
+        //     loop:false,
+        //     margin:10,
+        //     nav:true,
+        //     dots:false,
+        //     autoplay:false,
+        //     autoplayTimeout:5000,
+        //     responsive:{
+        //         0:{
+        //             items:1
+        //         },
+        //         600:{
+        //             items:3
+        //         },
+        //         1000:{
+        //             items:3
+        //         }
+        //     }
+        // });
+        let eventOwl = $('.event-carousel');
+         
+        eventOwl.owlCarousel({
+            loop:false,
             margin:10,
             nav:false,
-            dots:false,
-            autoplay:true,
+            dots:true,
+            autoplay:false,
             autoplayTimeout:5000,
             responsive:{
                 0:{
-                    items:3
+                    items:1
                 },
                 600:{
-                    items:4
+                    items:1
                 },
                 1000:{
-                    items:5
+                    items:1
                 }
             }
         });
+
+
+         // Tab data
+            const tabs = [
+                {id: "upcoming-events", title: "Upcoming Events"},
+                {id: "2025", title: "2025"},
+                {id: "2024", title: "2024"},
+                {id: "2023", title: "2023"},
+                {id: "2022", title: "2022"},
+                {id: "2021", title: "2021"},
+                {id: "2020", title: "2020"}
+            ];
+            
+            // Generate tab buttons
+            tabs.forEach((tab, index) => {
+                const isActive = index === 0 ? "active" : "";
+                const tabBtn = `
+                    <div class="item">
+                        <div class="tab-btn ${isActive}" data-tab="${tab.id}">
+                            ${tab.title}
+                        </div>
+                    </div>
+                `;
+                $("#tabCarousel").append(tabBtn);
+            });
+            
+            // Initialize Owl Carousel
+            $("#tabCarousel").owlCarousel({
+                loop: false,
+                margin: 10,
+                nav: true,
+                dots: false,
+                responsive: {
+                    0: { items: 1 },
+                    576: { items: 2 },
+                    768: { items: 3 },
+                    992: { items: 5 }
+                },
+                navText: [
+                    '<span aria-label="Previous"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z"/></svg></span>',
+                    '<span aria-label="Next"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/></svg></span>'
+                ],
+               
+            });
+            
+           // Tab switching functionality with flicker prevention
+            $(document).on("click", ".tab-btn", function() {
+                const tabId = $(this).data("tab");
+                const $this = $(this);
+                
+                // Return if already active
+                //if ($this.hasClass('active')) return;
+                
+                // Update active tab button
+                $(".tab-btn").removeClass("active");
+                $this.addClass("active");
+                
+                // Get carousel instance
+                const carousel = $("#tabCarousel");
+                const carouselInstance = carousel.data('owl.carousel');
+                //console.log(carouselInstance);
+                // Get index of clicked tab
+                const activeIndex = $this.parent().index();
+                
+                // Switch tab content with optimized transition
+                $(".tab-pane").each(function() {
+                    if ($(this).attr('id') == tabId) {
+                        //console.log('added');
+                        $(this).addClass("active");
+                       //$eventOwl.trigger('load.owl.lazy');
+                      
+                    } else {
+                        $(this).removeClass("active");
+                        
+                    }
+                });
+                
+                // Move carousel without animation to prevent flicker
+                //carouselInstance.to(activeIndex, 0, true);
+                
+                // Show notification
+               
+            });
+       
+        
     });
 </script>
 <script>

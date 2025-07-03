@@ -122,9 +122,49 @@
             </div>
         </div>
       </section>
-
+    <!-- Hero Products -->
+     <section class="feat-products py-5">
+        <div class="container">
+            <div class="sectiont-title text-center">
+                <h2>Our Ecosystem</h2>
+                <p>Explore our comprehensive suite of products designed to enhance your communication capabilities.</p>
+            </div>
+            <div class="row mt-4 text-center">
+                <div class="col-12 col-lg-4">
+                    <div class="product-box">
+                        <div class="img-cont">
+                            <img src="assets/images/Phone-Number-DID-TFN.webp" alt="Phone Number - DID & TFN" class="img-fluid" loading="lazy">
+                        </div>
+                        <div class="demo-btn mt-4">
+                            <a href="#" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase btn-block">Virtual Numbers</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="product-box">
+                        <div class="img-cont">
+                            <img src="assets/images/SMS.webp" alt="SMS" class="img-fluid" loading="lazy">
+                        </div>
+                        <div class="demo-btn mt-4">
+                            <a href="#" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase btn-block">SMS Services</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="product-box">
+                        <div class="img-cont">
+                            <img src="assets/images/Cloud-Call-Center.webp" alt="Cloud Call Center" class="img-fluid" loading="lazy">
+                        </div>
+                        <div class="demo-btn mt-4">
+                            <a href="#" class="btn bg-orange text-white rounded-pill  px-4 text-uppercase btn-block">Cloud Call Center Solutions</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </section>
       <!-- Features Section -->
-       <secton class="features py-5">
+       <section class="features py-5">
         <div class="container">
             <!-- Faet 1 -->
             <div class="row flex-column-reverse flex-md-row align-items-center _feat-box mt-5">
@@ -184,8 +224,60 @@
             </div>
             
         </div>
-       </secton>
-
+       </section>
+    <!-- Company Stats -->
+     <section class="biz-success bg-light py-80 mt-3">
+        <div class="container">
+            <h2 class="text-center mb-4">Trusted Platform for Seamless Conversations and Scalable Growth</h2>
+            <p class="text-center">For over 8 years, VoIPTech Solutions has been helping brands across the globe simplify communication, enhance customer experience, and grow confidently. With a commitment to innovation, reliability, and customer-first service, we’ve earned the trust of 500+ clients who rely on us to keep their conversations flowing seamlessly.</p>
+            <div class="row biz-boxes mt-5">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="_box">
+                        <div class="_icon">
+                            <img src="assets/images/icons/biz-icn1.png" alt="Satistfied Clients">
+                        </div>
+                        <div class="box-info">
+                            <h4>2500</h4>
+                            <p>Satistfied Clients</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="_box">
+                        <div class="_icon">
+                            <img src="assets/images/icons/biz-icn2.png" alt="Satistfied Clients">
+                        </div>
+                        <div class="box-info">
+                            <h4>8</h4>
+                            <p>Years in Industry</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="_box">
+                        <div class="_icon">
+                            <img src="assets/images/icons/biz-icn3.png" alt="Satistfied Clients">
+                        </div>
+                        <div class="box-info">
+                            <h4>525+</h4>
+                            <p>Projects Completed</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="_box">
+                        <div class="_icon">
+                            <img src="assets/images/icons/biz-icn4.png" alt="Satistfied Clients">
+                        </div>
+                        <div class="box-info">
+                            <h4>100+</h4>
+                            <p>Staff Across World</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </section>
        <!-- Why us section -->
         <section class="why-us py-80 mt-80">
             <div class="container">

@@ -1664,8 +1664,8 @@ textarea.form-control {
 .upcoming-event-card {
 	display: flex;
 	justify-content: space-between;
-	padding: 20px 0;
-	border-top: 2px solid #333;
+	padding: 20px 30px 20px 0;
+	border-top: 0px solid #333;
 	align-items: center;
 }
 .upcoming-event-card .upcoming-date {
@@ -1715,6 +1715,180 @@ textarea.form-control {
     color: #333;
     text-decoration: none;
 }
+ 
+        .event-tabs-main .card {
+            border-radius: 15px;
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+            overflow: hidden;
+            border: none;
+            background: rgba(255, 255, 255, 0.95);
+        }
+        
+        .event-tabs-main .card-header {
+            background: white;
+            padding: 0;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+        }
+        
+        .event-tabs-main .tab-carousel-container {
+            padding: 15px 30px;
+            background: linear-gradient(to right, #f8f9fa, #e9ecef);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+        }
+        
+        .event-tabs-main .tab-content {
+            padding: 30px 30px 30px 10px;
+            background: white;
+        }
+        
+        .event-tabs-main .owl-carousel .owl-nav {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            transform: translateY(-50%);
+            display: flex;
+            justify-content: space-between;
+            pointer-events: none;
+            margin-top:0;
+        }
+        .event-tabs-main .owl-carousel .owl-nav.disabled {
+            display: none;
+        }
+
+        .event-tabs-main .owl-carousel .owl-nav button {
+            background: rgba(255, 255, 255, 0.9) !important;
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+            transition: all 0.3s ease;
+            pointer-events: all;
+            outline: none;
+        }
+        
+        .event-tabs-main .owl-carousel .owl-nav button:hover {
+            background: white !important;
+            transform: scale(1.1);
+        }
+        
+        .event-tabs-main .owl-carousel .owl-nav button span {
+            font-size: 24px;
+            line-height: 1;
+            color: var(--primary-color);
+            display: block;
+            margin-top: -2px;
+            width: 14px;
+        }
+        
+        .event-tabs-main .tab-btn {
+            background: white;
+            border: 2px solid #eaeaea;
+            border-radius: 50px;
+            padding: 12px 20px;
+            text-align: center;
+            margin: 5px;
+            transition: all 0.3s ease;
+            font-weight: 600;
+            color: #555;
+            cursor: pointer;
+            white-space: nowrap;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+        
+        .event-tabs-main .tab-btn:hover {
+            border-color: var(--primary-color);
+            color: var(--primary-color);
+            transform: translateY(-3px);
+        }
+        
+        .event-tabs-main .tab-btn.active {
+            background: var(--primary-color);
+            border-color: var(--primary-color);
+            color: white;
+            /* box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4); */
+        }
+        
+        .event-tabs-main .tab-btn i {
+            margin-right: 8px;
+            font-size: 18px;
+        }
+        
+        /* .event-tabs-main .tab-pane {
+            display: none;
+        }
+        
+        .event-tabs-main .tab-pane.active {
+            display: block;
+            animation: fadeIn 0.5s ease;
+        } */
+        .event-tabs-main .tab-pane {
+            position: relative;
+            top: 00px;
+            left: 30px;
+            right: 30px;
+            opacity: 0;
+            transform: translateY(00px);
+            transition: opacity 0.4s ease, transform 0.4s ease;
+            pointer-events: none;
+            display: block;
+            height:0;
+            
+        }
+        
+        .event-tabs-main .tab-pane.active {
+            opacity: 1;
+            transform: translateY(0);
+            position: relative;
+            pointer-events: all;
+            display: block;
+            height:auto;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        
+        
+        .event-tabs-main .header-title {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .event-tabs-main .header-title h1 {
+            font-weight: 800;
+            font-size: 2.8rem;
+            margin-bottom: 15px;
+        }
+        
+        .event-tabs-main .header-title p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+        
+        
+        
+        @media (max-width: 768px) {
+            .event-tabs-main .tab-btn {
+                padding: 10px 15px;
+                font-size: 14px;
+            }
+            
+            .event-tabs-main .tab-content {
+                padding: 20px;
+            }
+
+            .event-tabs-main .header-title h1 {
+                font-size: 2.2rem;
+            }
+        }
 .cta .btn {
 	animation: pulse 0.5s infinite ease-in-out alternate;
 }
@@ -2849,4 +3023,26 @@ aside .nav-pills .nav-link._sub {
 	.why-us-main-row .why-us-row .why-us-item{
 		min-height: auto;
 	}
+}
+
+
+
+
+ /* validation error colors, all 3 needed */
+.is-invalid, .is-invalid-custom { 
+    border-color: #dc3545 !important;
+    background-image: none !important;
+    box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25) !important;
+    padding-right: calc(1.5em + 0.75rem) !important;
+    background-repeat: no-repeat !important;
+    background-position: right calc(0.375em + 0.1875rem) center !important;
+    background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem) !important;
+}
+
+.error-message {
+    color: #dc3545;
+    font-size: 0.875em;
+    margin-top: 0.25rem;
+    display: block;
+    width: 100%;
 }

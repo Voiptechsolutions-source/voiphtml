@@ -26,6 +26,6 @@
     
     
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/newstyle.css?v=1.0078">
+    <link rel="stylesheet" href="assets/css/newstyle.css?v=1.0080">
     <!-- <link rel="stylesheet" href="assets/css/newstyle-16-May-2025?v=1.0062"> -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
